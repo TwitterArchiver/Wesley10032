@@ -1,0 +1,188 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1525456751788969985",
+    "conversation_id": "1811956662233665676",
+    "created_at": "2024-07-13T13:16:47.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-13T14:16:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1812113947379781636"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "141785419",
+          "start": 0,
+          "username": "kungat"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1812113947379781636",
+    "in_reply_to_user_id": "141785419",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1811956662233665676",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kungat 幽默牢美，出这种象征性文件除了给拜登政府增加竞选票数还有什么用😅"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1525456751788969985",
+        "conversation_id": "1811956662233665676",
+        "created_at": "2024-07-13T13:16:47.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-13T14:16:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1812113947379781636"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "141785419",
+              "start": 0,
+              "username": "kungat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1812113947379781636",
+        "in_reply_to_user_id": "141785419",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1811956662233665676",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kungat 幽默牢美，出这种象征性文件除了给拜登政府增加竞选票数还有什么用😅"
+      },
+      {
+        "attachments": {},
+        "author_id": "141785419",
+        "conversation_id": "1811956662233665676",
+        "created_at": "2024-07-13T02:51:47.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-13T03:51:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1811956662233665676"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "On Friday, July 12, 2024, the President signed into law: S. 138, the “Promoting a Resolution to the Tibet-China Dispute Act,” which amends the Tibetan Policy Act of 2002. Thank you to Senators Merkley and Young, and Representatives McGovern and McCaul for their leadership. ###",
+              "display_url": "whitehouse.gov/briefing-room/…",
+              "end": 67,
+              "expanded_url": "https://www.whitehouse.gov/briefing-room/legislation/2024/07/12/bill-signed-s-138/",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/1811953981377150976/69zrH--E?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1811953981377150976/69zrH--E?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 44,
+              "status": 200,
+              "title": "Bill Signed: S. 138 | The White House",
+              "unwound_url": "https://www.whitehouse.gov/briefing-room/legislation/2024/07/12/bill-signed-s-138/",
+              "url": "https://t.co/NJAOWSIo1N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1811956662233665676",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 123061,
+          "like_count": 446,
+          "quote_count": 10,
+          "reply_count": 170,
+          "retweet_count": 118
+        },
+        "reply_settings": "everyone",
+        "text": "重磅消息：\n\n拜登总统今天签署了《促进解决西藏-中国冲突法案》。该法案现已成为法律!\n\nhttps://t.co/NJAOWSIo1N"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-14T12:43:40.000Z",
+        "description": "Free Ukraine and Palestine",
+        "id": "1525456751788969985",
+        "name": "Wesley",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811578387594649600/eQdjLvSa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 24,
+          "like_count": 30,
+          "listed_count": 0,
+          "tweet_count": 135
+        },
+        "username": "Wesley10032",
+        "verified": false
+      },
+      {
+        "created_at": "2010-05-09T01:50:32.000Z",
+        "description": "【西藏和中国问题分析员贡噶扎西】生于西藏拉萨，82年流亡印度，现居美国。曾先后担任藏人行政中央安全部研析员和发言人、尊者达赖喇嘛驻台湾代表处秘书长、尊者达赖喇嘛驻北美代表处华人事务负责人和西藏噶厦办公室中国问题分析员和华人事务秘书长。自1985年至2018年工龄长达33年。 最喜欢的一句话：慈悲没有敌人，智慧没有烦恼。",
+        "id": "141785419",
+        "location": "美国纽约和新泽西",
+        "name": "贡噶扎西 KUNGA TASHI",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1001189332307214337/H_6TTnGO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60297,
+          "following_count": 752,
+          "like_count": 1043,
+          "listed_count": 209,
+          "tweet_count": 14204
+        },
+        "username": "kungat",
+        "verified": false
+      }
+    ]
+  }
+}

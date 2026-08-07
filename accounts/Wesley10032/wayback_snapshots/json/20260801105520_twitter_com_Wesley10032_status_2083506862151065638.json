@@ -1,0 +1,310 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083506855100493824"
+      ]
+    },
+    "author_id": "1880979169297022976",
+    "conversation_id": "2083506862151065638",
+    "created_at": "2026-08-01T10:55:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T11:55:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083506862151065638"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1782410129012670464",
+          "start": 0,
+          "username": "ANDEL0426"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/IiWjtanXVs",
+          "end": 53,
+          "expanded_url": "https://x.com/Wesley10032/status/2083506862151065638/photo/1",
+          "media_key": "3_2083506855100493824",
+          "start": 30,
+          "url": "https://t.co/IiWjtanXVs"
+        },
+        {
+          "display_url": "x.com/adca00414/stat…",
+          "end": 77,
+          "expanded_url": "https://twitter.com/adca00414/status/2083479090116641073",
+          "start": 54,
+          "url": "https://t.co/4Tq7AgL6oH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083506862151065638",
+    "in_reply_to_user_id": "1782410129012670464",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083479090116641073",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ANDEL0426 号被封了喵\n麻烦关注引用的这个号（） https://t.co/IiWjtanXVs https://t.co/4Tq7AgL6oH"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [ANDEL0426].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "ANDEL0426",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "ANDEL0426"
+    },
+    {
+      "detail": "User has been suspended: [1782410129012670464].",
+      "parameter": "in_reply_to_user_id",
+      "resource_id": "1782410129012670464",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1782410129012670464"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2532,
+        "media_key": "3_2083506855100493824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOoaciFbMAAdeg_.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083506855100493824"
+          ]
+        },
+        "author_id": "1880979169297022976",
+        "conversation_id": "2083506862151065638",
+        "created_at": "2026-08-01T10:55:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T11:55:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083506862151065638"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1782410129012670464",
+              "start": 0,
+              "username": "ANDEL0426"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IiWjtanXVs",
+              "end": 53,
+              "expanded_url": "https://x.com/Wesley10032/status/2083506862151065638/photo/1",
+              "media_key": "3_2083506855100493824",
+              "start": 30,
+              "url": "https://t.co/IiWjtanXVs"
+            },
+            {
+              "display_url": "x.com/adca00414/stat…",
+              "end": 77,
+              "expanded_url": "https://twitter.com/adca00414/status/2083479090116641073",
+              "start": 54,
+              "url": "https://t.co/4Tq7AgL6oH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083506862151065638",
+        "in_reply_to_user_id": "1782410129012670464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083479090116641073",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ANDEL0426 号被封了喵\n麻烦关注引用的这个号（） https://t.co/IiWjtanXVs https://t.co/4Tq7AgL6oH"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2083477847797362688",
+        "conversation_id": "2083479090116641073",
+        "created_at": "2026-08-01T09:04:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T10:04:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083479090116641073"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083479090116641073",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "ad钙、转生转生喵～！\n发了个singer就被封了…好气哦\n此号就用来发封烟日常喵\n请多多互fo…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳/♂/08.11.3/友跨🏳️‍⚧️\n或许是温和粉红/欢迎DM聊天(TG优先)\n魔裁(まのさば)/CS2/三角洲/Galgame/IT \n兴趣相近互fo\n好基友@lockloveovo\n学生党 周末/节假日在线(暑假限时全天在线)\nCN/EN/JP\n防失联@Wesley10033",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 85,
+                "username": "lockloveovo"
+              },
+              {
+                "end": 145,
+                "start": 133,
+                "username": "Wesley10033"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://telegram.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/Q5wiGuq4W4"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "location": "People's Republic of China",
+        "name": "Wesley",
+        "pinned_tweet_id": "2083033063257420070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 703,
+          "following_count": 1064,
+          "like_count": 10666,
+          "listed_count": 1,
+          "media_count": 215,
+          "tweet_count": 1933
+        },
+        "url": "https://t.co/Q5wiGuq4W4",
+        "username": "Wesley10032",
+        "verified": true
+      },
+      {
+        "created_at": "2026-08-01T09:01:29.000Z",
+        "description": "前世@ANDEL0426\n我的狗狗@xxs0721 \n半友跨｜性别不明｜烟鬼喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "ANDEL0426"
+              },
+              {
+                "end": 25,
+                "start": 17,
+                "username": "xxs0721"
+              }
+            ]
+          }
+        },
+        "id": "2083477847797362688",
+        "name": "ADniako喵",
+        "pinned_tweet_id": "2083479090116641073",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083478390020149248/3ahRmuL-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 26,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 2
+        },
+        "url": "",
+        "username": "adCa00414",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,169 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1525456751788969985",
+    "conversation_id": "1828058400027984263",
+    "created_at": "2024-08-26T13:26:30.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-26T14:26:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1828061461748634047"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1595871946943537152",
+          "start": 0,
+          "username": "FagainstAnimals"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1828061461748634047",
+    "in_reply_to_user_id": "1595871946943537152",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1828058400027984263",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FagainstAnimals 鲁迅指出的问题，在当时的社会背景里是不可避免的，也是需要正视的问题，他可不像支黑一点建设性意见都不提，也从来没说过中国人应该灭绝之类的话语。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1525456751788969985",
+        "conversation_id": "1828058400027984263",
+        "created_at": "2024-08-26T13:26:30.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-26T14:26:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1828061461748634047"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1595871946943537152",
+              "start": 0,
+              "username": "FagainstAnimals"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1828061461748634047",
+        "in_reply_to_user_id": "1595871946943537152",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1828058400027984263",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FagainstAnimals 鲁迅指出的问题，在当时的社会背景里是不可避免的，也是需要正视的问题，他可不像支黑一点建设性意见都不提，也从来没说过中国人应该灭绝之类的话语。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "1828058397817884672"
+          ]
+        },
+        "author_id": "1595871946943537152",
+        "conversation_id": "1828058400027984263",
+        "created_at": "2024-08-26T13:14:20.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-26T14:14:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1828058400027984263"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1828058400027984263",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 178,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在你眼里，鲁迅是支黑吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-14T12:43:40.000Z",
+        "description": "Free Ukraine and Palestine 🇺🇦🇵🇸",
+        "id": "1525456751788969985",
+        "name": "Wesley",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811578387594649600/eQdjLvSa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 35,
+          "like_count": 52,
+          "listed_count": 0,
+          "tweet_count": 273
+        },
+        "username": "Wesley10032",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-24T20:08:38.000Z",
+        "description": "支黑迷惑行为收集处（接网友投稿） 支黑蛆爆破军团群（爆破支黑）入群请私信 支黑爆破军团“社区”欢迎各路人士！",
+        "id": "1595871946943537152",
+        "name": "支黑迷惑行为鉴赏",
+        "pinned_tweet_id": "1825913213432770978",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1732364638581579776/OjTJV7FB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6307,
+          "following_count": 5420,
+          "like_count": 13,
+          "listed_count": 26,
+          "tweet_count": 438
+        },
+        "username": "FagainstAnimals",
+        "verified": false
+      }
+    ]
+  }
+}

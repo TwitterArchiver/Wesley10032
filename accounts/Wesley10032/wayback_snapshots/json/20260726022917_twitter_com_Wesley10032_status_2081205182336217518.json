@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2081146845515206656"
+      ],
+      "media_source_tweet_id": [
+        "2081197813787148440"
+      ]
+    },
+    "author_id": "1880979169297022976",
+    "conversation_id": "2081205182336217518",
+    "created_at": "2026-07-26T02:29:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T03:29:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081205182336217518"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1859220470794776576",
+          "start": 3,
+          "username": "ice_blue_Rose"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/TtdniRfZg3",
+          "end": 50,
+          "expanded_url": "https://x.com/ice_blue_Rose/status/2081197813787148440/photo/1",
+          "media_key": "3_2081146845515206656",
+          "start": 27,
+          "url": "https://t.co/TtdniRfZg3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081205182336217518",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 82
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081197813787148440",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ice_blue_Rose: 吾輩は猫である https://t.co/TtdniRfZg3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4093,
+        "media_key": "3_2081146845515206656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOG4B5Rb0AAWkZn.jpg",
+        "width": 2894
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081146845515206656"
+          ]
+        },
+        "author_id": "1859220470794776576",
+        "conversation_id": "2081197813787148440",
+        "created_at": "2026-07-26T02:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T03:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081197813787148440"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TtdniRfZg3",
+              "end": 31,
+              "expanded_url": "https://x.com/ice_blue_Rose/status/2081197813787148440/photo/1",
+              "media_key": "3_2081146845515206656",
+              "start": 8,
+              "url": "https://t.co/TtdniRfZg3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081197813787148440",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 32,
+          "impression_count": 2464,
+          "like_count": 363,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 82
+        },
+        "reply_settings": "everyone",
+        "text": "吾輩は猫である https://t.co/TtdniRfZg3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081146845515206656"
+          ],
+          "media_source_tweet_id": [
+            "2081197813787148440"
+          ]
+        },
+        "author_id": "1880979169297022976",
+        "conversation_id": "2081205182336217518",
+        "created_at": "2026-07-26T02:29:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T03:29:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081205182336217518"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1859220470794776576",
+              "start": 3,
+              "username": "ice_blue_Rose"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TtdniRfZg3",
+              "end": 50,
+              "expanded_url": "https://x.com/ice_blue_Rose/status/2081197813787148440/photo/1",
+              "media_key": "3_2081146845515206656",
+              "start": 27,
+              "url": "https://t.co/TtdniRfZg3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081205182336217518",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 82
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081197813787148440",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ice_blue_Rose: 吾輩は猫である https://t.co/TtdniRfZg3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳/♂/友跨🏳️‍⚧️\n或许是温和粉红/欢迎DM聊天(推荐使用TG)\n魔裁(まのさば)/CS2/三角洲/Galgame/IT \n兴趣相近互fo\n好基友@lockloveovo\n学生党 周末/节假日在线(暑假限时全天在线)\nCN/EN/JP\nTG群见置顶\n防失联@Wesley10033",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 79,
+                "username": "lockloveovo"
+              },
+              {
+                "end": 146,
+                "start": 134,
+                "username": "Wesley10033"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://telegram.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/Q5wiGuqCLC"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "location": "People's Republic of China",
+        "name": "Wesley",
+        "pinned_tweet_id": "2077761863937597659",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 604,
+          "following_count": 905,
+          "like_count": 8631,
+          "listed_count": 1,
+          "media_count": 187,
+          "tweet_count": 1621
+        },
+        "url": "https://t.co/Q5wiGuqCLC",
+        "username": "Wesley10032",
+        "verified": true
+      },
+      {
+        "created_at": "2024-11-20T13:01:31.000Z",
+        "description": "Illustrator/EveRose/https://t.co/e2AquHzntG\n✉iceblueroseeve@gmail.com",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/EveRose",
+                "end": 43,
+                "expanded_url": "https://lit.link/EveRose",
+                "start": 20,
+                "url": "https://t.co/e2AquHzntG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@Eve_Rose",
+                "end": 23,
+                "expanded_url": "https://skeb.jp/@Eve_Rose",
+                "start": 0,
+                "url": "https://t.co/fKPE8j1nUl"
+              }
+            ]
+          }
+        },
+        "id": "1859220470794776576",
+        "location": "×無断転載禁止×AI利用禁止×",
+        "name": "Eve🥀",
+        "pinned_tweet_id": "2074824606838640787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913249381031305216/bL1XSV10_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9918,
+          "following_count": 115,
+          "like_count": 3782,
+          "listed_count": 40,
+          "media_count": 413,
+          "tweet_count": 1385
+        },
+        "url": "https://t.co/fKPE8j1nUl",
+        "username": "ice_blue_Rose",
+        "verified": true
+      }
+    ]
+  }
+}

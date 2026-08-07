@@ -1,0 +1,318 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083522553096859648"
+      ],
+      "media_source_tweet_id": [
+        "2083522766763069731"
+      ]
+    },
+    "author_id": "1880979169297022976",
+    "conversation_id": "2083724202268582349",
+    "created_at": "2026-08-02T01:18:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T02:18:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083724202268582349"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1274235093658173440",
+          "start": 3,
+          "username": "shoa_tksm"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/b7IskUPuNu",
+          "end": 38,
+          "expanded_url": "https://x.com/shoa_tksm/status/2083522766763069731/photo/1",
+          "media_key": "3_2083522553096859648",
+          "start": 15,
+          "url": "https://t.co/b7IskUPuNu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083724202268582349",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2376
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083522766763069731",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shoa_tksm: https://t.co/b7IskUPuNu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2016,
+        "media_key": "3_2083522553096859648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOoouRracAAa0vh.jpg",
+        "width": 1401
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083522553096859648"
+          ]
+        },
+        "author_id": "1274235093658173440",
+        "conversation_id": "2083522766763069731",
+        "created_at": "2026-08-01T11:58:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T12:58:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083522766763069731"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/b7IskUPuNu",
+              "end": 23,
+              "expanded_url": "https://x.com/shoa_tksm/status/2083522766763069731/photo/1",
+              "media_key": "3_2083522553096859648",
+              "start": 0,
+              "url": "https://t.co/b7IskUPuNu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083522766763069731",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5199,
+          "impression_count": 206577,
+          "like_count": 28589,
+          "quote_count": 30,
+          "reply_count": 29,
+          "retweet_count": 2376
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/b7IskUPuNu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083522553096859648"
+          ],
+          "media_source_tweet_id": [
+            "2083522766763069731"
+          ]
+        },
+        "author_id": "1880979169297022976",
+        "conversation_id": "2083724202268582349",
+        "created_at": "2026-08-02T01:18:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T02:18:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083724202268582349"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1274235093658173440",
+              "start": 3,
+              "username": "shoa_tksm"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/b7IskUPuNu",
+              "end": 38,
+              "expanded_url": "https://x.com/shoa_tksm/status/2083522766763069731/photo/1",
+              "media_key": "3_2083522553096859648",
+              "start": 15,
+              "url": "https://t.co/b7IskUPuNu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083724202268582349",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2376
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083522766763069731",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shoa_tksm: https://t.co/b7IskUPuNu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳/♂/08.11.3/友跨🏳️‍⚧️\n或许是温和粉红/欢迎DM聊天(TG优先)\n魔裁(まのさば)/CS2/三角洲/Galgame/IT \n兴趣相近互fo/想做心理委员\n好基友@lockloveovo\n学生党 周末/节假日在线(暑假限时全天在线)\nCN/EN/JP\n防失联@Wesley10033",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 104,
+                "start": 92,
+                "username": "lockloveovo"
+              },
+              {
+                "end": 152,
+                "start": 140,
+                "username": "Wesley10033"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://telegram.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/Q5wiGuq4W4"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "location": "People's Republic of China",
+        "name": "Wesley",
+        "pinned_tweet_id": "2083033063257420070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 720,
+          "following_count": 1077,
+          "like_count": 10893,
+          "listed_count": 1,
+          "media_count": 219,
+          "tweet_count": 1963
+        },
+        "url": "https://t.co/Q5wiGuq4W4",
+        "username": "Wesley10032",
+        "verified": true
+      },
+      {
+        "created_at": "2020-06-20T06:58:25.000Z",
+        "description": "𝙄𝙡𝙡𝙪𝙨𝙩𝙧𝙖𝙩𝙤𝙧 / ✉ 𝙞𝙣𝙛𝙤@𝙨𝙝𝙤𝙖.𝙟𝙥\n専業フリー/ご連絡はHPのCONTACTよりお願い致します。\n【HP】https://t.co/LxIchHIndO\n【FANBOX】https://t.co/rRDNSl6IEP\n【サブ】@shoa_sub",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 124,
+                "username": "shoa_sub"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "shoa.jp",
+                "end": 87,
+                "expanded_url": "http://shoa.jp",
+                "start": 64,
+                "url": "https://t.co/LxIchHIndO"
+              },
+              {
+                "display_url": "shoa.fanbox.cc",
+                "end": 119,
+                "expanded_url": "http://shoa.fanbox.cc",
+                "start": 96,
+                "url": "https://t.co/rRDNSl6IEP"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.me/shoa_tksm",
+                "end": 23,
+                "expanded_url": "https://pixiv.me/shoa_tksm",
+                "start": 0,
+                "url": "https://t.co/PWiKivwZAv"
+              }
+            ]
+          }
+        },
+        "id": "1274235093658173440",
+        "location": "Tokyo",
+        "name": "高嶋しょあ@土曜東ア30a",
+        "pinned_tweet_id": "2080981173346635813",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1338007155517972482/mVasZDxX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97394,
+          "following_count": 985,
+          "like_count": 5327,
+          "listed_count": 851,
+          "media_count": 382,
+          "tweet_count": 8602
+        },
+        "url": "https://t.co/PWiKivwZAv",
+        "username": "shoa_tksm",
+        "verified": true
+      }
+    ]
+  }
+}

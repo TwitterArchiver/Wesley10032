@@ -1,0 +1,329 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880979169297022976",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596157251587",
+          "name": "Government/Education"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597226729473",
+          "name": "Non-profit - Government/Education"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "UNICEF",
+          "id": "907295166406389760",
+          "name": "UNICEF"
+        }
+      }
+    ],
+    "conversation_id": "2067576623990444480",
+    "created_at": "2026-06-18T11:54:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T12:54:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067576623990444480"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lifebelikethat…",
+          "end": 74,
+          "expanded_url": "https://twitter.com/lifebelikethatx/status/2067443532940644373",
+          "start": 51,
+          "url": "https://t.co/FtlF1INXyJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067576623990444480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067443532940644373",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我也支持这种看法。\n中国和韩国可以与日本和平共处，但不能否认历史，要在尊重历史的前提下才能友好相处。 https://t.co/FtlF1INXyJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 722,
+        "media_key": "3_2067443404053811200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLEI0nvaEAATMj2.png",
+        "width": 565
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880979169297022976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596157251587",
+              "name": "Government/Education"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597226729473",
+              "name": "Non-profit - Government/Education"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "UNICEF",
+              "id": "907295166406389760",
+              "name": "UNICEF"
+            }
+          }
+        ],
+        "conversation_id": "2067576623990444480",
+        "created_at": "2026-06-18T11:54:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T12:54:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067576623990444480"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lifebelikethat…",
+              "end": 74,
+              "expanded_url": "https://twitter.com/lifebelikethatx/status/2067443532940644373",
+              "start": 51,
+              "url": "https://t.co/FtlF1INXyJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067576623990444480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067443532940644373",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我也支持这种看法。\n中国和韩国可以与日本和平共处，但不能否认历史，要在尊重历史的前提下才能友好相处。 https://t.co/FtlF1INXyJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067443404053811200"
+          ]
+        },
+        "author_id": "1262408745432178693",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596157251587",
+              "name": "Government/Education"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597226729473",
+              "name": "Non-profit - Government/Education"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "UNICEF",
+              "id": "907295166406389760",
+              "name": "UNICEF"
+            }
+          }
+        ],
+        "conversation_id": "2067443532940644373",
+        "created_at": "2026-06-18T03:05:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T04:05:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067443532940644373"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HsI1cauO6K",
+              "end": 188,
+              "expanded_url": "https://x.com/LifeBeLikeThatX/status/2067443532940644373/photo/1",
+              "media_key": "3_2067443404053811200",
+              "start": 165,
+              "url": "https://t.co/HsI1cauO6K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067443532940644373",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {},
+          "text": "일본 제국주의가\n\n부모 형제의 삶을 갈기갈기 찢어놓고,\n우리 쌀로 지은 밥 한 공기 던져줬다고\n유니세프라도 된 줄 아는 건 곤란합니다.\n약탈은 복지가 아닙니다.\n\n일본을 좋아할 수는 있습니다.\n일본 문화도 좋아할 수 있고,\n일본 사람과 잘 지낼 수도 있습니다.\n\n하지만 역사를 미화하고,\n침략과 수탈을 지우고,\n가해의 기억을 덮어주는 친일은\n우호가 아닙니다.\n\n그건 굴복입니다.\n\n기억을 버리고 얻는 호감은\n존중이 아니라 몸종의 태도입니다."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 8524,
+          "like_count": 303,
+          "quote_count": 11,
+          "reply_count": 46,
+          "retweet_count": 54
+        },
+        "reply_settings": "everyone",
+        "text": "일본 제국주의가\n\n부모 형제의 삶을 갈기갈기 찢어놓고,\n우리 쌀로 지은 밥 한 공기 던져줬다고\n유니세프라도 된 줄 아는 건 곤란합니다.\n약탈은 복지가 아닙니다.\n\n일본을 좋아할 수는 있습니다.\n일본 문화도 좋아할 수 있고,\n일본 사람과 잘 지낼 수도 있습니다.\n\n하지만 역사를 미화하고,\n침략과 https://t.co/HsI1cauO6K"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳 / 民主社会主义 / 反台独 / Free Ukraine 🇺🇦 / Free Palestine 🇵🇸\n魔裁（まのさば） / 崩铁（HSR）\n和平友善交流，谢绝人身攻击\n中华人民共和国万岁 世界人民大团结万岁",
+        "id": "1880979169297022976",
+        "location": "China",
+        "name": "Wesley10032",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021156330271039488/mAwe21JP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 121,
+          "like_count": 567,
+          "listed_count": 1,
+          "media_count": 4,
+          "tweet_count": 343
+        },
+        "url": "",
+        "username": "Wesley10032",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-18T15:44:47.000Z",
+        "description": "Adrian Knox의 슬기로운 X 생활\n커피 한 잔보다 저렴한 월 $1 구독으로 Adrian의 글쓰기를 후원해 주세요🍀",
+        "id": "1262408745432178693",
+        "location": "Earth",
+        "name": "Adrian Knox",
+        "pinned_tweet_id": "2067347025222631679",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057025758875488256/LlLBh9nb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11125,
+          "following_count": 8473,
+          "like_count": 64094,
+          "listed_count": 39,
+          "media_count": 18681,
+          "tweet_count": 79390
+        },
+        "url": "",
+        "username": "LifeBeLikeThatX",
+        "verified": true
+      }
+    ]
+  }
+}

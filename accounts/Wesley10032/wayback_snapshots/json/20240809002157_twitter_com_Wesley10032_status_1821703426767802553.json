@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1525456751788969985",
+    "conversation_id": "1821632488336511413",
+    "created_at": "2024-08-09T00:21:57.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-09T01:21:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1821703426767802553"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "17595489",
+          "start": 0,
+          "username": "RFA_Chinese"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1821703426767802553",
+    "in_reply_to_user_id": "17595489",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1821632488336511413",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RFA_Chinese 不愧是中华台北，地区的差异见证了生物多样性👍"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1525456751788969985",
+        "conversation_id": "1821632488336511413",
+        "created_at": "2024-08-09T00:21:57.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-09T01:21:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1821703426767802553"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "17595489",
+              "start": 0,
+              "username": "RFA_Chinese"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1821703426767802553",
+        "in_reply_to_user_id": "17595489",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1821632488336511413",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RFA_Chinese 不愧是中华台北，地区的差异见证了生物多样性👍"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1821630370808283136"
+          ]
+        },
+        "author_id": "17595489",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1821632488336511413",
+        "created_at": "2024-08-08T19:40:04.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-08T20:39:31.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1821632352176525720",
+          "1821632488336511413"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 29,
+              "start": 25,
+              "tag": "林郁婷"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gs2gyyurtg",
+              "end": 159,
+              "expanded_url": "https://twitter.com/RFA_Chinese/status/1821632488336511413/video/1",
+              "media_key": "7_1821630370808283136",
+              "start": 136,
+              "url": "https://t.co/gS2Gyyurtg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1821632488336511413",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 25768,
+          "like_count": 82,
+          "quote_count": 2,
+          "reply_count": 56,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "【“她就是女生！” 台湾拳击手林郁婷挺进决赛】\n #林郁婷 8月7日在巴黎奥运会女子拳击57公斤级的半决赛中击败土耳其选手，挺进决赛。\n赛前就围绕林郁婷的性别风波至今没有消散，中华民国拳击协会荣誉理事长李武男说：“她13岁开始练拳我就在带她比赛。我很清楚，她就是女生！” https://t.co/gS2Gyyurtg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-14T12:43:40.000Z",
+        "description": "Free Ukraine and Palestine 🇺🇦🇵🇸",
+        "id": "1525456751788969985",
+        "name": "Wesley",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811578387594649600/eQdjLvSa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 32,
+          "like_count": 38,
+          "listed_count": 0,
+          "tweet_count": 222
+        },
+        "username": "Wesley10032",
+        "verified": false
+      },
+      {
+        "created_at": "2008-11-24T16:59:35.000Z",
+        "description": "提供准确及时的新闻资讯以及评论，为多元意见及声音提供平台。RT≠Endorsement",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "rfa.org/mandarin",
+                "end": 23,
+                "expanded_url": "http://www.rfa.org/mandarin",
+                "start": 0,
+                "url": "https://t.co/A7MLgsDkcc"
+              }
+            ]
+          }
+        },
+        "id": "17595489",
+        "location": "Washington, DC",
+        "name": "自由亚洲电台",
+        "pinned_tweet_id": "1821521742638260334",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1483174230644645898/dY1oXWhO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1572947,
+          "following_count": 3670,
+          "like_count": 955,
+          "listed_count": 5729,
+          "tweet_count": 145470
+        },
+        "url": "https://t.co/A7MLgsDkcc",
+        "username": "RFA_Chinese",
+        "verified": true
+      }
+    ]
+  }
+}

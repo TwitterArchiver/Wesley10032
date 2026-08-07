@@ -1,0 +1,303 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075883267899928576"
+      ],
+      "media_source_tweet_id": [
+        "2075883276544413821"
+      ]
+    },
+    "author_id": "1880979169297022976",
+    "conversation_id": "2075962177434116447",
+    "created_at": "2026-07-11T15:15:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T16:15:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075962177434116447"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1569793046447005696",
+          "start": 3,
+          "username": "nabegoroshi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/a7dvYJyz08",
+          "end": 40,
+          "expanded_url": "https://x.com/nabegoroshi/status/2075883276544413821/photo/1",
+          "media_key": "3_2075883267899928576",
+          "start": 17,
+          "url": "https://t.co/a7dvYJyz08"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075962177434116447",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 80
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075883276544413821",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nabegoroshi: https://t.co/a7dvYJyz08"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3000,
+        "media_key": "3_2075883267899928576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM8E1WpaMAAjYg3.jpg",
+        "width": 2241
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075883267899928576"
+          ],
+          "media_source_tweet_id": [
+            "2075883276544413821"
+          ]
+        },
+        "author_id": "1880979169297022976",
+        "conversation_id": "2075962177434116447",
+        "created_at": "2026-07-11T15:15:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T16:15:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075962177434116447"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1569793046447005696",
+              "start": 3,
+              "username": "nabegoroshi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/a7dvYJyz08",
+              "end": 40,
+              "expanded_url": "https://x.com/nabegoroshi/status/2075883276544413821/photo/1",
+              "media_key": "3_2075883267899928576",
+              "start": 17,
+              "url": "https://t.co/a7dvYJyz08"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075962177434116447",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 80
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075883276544413821",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nabegoroshi: https://t.co/a7dvYJyz08"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075883267899928576"
+          ]
+        },
+        "author_id": "1569793046447005696",
+        "conversation_id": "2075883276544413821",
+        "created_at": "2026-07-11T10:01:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T11:01:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075883276544413821"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/a7dvYJyz08",
+              "end": 23,
+              "expanded_url": "https://x.com/nabegoroshi/status/2075883276544413821/photo/1",
+              "media_key": "3_2075883267899928576",
+              "start": 0,
+              "url": "https://t.co/a7dvYJyz08"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075883276544413821",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 48,
+          "impression_count": 7526,
+          "like_count": 774,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 80
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/a7dvYJyz08"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳 / 友跨🏳️‍⚧️ / 欢迎DM聊天 / 兴趣相近互fo\n魔裁（まのさば）/ 崩铁（HSR）/ Galgame\n头像来自@pale_noon\n学生党 周末 / 节假日在线\n中文 / English / 日本語（勉強中）\n防失联@Wesley10033\n和平友善交流 谢绝人身攻击",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 66,
+                "username": "pale_noon"
+              },
+              {
+                "end": 131,
+                "start": 119,
+                "username": "Wesley10033"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://t.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/HjVzyPDIuK"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "location": "People's Republic of China",
+        "name": "Wesley",
+        "pinned_tweet_id": "2075263019853238477",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070912735362387968/eccaKvtY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 186,
+          "following_count": 401,
+          "like_count": 2219,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 633
+        },
+        "url": "https://t.co/HjVzyPDIuK",
+        "username": "Wesley10032",
+        "verified": true
+      },
+      {
+        "created_at": "2022-09-13T21:00:17.000Z",
+        "description": "漫画/イラスト/動画/何かあればDMへ\nhttps://t.co/f8mvhEOWLh",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@nabegoroshi",
+                "end": 43,
+                "expanded_url": "https://skeb.jp/@nabegoroshi",
+                "start": 20,
+                "url": "https://t.co/f8mvhEOWLh"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/nabegoroshi",
+                "end": 23,
+                "expanded_url": "https://lit.link/nabegoroshi",
+                "start": 0,
+                "url": "https://t.co/Vf74SZxmYu"
+              }
+            ]
+          }
+        },
+        "id": "1569793046447005696",
+        "name": "鍋564",
+        "pinned_tweet_id": "1918614746884092268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061072137151291392/YethSN2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14310,
+          "following_count": 26,
+          "like_count": 1826,
+          "listed_count": 84,
+          "media_count": 496,
+          "tweet_count": 989
+        },
+        "url": "https://t.co/Vf74SZxmYu",
+        "username": "nabegoroshi",
+        "verified": true
+      }
+    ]
+  }
+}

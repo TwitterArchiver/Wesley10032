@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880979169297022976",
+    "conversation_id": "2076831770155335712",
+    "created_at": "2026-07-14T01:02:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T02:02:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076834574202741246"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2062372266613338112",
+          "start": 0,
+          "username": "scarymq69"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076834574202741246",
+    "in_reply_to_user_id": "2062372266613338112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076834446503035388",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@scarymq69 还好吧，国产这个价挺正常的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880979169297022976",
+        "conversation_id": "2076831770155335712",
+        "created_at": "2026-07-14T01:02:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T02:02:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076834574202741246"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2062372266613338112",
+              "start": 0,
+              "username": "scarymq69"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076834574202741246",
+        "in_reply_to_user_id": "2062372266613338112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076834446503035388",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@scarymq69 还好吧，国产这个价挺正常的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2062372266613338112",
+        "conversation_id": "2076831770155335712",
+        "created_at": "2026-07-14T01:01:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T02:01:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076834446503035388"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1880979169297022976",
+              "start": 0,
+              "username": "Wesley10032"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076834446503035388",
+        "in_reply_to_user_id": "1880979169297022976",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076831770155335712",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wesley10032 148？？我羡慕了😋😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳/友跨🏳️‍⚧️/欢迎DM聊天(X/TG均可)/兴趣相近互fo\n魔裁(まのさば)/ 崩铁(HSR)/Galgame\n头像来自@pale_noon\n学生党 周末/节假日在线(暑假限时全天在线)\nCN/EN/JP(a little)\n防失联@Wesley10033\n和平友善交流 谢绝人身攻击",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 67,
+                "username": "pale_noon"
+              },
+              {
+                "end": 135,
+                "start": 123,
+                "username": "Wesley10033"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://t.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/HjVzyPDIuK"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "location": "People's Republic of China",
+        "name": "Wesley",
+        "pinned_tweet_id": "2075263019853238477",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070912735362387968/eccaKvtY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 280,
+          "following_count": 535,
+          "like_count": 3835,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 841
+        },
+        "url": "https://t.co/HjVzyPDIuK",
+        "username": "Wesley10032",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-04T03:15:29.000Z",
+        "description": "MBTI:http://t.co/Wstd3TuEeC\ndiscord:http://t.co/kRTt0dGT36\nngl:http://t.co/W9W5MzrfJz\n已被封锁：2/50😋",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "16personalities.com",
+                "end": 27,
+                "expanded_url": "http://www.16personalities.com",
+                "start": 5,
+                "url": "http://t.co/Wstd3TuEeC"
+              },
+              {
+                "display_url": "discord.gg/QBbCYht86Y",
+                "end": 58,
+                "expanded_url": "http://discord.gg/QBbCYht86Y",
+                "start": 36,
+                "url": "http://t.co/kRTt0dGT36"
+              },
+              {
+                "display_url": "ngl.link/pp19goo7h52573",
+                "end": 85,
+                "expanded_url": "http://ngl.link/pp19goo7h52573",
+                "start": 63,
+                "url": "http://t.co/W9W5MzrfJz"
+              }
+            ]
+          }
+        },
+        "id": "2062372266613338112",
+        "location": "Hong Kong",
+        "name": "scary farmer",
+        "pinned_tweet_id": "2076671011718902212",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075226928991379457/UJItmKt8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 201,
+          "like_count": 1725,
+          "listed_count": 0,
+          "media_count": 230,
+          "tweet_count": 1081
+        },
+        "url": "",
+        "username": "scarymq69",
+        "verified": false
+      }
+    ]
+  }
+}

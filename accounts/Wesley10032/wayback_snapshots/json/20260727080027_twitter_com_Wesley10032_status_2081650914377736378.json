@@ -1,0 +1,596 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880979169297022976",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+          "id": "1557697121477832705",
+          "name": "Publisher & News Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A book, like \"To Kill a Mockingbird\"",
+          "id": "84",
+          "name": "Book"
+        },
+        "entity": {
+          "id": "1232769058862325760",
+          "name": "Keigo Higashino"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Books and literature",
+          "id": "847519659179954178",
+          "name": "Books"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1166408461485101056",
+          "name": "Authors"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1232769058862325760",
+          "name": "Keigo Higashino"
+        }
+      }
+    ],
+    "conversation_id": "2081650914377736378",
+    "created_at": "2026-07-27T08:00:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T09:00:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081650914377736378"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/nhk_news/statu…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/nhk_news/status/2081642529607516618",
+          "start": 2,
+          "url": "https://t.co/JCzwuv9s8I"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081650914377736378",
+    "lang": "art",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081642529607516618",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "🕯 https://t.co/JCzwuv9s8I"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11025,
+        "height": 360,
+        "media_key": "7_2081642523727192064",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2081642523727192064/pu/img/fQ_9T9o8F71zRfws.jpg",
+        "public_metrics": {
+          "view_count": 38990
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2081642523727192064/pu/vid/avc1/480x270/Ntyg6YW0dstR9BEH.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2081642523727192064/pu/vid/avc1/640x360/eNggHhQOgx_tB0vh.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2081642523727192064/pu/pl/kd6dvVAql85rf-qR.m3u8?tag=12&v=a37"
+          }
+        ],
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880979169297022976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+              "id": "1557697121477832705",
+              "name": "Publisher & News Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A book, like \"To Kill a Mockingbird\"",
+              "id": "84",
+              "name": "Book"
+            },
+            "entity": {
+              "id": "1232769058862325760",
+              "name": "Keigo Higashino"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1166408461485101056",
+              "name": "Authors"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1232769058862325760",
+              "name": "Keigo Higashino"
+            }
+          }
+        ],
+        "conversation_id": "2081650914377736378",
+        "created_at": "2026-07-27T08:00:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T09:00:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081650914377736378"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nhk_news/statu…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/nhk_news/status/2081642529607516618",
+              "start": 2,
+              "url": "https://t.co/JCzwuv9s8I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081650914377736378",
+        "lang": "art",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081642529607516618",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "🕯 https://t.co/JCzwuv9s8I"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2081642523727192064"
+          ]
+        },
+        "author_id": "204245399",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597105094656",
+              "name": "TV/Movies Related - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+              "id": "1557697121477832705",
+              "name": "Publisher & News Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "NHK",
+              "id": "1034881250840915968",
+              "name": "NHK"
+            }
+          },
+          {
+            "domain": {
+              "description": "A book, like \"To Kill a Mockingbird\"",
+              "id": "84",
+              "name": "Book"
+            },
+            "entity": {
+              "id": "1232769058862325760",
+              "name": "Keigo Higashino"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "NHK",
+              "id": "1034881250840915968",
+              "name": "NHK"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "News",
+              "id": "1046545033657081857",
+              "name": "News"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1166408461485101056",
+              "name": "Authors"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196447117297905665",
+              "name": "News outlets"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1232769058862325760",
+              "name": "Keigo Higashino"
+            }
+          },
+          {
+            "domain": {
+              "description": "News Categories like Entertainment or Technology",
+              "id": "69",
+              "name": "News Vertical"
+            },
+            "entity": {
+              "id": "1192881321577598977",
+              "name": "Japan national news"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1192881321577598977",
+              "name": "Japan national news"
+            }
+          }
+        ],
+        "conversation_id": "2081642529607516618",
+        "created_at": "2026-07-27T07:27:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T08:27:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081642529607516618"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 76,
+              "start": 66,
+              "tag": "nhk_video"
+            }
+          ],
+          "urls": [
+            {
+              "description": "【NHK】直木賞作家の東野圭吾さんが大腸がんのため、今月23日に亡くなりました。68歳でした。",
+              "display_url": "news.web.nhk/newsweb/na/na-…",
+              "end": 65,
+              "expanded_url": "https://news.web.nhk/newsweb/na/na-k10015187291000",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/2081638536739258368/jc0B2N6E?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2081638536739258368/jc0B2N6E?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 42,
+              "status": 200,
+              "title": "直木賞作家 東野圭吾さん 68歳で死去 大腸がんのため | NHKニュース",
+              "unwound_url": "https://news.web.nhk/newsweb/na/na-k10015187291000",
+              "url": "https://t.co/HmiZOnMGlK"
+            },
+            {
+              "display_url": "pic.x.com/LbF6vudedp",
+              "end": 100,
+              "expanded_url": "https://x.com/nhk_news/status/2081642529607516618/video/1",
+              "media_key": "7_2081642523727192064",
+              "start": 77,
+              "url": "https://t.co/LbF6vudedp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081642529607516618",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 46,
+          "impression_count": 100412,
+          "like_count": 459,
+          "quote_count": 100,
+          "reply_count": 35,
+          "retweet_count": 412
+        },
+        "reply_settings": "everyone",
+        "text": "直木賞作家 東野圭吾さん 68歳で死去 大腸がんのため \n\n▼詳しい記事はこちら▼\nhttps://t.co/HmiZOnMGlK\n#nhk_video https://t.co/LbF6vudedp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳/♂/友跨🏳️‍⚧️\n或许是温和粉红/欢迎DM聊天(推荐使用TG)\n魔裁(まのさば)/CS2/三角洲/Galgame/IT \n兴趣相近互fo\n好基友@lockloveovo\n学生党 周末/节假日在线(暑假限时全天在线)\nCN/EN/JP\nTG群见置顶\n防失联@Wesley10033",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 79,
+                "username": "lockloveovo"
+              },
+              {
+                "end": 146,
+                "start": 134,
+                "username": "Wesley10033"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://telegram.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/Q5wiGuqCLC"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "location": "People's Republic of China",
+        "name": "Wesley",
+        "pinned_tweet_id": "2077761863937597659",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 623,
+          "following_count": 950,
+          "like_count": 9085,
+          "listed_count": 1,
+          "media_count": 194,
+          "tweet_count": 1686
+        },
+        "url": "https://t.co/Q5wiGuqCLC",
+        "username": "Wesley10032",
+        "verified": true
+      },
+      {
+        "created_at": "2010-10-18T08:15:29.000Z",
+        "description": "NHKニュースの公式アカウントです。最新のニュースを24時間休みなくお届けします。 https://t.co/X9ExoZ8ao6 をご確認、ご了承ください。問い合わせは https://t.co/fMCPIt2S57",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "nhk.jp/rules",
+                "end": 65,
+                "expanded_url": "http://nhk.jp/rules",
+                "start": 42,
+                "url": "https://t.co/X9ExoZ8ao6"
+              },
+              {
+                "display_url": "nhk.or.jp/css/",
+                "end": 109,
+                "expanded_url": "http://www.nhk.or.jp/css/",
+                "start": 86,
+                "url": "https://t.co/fMCPIt2S57"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nhk.jp/news",
+                "end": 23,
+                "expanded_url": "http://nhk.jp/news",
+                "start": 0,
+                "url": "https://t.co/bM6wmxNKVo"
+              }
+            ]
+          }
+        },
+        "id": "204245399",
+        "location": "東京都渋谷区神南2-2-1",
+        "name": "NHKニュース",
+        "pinned_tweet_id": "895196466859450368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039180025581490176/gWZQeu5__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3453407,
+          "following_count": 19,
+          "like_count": 6,
+          "listed_count": 66206,
+          "media_count": 20947,
+          "tweet_count": 737490
+        },
+        "url": "https://t.co/bM6wmxNKVo",
+        "username": "nhk_news",
+        "verified": true
+      }
+    ]
+  }
+}

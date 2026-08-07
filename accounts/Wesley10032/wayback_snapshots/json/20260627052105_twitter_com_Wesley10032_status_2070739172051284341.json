@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880979169297022976",
+    "conversation_id": "2070511568119578762",
+    "created_at": "2026-06-27T05:21:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T06:21:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070739172051284341"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1394995461170335750",
+          "start": 0,
+          "username": "homosapiensego"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070739172051284341",
+    "in_reply_to_user_id": "1394995461170335750",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070511568119578762",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@homosapiensego 没办法，这种飞机应该是合法报备过的，一旦飞到市区也没办法直接击落，会造成更大伤亡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880979169297022976",
+        "conversation_id": "2070511568119578762",
+        "created_at": "2026-06-27T05:21:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T06:21:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070739172051284341"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1394995461170335750",
+              "start": 0,
+              "username": "homosapiensego"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070739172051284341",
+        "in_reply_to_user_id": "1394995461170335750",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070511568119578762",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@homosapiensego 没办法，这种飞机应该是合法报备过的，一旦飞到市区也没办法直接击落，会造成更大伤亡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1394995461170335750",
+        "conversation_id": "2070511568119578762",
+        "created_at": "2026-06-26T14:16:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T15:13:51.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070510856312668220",
+          "2070511568119578762"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070511568119578762",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 18010,
+          "like_count": 106,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "北京的飞机事故感觉好奇怪，都飞到三环了才撞上建筑🫪\n按照中国这么严苛的飞行器管理制度，这种的偏航飞行器不是应该早就被发现了吗。结果没有任何人做出任何应对，感觉中国的空管也草台班子了。这岂不是说北京的空域实际上没有任何有效管理（\n\n总之希望伤亡数字能小一些吧。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳 / 友跨🏳️‍⚧️ / 欢迎DM聊天 / 兴趣相近互fo\n魔裁（まのさば）/ 崩铁（HSR）/ Galgame\n学生党 周末 / 节假日在线\n中文 / English / 日本語（勉強中）\n防失联 @Wesley10033\n和平友善交流 谢绝人身攻击\n中华人民共和国万岁 世界人民大团结万岁",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 105,
+                "username": "Wesley10033"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "location": "China",
+        "name": "Wesley10032",
+        "pinned_tweet_id": "2068037933899407863",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068584583315283968/pGV4njxw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 217,
+          "like_count": 951,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 462
+        },
+        "url": "",
+        "username": "Wesley10032",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-19T12:37:02.000Z",
+        "description": "He/Him｜20yo｜:3｜本科毕业喽！｜可以叫我波拿｜小号：@Leon0157",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 32,
+                "username": "Leon0157"
+              }
+            ]
+          }
+        },
+        "id": "1394995461170335750",
+        "name": "Bonaventure🏳️‍🌈🌹",
+        "pinned_tweet_id": "2070131765717659729",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027797538536050688/ajA2U0Jb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1563,
+          "following_count": 4416,
+          "like_count": 194793,
+          "listed_count": 10,
+          "media_count": 414,
+          "tweet_count": 6196
+        },
+        "url": "",
+        "username": "homosapiensego",
+        "verified": true
+      }
+    ]
+  }
+}

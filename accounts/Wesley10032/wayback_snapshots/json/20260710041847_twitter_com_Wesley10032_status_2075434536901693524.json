@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880979169297022976",
+    "conversation_id": "2075397561633095913",
+    "created_at": "2026-07-10T04:18:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T05:18:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075434536901693524"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1969407639621943296",
+          "start": 0,
+          "username": "UKIMevoli1145"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075434536901693524",
+    "in_reply_to_user_id": "1969407639621943296",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075433265578803517",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@UKIMevoli1145 达咩😡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880979169297022976",
+        "conversation_id": "2075397561633095913",
+        "created_at": "2026-07-10T04:18:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T05:18:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075434536901693524"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1969407639621943296",
+              "start": 0,
+              "username": "UKIMevoli1145"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075434536901693524",
+        "in_reply_to_user_id": "1969407639621943296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075433265578803517",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@UKIMevoli1145 达咩😡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1969407639621943296",
+        "conversation_id": "2075397561633095913",
+        "created_at": "2026-07-10T04:13:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T05:13:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075433265578803517"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1880979169297022976",
+              "start": 0,
+              "username": "Wesley10032"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075433265578803517",
+        "in_reply_to_user_id": "1880979169297022976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075397561633095913",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wesley10032 给我😡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳 / 友跨🏳️‍⚧️ / 欢迎DM聊天 / 兴趣相近互fo\n魔裁（まのさば）/ 崩铁（HSR）/ Galgame\n头像来自@pale_noon\n学生党 周末 / 节假日在线\n中文 / English / 日本語（勉強中）\n防失联@Wesley10033\n和平友善交流 谢绝人身攻击",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 66,
+                "username": "pale_noon"
+              },
+              {
+                "end": 131,
+                "start": 119,
+                "username": "Wesley10033"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://t.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/HjVzyPDIuK"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "location": "China",
+        "name": "Wesley",
+        "pinned_tweet_id": "2075263019853238477",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070912735362387968/eccaKvtY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 150,
+          "following_count": 350,
+          "like_count": 1584,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 554
+        },
+        "url": "https://t.co/HjVzyPDIuK",
+        "username": "Wesley10032",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-20T14:26:02.000Z",
+        "description": "666遇到营养师队友了\n小号：@0d000721offcial",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 15,
+                "username": "0d000721offcial"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/ukimevoli1145",
+                "end": 23,
+                "expanded_url": "https://x.com/ukimevoli1145",
+                "start": 0,
+                "url": "https://t.co/B1eeMy0g6O"
+              }
+            ]
+          }
+        },
+        "id": "1969407639621943296",
+        "location": "妈妈说只要位置够长一定会有小baka会来一个字一个字仔细看的",
+        "name": "UKIMevoli",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028095513023905792/Sifpv0rN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 172,
+          "like_count": 3111,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 1511
+        },
+        "url": "https://t.co/B1eeMy0g6O",
+        "username": "UKIMevoli1145",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1525456751788969985",
+    "conversation_id": "1822278396053008829",
+    "created_at": "2024-08-11T23:40:08.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-12T00:40:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1822780069137576045"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1713520270198358016",
+          "start": 0,
+          "username": "D_D_ovO_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1822780069137576045",
+    "in_reply_to_user_id": "1713520270198358016",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1822278396053008829",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@D_D_ovO_ 我入境日本也要录指纹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1525456751788969985",
+        "conversation_id": "1822278396053008829",
+        "created_at": "2024-08-11T23:40:08.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-12T00:40:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1822780069137576045"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1713520270198358016",
+              "start": 0,
+              "username": "D_D_ovO_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1822780069137576045",
+        "in_reply_to_user_id": "1713520270198358016",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1822278396053008829",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@D_D_ovO_ 我入境日本也要录指纹"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1822278381402193920"
+          ]
+        },
+        "author_id": "1713520270198358016",
+        "conversation_id": "1822278396053008829",
+        "created_at": "2024-08-10T14:26:40.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-10T15:26:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1822278396053008829"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/35rdmncoge",
+              "end": 39,
+              "expanded_url": "https://twitter.com/D_D_ovO_/status/1822278396053008829/photo/1",
+              "media_key": "3_1822278381402193920",
+              "start": 16,
+              "url": "https://t.co/35RDMNcOge"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1822278396053008829",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 107687,
+          "like_count": 418,
+          "quote_count": 10,
+          "reply_count": 109,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "呃呃呃呃呃呃呃呃这是在干什么？ https://t.co/35RDMNcOge"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-14T12:43:40.000Z",
+        "description": "Free Ukraine and Palestine 🇺🇦🇵🇸",
+        "id": "1525456751788969985",
+        "name": "Wesley",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811578387594649600/eQdjLvSa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 32,
+          "like_count": 39,
+          "listed_count": 0,
+          "tweet_count": 223
+        },
+        "username": "Wesley10032",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-15T11:40:55.000Z",
+        "description": "音楽＆アニメ＆料理好き、ヨルシカ推し、ギター歴二年目。「前世◂Ⓘ▸後書き」日本語/English/中文",
+        "id": "1713520270198358016",
+        "name": "DD🎸◂Ⓘ▸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819675808186970112/urNf3mLA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 722,
+          "following_count": 312,
+          "like_count": 67437,
+          "listed_count": 4,
+          "tweet_count": 12022
+        },
+        "username": "D_D_ovO_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880979169297022976",
+    "conversation_id": "2068357909348831361",
+    "created_at": "2026-06-20T16:19:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T17:19:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068368250539565092"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1684788633797287936",
+          "start": 0,
+          "username": "Moningmeng"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068368250539565092",
+    "in_reply_to_user_id": "1684788633797287936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068357909348831361",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Moningmeng 没办法，老老实实用境外手机号吧（）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1286,
+        "media_key": "3_2068357905905332224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLRIjonbsAAOgTK.jpg",
+        "width": 1344
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880979169297022976",
+        "conversation_id": "2068357909348831361",
+        "created_at": "2026-06-20T16:19:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T17:19:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068368250539565092"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1684788633797287936",
+              "start": 0,
+              "username": "Moningmeng"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068368250539565092",
+        "in_reply_to_user_id": "1684788633797287936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068357909348831361",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Moningmeng 没办法，老老实实用境外手机号吧（）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068357905905332224"
+          ]
+        },
+        "author_id": "1684788633797287936",
+        "conversation_id": "2068357909348831361",
+        "created_at": "2026-06-20T15:38:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T16:38:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068357909348831361"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3gjAALjTZN",
+              "end": 50,
+              "expanded_url": "https://x.com/Moningmeng/status/2068357909348831361/photo/1",
+              "media_key": "3_2068357905905332224",
+              "start": 27,
+              "url": "https://t.co/3gjAALjTZN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068357909348831361",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 211,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "求助（\n登录Telegram时遇到这个这到底怎么办啊 https://t.co/3gjAALjTZN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳 / 友跨🏳️‍⚧️ / Free Ukraine 🇺🇦 / Free Palestine 🇵🇸 / 欢迎DM聊天 / 兴趣相近互fo\n中文 / English / 日本語（勉強中）\n防失联 @Wesley10033\n和平友善交流，谢绝人身攻击\n中华人民共和国万岁 世界人民大团结万岁",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 113,
+                "start": 101,
+                "username": "Wesley10033"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "location": "China",
+        "name": "Wesley10032",
+        "pinned_tweet_id": "2068037933899407863",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021156330271039488/mAwe21JP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 184,
+          "like_count": 756,
+          "listed_count": 1,
+          "media_count": 9,
+          "tweet_count": 426
+        },
+        "url": "",
+        "username": "Wesley10032",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "description": "🏳️‍⚧️ | 提问箱📦https://t.co/tfhHbaQ0gW",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/moningmeng",
+                "end": 35,
+                "expanded_url": "https://ngl.link/moningmeng",
+                "start": 12,
+                "url": "https://t.co/tfhHbaQ0gW"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Taiwan",
+        "name": "沫柠",
+        "pinned_tweet_id": "1927365238833250356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056364445513990144/e8qLKD9t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27730,
+          "following_count": 11092,
+          "like_count": 91432,
+          "listed_count": 102,
+          "media_count": 5246,
+          "tweet_count": 17912
+        },
+        "url": "",
+        "username": "Moningmeng",
+        "verified": true
+      }
+    ]
+  }
+}

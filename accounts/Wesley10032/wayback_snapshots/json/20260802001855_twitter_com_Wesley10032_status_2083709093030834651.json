@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880979169297022976",
+    "conversation_id": "2083621510452044078",
+    "created_at": "2026-08-02T00:18:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T01:18:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083709093030834651"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2081060977236230145",
+          "start": 0,
+          "username": "chenqweqwe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083709093030834651",
+    "in_reply_to_user_id": "2081060977236230145",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083623299867902009",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chenqweqwe 谢谢😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880979169297022976",
+        "conversation_id": "2083621510452044078",
+        "created_at": "2026-08-02T00:18:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T01:18:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083709093030834651"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2081060977236230145",
+              "start": 0,
+              "username": "chenqweqwe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083709093030834651",
+        "in_reply_to_user_id": "2081060977236230145",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083623299867902009",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chenqweqwe 谢谢😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2081060977236230145",
+        "conversation_id": "2083621510452044078",
+        "created_at": "2026-08-01T18:38:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T19:38:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083623299867902009"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1880979169297022976",
+              "start": 0,
+              "username": "Wesley10032"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083623299867902009",
+        "in_reply_to_user_id": "1880979169297022976",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083621510452044078",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wesley10032 老大加油"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳/♂/08.11.3/友跨🏳️‍⚧️\n或许是温和粉红/欢迎DM聊天(TG优先)\n魔裁(まのさば)/CS2/三角洲/Galgame/IT \n兴趣相近互fo/想做心理委员\n好基友@lockloveovo\n学生党 周末/节假日在线(暑假限时全天在线)\nCN/EN/JP\n防失联@Wesley10033",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 104,
+                "start": 92,
+                "username": "lockloveovo"
+              },
+              {
+                "end": 152,
+                "start": 140,
+                "username": "Wesley10033"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://telegram.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/Q5wiGuq4W4"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "location": "People's Republic of China",
+        "name": "Wesley",
+        "pinned_tweet_id": "2083033063257420070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 717,
+          "following_count": 1076,
+          "like_count": 10825,
+          "listed_count": 1,
+          "media_count": 218,
+          "tweet_count": 1956
+        },
+        "url": "https://t.co/Q5wiGuq4W4",
+        "username": "Wesley10032",
+        "verified": true
+      },
+      {
+        "created_at": "2026-07-25T16:57:20.000Z",
+        "description": "OK啊这边是@忱qwe的扩列条\n全网同名忱qweB站可以加呀\nv扩q扩私我喵\n同好扩列互补喵。\n推特互fo加@chenqweqwe\n绘画｜xnn｜myt不混｜反日右翼｜三国杀｜INFP｜🐱无｜同好无🚪神秘lsp自己给噢看你诚意｜09 169 50kg｜b站up｜不od\n从头开始养号互fo互补喵\n经常挂一下照片呢",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 54,
+                "username": "chenqweqwe"
+              }
+            ]
+          }
+        },
+        "id": "2081060977236230145",
+        "location": "香港",
+        "name": "忱qwe",
+        "pinned_tweet_id": "2082768072843391087",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081061600358776832/EQmw9-u0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 87,
+          "like_count": 243,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 123
+        },
+        "url": "",
+        "username": "chenqweqwe",
+        "verified": false
+      }
+    ]
+  }
+}

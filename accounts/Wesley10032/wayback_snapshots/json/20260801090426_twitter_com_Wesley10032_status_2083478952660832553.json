@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880979169297022976",
+    "conversation_id": "2083478952660832553",
+    "created_at": "2026-08-01T09:04:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T10:04:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083478952660832553"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/auspiceshirley…",
+          "end": 51,
+          "expanded_url": "https://twitter.com/auspiceshirley/status/2083423228534333821",
+          "start": 28,
+          "url": "https://t.co/FHuCM9DQMp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083478952660832553",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083423228534333821",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "三大运营商死妈了\n这应该是我发的推文里面发的最狠的一次 https://t.co/FHuCM9DQMp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2323,
+        "media_key": "3_2083423207692877824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOnOXnNWwAAJvz-.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2186,
+        "media_key": "3_2083423219114037248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOnOYRwX0AADhyP.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880979169297022976",
+        "conversation_id": "2083478952660832553",
+        "created_at": "2026-08-01T09:04:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T10:04:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083478952660832553"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/auspiceshirley…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/auspiceshirley/status/2083423228534333821",
+              "start": 28,
+              "url": "https://t.co/FHuCM9DQMp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083478952660832553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083423228534333821",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "三大运营商死妈了\n这应该是我发的推文里面发的最狠的一次 https://t.co/FHuCM9DQMp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083423207692877824",
+            "3_2083423219114037248"
+          ]
+        },
+        "author_id": "2050253104935997440",
+        "conversation_id": "2083422623413813569",
+        "created_at": "2026-08-01T05:23:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T06:23:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083423228534333821"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WQ1o49ioGx",
+              "end": 29,
+              "expanded_url": "https://x.com/auspiceshirley/status/2083423228534333821/photo/1",
+              "media_key": "3_2083423207692877824",
+              "start": 6,
+              "url": "https://t.co/WQ1o49ioGx"
+            },
+            {
+              "display_url": "pic.x.com/WQ1o49ioGx",
+              "end": 29,
+              "expanded_url": "https://x.com/auspiceshirley/status/2083423228534333821/photo/1",
+              "media_key": "3_2083423219114037248",
+              "start": 6,
+              "url": "https://t.co/WQ1o49ioGx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083423228534333821",
+        "in_reply_to_user_id": "2050253104935997440",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 99,
+          "like_count": 3,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083422623413813569",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "公告如下： https://t.co/WQ1o49ioGx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳/♂/08.11.3/友跨🏳️‍⚧️\n或许是温和粉红/欢迎DM聊天(TG优先)\n魔裁(まのさば)/CS2/三角洲/Galgame/IT \n兴趣相近互fo\n好基友@lockloveovo\n学生党 周末/节假日在线(暑假限时全天在线)\nCN/EN/JP\n防失联@Wesley10033",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 85,
+                "username": "lockloveovo"
+              },
+              {
+                "end": 145,
+                "start": 133,
+                "username": "Wesley10033"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://telegram.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/Q5wiGuq4W4"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "location": "People's Republic of China",
+        "name": "Wesley",
+        "pinned_tweet_id": "2083033063257420070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 702,
+          "following_count": 1064,
+          "like_count": 10624,
+          "listed_count": 1,
+          "media_count": 213,
+          "tweet_count": 1923
+        },
+        "url": "https://t.co/Q5wiGuq4W4",
+        "username": "Wesley10032",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-01T16:38:27.000Z",
+        "description": "ENG/中文 | Daily life & Technology &「魔法少女ノ魔女裁判」🍎",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "me.auspiceshirley.dev",
+                "end": 23,
+                "expanded_url": "https://me.auspiceshirley.dev",
+                "start": 0,
+                "url": "https://t.co/1qfE6dIPvx"
+              }
+            ]
+          }
+        },
+        "id": "2050253104935997440",
+        "location": "Hong Kong",
+        "name": "Shirley Auspice",
+        "pinned_tweet_id": "2065781030783472110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050253824372412417/h-oCtpG6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1081,
+          "following_count": 594,
+          "like_count": 2120,
+          "listed_count": 1,
+          "media_count": 429,
+          "tweet_count": 3015
+        },
+        "url": "https://t.co/1qfE6dIPvx",
+        "username": "auspiceshirley",
+        "verified": true
+      }
+    ]
+  }
+}

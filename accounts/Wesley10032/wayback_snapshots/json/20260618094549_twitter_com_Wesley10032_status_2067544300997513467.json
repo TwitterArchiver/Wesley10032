@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067544285331808256"
+      ]
+    },
+    "author_id": "1880979169297022976",
+    "conversation_id": "2067544300997513467",
+    "created_at": "2026-06-18T09:45:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T10:45:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067544300997513467"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/N0UZ9LlvAE",
+          "end": 28,
+          "expanded_url": "https://x.com/Wesley10032/status/2067544300997513467/photo/1",
+          "media_key": "3_2067544285331808256",
+          "start": 5,
+          "url": "https://t.co/N0UZ9LlvAE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067544300997513467",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "骇死我力 https://t.co/N0UZ9LlvAE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1352,
+        "media_key": "3_2067544285331808256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLFkkryXYAAgfjp.jpg",
+        "width": 1169
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067544285331808256"
+          ]
+        },
+        "author_id": "1880979169297022976",
+        "conversation_id": "2067544300997513467",
+        "created_at": "2026-06-18T09:45:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T10:45:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067544300997513467"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/N0UZ9LlvAE",
+              "end": 28,
+              "expanded_url": "https://x.com/Wesley10032/status/2067544300997513467/photo/1",
+              "media_key": "3_2067544285331808256",
+              "start": 5,
+              "url": "https://t.co/N0UZ9LlvAE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067544300997513467",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "骇死我力 https://t.co/N0UZ9LlvAE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳 / 民主社会主义 / 反台独 / Free Ukraine 🇺🇦 / Free Palestine 🇵🇸\n魔裁（まのさば） / 崩铁（HSR）\n和平友善交流，谢绝人身攻击\n中华人民共和国万岁 世界人民大团结万岁",
+        "id": "1880979169297022976",
+        "location": "China",
+        "name": "Wesley10032",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021156330271039488/mAwe21JP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 120,
+          "like_count": 561,
+          "listed_count": 1,
+          "media_count": 3,
+          "tweet_count": 335
+        },
+        "username": "Wesley10032",
+        "verified": false
+      }
+    ]
+  }
+}

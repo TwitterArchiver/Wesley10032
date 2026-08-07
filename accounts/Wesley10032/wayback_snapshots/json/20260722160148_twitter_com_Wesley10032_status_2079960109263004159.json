@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880979169297022976",
+    "conversation_id": "2079940363486376273",
+    "created_at": "2026-07-22T16:01:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T17:01:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079960109263004159"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1794569354597793792",
+          "start": 0,
+          "username": "lockloveovo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079960109263004159",
+    "in_reply_to_user_id": "1794569354597793792",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079958644066816175",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lockloveovo 😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880979169297022976",
+        "conversation_id": "2079940363486376273",
+        "created_at": "2026-07-22T16:01:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T17:01:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079960109263004159"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1794569354597793792",
+              "start": 0,
+              "username": "lockloveovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079960109263004159",
+        "in_reply_to_user_id": "1794569354597793792",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079958644066816175",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lockloveovo 😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1794569354597793792",
+        "conversation_id": "2079940363486376273",
+        "created_at": "2026-07-22T15:55:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T16:55:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079958644066816175"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 22,
+              "start": 13,
+              "tag": "wesley翻车"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1880979169297022976",
+              "start": 0,
+              "username": "Wesley10032"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079958644066816175",
+        "in_reply_to_user_id": "1880979169297022976",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079940363486376273",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wesley10032 #wesley翻车\n😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳/男/友跨🏳️‍⚧️/或许是温和粉红/欢迎DM聊天(推荐使用TG)\n魔裁(まのさば)/VRChat/Galgame/IT 兴趣相近互fo\n好基友@lockloveovo\n学生党 周末/节假日在线(暑假限时全天在线)\nCN/EN/JP\nTG群见置顶\n防失联@Wesley10033",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 77,
+                "username": "lockloveovo"
+              },
+              {
+                "end": 144,
+                "start": 132,
+                "username": "Wesley10033"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://telegram.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/Q5wiGuqCLC"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "location": "People's Republic of China",
+        "name": "Wesley",
+        "pinned_tweet_id": "2075263019853238477",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 552,
+          "following_count": 839,
+          "like_count": 7406,
+          "listed_count": 1,
+          "media_count": 171,
+          "tweet_count": 1445
+        },
+        "url": "https://t.co/Q5wiGuqCLC",
+        "username": "Wesley10032",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-26T03:21:00.000Z",
+        "description": "男｜zh-cn🇨🇳｜准初三｜爱玩三角洲和看少女乐队番｜喜怒无常乐子人|友跨🏳️‍⚧️\nqq空间（bushi）：https://t.co/lUzu6rW4L0\n好朋友😋@Wesley10032",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 83,
+                "username": "Wesley10032"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "telegram.me/locklove947",
+                "end": 78,
+                "expanded_url": "https://telegram.me/locklove947",
+                "start": 55,
+                "url": "https://t.co/lUzu6rW4L0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/lockloveovo",
+                "end": 23,
+                "expanded_url": "http://telegram.me/lockloveovo",
+                "start": 0,
+                "url": "https://t.co/YnKeIlxkHT"
+              }
+            ]
+          }
+        },
+        "id": "1794569354597793792",
+        "location": "你家",
+        "name": "不知道起啥名",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075495501156290560/d4HzXytJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 196,
+          "like_count": 966,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 590
+        },
+        "url": "https://t.co/YnKeIlxkHT",
+        "username": "lockloveovo",
+        "verified": true
+      }
+    ]
+  }
+}

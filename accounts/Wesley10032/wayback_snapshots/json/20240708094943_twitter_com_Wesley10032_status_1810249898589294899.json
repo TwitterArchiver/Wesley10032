@@ -1,0 +1,255 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1525456751788969985",
+    "conversation_id": "1809771839125623130",
+    "created_at": "2024-07-08T09:49:43.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-08T10:49:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1810249898589294899"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "118169394",
+          "start": 0,
+          "username": "ShengXue_ca"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1810249898589294899",
+    "in_reply_to_user_id": "118169394",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1809771839125623130",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ShengXue_ca 习不是好人是真，你是个傻人也是真😅天天就在推特叭叭叭推翻这个推翻那个，看你也没有胆量动这动那，怂包😅"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1525456751788969985",
+        "conversation_id": "1809771839125623130",
+        "created_at": "2024-07-08T09:49:43.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-08T10:49:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1810249898589294899"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "118169394",
+              "start": 0,
+              "username": "ShengXue_ca"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1810249898589294899",
+        "in_reply_to_user_id": "118169394",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1809771839125623130",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ShengXue_ca 习不是好人是真，你是个傻人也是真😅天天就在推特叭叭叭推翻这个推翻那个，看你也没有胆量动这动那，怂包😅"
+      },
+      {
+        "attachments": {},
+        "author_id": "118169394",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "1809771839125623130",
+        "created_at": "2024-07-07T02:10:05.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-07T03:10:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1809771839125623130"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/shengxue_ca/st…",
+              "end": 94,
+              "expanded_url": "https://twitter.com/shengxue_ca/status/1809717675293086018",
+              "start": 71,
+              "url": "https://t.co/M8v6JGDF3e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1809771839125623130",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 98570,
+          "like_count": 441,
+          "quote_count": 7,
+          "reply_count": 165,
+          "retweet_count": 36
+        },
+        "referenced_tweets": [
+          {
+            "id": "1809717675293086018",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "在推文下骂我的\n你们都姓习吗\n你们都是习明泽的儿子吗\n你们都住中南海吗\n……\n你们不知道习近平继承权力并做匪首的中共暴政杀害了多少人吗？…… https://t.co/M8v6JGDF3e"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-14T12:43:40.000Z",
+        "description": "Free Ukraine and Palestine",
+        "id": "1525456751788969985",
+        "name": "Wesley Song",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583627511098908672/yCDe8RTb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 22,
+          "like_count": 26,
+          "listed_count": 0,
+          "tweet_count": 117
+        },
+        "username": "Wesley10032",
+        "verified": false
+      },
+      {
+        "created_at": "2010-02-27T20:33:14.000Z",
+        "description": "An independent free person in front of all social signs such as power, authority, faith, nation boundaries, race, gender, occupation, money, and relationships.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.boxun.com/hero/shengxue/",
+                "end": 23,
+                "expanded_url": "http://blog.boxun.com/hero/shengxue/",
+                "start": 0,
+                "url": "https://t.co/5CqOcBn7SR"
+              }
+            ]
+          }
+        },
+        "id": "118169394",
+        "location": "加拿大",
+        "name": "盛雪SHENG Xue",
+        "pinned_tweet_id": "1809299342647562299",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1275850100896563201/x72i_lsb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 213180,
+          "following_count": 4637,
+          "like_count": 125781,
+          "listed_count": 778,
+          "tweet_count": 55038
+        },
+        "url": "https://t.co/5CqOcBn7SR",
+        "username": "ShengXue_ca",
+        "verified": true
+      }
+    ]
+  }
+}

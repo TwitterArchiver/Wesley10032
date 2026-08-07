@@ -1,0 +1,324 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880979169297022976",
+    "conversation_id": "2075877337183240363",
+    "created_at": "2026-07-11T11:06:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T12:06:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075899632954314759"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2026283442259017729",
+          "start": 0,
+          "username": "bigjusir"
+        },
+        {
+          "end": 21,
+          "id": "2035758475209572352",
+          "start": 10,
+          "username": "LoveMikuBX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075899632954314759",
+    "in_reply_to_user_id": "2026283442259017729",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075877337183240363",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bigjusir @LoveMikuBX 怎么这货也被晶了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1241,
+        "media_key": "3_2075877324658978816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM7_baWWMAARZKo.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880979169297022976",
+        "conversation_id": "2075877337183240363",
+        "created_at": "2026-07-11T11:06:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T12:06:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075899632954314759"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2026283442259017729",
+              "start": 0,
+              "username": "bigjusir"
+            },
+            {
+              "end": 21,
+              "id": "2035758475209572352",
+              "start": 10,
+              "username": "LoveMikuBX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075899632954314759",
+        "in_reply_to_user_id": "2026283442259017729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075877337183240363",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bigjusir @LoveMikuBX 怎么这货也被晶了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075877324658978816"
+          ]
+        },
+        "author_id": "2026283442259017729",
+        "conversation_id": "2075877337183240363",
+        "created_at": "2026-07-11T09:38:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T10:38:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075877337183240363"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2035758475209572352",
+              "start": 7,
+              "username": "LoveMikuBX"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0mEpmuwLS9",
+              "end": 53,
+              "expanded_url": "https://x.com/bigjusir/status/2075877337183240363/photo/1",
+              "media_key": "3_2075877324658978816",
+              "start": 30,
+              "url": "https://t.co/0mEpmuwLS9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075877337183240363",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 605,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "为我的朋友伴下@LoveMikuBX 悼观，他坠机了😭😭😭 https://t.co/0mEpmuwLS9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳 / 友跨🏳️‍⚧️ / 欢迎DM聊天 / 兴趣相近互fo\n魔裁（まのさば）/ 崩铁（HSR）/ Galgame\n头像来自@pale_noon\n学生党 周末 / 节假日在线\n中文 / English / 日本語（勉強中）\n防失联@Wesley10033\n和平友善交流 谢绝人身攻击",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 66,
+                "username": "pale_noon"
+              },
+              {
+                "end": 131,
+                "start": 119,
+                "username": "Wesley10033"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://t.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/HjVzyPDIuK"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "location": "People's Republic of China",
+        "name": "Wesley",
+        "pinned_tweet_id": "2075263019853238477",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070912735362387968/eccaKvtY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 181,
+          "following_count": 398,
+          "like_count": 2075,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 611
+        },
+        "url": "https://t.co/HjVzyPDIuK",
+        "username": "Wesley10032",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-24T13:10:10.000Z",
+        "description": "中国人(求关，互fo)",
+        "id": "2026283442259017729",
+        "location": "中华人民共和国",
+        "name": "jusir",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026287531831259136/bziZOz9V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2218,
+          "following_count": 1983,
+          "like_count": 5453,
+          "listed_count": 9,
+          "media_count": 655,
+          "tweet_count": 2839
+        },
+        "url": "",
+        "username": "bigjusir",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-22T16:40:39.000Z",
+        "description": "初始之音，響徹未來！八閩大地，萬頃重洋！\n友跨|中華民族主義/社民/左翼民族主義/中左|泛統派|包容不同政見\n朋友@bigjusir @HuoSai0721 @SocDemCNBunny @xmliu114514 @fec647\n歡迎加入「中華統一復興大會」@ChineseURC_BOT \n望友好交流。查成分互fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 57,
+                "username": "bigjusir"
+              },
+              {
+                "end": 78,
+                "start": 67,
+                "username": "HuoSai0721"
+              },
+              {
+                "end": 93,
+                "start": 79,
+                "username": "SocDemCNBunny"
+              },
+              {
+                "end": 106,
+                "start": 94,
+                "username": "xmliu114514"
+              },
+              {
+                "end": 114,
+                "start": 107,
+                "username": "fec647"
+              },
+              {
+                "end": 144,
+                "start": 129,
+                "username": "ChineseURC_BOT"
+              }
+            ]
+          }
+        },
+        "id": "2035758475209572352",
+        "location": "Fukien Ningteh,China",
+        "name": "💮伴下💮",
+        "pinned_tweet_id": "2054149752208679110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062897677717946368/bHujNViG_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1397,
+          "following_count": 1759,
+          "like_count": 19987,
+          "listed_count": 0,
+          "media_count": 414,
+          "tweet_count": 5877
+        },
+        "url": "",
+        "username": "LoveMikuBX",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066867275530145792"
+      ],
+      "media_source_tweet_id": [
+        "2066867282526224478"
+      ]
+    },
+    "author_id": "1880979169297022976",
+    "conversation_id": "2066906145848238552",
+    "created_at": "2026-06-16T15:30:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T16:30:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066906145848238552"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2042605724539457537",
+          "start": 3,
+          "username": "yoo___yoo____"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GbhswW7Bd6",
+          "end": 42,
+          "expanded_url": "https://x.com/yoo___yoo____/status/2066867282526224478/photo/1",
+          "media_key": "3_2066867275530145792",
+          "start": 19,
+          "url": "https://t.co/GbhswW7Bd6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066906145848238552",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 41
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066867282526224478",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yoo___yoo____: https://t.co/GbhswW7Bd6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2066867275530145792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK781hvakAA_DuB.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066867275530145792"
+          ],
+          "media_source_tweet_id": [
+            "2066867282526224478"
+          ]
+        },
+        "author_id": "1880979169297022976",
+        "conversation_id": "2066906145848238552",
+        "created_at": "2026-06-16T15:30:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T16:30:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066906145848238552"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2042605724539457537",
+              "start": 3,
+              "username": "yoo___yoo____"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GbhswW7Bd6",
+              "end": 42,
+              "expanded_url": "https://x.com/yoo___yoo____/status/2066867282526224478/photo/1",
+              "media_key": "3_2066867275530145792",
+              "start": 19,
+              "url": "https://t.co/GbhswW7Bd6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066906145848238552",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 41
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066867282526224478",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yoo___yoo____: https://t.co/GbhswW7Bd6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066867275530145792"
+          ]
+        },
+        "author_id": "2042605724539457537",
+        "conversation_id": "2066867282526224478",
+        "created_at": "2026-06-16T12:55:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T13:55:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066867282526224478"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GbhswW7Bd6",
+              "end": 23,
+              "expanded_url": "https://x.com/yoo___yoo____/status/2066867282526224478/photo/1",
+              "media_key": "3_2066867275530145792",
+              "start": 0,
+              "url": "https://t.co/GbhswW7Bd6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066867282526224478",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 2273,
+          "like_count": 193,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 41
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/GbhswW7Bd6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳 / 民主社会主义 / 反台独 / Free Ukraine 🇺🇦 / Free Palestine 🇵🇸\n魔裁（まのさば） / 崩铁（HSR）\n和平友善交流，谢绝人身攻击\n中华人民共和国万岁 世界人民大团结万岁",
+        "id": "1880979169297022976",
+        "location": "China",
+        "name": "Wesley10032",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021156330271039488/mAwe21JP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 111,
+          "like_count": 527,
+          "listed_count": 1,
+          "media_count": 2,
+          "tweet_count": 308
+        },
+        "username": "Wesley10032",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-10T14:10:34.000Z",
+        "description": "まのさば絵毎日投稿(したい)\nAcacia作品描く初心者",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/dda8ohtqlzcxm3…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/dda8ohtqlzcxm3i?t=mmdHxm&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/eP4hDW2YQ9"
+              }
+            ]
+          }
+        },
+        "id": "2042605724539457537",
+        "location": "白くなりゆく山際",
+        "name": "やうやう",
+        "pinned_tweet_id": "2042609298837270543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058178779428843521/wJhEFGeS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 238,
+          "following_count": 99,
+          "like_count": 118,
+          "listed_count": 3,
+          "media_count": 57,
+          "tweet_count": 200
+        },
+        "url": "https://t.co/eP4hDW2YQ9",
+        "username": "yoo___yoo____",
+        "verified": false
+      }
+    ]
+  }
+}

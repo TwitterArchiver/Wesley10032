@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066864679444750337"
+      ],
+      "media_source_tweet_id": [
+        "2066864686612783466"
+      ]
+    },
+    "author_id": "1880979169297022976",
+    "conversation_id": "2067519316195737811",
+    "created_at": "2026-06-18T08:06:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T09:06:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067519316195737811"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1763628840151298048",
+          "start": 3,
+          "username": "kongou_q"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/OWD1BDW6yB",
+          "end": 51,
+          "expanded_url": "https://x.com/kongou_q/status/2066864686612783466/photo/1",
+          "media_key": "3_2066864679444750337",
+          "start": 28,
+          "url": "https://t.co/OWD1BDW6yB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067519316195737811",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 67
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066864686612783466",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kongou_q: 指ハート小雲雀さん🫰🏻❤️ https://t.co/OWD1BDW6yB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2066864679444750337",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK76eakbIAEhDzY.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066864679444750337"
+          ],
+          "media_source_tweet_id": [
+            "2066864686612783466"
+          ]
+        },
+        "author_id": "1880979169297022976",
+        "conversation_id": "2067519316195737811",
+        "created_at": "2026-06-18T08:06:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T09:06:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067519316195737811"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1763628840151298048",
+              "start": 3,
+              "username": "kongou_q"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OWD1BDW6yB",
+              "end": 51,
+              "expanded_url": "https://x.com/kongou_q/status/2066864686612783466/photo/1",
+              "media_key": "3_2066864679444750337",
+              "start": 28,
+              "url": "https://t.co/OWD1BDW6yB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067519316195737811",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 67
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066864686612783466",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kongou_q: 指ハート小雲雀さん🫰🏻❤️ https://t.co/OWD1BDW6yB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066864679444750337"
+          ]
+        },
+        "author_id": "1763628840151298048",
+        "conversation_id": "2066864686612783466",
+        "created_at": "2026-06-16T12:45:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T13:45:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066864686612783466"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OWD1BDW6yB",
+              "end": 37,
+              "expanded_url": "https://x.com/kongou_q/status/2066864686612783466/photo/1",
+              "media_key": "3_2066864679444750337",
+              "start": 14,
+              "url": "https://t.co/OWD1BDW6yB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066864686612783466",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 2655,
+          "like_count": 178,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 67
+        },
+        "reply_settings": "everyone",
+        "text": "指ハート小雲雀さん🫰🏻❤️ https://t.co/OWD1BDW6yB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳 / 民主社会主义 / 反台独 / Free Ukraine 🇺🇦 / Free Palestine 🇵🇸\n魔裁（まのさば） / 崩铁（HSR）\n和平友善交流，谢绝人身攻击\n中华人民共和国万岁 世界人民大团结万岁",
+        "id": "1880979169297022976",
+        "location": "China",
+        "name": "Wesley10032",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021156330271039488/mAwe21JP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 120,
+          "like_count": 548,
+          "listed_count": 1,
+          "media_count": 2,
+          "tweet_count": 323
+        },
+        "username": "Wesley10032",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-01T18:14:27.000Z",
+        "description": "前向きな逃走劇をお見せします。\n絵描き🎨美少女ゲーetc...\n絵は修行中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@kongou_q",
+                "end": 23,
+                "expanded_url": "http://skeb.jp/@kongou_q",
+                "start": 0,
+                "url": "https://t.co/OjWC6fxaor"
+              }
+            ]
+          }
+        },
+        "id": "1763628840151298048",
+        "name": "紺ごう",
+        "pinned_tweet_id": "2064330170329362759",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060216450301005824/VP2DZrJG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 484,
+          "following_count": 198,
+          "like_count": 5063,
+          "listed_count": 2,
+          "media_count": 225,
+          "tweet_count": 1100
+        },
+        "url": "https://t.co/OjWC6fxaor",
+        "username": "kongou_q",
+        "verified": false
+      }
+    ]
+  }
+}

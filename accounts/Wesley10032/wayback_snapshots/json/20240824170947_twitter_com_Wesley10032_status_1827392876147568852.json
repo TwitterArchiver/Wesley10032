@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1525456751788969985",
+    "conversation_id": "1826320159549915243",
+    "created_at": "2024-08-24T17:09:47.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-24T18:09:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1827392876147568852"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1826556930736930816",
+          "start": 0,
+          "username": "maorenzhi8964"
+        },
+        {
+          "end": 27,
+          "id": "1705414209432064000",
+          "start": 15,
+          "username": "hung1623120"
+        },
+        {
+          "end": 44,
+          "id": "954877924171288576",
+          "start": 28,
+          "username": "2mmbPkM00IJwIUV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1827392876147568852",
+    "in_reply_to_user_id": "1826556930736930816",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1827043498140561417",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@maorenzhi8964 @hung1623120 @2mmbPkM00IJwIUV 屠的就是你这种狗罕见"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1525456751788969985",
+        "conversation_id": "1826320159549915243",
+        "created_at": "2024-08-24T17:09:47.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-24T18:09:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1827392876147568852"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1826556930736930816",
+              "start": 0,
+              "username": "maorenzhi8964"
+            },
+            {
+              "end": 27,
+              "id": "1705414209432064000",
+              "start": 15,
+              "username": "hung1623120"
+            },
+            {
+              "end": 44,
+              "id": "954877924171288576",
+              "start": 28,
+              "username": "2mmbPkM00IJwIUV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1827392876147568852",
+        "in_reply_to_user_id": "1826556930736930816",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1827043498140561417",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maorenzhi8964 @hung1623120 @2mmbPkM00IJwIUV 屠的就是你这种狗罕见"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1827043489336496128"
+          ]
+        },
+        "author_id": "1826556930736930816",
+        "conversation_id": "1826320159549915243",
+        "created_at": "2024-08-23T18:01:29.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-23T19:01:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1827043498140561417"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1705414209432064000",
+              "start": 0,
+              "username": "hung1623120"
+            },
+            {
+              "end": 29,
+              "id": "954877924171288576",
+              "start": 13,
+              "username": "2mmbPkM00IJwIUV"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nr7tgopt7q",
+              "end": 53,
+              "expanded_url": "https://twitter.com/maorenzhi8964/status/1827043498140561417/photo/1",
+              "media_key": "3_1827043489336496128",
+              "start": 30,
+              "url": "https://t.co/Nr7tGOpT7q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1827043498140561417",
+        "in_reply_to_user_id": "1705414209432064000",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1827042721619701928",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hung1623120 @2mmbPkM00IJwIUV https://t.co/Nr7tGOpT7q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-14T12:43:40.000Z",
+        "description": "Free Ukraine and Palestine 🇺🇦🇵🇸",
+        "id": "1525456751788969985",
+        "name": "Wesley",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811578387594649600/eQdjLvSa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 34,
+          "like_count": 46,
+          "listed_count": 0,
+          "tweet_count": 249
+        },
+        "username": "Wesley10032",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-22T09:48:09.000Z",
+        "description": "",
+        "id": "1826556930736930816",
+        "location": "大日本帝国南京万人坑内",
+        "name": "毛沢東🇯🇵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826557003176579072/MLe1HWy9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 268,
+          "like_count": 313,
+          "listed_count": 0,
+          "tweet_count": 165
+        },
+        "username": "maorenzhi8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-23T02:50:29.000Z",
+        "description": "本人王洪文，1935年出生在长春，早年参加过朝鲜战争，1951年入党，战争结束后在国棉十七厂保卫科担任科事部，1966年成立工总司并担任总司令，1973年在中共十大当选为副主席，在随后的几年里成功当选为主席",
+        "id": "1705414209432064000",
+        "location": "上海公总司",
+        "name": "王洪文",
+        "pinned_tweet_id": "1813072735410790762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1763214483579916288/AOfFqC95_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4841,
+          "following_count": 407,
+          "like_count": 4050,
+          "listed_count": 25,
+          "tweet_count": 5763
+        },
+        "username": "hung1623120",
+        "verified": false
+      },
+      {
+        "created_at": "2018-01-21T00:46:52.000Z",
+        "description": "Statement: 声明：本人發的视频和文字均轉發自牆内微信朋友圈！。 👀及推特推友們!其文字和觀點均與本人無關！本人熱愛祖國，遵守宪法！不造谣不傳谣！网警和五六七八毛們！請你们睁大眼睛！我转发的都国内微信朋友圈里的，如果你們要除根，只要把微信禁了就好了！🙏你們所見乃是吾墻内所聞！",
+        "id": "954877924171288576",
+        "location": "Los Angeles, CA",
+        "name": "The power of reticence沈默的力量",
+        "pinned_tweet_id": "1224867876584116224",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/955131810656092161/xDLp9Z_f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53422,
+          "following_count": 3164,
+          "like_count": 7893,
+          "listed_count": 265,
+          "tweet_count": 73816
+        },
+        "username": "2mmbPkM00IJwIUV",
+        "verified": false
+      }
+    ]
+  }
+}

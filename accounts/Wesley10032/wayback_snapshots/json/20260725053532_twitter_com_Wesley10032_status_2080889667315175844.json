@@ -1,0 +1,375 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2051650924310073344"
+      ],
+      "media_source_tweet_id": [
+        "2051650935366283558"
+      ]
+    },
+    "author_id": "1880979169297022976",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2080889667315175844",
+    "created_at": "2026-07-25T05:35:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T06:35:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080889667315175844"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1918274202580467713",
+          "start": 3,
+          "username": "CyberKanjousen"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/AgOcQnLwu3",
+          "end": 92,
+          "expanded_url": "https://x.com/CyberKanjousen/status/2051650935366283558/photo/1",
+          "media_key": "3_2051650924310073344",
+          "start": 69,
+          "url": "https://t.co/AgOcQnLwu3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080889667315175844",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 24
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051650935366283558",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CyberKanjousen: 其中大部分已不在人世，包括推主本人……\n\n为什么跨性别群体自杀率异常之高呢？\n\n为什么？凭什么？ https://t.co/AgOcQnLwu3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1586,
+        "media_key": "3_2051650924310073344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHjtpUKakAAYG-C.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051650924310073344"
+          ]
+        },
+        "author_id": "1918274202580467713",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2051650935366283558",
+        "created_at": "2026-05-05T13:11:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T14:11:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051650935366283558"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AgOcQnLwu3",
+              "end": 72,
+              "expanded_url": "https://x.com/CyberKanjousen/status/2051650935366283558/photo/1",
+              "media_key": "3_2051650924310073344",
+              "start": 49,
+              "url": "https://t.co/AgOcQnLwu3"
+            },
+            {
+              "display_url": "x.com/wtxycCO/status…",
+              "end": 96,
+              "expanded_url": "https://twitter.com/wtxycCO/status/1905998653095035205",
+              "start": 73,
+              "url": "https://t.co/lmMD1WmLz5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051650935366283558",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 113,
+          "impression_count": 83435,
+          "like_count": 404,
+          "quote_count": 13,
+          "reply_count": 134,
+          "retweet_count": 24
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905998653095035205",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "其中大部分已不在人世，包括推主本人……\n\n为什么跨性别群体自杀率异常之高呢？\n\n为什么？凭什么？ https://t.co/AgOcQnLwu3 https://t.co/lmMD1WmLz5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051650924310073344"
+          ],
+          "media_source_tweet_id": [
+            "2051650935366283558"
+          ]
+        },
+        "author_id": "1880979169297022976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2080889667315175844",
+        "created_at": "2026-07-25T05:35:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T06:35:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080889667315175844"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1918274202580467713",
+              "start": 3,
+              "username": "CyberKanjousen"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AgOcQnLwu3",
+              "end": 92,
+              "expanded_url": "https://x.com/CyberKanjousen/status/2051650935366283558/photo/1",
+              "media_key": "3_2051650924310073344",
+              "start": 69,
+              "url": "https://t.co/AgOcQnLwu3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080889667315175844",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 24
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051650935366283558",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CyberKanjousen: 其中大部分已不在人世，包括推主本人……\n\n为什么跨性别群体自杀率异常之高呢？\n\n为什么？凭什么？ https://t.co/AgOcQnLwu3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳/♂/友跨🏳️‍⚧️\n或许是温和粉红/欢迎DM聊天(推荐使用TG)\n魔裁(まのさば)/CS2/三角洲/Galgame/IT \n兴趣相近互fo\n好基友@lockloveovo\n学生党 周末/节假日在线(暑假限时全天在线)\nCN/EN/JP\nTG群见置顶\n防失联@Wesley10033",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 79,
+                "username": "lockloveovo"
+              },
+              {
+                "end": 146,
+                "start": 134,
+                "username": "Wesley10033"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://telegram.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/Q5wiGuqCLC"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "location": "People's Republic of China",
+        "name": "Wesley",
+        "pinned_tweet_id": "2077761863937597659",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 595,
+          "following_count": 891,
+          "like_count": 8355,
+          "listed_count": 1,
+          "media_count": 184,
+          "tweet_count": 1588
+        },
+        "url": "https://t.co/Q5wiGuqCLC",
+        "username": "Wesley10032",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨 | 想当猫猫 | 头像来自 @xfoopy | 部分推文发自 @yameta_www\n日语号：@NihonKanjousen\n给我钱：https://t.co/NMKeNLoCQ8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 43,
+                "username": "xfoopy"
+              },
+              {
+                "end": 71,
+                "start": 60,
+                "username": "yameta_www"
+              },
+              {
+                "end": 91,
+                "start": 76,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/CyberKanjousen",
+                "end": 119,
+                "expanded_url": "https://buymeacoffee.com/CyberKanjousen",
+                "start": 96,
+                "url": "https://t.co/NMKeNLoCQ8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2061036992599925240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11875,
+          "following_count": 882,
+          "like_count": 31574,
+          "listed_count": 20,
+          "media_count": 2235,
+          "tweet_count": 10995
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      }
+    ]
+  }
+}

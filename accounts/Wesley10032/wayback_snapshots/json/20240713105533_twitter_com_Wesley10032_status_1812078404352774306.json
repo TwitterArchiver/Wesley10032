@@ -1,0 +1,235 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1525456751788969985",
+    "conversation_id": "1811715288565711206",
+    "created_at": "2024-07-13T10:55:33.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-13T11:55:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1812078404352774306"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 66,
+          "normalized_text": "US",
+          "probability": 0.9629,
+          "start": 65,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1194755806534586368",
+          "start": 0,
+          "username": "TaiwanFreedom89"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1812078404352774306",
+    "in_reply_to_user_id": "1194755806534586368",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1811715288565711206",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TaiwanFreedom89 It is true that both regimes are lackeys to the US."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1525456751788969985",
+        "conversation_id": "1811715288565711206",
+        "created_at": "2024-07-13T10:55:33.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-13T11:55:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1812078404352774306"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 66,
+              "normalized_text": "US",
+              "probability": 0.9629,
+              "start": 65,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1194755806534586368",
+              "start": 0,
+              "username": "TaiwanFreedom89"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1812078404352774306",
+        "in_reply_to_user_id": "1194755806534586368",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1811715288565711206",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TaiwanFreedom89 It is true that both regimes are lackeys to the US."
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1811715285768122368"
+          ]
+        },
+        "author_id": "1194755806534586368",
+        "conversation_id": "1811715288565711206",
+        "created_at": "2024-07-12T10:52:39.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-12T11:52:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1811715288565711206"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 16,
+              "normalized_text": "Taiwan",
+              "probability": 0.9667,
+              "start": 11,
+              "type": "Place"
+            },
+            {
+              "end": 39,
+              "normalized_text": "Ukraine",
+              "probability": 0.9567,
+              "start": 33,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/GOjGe9k93y",
+              "end": 68,
+              "expanded_url": "https://twitter.com/TaiwanFreedom89/status/1811715288565711206/photo/1",
+              "media_key": "3_1811715285768122368",
+              "start": 45,
+              "url": "https://t.co/GOjGe9k93y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1811715288565711206",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 27,
+          "impression_count": 65663,
+          "like_count": 7604,
+          "quote_count": 4,
+          "reply_count": 59,
+          "retweet_count": 619
+        },
+        "reply_settings": "everyone",
+        "text": "Believe in Taiwan. 🇹🇼\nBelieve in Ukraine. 🇺🇦 https://t.co/GOjGe9k93y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-14T12:43:40.000Z",
+        "description": "Free Ukraine and Palestine",
+        "id": "1525456751788969985",
+        "name": "Wesley",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811578387594649600/eQdjLvSa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 24,
+          "like_count": 30,
+          "listed_count": 0,
+          "tweet_count": 125
+        },
+        "username": "Wesley10032",
+        "verified": false
+      },
+      {
+        "created_at": "2019-11-13T23:16:08.000Z",
+        "description": "Memes & News about Taiwan from an Australian perspective. Follow on FB, we have the same name & picture. Our Hashtag's #TWFreedom89 \nRetweets ≠ endorsements.",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 131,
+                "start": 119,
+                "tag": "TWFreedom89"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/taiwan_freedom",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/taiwan_freedom",
+                "start": 0,
+                "url": "https://t.co/vngNGFL8Fr"
+              }
+            ]
+          }
+        },
+        "id": "1194755806534586368",
+        "location": "Brisbane, Queensland",
+        "name": "Taiwan Freedom - 台灣自由",
+        "pinned_tweet_id": "1424670962218196995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1467149515668942850/_y8cR1GW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23507,
+          "following_count": 1984,
+          "like_count": 18257,
+          "listed_count": 121,
+          "tweet_count": 16000
+        },
+        "url": "https://t.co/vngNGFL8Fr",
+        "username": "TaiwanFreedom89",
+        "verified": true
+      }
+    ]
+  }
+}

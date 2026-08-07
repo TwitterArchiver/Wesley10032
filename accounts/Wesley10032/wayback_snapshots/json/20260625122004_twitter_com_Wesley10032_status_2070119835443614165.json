@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2069846958119014400"
+      ],
+      "media_source_tweet_id": [
+        "2069848984613798305"
+      ]
+    },
+    "author_id": "1880979169297022976",
+    "conversation_id": "2070119835443614165",
+    "created_at": "2026-06-25T12:20:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T13:20:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070119835443614165"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1206205659395420161",
+          "start": 3,
+          "username": "rurino_coffee"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Tk1ngJkXlr",
+          "end": 47,
+          "expanded_url": "https://x.com/rurino_coffee/status/2069848984613798305/photo/1",
+          "media_key": "3_2069846958119014400",
+          "start": 24,
+          "url": "https://t.co/Tk1ngJkXlr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070119835443614165",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 335
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069848984613798305",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @rurino_coffee: おやすみ https://t.co/Tk1ngJkXlr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2684,
+        "media_key": "3_2069846958119014400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLmS14YbUAAxfJS.jpg",
+        "width": 1901
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069846958119014400"
+          ],
+          "media_source_tweet_id": [
+            "2069848984613798305"
+          ]
+        },
+        "author_id": "1880979169297022976",
+        "conversation_id": "2070119835443614165",
+        "created_at": "2026-06-25T12:20:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T13:20:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070119835443614165"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1206205659395420161",
+              "start": 3,
+              "username": "rurino_coffee"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Tk1ngJkXlr",
+              "end": 47,
+              "expanded_url": "https://x.com/rurino_coffee/status/2069848984613798305/photo/1",
+              "media_key": "3_2069846958119014400",
+              "start": 24,
+              "url": "https://t.co/Tk1ngJkXlr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070119835443614165",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 335
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069848984613798305",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @rurino_coffee: おやすみ https://t.co/Tk1ngJkXlr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069846958119014400"
+          ]
+        },
+        "author_id": "1206205659395420161",
+        "conversation_id": "2069848984613798305",
+        "created_at": "2026-06-24T18:23:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T19:23:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069848984613798305"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Tk1ngJkXlr",
+              "end": 28,
+              "expanded_url": "https://x.com/rurino_coffee/status/2069848984613798305/photo/1",
+              "media_key": "3_2069846958119014400",
+              "start": 5,
+              "url": "https://t.co/Tk1ngJkXlr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069848984613798305",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 294,
+          "impression_count": 24610,
+          "like_count": 2686,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 335
+        },
+        "reply_settings": "everyone",
+        "text": "おやすみ https://t.co/Tk1ngJkXlr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "description": "中国人🇨🇳 / 友跨🏳️‍⚧️ / 欢迎DM聊天 / 兴趣相近互fo\n学生党 周末 / 节假日在线\n中文 / English / 日本語（勉強中）\n防失联 @Wesley10033\n和平友善交流，谢绝人身攻击\n中华人民共和国万岁 世界人民大团结万岁",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 78,
+                "username": "Wesley10033"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "location": "China",
+        "name": "Wesley10032",
+        "pinned_tweet_id": "2068037933899407863",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068584583315283968/pGV4njxw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 205,
+          "like_count": 832,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 450
+        },
+        "url": "",
+        "username": "Wesley10032",
+        "verified": false
+      },
+      {
+        "created_at": "2019-12-15T13:33:48.000Z",
+        "description": "珈琲が大好き | 「瑠璃乃珈琲店」のサークル主\nhttps://t.co/hzKOXE8edJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "melonbooks.co.jp/circle/index.p…",
+                "end": 47,
+                "expanded_url": "https://www.melonbooks.co.jp/circle/index.php?circle_id=132554",
+                "start": 24,
+                "url": "https://t.co/hzKOXE8edJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@rurino_coffee",
+                "end": 23,
+                "expanded_url": "https://skeb.jp/@rurino_coffee",
+                "start": 0,
+                "url": "https://t.co/CX0OcWYOKv"
+              }
+            ]
+          }
+        },
+        "id": "1206205659395420161",
+        "name": "瑠璃乃珈琲@8/15(土)夏コミ東２【ナ58b】& 9/6(日)異ノ祭002【う-23】",
+        "pinned_tweet_id": "2059110555038998788",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1639540772235276290/ej_i5-W0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3179,
+          "following_count": 654,
+          "like_count": 2322,
+          "listed_count": 26,
+          "media_count": 295,
+          "tweet_count": 1609
+        },
+        "url": "https://t.co/CX0OcWYOKv",
+        "username": "rurino_coffee",
+        "verified": true
+      }
+    ]
+  }
+}

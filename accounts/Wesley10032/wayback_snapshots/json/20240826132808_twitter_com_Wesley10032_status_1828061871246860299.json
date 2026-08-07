@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1525456751788969985",
+    "conversation_id": "1827900973588852852",
+    "created_at": "2024-08-26T13:28:08.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-26T14:28:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1828061871246860299"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1255397952325128193",
+          "start": 0,
+          "username": "wakeup_arrow"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1828061871246860299",
+    "in_reply_to_user_id": "1255397952325128193",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1827900973588852852",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wakeup_arrow 黑神话成功≠中共成功，不等式秒了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1525456751788969985",
+        "conversation_id": "1827900973588852852",
+        "created_at": "2024-08-26T13:28:08.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-26T14:28:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1828061871246860299"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1255397952325128193",
+              "start": 0,
+              "username": "wakeup_arrow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1828061871246860299",
+        "in_reply_to_user_id": "1255397952325128193",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1827900973588852852",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wakeup_arrow 黑神话成功≠中共成功，不等式秒了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1827900966970052608"
+          ]
+        },
+        "author_id": "1255397952325128193",
+        "conversation_id": "1827900973588852852",
+        "created_at": "2024-08-26T02:48:47.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-26T03:48:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1827900973588852852"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/x3kzygucja",
+              "end": 42,
+              "expanded_url": "https://twitter.com/wakeup_arrow/status/1827900973588852852/photo/1",
+              "media_key": "3_1827900966970052608",
+              "start": 19,
+              "url": "https://t.co/X3kZYgUcJA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1827900973588852852",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 32934,
+          "like_count": 382,
+          "quote_count": 5,
+          "reply_count": 60,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "最新角度来了🥹\n起码承认黑神话成功了 https://t.co/X3kZYgUcJA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-14T12:43:40.000Z",
+        "description": "Free Ukraine and Palestine 🇺🇦🇵🇸",
+        "id": "1525456751788969985",
+        "name": "Wesley",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811578387594649600/eQdjLvSa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 35,
+          "like_count": 52,
+          "listed_count": 0,
+          "tweet_count": 274
+        },
+        "username": "Wesley10032",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-29T07:26:18.000Z",
+        "description": "",
+        "id": "1255397952325128193",
+        "location": "喵喵编辑部",
+        "name": "猫叔讲故事",
+        "pinned_tweet_id": "1827952541646422218",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1804164107723272192/tAMwVTiM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70172,
+          "following_count": 2448,
+          "like_count": 116542,
+          "listed_count": 253,
+          "tweet_count": 57577
+        },
+        "username": "wakeup_arrow",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067208485180452866"
+      ],
+      "media_source_tweet_id": [
+        "2067208492109496503"
+      ]
+    },
+    "author_id": "1880979169297022976",
+    "conversation_id": "2067524106686431522",
+    "created_at": "2026-06-18T08:25:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T09:25:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067524106686431522"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1907776875650502656",
+          "start": 3,
+          "username": "far_2549"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/yMJbg1dX1G",
+          "end": 45,
+          "expanded_url": "https://x.com/far_2549/status/2067208492109496503/photo/1",
+          "media_key": "3_2067208485180452866",
+          "start": 22,
+          "url": "https://t.co/yMJbg1dX1G"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067524106686431522",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 240
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067208492109496503",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @far_2549: 進まないよーー https://t.co/yMJbg1dX1G"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2877,
+        "media_key": "3_2067208485180452866",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLAzKivasAIizHQ.jpg",
+        "width": 2093
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067208485180452866"
+          ],
+          "media_source_tweet_id": [
+            "2067208492109496503"
+          ]
+        },
+        "author_id": "1880979169297022976",
+        "conversation_id": "2067524106686431522",
+        "created_at": "2026-06-18T08:25:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T09:25:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067524106686431522"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1907776875650502656",
+              "start": 3,
+              "username": "far_2549"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yMJbg1dX1G",
+              "end": 45,
+              "expanded_url": "https://x.com/far_2549/status/2067208492109496503/photo/1",
+              "media_key": "3_2067208485180452866",
+              "start": 22,
+              "url": "https://t.co/yMJbg1dX1G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067524106686431522",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 240
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067208492109496503",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @far_2549: 進まないよーー https://t.co/yMJbg1dX1G"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067208485180452866"
+          ]
+        },
+        "author_id": "1907776875650502656",
+        "conversation_id": "2067208492109496503",
+        "created_at": "2026-06-17T11:31:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T12:31:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067208492109496503"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yMJbg1dX1G",
+              "end": 31,
+              "expanded_url": "https://x.com/far_2549/status/2067208492109496503/photo/1",
+              "media_key": "3_2067208485180452866",
+              "start": 8,
+              "url": "https://t.co/yMJbg1dX1G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067208492109496503",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 281,
+          "impression_count": 19094,
+          "like_count": 2775,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 240
+        },
+        "reply_settings": "everyone",
+        "text": "進まないよーー https://t.co/yMJbg1dX1G"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳 / 民主社会主义 / 反台独 / Free Ukraine 🇺🇦 / Free Palestine 🇵🇸\n魔裁（まのさば） / 崩铁（HSR）\n和平友善交流，谢绝人身攻击\n中华人民共和国万岁 世界人民大团结万岁",
+        "id": "1880979169297022976",
+        "location": "China",
+        "name": "Wesley10032",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021156330271039488/mAwe21JP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 120,
+          "like_count": 555,
+          "listed_count": 1,
+          "media_count": 2,
+          "tweet_count": 328
+        },
+        "url": "",
+        "username": "Wesley10032",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-03T12:47:43.000Z",
+        "description": "雑多垢です 🔕\n壁打ち➡️@pink_2__",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 13,
+                "username": "pink_2__"
+              }
+            ]
+          }
+        },
+        "id": "1907776875650502656",
+        "location": "ピンクの女の子が好きです",
+        "name": "わーい",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067207617248899072/9agDNsPA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 828,
+          "following_count": 231,
+          "like_count": 19143,
+          "listed_count": 3,
+          "media_count": 124,
+          "tweet_count": 2500
+        },
+        "url": "",
+        "username": "far_2549",
+        "verified": false
+      }
+    ]
+  }
+}

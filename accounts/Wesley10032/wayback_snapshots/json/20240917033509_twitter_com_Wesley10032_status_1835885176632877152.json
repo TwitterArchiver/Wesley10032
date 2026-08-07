@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1835663218297184256"
+      ],
+      "media_source_tweet_id": [
+        "1835663221480689716"
+      ]
+    },
+    "author_id": "1525456751788969985",
+    "conversation_id": "1835885176632877152",
+    "created_at": "2024-09-17T03:35:09.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-17T04:35:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1835885176632877152"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 21,
+          "normalized_text": "常陸茉子",
+          "probability": 0.5773,
+          "start": 18,
+          "type": "Person"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 30,
+          "start": 25,
+          "tag": "千恋万花"
+        },
+        {
+          "end": 37,
+          "start": 31,
+          "tag": "ゆずソフト"
+        },
+        {
+          "end": 43,
+          "start": 38,
+          "tag": "常陸茉子"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1197889894695104513",
+          "start": 3,
+          "username": "Ai_anime_Ai_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/mxmrdvdbf4",
+          "end": 67,
+          "expanded_url": "https://twitter.com/Ai_anime_Ai_/status/1835663221480689716/photo/1",
+          "media_key": "3_1835663218297184256",
+          "start": 44,
+          "url": "https://t.co/mXmRDvDBF4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1835885176632877152",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 70
+    },
+    "referenced_tweets": [
+      {
+        "id": "1835663221480689716",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ai_anime_Ai_: 常陸茉子  \n#千恋万花 #ゆずソフト #常陸茉子 https://t.co/mXmRDvDBF4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1835663218297184256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GXmV-KXaoAApRnc.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1835663218297184256"
+          ],
+          "media_source_tweet_id": [
+            "1835663221480689716"
+          ]
+        },
+        "author_id": "1525456751788969985",
+        "conversation_id": "1835885176632877152",
+        "created_at": "2024-09-17T03:35:09.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-17T04:35:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1835885176632877152"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 21,
+              "normalized_text": "常陸茉子",
+              "probability": 0.5773,
+              "start": 18,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 30,
+              "start": 25,
+              "tag": "千恋万花"
+            },
+            {
+              "end": 37,
+              "start": 31,
+              "tag": "ゆずソフト"
+            },
+            {
+              "end": 43,
+              "start": 38,
+              "tag": "常陸茉子"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1197889894695104513",
+              "start": 3,
+              "username": "Ai_anime_Ai_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mxmrdvdbf4",
+              "end": 67,
+              "expanded_url": "https://twitter.com/Ai_anime_Ai_/status/1835663221480689716/photo/1",
+              "media_key": "3_1835663218297184256",
+              "start": 44,
+              "url": "https://t.co/mXmRDvDBF4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1835885176632877152",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 70
+        },
+        "referenced_tweets": [
+          {
+            "id": "1835663221480689716",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ai_anime_Ai_: 常陸茉子  \n#千恋万花 #ゆずソフト #常陸茉子 https://t.co/mXmRDvDBF4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1835663218297184256"
+          ]
+        },
+        "author_id": "1197889894695104513",
+        "conversation_id": "1835663221480689716",
+        "created_at": "2024-09-16T12:53:11.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-16T13:53:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1835663221480689716"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 3,
+              "normalized_text": "常陸茉子",
+              "probability": 0.5951,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 12,
+              "start": 7,
+              "tag": "千恋万花"
+            },
+            {
+              "end": 19,
+              "start": 13,
+              "tag": "ゆずソフト"
+            },
+            {
+              "end": 25,
+              "start": 20,
+              "tag": "常陸茉子"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mxmrdvdbf4",
+              "end": 49,
+              "expanded_url": "https://twitter.com/Ai_anime_Ai_/status/1835663221480689716/photo/1",
+              "media_key": "3_1835663218297184256",
+              "start": 26,
+              "url": "https://t.co/mXmRDvDBF4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1835663221480689716",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 100,
+          "impression_count": 8488,
+          "like_count": 685,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 70
+        },
+        "reply_settings": "everyone",
+        "text": "常陸茉子  \n#千恋万花 #ゆずソフト #常陸茉子 https://t.co/mXmRDvDBF4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-14T12:43:40.000Z",
+        "description": "Free Ukraine and Palestine / 反对中国修正主义 / 平反六四 / 高举马列毛旗帜",
+        "id": "1525456751788969985",
+        "name": "Wesley",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811578387594649600/eQdjLvSa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 39,
+          "like_count": 79,
+          "listed_count": 0,
+          "tweet_count": 321
+        },
+        "username": "Wesley10032",
+        "verified": false
+      },
+      {
+        "created_at": "2019-11-22T14:49:52.000Z",
+        "description": "AIillust\n個人的に好きなキャラをイラストにしています✍",
+        "id": "1197889894695104513",
+        "name": "MAKO",
+        "pinned_tweet_id": "1698624874275840179",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1834444218934435840/YUQ-TaJh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 694,
+          "following_count": 87,
+          "like_count": 13,
+          "listed_count": 2,
+          "tweet_count": 69
+        },
+        "username": "Ai_anime_Ai_",
+        "verified": false
+      }
+    ]
+  }
+}

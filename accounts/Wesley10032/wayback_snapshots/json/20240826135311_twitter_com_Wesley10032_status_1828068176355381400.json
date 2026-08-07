@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1525456751788969985",
+    "conversation_id": "1827829725865423087",
+    "created_at": "2024-08-26T13:53:11.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-26T14:53:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1828068176355381400"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "229195516",
+          "start": 0,
+          "username": "JamieMetzl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1828068176355381400",
+    "in_reply_to_user_id": "229195516",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1827829725865423087",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JamieMetzl 美帝国主义正在伤害全球人民，美帝正在危害世界。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1525456751788969985",
+        "conversation_id": "1827829725865423087",
+        "created_at": "2024-08-26T13:53:11.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-26T14:53:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1828068176355381400"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "229195516",
+              "start": 0,
+              "username": "JamieMetzl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1828068176355381400",
+        "in_reply_to_user_id": "229195516",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1827829725865423087",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JamieMetzl 美帝国主义正在伤害全球人民，美帝正在危害世界。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "229195516",
+        "conversation_id": "1827829725865423087",
+        "created_at": "2024-08-25T22:05:40.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-25T23:05:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1827829725865423087"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1827829725865423087",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 177649,
+          "like_count": 1012,
+          "quote_count": 13,
+          "reply_count": 152,
+          "retweet_count": 161
+        },
+        "reply_settings": "everyone",
+        "text": "中国共产党正在伤害中国人民。中共正在危害世界。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-14T12:43:40.000Z",
+        "description": "Free Ukraine and Palestine 🇺🇦🇵🇸",
+        "id": "1525456751788969985",
+        "name": "Wesley",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811578387594649600/eQdjLvSa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 35,
+          "like_count": 53,
+          "listed_count": 0,
+          "tweet_count": 276
+        },
+        "username": "Wesley10032",
+        "verified": false
+      },
+      {
+        "created_at": "2010-12-21T19:42:35.000Z",
+        "description": "https://t.co/M3eSpDEAUu Founder • Futurist  • #Superconvergence #HackingDarwin #EternalSonata author • @AtlanticCouncil • Fmr NSC, State, UN, @WHO adv committee",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 63,
+                "start": 46,
+                "tag": "Superconvergence"
+              },
+              {
+                "end": 78,
+                "start": 64,
+                "tag": "HackingDarwin"
+              },
+              {
+                "end": 93,
+                "start": 79,
+                "tag": "EternalSonata"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 119,
+                "start": 103,
+                "username": "AtlanticCouncil"
+              },
+              {
+                "end": 146,
+                "start": 142,
+                "username": "WHO"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "OneShared.World",
+                "end": 23,
+                "expanded_url": "http://OneShared.World",
+                "start": 0,
+                "url": "https://t.co/M3eSpDEAUu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "jamiemetzl.com",
+                "end": 23,
+                "expanded_url": "http://www.jamiemetzl.com",
+                "start": 0,
+                "url": "https://t.co/qmSslLvZF5"
+              }
+            ]
+          }
+        },
+        "id": "229195516",
+        "location": "New York, NY USA",
+        "name": "Jamie Metzl",
+        "pinned_tweet_id": "1390827543301922816",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1258080453287788544/zpw6bKnn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66955,
+          "following_count": 14196,
+          "like_count": 21391,
+          "listed_count": 641,
+          "tweet_count": 12552
+        },
+        "url": "https://t.co/qmSslLvZF5",
+        "username": "JamieMetzl",
+        "verified": true
+      }
+    ]
+  }
+}

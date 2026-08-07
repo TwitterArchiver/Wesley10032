@@ -1,0 +1,799 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068568848706699264",
+        "3_2068568860517933056",
+        "3_2068568872861765632",
+        "3_2068568882252775424"
+      ],
+      "media_source_tweet_id": [
+        "2068570002220085603",
+        "2068570002220085603",
+        "2068570002220085603",
+        "2068570002220085603"
+      ]
+    },
+    "author_id": "1880979169297022976",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Types of sports, like soccer and basketball",
+          "id": "11",
+          "name": "Sport"
+        },
+        "entity": {
+          "id": "733756536430809088",
+          "name": "Soccer"
+        }
+      },
+      {
+        "domain": {
+          "description": "",
+          "id": "26",
+          "name": "Sports League"
+        },
+        "entity": {
+          "id": "1304474187961044993",
+          "name": "FIFA Men's World Cup"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+          "id": "1557697289971322880",
+          "name": "Sports & Fitness Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "733756536430809088",
+          "name": "Soccer"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Sports",
+          "id": "847900493514891265",
+          "name": "Sports"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1286401121641103360",
+          "name": "Sports events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1304474187961044993",
+          "name": "FIFA Men's World Cup"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      },
+      {
+        "domain": {
+          "description": "Types of sports, like soccer and basketball",
+          "id": "11",
+          "name": "Sport"
+        },
+        "entity": {
+          "description": "DAZN FIFAワールドカップ26 特設ページ Sponsored by アクエリアス\n\nDAZNのFIFAワールドカップ26最新情報がチェックできる特設ページです。試合映像やその他コンテンツを配信します。 @AQUARIUS_SPORTS\n\nhttps://www.dazn.com/ja-JP/welcome",
+          "id": "2015704262643249152",
+          "name": "DAZN FIFAワールドカップ26 特設ページ Sponsored by アクエリアス"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "DAZN FIFAワールドカップ26 特設ページ Sponsored by アクエリアス\n\nDAZNのFIFAワールドカップ26最新情報がチェックできる特設ページです。試合映像やその他コンテンツを配信します。 @AQUARIUS_SPORTS\n\nhttps://www.dazn.com/ja-JP/welcome",
+          "id": "2015704262643249152",
+          "name": "DAZN FIFAワールドカップ26 特設ページ Sponsored by アクエリアス"
+        }
+      }
+    ],
+    "conversation_id": "2068581775958294658",
+    "created_at": "2026-06-21T06:28:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T07:28:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068581775958294658"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 61,
+          "start": 48,
+          "tag": "FIFAWorldCup"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1549674520713510912",
+          "start": 3,
+          "username": "FIFAWorldCup_JP"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/m16bi4kAwP",
+          "end": 85,
+          "expanded_url": "https://x.com/FIFAWorldCup_JP/status/2068570002220085603/photo/1",
+          "media_key": "3_2068568848706699264",
+          "start": 62,
+          "url": "https://t.co/m16bi4kAwP"
+        },
+        {
+          "display_url": "pic.x.com/m16bi4kAwP",
+          "end": 85,
+          "expanded_url": "https://x.com/FIFAWorldCup_JP/status/2068570002220085603/photo/1",
+          "media_key": "3_2068568860517933056",
+          "start": 62,
+          "url": "https://t.co/m16bi4kAwP"
+        },
+        {
+          "display_url": "pic.x.com/m16bi4kAwP",
+          "end": 85,
+          "expanded_url": "https://x.com/FIFAWorldCup_JP/status/2068570002220085603/photo/1",
+          "media_key": "3_2068568872861765632",
+          "start": 62,
+          "url": "https://t.co/m16bi4kAwP"
+        },
+        {
+          "display_url": "pic.x.com/m16bi4kAwP",
+          "end": 85,
+          "expanded_url": "https://x.com/FIFAWorldCup_JP/status/2068570002220085603/photo/1",
+          "media_key": "3_2068568882252775424",
+          "start": 62,
+          "url": "https://t.co/m16bi4kAwP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068581775958294658",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 653
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068570002220085603",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @FIFAWorldCup_JP: 伊東純也の抜け出しから日本が3得点！！⚡️⚡️⚡️\n\n#FIFAWorldCup https://t.co/m16bi4kAwP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 675,
+        "media_key": "3_2068568848706699264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLUIaHyaAAAYYKQ.jpg",
+        "width": 1200
+      },
+      {
+        "height": 675,
+        "media_key": "3_2068568860517933056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLUIazybIAAuIn1.jpg",
+        "width": 1200
+      },
+      {
+        "height": 675,
+        "media_key": "3_2068568872861765632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLUIbhxbEAAD7Jg.jpg",
+        "width": 1200
+      },
+      {
+        "height": 675,
+        "media_key": "3_2068568882252775424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLUIcEwagAAUtqI.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068568848706699264",
+            "3_2068568860517933056",
+            "3_2068568872861765632",
+            "3_2068568882252775424"
+          ],
+          "media_source_tweet_id": [
+            "2068570002220085603",
+            "2068570002220085603",
+            "2068570002220085603",
+            "2068570002220085603"
+          ]
+        },
+        "author_id": "1880979169297022976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "26",
+              "name": "Sports League"
+            },
+            "entity": {
+              "id": "1304474187961044993",
+              "name": "FIFA Men's World Cup"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1286401121641103360",
+              "name": "Sports events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1304474187961044993",
+              "name": "FIFA Men's World Cup"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "description": "DAZN FIFAワールドカップ26 特設ページ Sponsored by アクエリアス\n\nDAZNのFIFAワールドカップ26最新情報がチェックできる特設ページです。試合映像やその他コンテンツを配信します。 @AQUARIUS_SPORTS\n\nhttps://www.dazn.com/ja-JP/welcome",
+              "id": "2015704262643249152",
+              "name": "DAZN FIFAワールドカップ26 特設ページ Sponsored by アクエリアス"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "DAZN FIFAワールドカップ26 特設ページ Sponsored by アクエリアス\n\nDAZNのFIFAワールドカップ26最新情報がチェックできる特設ページです。試合映像やその他コンテンツを配信します。 @AQUARIUS_SPORTS\n\nhttps://www.dazn.com/ja-JP/welcome",
+              "id": "2015704262643249152",
+              "name": "DAZN FIFAワールドカップ26 特設ページ Sponsored by アクエリアス"
+            }
+          }
+        ],
+        "conversation_id": "2068581775958294658",
+        "created_at": "2026-06-21T06:28:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T07:28:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068581775958294658"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 61,
+              "start": 48,
+              "tag": "FIFAWorldCup"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1549674520713510912",
+              "start": 3,
+              "username": "FIFAWorldCup_JP"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/m16bi4kAwP",
+              "end": 85,
+              "expanded_url": "https://x.com/FIFAWorldCup_JP/status/2068570002220085603/photo/1",
+              "media_key": "3_2068568848706699264",
+              "start": 62,
+              "url": "https://t.co/m16bi4kAwP"
+            },
+            {
+              "display_url": "pic.x.com/m16bi4kAwP",
+              "end": 85,
+              "expanded_url": "https://x.com/FIFAWorldCup_JP/status/2068570002220085603/photo/1",
+              "media_key": "3_2068568860517933056",
+              "start": 62,
+              "url": "https://t.co/m16bi4kAwP"
+            },
+            {
+              "display_url": "pic.x.com/m16bi4kAwP",
+              "end": 85,
+              "expanded_url": "https://x.com/FIFAWorldCup_JP/status/2068570002220085603/photo/1",
+              "media_key": "3_2068568872861765632",
+              "start": 62,
+              "url": "https://t.co/m16bi4kAwP"
+            },
+            {
+              "display_url": "pic.x.com/m16bi4kAwP",
+              "end": 85,
+              "expanded_url": "https://x.com/FIFAWorldCup_JP/status/2068570002220085603/photo/1",
+              "media_key": "3_2068568882252775424",
+              "start": 62,
+              "url": "https://t.co/m16bi4kAwP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068581775958294658",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 653
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068570002220085603",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @FIFAWorldCup_JP: 伊東純也の抜け出しから日本が3得点！！⚡️⚡️⚡️\n\n#FIFAWorldCup https://t.co/m16bi4kAwP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068568848706699264",
+            "3_2068568860517933056",
+            "3_2068568872861765632",
+            "3_2068568882252775424"
+          ]
+        },
+        "author_id": "1549674520713510912",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "26",
+              "name": "Sports League"
+            },
+            "entity": {
+              "id": "1304474187961044993",
+              "name": "FIFA Men's World Cup"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1286401121641103360",
+              "name": "Sports events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1304474187961044993",
+              "name": "FIFA Men's World Cup"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "description": "DAZN FIFAワールドカップ26 特設ページ Sponsored by アクエリアス\n\nDAZNのFIFAワールドカップ26最新情報がチェックできる特設ページです。試合映像やその他コンテンツを配信します。 @AQUARIUS_SPORTS\n\nhttps://www.dazn.com/ja-JP/welcome",
+              "id": "2015704262643249152",
+              "name": "DAZN FIFAワールドカップ26 特設ページ Sponsored by アクエリアス"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "DAZN FIFAワールドカップ26 特設ページ Sponsored by アクエリアス\n\nDAZNのFIFAワールドカップ26最新情報がチェックできる特設ページです。試合映像やその他コンテンツを配信します。 @AQUARIUS_SPORTS\n\nhttps://www.dazn.com/ja-JP/welcome",
+              "id": "2015704262643249152",
+              "name": "DAZN FIFAワールドカップ26 特設ページ Sponsored by アクエリアス"
+            }
+          },
+          {
+            "domain": {
+              "id": "6",
+              "name": "Sports Event"
+            },
+            "entity": {
+              "id": "1275806388367720450",
+              "name": "2022 FIFA World Cup"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "26",
+              "name": "Sports League"
+            },
+            "entity": {
+              "id": "1275806388367720450",
+              "name": "2022 FIFA World Cup"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1275806388367720450",
+              "name": "2022 FIFA World Cup"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of sports events or series, for example 2014 pre-season, a tournament, or round",
+              "id": "40",
+              "name": "Sports Series"
+            },
+            "entity": {
+              "id": "1275806388367720450",
+              "name": "2022 FIFA World Cup"
+            }
+          }
+        ],
+        "conversation_id": "2068570002220085603",
+        "created_at": "2026-06-21T05:41:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T06:37:41.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068569021025558741",
+          "2068570002220085603"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 40,
+              "start": 27,
+              "tag": "FIFAWorldCup"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/m16bi4kAwP",
+              "end": 64,
+              "expanded_url": "https://x.com/FIFAWorldCup_JP/status/2068570002220085603/photo/1",
+              "media_key": "3_2068568848706699264",
+              "start": 41,
+              "url": "https://t.co/m16bi4kAwP"
+            },
+            {
+              "display_url": "pic.x.com/m16bi4kAwP",
+              "end": 64,
+              "expanded_url": "https://x.com/FIFAWorldCup_JP/status/2068570002220085603/photo/1",
+              "media_key": "3_2068568860517933056",
+              "start": 41,
+              "url": "https://t.co/m16bi4kAwP"
+            },
+            {
+              "display_url": "pic.x.com/m16bi4kAwP",
+              "end": 64,
+              "expanded_url": "https://x.com/FIFAWorldCup_JP/status/2068570002220085603/photo/1",
+              "media_key": "3_2068568872861765632",
+              "start": 41,
+              "url": "https://t.co/m16bi4kAwP"
+            },
+            {
+              "display_url": "pic.x.com/m16bi4kAwP",
+              "end": 64,
+              "expanded_url": "https://x.com/FIFAWorldCup_JP/status/2068570002220085603/photo/1",
+              "media_key": "3_2068568882252775424",
+              "start": 41,
+              "url": "https://t.co/m16bi4kAwP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068570002220085603",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 121,
+          "impression_count": 69090,
+          "like_count": 5102,
+          "quote_count": 25,
+          "reply_count": 50,
+          "retweet_count": 653
+        },
+        "reply_settings": "everyone",
+        "text": "伊東純也の抜け出しから日本が3得点！！⚡️⚡️⚡️\n\n#FIFAWorldCup https://t.co/m16bi4kAwP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳 / 友跨🏳️‍⚧️ / 欢迎DM聊天 / 兴趣相近互fo\n学生党 周末 / 节假日在线\n中文 / English / 日本語（勉強中）\n防失联 @Wesley10033\n和平友善交流，谢绝人身攻击\n中华人民共和国万岁 世界人民大团结万岁",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 78,
+                "username": "Wesley10033"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "location": "China",
+        "name": "Wesley10032",
+        "pinned_tweet_id": "2068037933899407863",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021156330271039488/mAwe21JP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 197,
+          "like_count": 814,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 442
+        },
+        "url": "",
+        "username": "Wesley10032",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-20T08:36:36.000Z",
+        "description": "FIFAワールドカップの最新情報をお届けする、FIFA公式アカウント🏆",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "goto.fifa.com/nxRf/9usvd51e",
+                "end": 23,
+                "expanded_url": "https://goto.fifa.com/nxRf/9usvd51e",
+                "start": 0,
+                "url": "https://t.co/g1X1XMiRlx"
+              }
+            ]
+          }
+        },
+        "id": "1549674520713510912",
+        "name": "FIFAワールドカップ 🏆",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946215017092702209/QwFGh8yd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 178998,
+          "following_count": 120,
+          "like_count": 39,
+          "listed_count": 515,
+          "media_count": 4342,
+          "tweet_count": 8945
+        },
+        "url": "https://t.co/g1X1XMiRlx",
+        "username": "FIFAWorldCup_JP",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2076636468047740928"
+      ]
+    },
+    "author_id": "1880979169297022976",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2076636733677195405",
+    "created_at": "2026-07-13T11:55:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T12:55:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076636733677195405"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/d85gpOqQkq",
+          "end": 61,
+          "expanded_url": "https://x.com/Wesley10032/status/2076636733677195405/photo/1",
+          "media_key": "3_2076636468047740928",
+          "start": 38,
+          "url": "https://t.co/d85gpOqQkq"
+        },
+        {
+          "display_url": "x.com/Wesley10032/st…",
+          "end": 85,
+          "expanded_url": "https://twitter.com/Wesley10032/status/2076128050480304535",
+          "start": 62,
+          "url": "https://t.co/7QqF9RmHzq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076636733677195405",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076128050480304535",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "发现我22年已经入库了\n还是试试入坑VRC吧\n（要是有人带我就好了www） https://t.co/d85gpOqQkq https://t.co/7QqF9RmHzq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 837,
+        "media_key": "3_2076636468047740928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNGx3X2bgAA7GFH.jpg",
+        "width": 1394
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076636468047740928"
+          ]
+        },
+        "author_id": "1880979169297022976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2076636733677195405",
+        "created_at": "2026-07-13T11:55:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T12:55:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076636733677195405"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/d85gpOqQkq",
+              "end": 61,
+              "expanded_url": "https://x.com/Wesley10032/status/2076636733677195405/photo/1",
+              "media_key": "3_2076636468047740928",
+              "start": 38,
+              "url": "https://t.co/d85gpOqQkq"
+            },
+            {
+              "display_url": "x.com/Wesley10032/st…",
+              "end": 85,
+              "expanded_url": "https://twitter.com/Wesley10032/status/2076128050480304535",
+              "start": 62,
+              "url": "https://t.co/7QqF9RmHzq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076636733677195405",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076128050480304535",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "发现我22年已经入库了\n还是试试入坑VRC吧\n（要是有人带我就好了www） https://t.co/d85gpOqQkq https://t.co/7QqF9RmHzq"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880979169297022976",
+        "conversation_id": "2076128050480304535",
+        "created_at": "2026-07-12T02:14:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T03:14:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076128050480304535"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2076128050480304535",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 248,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "VRC没有VR能玩吗，想入坑🤔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳/友跨🏳️‍⚧️/欢迎DM聊天(X/TG均可)/兴趣相近互fo\n魔裁(まのさば)/ 崩铁(HSR)/Galgame\n头像来自@pale_noon\n学生党 周末/节假日在线(暑假限时全天在线)\nCN/EN/JP(a little)\n防失联@Wesley10033\n和平友善交流 谢绝人身攻击",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 67,
+                "username": "pale_noon"
+              },
+              {
+                "end": 135,
+                "start": 123,
+                "username": "Wesley10033"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://t.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/HjVzyPDIuK"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "location": "People's Republic of China",
+        "name": "Wesley",
+        "pinned_tweet_id": "2075263019853238477",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070912735362387968/eccaKvtY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 269,
+          "following_count": 518,
+          "like_count": 3644,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 814
+        },
+        "url": "https://t.co/HjVzyPDIuK",
+        "username": "Wesley10032",
+        "verified": true
+      }
+    ]
+  }
+}

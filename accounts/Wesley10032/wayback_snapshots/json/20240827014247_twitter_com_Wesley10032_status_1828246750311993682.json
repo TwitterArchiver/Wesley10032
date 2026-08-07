@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1525456751788969985",
+    "conversation_id": "1828174350312226935",
+    "created_at": "2024-08-27T01:42:47.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-27T02:42:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1828246750311993682"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "8149482",
+          "start": 0,
+          "username": "VOAChinese"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1828246750311993682",
+    "in_reply_to_user_id": "8149482",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1828174350312226935",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@VOAChinese 如果想切断直接把她使用的代理工具掐断不就行了，为什么要断网🤔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1525456751788969985",
+        "conversation_id": "1828174350312226935",
+        "created_at": "2024-08-27T01:42:47.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-27T02:42:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1828246750311993682"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "8149482",
+              "start": 0,
+              "username": "VOAChinese"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1828246750311993682",
+        "in_reply_to_user_id": "8149482",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1828174350312226935",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@VOAChinese 如果想切断直接把她使用的代理工具掐断不就行了，为什么要断网🤔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "8149482",
+        "conversation_id": "1828174350312226935",
+        "created_at": "2024-08-26T20:55:05.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-26T21:55:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1828174350312226935"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "中国著名独立记者高瑜星期一在推特上表示，她家中的网络、座机和手机均被公安切断，但她不会屈服于当局的极权专制工具，今后将“蹭网继续发推特”。",
+              "display_url": "dlvr.it/TCPkw6",
+              "end": 45,
+              "expanded_url": "http://dlvr.it/TCPkw6",
+              "images": [
+                {
+                  "height": 675,
+                  "url": "https://pbs.twimg.com/news_img/1828174375423553536/8J7PJCeb?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1828174375423553536/8J7PJCeb?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 22,
+              "status": 200,
+              "title": "中国公安切断独立记者高瑜所有通讯联系和网络",
+              "unwound_url": "https://www.voachinese.com/a/chinese-police-cut-gaoyu-from-communication-20240826/7757846.html?utm_source=twitter&utm_medium=social&utm_campaign=dlvr.it",
+              "url": "https://t.co/8w2e928IVs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1828174350312226935",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 29459,
+          "like_count": 405,
+          "quote_count": 5,
+          "reply_count": 43,
+          "retweet_count": 104
+        },
+        "reply_settings": "everyone",
+        "text": "中国公安切断独立记者高瑜所有通讯联系和网络 https://t.co/8w2e928IVs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-14T12:43:40.000Z",
+        "description": "Free Ukraine and Palestine 🇺🇦🇵🇸",
+        "id": "1525456751788969985",
+        "name": "Wesley",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811578387594649600/eQdjLvSa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 36,
+          "like_count": 56,
+          "listed_count": 0,
+          "tweet_count": 279
+        },
+        "username": "Wesley10032",
+        "verified": false
+      },
+      {
+        "created_at": "2007-08-13T01:36:54.000Z",
+        "description": "美国之音中文官方推特@voachinese \n美国之音中文网 您可靠的信息来源 - 通晓美中大事 锁定美国之音\nhttps://t.co/XzB6iSdHWx | https://t.co/ua0xOdvfB2 | https://t.co/jWIKv7Q5vR",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 10,
+                "username": "voachinese"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "YouTube.com/voachinese",
+                "end": 79,
+                "expanded_url": "http://YouTube.com/voachinese",
+                "start": 56,
+                "url": "https://t.co/XzB6iSdHWx"
+              },
+              {
+                "display_url": "Facebook.com/voachinese",
+                "end": 105,
+                "expanded_url": "http://Facebook.com/voachinese",
+                "start": 82,
+                "url": "https://t.co/ua0xOdvfB2"
+              },
+              {
+                "display_url": "Instagram.com/voachinese",
+                "end": 131,
+                "expanded_url": "http://Instagram.com/voachinese",
+                "start": 108,
+                "url": "https://t.co/jWIKv7Q5vR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "voachinese.com",
+                "end": 23,
+                "expanded_url": "http://www.voachinese.com",
+                "start": 0,
+                "url": "https://t.co/Yn8buu0yRm"
+              }
+            ]
+          }
+        },
+        "id": "8149482",
+        "location": "Washington, DC",
+        "name": "美国之音中文网",
+        "pinned_tweet_id": "1827496111902486535",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1643258528218349572/KyNj6ump_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2428673,
+          "following_count": 166,
+          "like_count": 979,
+          "listed_count": 8239,
+          "tweet_count": 259681
+        },
+        "url": "https://t.co/Yn8buu0yRm",
+        "username": "VOAChinese",
+        "verified": true
+      }
+    ]
+  }
+}

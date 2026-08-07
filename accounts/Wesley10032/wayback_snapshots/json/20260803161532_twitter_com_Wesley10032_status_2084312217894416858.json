@@ -1,0 +1,333 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880979169297022976",
+    "conversation_id": "2084280019812286906",
+    "created_at": "2026-08-03T16:15:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T17:15:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084312217894416858"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2037086952034566144",
+          "start": 0,
+          "username": "tsingin1"
+        },
+        {
+          "end": 24,
+          "id": "2076882341159677952",
+          "start": 14,
+          "username": "FFCP_0002"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084312217894416858",
+    "in_reply_to_user_id": "1880979169297022976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084280019812286906",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tsingin1 第二份是@FFCP_0002 送的，谢谢喵😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 868,
+        "media_key": "3_2084279762655326208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOzZZrGbMAA7Pt8.png",
+        "width": 423
+      },
+      {
+        "height": 862,
+        "media_key": "3_2084279923347525632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOzZjBubkAAXs5G.png",
+        "width": 418
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880979169297022976",
+        "conversation_id": "2084280019812286906",
+        "created_at": "2026-08-03T16:15:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T17:15:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084312217894416858"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2037086952034566144",
+              "start": 0,
+              "username": "tsingin1"
+            },
+            {
+              "end": 24,
+              "id": "2076882341159677952",
+              "start": 14,
+              "username": "FFCP_0002"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084312217894416858",
+        "in_reply_to_user_id": "1880979169297022976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084280019812286906",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tsingin1 第二份是@FFCP_0002 送的，谢谢喵😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084279762655326208",
+            "3_2084279923347525632"
+          ]
+        },
+        "author_id": "1880979169297022976",
+        "conversation_id": "2084280019812286906",
+        "created_at": "2026-08-03T14:07:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T15:07:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084280019812286906"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2037086952034566144",
+              "start": 6,
+              "username": "tsingin1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kSCSQbCfko",
+              "end": 66,
+              "expanded_url": "https://x.com/Wesley10032/status/2084280019812286906/photo/1",
+              "media_key": "3_2084279762655326208",
+              "start": 43,
+              "url": "https://t.co/kSCSQbCfko"
+            },
+            {
+              "display_url": "pic.x.com/kSCSQbCfko",
+              "end": 66,
+              "expanded_url": "https://x.com/Wesley10032/status/2084280019812286906/photo/1",
+              "media_key": "3_2084279923347525632",
+              "start": 43,
+              "url": "https://t.co/kSCSQbCfko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084280019812286906",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 355,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "统一感谢喵\n@tsingin1 谢谢喵，不过你怎么也这样😡\n还有这是谁喵，谢谢你喵😭 https://t.co/kSCSQbCfko"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳/♂/08.11.3/友跨🏳️‍⚧️\n或许是温和粉红/欢迎DM聊天(TG优先)\n魔裁(まのさば)/CS2/三角洲/Galgame/IT \n兴趣相近互fo/想做心理委员\n好基友@lockloveovo\n学生党 周末/节假日在线(暑假限时全天在线)\nCN/EN/JP\n防失联@Wesley10033",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 104,
+                "start": 92,
+                "username": "lockloveovo"
+              },
+              {
+                "end": 152,
+                "start": 140,
+                "username": "Wesley10033"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://telegram.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/Q5wiGuq4W4"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "location": "People's Republic of China",
+        "name": "Wesley",
+        "pinned_tweet_id": "2083033063257420070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 786,
+          "following_count": 1118,
+          "like_count": 11552,
+          "listed_count": 1,
+          "media_count": 239,
+          "tweet_count": 2064
+        },
+        "url": "https://t.co/Q5wiGuq4W4",
+        "username": "Wesley10032",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-26T08:39:20.000Z",
+        "description": "国家：🇨🇳\n恋人：@falrense\n抱有好感的国家：🇫🇷🇨🇺🇩🇪🇯🇵🇰🇷🇬🇧🇺🇸🇷🇺\n思想倾向：偏保守\n喜欢的虚拟角色：洛天依 初音未来\n最喜欢的游戏：永劫无间 维多利亚3 pjsk phigros Milthm cytus2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "falrense"
+              }
+            ]
+          }
+        },
+        "id": "2037086952034566144",
+        "name": "初白洛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079803820205551616/KDVVyW8a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 332,
+          "following_count": 341,
+          "like_count": 2662,
+          "listed_count": 1,
+          "media_count": 148,
+          "tweet_count": 1469
+        },
+        "url": "",
+        "username": "tsingin1",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-14T04:12:50.000Z",
+        "description": "温和左臂/反稻反包/左臂压抑之巅/面对反毛哈耶克粉红我可能会成毛派支黑/繁茂贼不图能行嘛/ #支云TV /主人@CNM_1958",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 51,
+                "start": 46,
+                "tag": "支云TV"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 64,
+                "start": 55,
+                "username": "CNM_1958"
+              }
+            ]
+          }
+        },
+        "id": "2076882341159677952",
+        "location": "天安门",
+        "name": "社会主义薯条🍟☭",
+        "pinned_tweet_id": "2083839171127644251",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080075466103508992/k2GYTb_X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 282,
+          "following_count": 712,
+          "like_count": 2860,
+          "listed_count": 1,
+          "media_count": 70,
+          "tweet_count": 707
+        },
+        "url": "",
+        "username": "FFCP_0002",
+        "verified": false
+      }
+    ]
+  }
+}

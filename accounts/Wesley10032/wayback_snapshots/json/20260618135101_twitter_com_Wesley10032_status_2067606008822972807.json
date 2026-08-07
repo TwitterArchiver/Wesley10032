@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067592948418785280"
+      ],
+      "media_source_tweet_id": [
+        "2067592959508484596"
+      ]
+    },
+    "author_id": "1880979169297022976",
+    "conversation_id": "2067606008822972807",
+    "created_at": "2026-06-18T13:51:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T14:51:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067606008822972807"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1527922242734239745",
+          "start": 3,
+          "username": "Elysia__Mei"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/OHFwxzGutx",
+          "end": 40,
+          "expanded_url": "https://x.com/Elysia__Mei/status/2067592959508484596/photo/1",
+          "media_key": "3_2067592948418785280",
+          "start": 17,
+          "url": "https://t.co/OHFwxzGutx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067606008822972807",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 29
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067592959508484596",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Elysia__Mei: https://t.co/OHFwxzGutx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2067592948418785280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLGQ1P6asAAvN6g.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067592948418785280"
+          ],
+          "media_source_tweet_id": [
+            "2067592959508484596"
+          ]
+        },
+        "author_id": "1880979169297022976",
+        "conversation_id": "2067606008822972807",
+        "created_at": "2026-06-18T13:51:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T14:51:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067606008822972807"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1527922242734239745",
+              "start": 3,
+              "username": "Elysia__Mei"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OHFwxzGutx",
+              "end": 40,
+              "expanded_url": "https://x.com/Elysia__Mei/status/2067592959508484596/photo/1",
+              "media_key": "3_2067592948418785280",
+              "start": 17,
+              "url": "https://t.co/OHFwxzGutx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067606008822972807",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 29
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067592959508484596",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Elysia__Mei: https://t.co/OHFwxzGutx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067592948418785280"
+          ]
+        },
+        "author_id": "1527922242734239745",
+        "conversation_id": "2067592959508484596",
+        "created_at": "2026-06-18T12:59:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T13:59:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067592959508484596"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OHFwxzGutx",
+              "end": 23,
+              "expanded_url": "https://x.com/Elysia__Mei/status/2067592959508484596/photo/1",
+              "media_key": "3_2067592948418785280",
+              "start": 0,
+              "url": "https://t.co/OHFwxzGutx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067592959508484596",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 73,
+          "impression_count": 2219,
+          "like_count": 423,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 29
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/OHFwxzGutx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳 / 民主社会主义 / 反台独 / Free Ukraine 🇺🇦 / Free Palestine 🇵🇸\n魔裁（まのさば） / 崩铁（HSR）\n和平友善交流，谢绝人身攻击\n中华人民共和国万岁 世界人民大团结万岁",
+        "id": "1880979169297022976",
+        "location": "China",
+        "name": "Wesley10032",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021156330271039488/mAwe21JP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 122,
+          "like_count": 569,
+          "listed_count": 1,
+          "media_count": 4,
+          "tweet_count": 344
+        },
+        "url": "",
+        "username": "Wesley10032",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-21T08:00:41.000Z",
+        "description": "Love anime waifus,Use SD.\nPixiv:https://t.co/PHrYV37M1M\nPatreon:https://t.co/GAUPvEkheH\nYoutube:https://t.co/8uXmAm0ufK",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/17696303",
+                "end": 55,
+                "expanded_url": "http://pixiv.net/users/17696303",
+                "start": 32,
+                "url": "https://t.co/PHrYV37M1M"
+              },
+              {
+                "display_url": "patreon.com/u65274153",
+                "end": 87,
+                "expanded_url": "http://patreon.com/u65274153",
+                "start": 64,
+                "url": "https://t.co/GAUPvEkheH"
+              },
+              {
+                "display_url": "youtube.com/@Elysia__Mei1",
+                "end": 119,
+                "expanded_url": "https://www.youtube.com/@Elysia__Mei1",
+                "start": 96,
+                "url": "https://t.co/8uXmAm0ufK"
+              }
+            ]
+          }
+        },
+        "id": "1527922242734239745",
+        "name": "八重嘤嘤桜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875328788785197058/QI8qWO_0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 205807,
+          "following_count": 16,
+          "like_count": 1792,
+          "listed_count": 860,
+          "media_count": 427,
+          "tweet_count": 467
+        },
+        "url": "",
+        "username": "Elysia__Mei",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,324 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880979169297022976",
+    "conversation_id": "2082714253744828661",
+    "created_at": "2026-07-30T07:04:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T08:04:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082724051307696417"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1781868776918790144",
+          "start": 0,
+          "username": "Kazama_Nagi_"
+        }
+      ],
+      "urls": [
+        {
+          "description": "Activate affordable global eSIM plans in minutes with eSIM.GG. Stay connected worldwide with transparent pricing, instant setup, and reliable coverage in 180+ destinations.",
+          "display_url": "esim.gg",
+          "end": 41,
+          "expanded_url": "http://esim.gg",
+          "images": [
+            {
+              "height": 600,
+              "url": "https://pbs.twimg.com/news_img/2082135312348930048/GexLhSYL?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2082135312348930048/GexLhSYL?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 18,
+          "status": 200,
+          "title": "eSIM.GG – Global eSIM Plans from €0.88/GB",
+          "unwound_url": "https://esim.gg/",
+          "url": "https://t.co/2sq7yDgOzl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082724051307696417",
+    "in_reply_to_user_id": "1781868776918790144",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082714253744828661",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kazama_Nagi_ 可以去 https://t.co/2sq7yDgOzl 整个 esim（）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1604,
+        "media_key": "3_2082714246237024256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOdJkn-acAA_msT.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880979169297022976",
+        "conversation_id": "2082714253744828661",
+        "created_at": "2026-07-30T07:04:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T08:04:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082724051307696417"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1781868776918790144",
+              "start": 0,
+              "username": "Kazama_Nagi_"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Activate affordable global eSIM plans in minutes with eSIM.GG. Stay connected worldwide with transparent pricing, instant setup, and reliable coverage in 180+ destinations.",
+              "display_url": "esim.gg",
+              "end": 41,
+              "expanded_url": "http://esim.gg",
+              "images": [
+                {
+                  "height": 600,
+                  "url": "https://pbs.twimg.com/news_img/2082135312348930048/GexLhSYL?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2082135312348930048/GexLhSYL?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 18,
+              "status": 200,
+              "title": "eSIM.GG – Global eSIM Plans from €0.88/GB",
+              "unwound_url": "https://esim.gg/",
+              "url": "https://t.co/2sq7yDgOzl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082724051307696417",
+        "in_reply_to_user_id": "1781868776918790144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082714253744828661",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kazama_Nagi_ 可以去 https://t.co/2sq7yDgOzl 整个 esim（）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082714246237024256"
+          ]
+        },
+        "author_id": "1781868776918790144",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1420050770829799426",
+              "name": "Alibaba Group"
+            }
+          }
+        ],
+        "conversation_id": "2082714253744828661",
+        "created_at": "2026-07-30T06:25:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T07:25:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082714253744828661"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PiAxof1Bba",
+              "end": 86,
+              "expanded_url": "https://x.com/Kazama_Nagi_/status/2082714253744828661/photo/1",
+              "media_key": "3_2082714246237024256",
+              "start": 63,
+              "url": "https://t.co/PiAxof1Bba"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082714253744828661",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 74,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "nagi酱真的很想注册telegram\n怎么办啊\n管我要钱\n一看支付方式，Alipay HK\n不是大陆的支付宝\n咋办啊... https://t.co/PiAxof1Bba"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳/♂/08.11.3/友跨🏳️‍⚧️\n或许是温和粉红/欢迎DM聊天(TG优先)\n魔裁(まのさば)/CS2/三角洲/Galgame/IT \n兴趣相近互fo\n好基友@lockloveovo\n学生党 周末/节假日在线(暑假限时全天在线)\nCN/EN/JP\nTG群见置顶\n防失联@Wesley10033",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 85,
+                "username": "lockloveovo"
+              },
+              {
+                "end": 152,
+                "start": 140,
+                "username": "Wesley10033"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://telegram.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/Q5wiGuqCLC"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "location": "People's Republic of China",
+        "name": "Wesley",
+        "pinned_tweet_id": "2077761863937597659",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 681,
+          "following_count": 1030,
+          "like_count": 9874,
+          "listed_count": 1,
+          "media_count": 200,
+          "tweet_count": 1812
+        },
+        "url": "https://t.co/Q5wiGuqCLC",
+        "username": "Wesley10032",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-21T02:13:24.000Z",
+        "description": "人生价值观\n脸面乃身外之物/佛系/听天由命/造它就完了\n🏳️‍⚧️11年MTF 同类互fo喵\n🏫高中生（准确来讲应该是准高一，还没开学）\n👤MBTI （测不准，合起来是）INSFTP\n♥️爱好 折腾/音乐/写作/美食\n😭175cm",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/Riu-Mahiyo",
+                "end": 23,
+                "expanded_url": "https://github.com/Riu-Mahiyo",
+                "start": 0,
+                "url": "https://t.co/evOh4n6fqO"
+              }
+            ]
+          }
+        },
+        "id": "1781868776918790144",
+        "location": "Canada",
+        "name": "Kazama_Nagi🏳️‍⚧️",
+        "pinned_tweet_id": "2082542758959702183",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080239190462390272/8R29S_kE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 224,
+          "following_count": 279,
+          "like_count": 187,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 97
+        },
+        "url": "https://t.co/evOh4n6fqO",
+        "username": "Kazama_Nagi_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880979169297022976",
+    "conversation_id": "2081589927586992275",
+    "created_at": "2026-07-27T07:02:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T08:02:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081636313049239977"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1849826752891408385",
+          "start": 0,
+          "username": "Noa__Shirayuki"
+        },
+        {
+          "end": 28,
+          "id": "2071981601869934592",
+          "start": 16,
+          "username": "JLiao090925"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081636313049239977",
+    "in_reply_to_user_id": "1849826752891408385",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081617430108070287",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Noa__Shirayuki @JLiao090925 我们这里猪脚饭基本都是10块钱（）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 162,
+        "media_key": "16_2081617416162045952",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HONkAtia8AARsHf.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HONkAtia8AARsHf.mp4"
+          }
+        ],
+        "width": 162
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880979169297022976",
+        "conversation_id": "2081589927586992275",
+        "created_at": "2026-07-27T07:02:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T08:02:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081636313049239977"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1849826752891408385",
+              "start": 0,
+              "username": "Noa__Shirayuki"
+            },
+            {
+              "end": 28,
+              "id": "2071981601869934592",
+              "start": 16,
+              "username": "JLiao090925"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081636313049239977",
+        "in_reply_to_user_id": "1849826752891408385",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081617430108070287",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Noa__Shirayuki @JLiao090925 我们这里猪脚饭基本都是10块钱（）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2081617416162045952"
+          ]
+        },
+        "author_id": "1849826752891408385",
+        "conversation_id": "2081589927586992275",
+        "created_at": "2026-07-27T05:47:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T06:47:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081617430108070287"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2071981601869934592",
+              "start": 0,
+              "username": "JLiao090925"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uHijrk5xqf",
+              "end": 50,
+              "expanded_url": "https://x.com/Noa__Shirayuki/status/2081617430108070287/photo/1",
+              "media_key": "16_2081617416162045952",
+              "start": 27,
+              "url": "https://t.co/uHijrk5xqf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081617430108070287",
+        "in_reply_to_user_id": "2071981601869934592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081589927586992275",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JLiao090925 這⋯這這這只要15cny嗎 https://t.co/uHijrk5xqf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳/♂/友跨🏳️‍⚧️\n或许是温和粉红/欢迎DM聊天(推荐使用TG)\n魔裁(まのさば)/CS2/三角洲/Galgame/IT \n兴趣相近互fo\n好基友@lockloveovo\n学生党 周末/节假日在线(暑假限时全天在线)\nCN/EN/JP\nTG群见置顶\n防失联@Wesley10033",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 79,
+                "username": "lockloveovo"
+              },
+              {
+                "end": 146,
+                "start": 134,
+                "username": "Wesley10033"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://telegram.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/Q5wiGuqCLC"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "location": "People's Republic of China",
+        "name": "Wesley",
+        "pinned_tweet_id": "2077761863937597659",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 622,
+          "following_count": 945,
+          "like_count": 9064,
+          "listed_count": 1,
+          "media_count": 194,
+          "tweet_count": 1682
+        },
+        "url": "https://t.co/Q5wiGuqCLC",
+        "username": "Wesley10032",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-25T14:54:21.000Z",
+        "description": "專業銳評 & 情色藝術家\nIT（Windows Server）｜業餘混音／音樂鑑賞／攝影\n正體中文🇹🇼｜簡體中文🇨🇳｜粵語🇭🇰🇲🇴｜日語🇯🇵\n動畫／Galgame 愛好者",
+        "id": "1849826752891408385",
+        "location": "Macao(SAR) ,China",
+        "name": "白雪乃愛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849837151518851072/QsQejokl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 25,
+          "like_count": 68,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 40
+        },
+        "url": "",
+        "username": "Noa__Shirayuki",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-30T15:42:03.000Z",
+        "description": "学生党/09生人/可私信/世界欠我一个白雪乃爱/忘记说啥了",
+        "id": "2071981601869934592",
+        "location": "广东",
+        "name": "金属废料（期待假期早日归来）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072608887988236290/_IRTdfHF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 81,
+          "like_count": 1570,
+          "listed_count": 0,
+          "media_count": 183,
+          "tweet_count": 1209
+        },
+        "url": "",
+        "username": "JLiao090925",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1525456751788969985",
+    "conversation_id": "1827593716238102883",
+    "created_at": "2024-08-25T06:27:51.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-25T07:27:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1827593716238102883"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/RobertKennedyJ…",
+          "end": 63,
+          "expanded_url": "https://twitter.com/RobertKennedyJr/status/1827540616282055012",
+          "start": 40,
+          "url": "https://t.co/gFzqx4DVFX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1827593716238102883",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1827540616282055012",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "西方的“Free Speech”不攻自破，所谓“言论自由”就是彻头彻尾的谎言。 https://t.co/gFzqx4DVFX"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1525456751788969985",
+        "conversation_id": "1827593716238102883",
+        "created_at": "2024-08-25T06:27:51.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-25T07:27:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1827593716238102883"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/RobertKennedyJ…",
+              "end": 63,
+              "expanded_url": "https://twitter.com/RobertKennedyJr/status/1827540616282055012",
+              "start": 40,
+              "url": "https://t.co/gFzqx4DVFX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1827593716238102883",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1827540616282055012",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "西方的“Free Speech”不攻自破，所谓“言论自由”就是彻头彻尾的谎言。 https://t.co/gFzqx4DVFX"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "337808606",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Candidate for Representative from Alabama, Robert Kennedy Jr.",
+              "id": "1041996287510437888",
+              "name": "Robert Kennedy Jr."
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1806696327381729280",
+              "name": "Robert F Kennedy Jr"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Candidate for Representative from Alabama, Robert Kennedy Jr.",
+              "id": "1041996287510437888",
+              "name": "Robert Kennedy Jr."
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "id": "1806696327381729280",
+              "name": "Robert F Kennedy Jr"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Candidate for Representative from Alabama, Robert Kennedy Jr.",
+              "id": "1041996287510437888",
+              "name": "Robert Kennedy Jr."
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          }
+        ],
+        "conversation_id": "1827540616282055012",
+        "created_at": "2024-08-25T02:56:51.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-25T03:56:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1827540616282055012"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 5,
+              "normalized_text": "France",
+              "probability": 0.9785,
+              "start": 0,
+              "type": "Place"
+            },
+            {
+              "end": 31,
+              "normalized_text": "Pavel Durov",
+              "probability": 0.9476,
+              "start": 21,
+              "type": "Person"
+            },
+            {
+              "end": 88,
+              "normalized_text": "Telegram",
+              "probability": 0.9181,
+              "start": 81,
+              "type": "Other"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1827540616282055012",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 893,
+          "impression_count": 924453,
+          "like_count": 66817,
+          "quote_count": 458,
+          "reply_count": 1534,
+          "retweet_count": 11768
+        },
+        "reply_settings": "everyone",
+        "text": "France just arrested Pavel Durov, founder &amp; CEO of the encrypted, uncensored Telegram platform. The need to protect free speech has never been more urgent."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-14T12:43:40.000Z",
+        "description": "Free Ukraine and Palestine 🇺🇦🇵🇸",
+        "id": "1525456751788969985",
+        "name": "Wesley",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811578387594649600/eQdjLvSa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 34,
+          "like_count": 47,
+          "listed_count": 0,
+          "tweet_count": 251
+        },
+        "username": "Wesley10032",
+        "verified": false
+      },
+      {
+        "created_at": "2011-07-18T16:22:27.000Z",
+        "description": "",
+        "id": "337808606",
+        "location": "Los Angeles, California",
+        "name": "Robert F. Kennedy Jr",
+        "pinned_tweet_id": "1827408345365631337",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1665141083624423428/geiQrLwM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3509667,
+          "following_count": 935,
+          "like_count": 1124,
+          "listed_count": 7508,
+          "tweet_count": 9095
+        },
+        "username": "RobertKennedyJr",
+        "verified": true
+      }
+    ]
+  }
+}

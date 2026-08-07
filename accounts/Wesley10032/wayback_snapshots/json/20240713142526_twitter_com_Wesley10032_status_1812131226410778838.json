@@ -1,0 +1,446 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1525456751788969985",
+    "conversation_id": "1811956990224245212",
+    "created_at": "2024-07-13T14:25:26.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-13T15:25:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1812131226410778838"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 76,
+          "normalized_text": "Tibet",
+          "probability": 0.8272,
+          "start": 72,
+          "type": "Place"
+        },
+        {
+          "end": 143,
+          "normalized_text": "China",
+          "probability": 0.9421,
+          "start": 139,
+          "type": "Place"
+        },
+        {
+          "end": 170,
+          "normalized_text": "Tibet",
+          "probability": 0.8098,
+          "start": 166,
+          "type": "Place"
+        },
+        {
+          "end": 212,
+          "normalized_text": "Roman Empire",
+          "probability": 0.6802,
+          "start": 201,
+          "type": "Place"
+        },
+        {
+          "end": 259,
+          "normalized_text": "Roman Empire",
+          "probability": 0.8991,
+          "start": 248,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "918420895495946240",
+          "start": 0,
+          "username": "CTA_TibetdotNet"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1812131226410778838",
+    "in_reply_to_user_id": "918420895495946240",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1811956990224245212",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CTA_TibetdotNet The Tibetan government-in-exile has nothing to do with Tibet. All you can do is follow the Western countries to discredit China under the banner of \"Tibet.\" This is just like the Holy Roman Empire, which has nothing to do with the Roman Empire."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1525456751788969985",
+        "conversation_id": "1811956990224245212",
+        "created_at": "2024-07-13T14:25:26.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-13T15:25:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1812131226410778838"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 76,
+              "normalized_text": "Tibet",
+              "probability": 0.8272,
+              "start": 72,
+              "type": "Place"
+            },
+            {
+              "end": 143,
+              "normalized_text": "China",
+              "probability": 0.9421,
+              "start": 139,
+              "type": "Place"
+            },
+            {
+              "end": 170,
+              "normalized_text": "Tibet",
+              "probability": 0.8098,
+              "start": 166,
+              "type": "Place"
+            },
+            {
+              "end": 212,
+              "normalized_text": "Roman Empire",
+              "probability": 0.6802,
+              "start": 201,
+              "type": "Place"
+            },
+            {
+              "end": 259,
+              "normalized_text": "Roman Empire",
+              "probability": 0.8991,
+              "start": 248,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "918420895495946240",
+              "start": 0,
+              "username": "CTA_TibetdotNet"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1812131226410778838",
+        "in_reply_to_user_id": "918420895495946240",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1811956990224245212",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CTA_TibetdotNet The Tibetan government-in-exile has nothing to do with Tibet. All you can do is follow the Western countries to discredit China under the banner of \"Tibet.\" This is just like the Holy Roman Empire, which has nothing to do with the Roman Empire."
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1811956977179742208"
+          ]
+        },
+        "author_id": "918420895495946240",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "US President Joe Biden",
+              "id": "10040395078",
+              "name": "Joe Biden"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "US President Joe Biden",
+              "id": "10040395078",
+              "name": "Joe Biden"
+            }
+          },
+          {
+            "domain": {
+              "description": "News Categories like Entertainment or Technology",
+              "id": "69",
+              "name": "News Vertical"
+            },
+            "entity": {
+              "description": "US National News",
+              "id": "1003932601839579136",
+              "name": "US national news"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "US President Joe Biden",
+              "id": "10040395078",
+              "name": "Joe Biden"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "US National News",
+              "id": "1003932601839579136",
+              "name": "US national news"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "News",
+              "id": "1046545033657081857",
+              "name": "News"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Breaking News",
+              "id": "1047084549396549632",
+              "name": "Ongoing news stories"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "1811956990224245212",
+        "created_at": "2024-07-13T02:53:05.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-13T03:53:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1811956990224245212"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 32,
+              "normalized_text": "Tibet Act",
+              "probability": 0.7996,
+              "start": 24,
+              "type": "Other"
+            },
+            {
+              "end": 55,
+              "normalized_text": "US",
+              "probability": 0.7236,
+              "start": 54,
+              "type": "Place"
+            },
+            {
+              "end": 75,
+              "normalized_text": "Joe Biden",
+              "probability": 0.9773,
+              "start": 67,
+              "type": "Person"
+            },
+            {
+              "end": 117,
+              "normalized_text": "US",
+              "probability": 0.9354,
+              "start": 116,
+              "type": "Place"
+            },
+            {
+              "end": 153,
+              "normalized_text": "PRC",
+              "probability": 0.4271,
+              "start": 151,
+              "type": "Organization"
+            }
+          ],
+          "urls": [
+            {
+              "description": "On Friday, July 12, 2024, the President signed into law: S. 138, the “Promoting a Resolution to the Tibet-China Dispute Act,” which amends the Tibetan Policy Act of 2002. Thank you to Senators Merkley and Young, and Representatives McGovern and McCaul for their leadership. ###",
+              "display_url": "whitehouse.gov/briefing-room/…",
+              "end": 216,
+              "expanded_url": "https://www.whitehouse.gov/briefing-room/legislation/2024/07/12/bill-signed-s-138/",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/1811953981377150976/69zrH--E?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1811953981377150976/69zrH--E?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 193,
+              "status": 200,
+              "title": "Bill Signed: S. 138 | The White House",
+              "unwound_url": "https://www.whitehouse.gov/briefing-room/legislation/2024/07/12/bill-signed-s-138/",
+              "url": "https://t.co/WxPQPmrXaw"
+            },
+            {
+              "display_url": "pic.twitter.com/M93ERaX1pY",
+              "end": 240,
+              "expanded_url": "https://twitter.com/CTA_TibetdotNet/status/1811956990224245212/photo/1",
+              "media_key": "3_1811956977179742208",
+              "start": 217,
+              "url": "https://t.co/M93ERaX1pY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1811956990224245212",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 7135,
+          "like_count": 206,
+          "quote_count": 14,
+          "reply_count": 52,
+          "retweet_count": 80
+        },
+        "reply_settings": "everyone",
+        "text": "BREAKING NEWS:  Resolve Tibet Act, is now a law after US President Joe Biden signed on 12 July 2024. \n\nIt helps the US counter misinformation from the PRC and support the rights of Tibetans. \n\nhttps://t.co/WxPQPmrXaw https://t.co/M93ERaX1pY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-14T12:43:40.000Z",
+        "description": "Free Ukraine and Palestine",
+        "id": "1525456751788969985",
+        "name": "Wesley",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811578387594649600/eQdjLvSa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 25,
+          "like_count": 30,
+          "listed_count": 0,
+          "tweet_count": 140
+        },
+        "username": "Wesley10032",
+        "verified": false
+      },
+      {
+        "created_at": "2017-10-12T10:19:39.000Z",
+        "description": "Official Twitter page of the Central Tibetan Administration. News articles posted on https://t.co/M6E0DW2hLO are tweeted here. Retweets are not endorsements.",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "Tibet.Net",
+                "end": 108,
+                "expanded_url": "http://Tibet.Net",
+                "start": 85,
+                "url": "https://t.co/M6E0DW2hLO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tibet.net",
+                "end": 23,
+                "expanded_url": "http://tibet.net/",
+                "start": 0,
+                "url": "https://t.co/jtyKwj9Qp2"
+              }
+            ]
+          }
+        },
+        "id": "918420895495946240",
+        "location": "Dharamsala, India",
+        "name": "Tibet.Net",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1404683781508767748/DkTFCPyV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17639,
+          "following_count": 24,
+          "like_count": 899,
+          "listed_count": 123,
+          "tweet_count": 12231
+        },
+        "url": "https://t.co/jtyKwj9Qp2",
+        "username": "CTA_TibetdotNet",
+        "verified": false
+      }
+    ]
+  }
+}

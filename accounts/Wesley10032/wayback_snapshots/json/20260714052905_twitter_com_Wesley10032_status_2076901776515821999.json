@@ -1,0 +1,340 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880979169297022976",
+    "conversation_id": "2076702927029465467",
+    "created_at": "2026-07-14T05:29:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T06:29:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076901776515821999"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1885529810942009344",
+          "start": 0,
+          "username": "NEO_NA45"
+        },
+        {
+          "end": 21,
+          "id": "2043741432914292739",
+          "start": 10,
+          "username": "Tudouni213"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076901776515821999",
+    "in_reply_to_user_id": "1885529810942009344",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076702927029465467",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NEO_NA45 @Tudouni213 豪堪"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2076702882502692864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNHuRM-aUAAA5g3.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2076702893667913728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNHuR2kaEAAsRjL.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2076702906066296832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNHuSkwaYAASoAY.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2076702918733115392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNHuTT8asAAgi-q.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880979169297022976",
+        "conversation_id": "2076702927029465467",
+        "created_at": "2026-07-14T05:29:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T06:29:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076901776515821999"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1885529810942009344",
+              "start": 0,
+              "username": "NEO_NA45"
+            },
+            {
+              "end": 21,
+              "id": "2043741432914292739",
+              "start": 10,
+              "username": "Tudouni213"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076901776515821999",
+        "in_reply_to_user_id": "1885529810942009344",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076702927029465467",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NEO_NA45 @Tudouni213 豪堪"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076702882502692864",
+            "3_2076702893667913728",
+            "3_2076702906066296832",
+            "3_2076702918733115392"
+          ]
+        },
+        "author_id": "1885529810942009344",
+        "conversation_id": "2076702927029465467",
+        "created_at": "2026-07-13T16:18:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T17:18:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076702927029465467"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LYr8it8vlz",
+              "end": 67,
+              "expanded_url": "https://x.com/NEO_NA45/status/2076702927029465467/photo/1",
+              "media_key": "3_2076702882502692864",
+              "start": 44,
+              "url": "https://t.co/LYr8it8vlz"
+            },
+            {
+              "display_url": "pic.x.com/LYr8it8vlz",
+              "end": 67,
+              "expanded_url": "https://x.com/NEO_NA45/status/2076702927029465467/photo/1",
+              "media_key": "3_2076702893667913728",
+              "start": 44,
+              "url": "https://t.co/LYr8it8vlz"
+            },
+            {
+              "display_url": "pic.x.com/LYr8it8vlz",
+              "end": 67,
+              "expanded_url": "https://x.com/NEO_NA45/status/2076702927029465467/photo/1",
+              "media_key": "3_2076702906066296832",
+              "start": 44,
+              "url": "https://t.co/LYr8it8vlz"
+            },
+            {
+              "display_url": "pic.x.com/LYr8it8vlz",
+              "end": 67,
+              "expanded_url": "https://x.com/NEO_NA45/status/2076702927029465467/photo/1",
+              "media_key": "3_2076702918733115392",
+              "start": 44,
+              "url": "https://t.co/LYr8it8vlz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076702927029465467",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 113,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "天啊。。去年\n那時候一切都還很好！..技術是個人的巔峰了\n最近靈感枯竭了水平也不行了😭 https://t.co/LYr8it8vlz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳/友跨🏳️‍⚧️/欢迎DM聊天(X/TG均可)/兴趣相近互fo\n魔裁(まのさば)/ 崩铁(HSR)/Galgame\n头像来自@pale_noon\n学生党 周末/节假日在线(暑假限时全天在线)\nCN/EN/JP(a little)\n防失联@Wesley10033\n和平友善交流 谢绝人身攻击",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 67,
+                "username": "pale_noon"
+              },
+              {
+                "end": 135,
+                "start": 123,
+                "username": "Wesley10033"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://telegram.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/Q5wiGuqCLC"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "location": "People's Republic of China",
+        "name": "Wesley",
+        "pinned_tweet_id": "2075263019853238477",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070912735362387968/eccaKvtY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 287,
+          "following_count": 546,
+          "like_count": 4006,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 860
+        },
+        "url": "https://t.co/Q5wiGuqCLC",
+        "username": "Wesley10032",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-01T03:25:23.000Z",
+        "description": "感謝關注喵：\n🏎️ F1｜📱 Android｜📷 Photography｜分享生活碎片與一些想法\n👑GOAT:@LewisHamilton",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 55,
+                "username": "LewisHamilton"
+              }
+            ]
+          }
+        },
+        "id": "1885529810942009344",
+        "name": "NEO_NA45",
+        "pinned_tweet_id": "2076014787893547323",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075981609870991360/TQWSYK8d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 286,
+          "like_count": 2134,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 706
+        },
+        "url": "",
+        "username": "NEO_NA45",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-13T17:23:16.000Z",
+        "description": "07\n碎碎念小号\n别骚扰我行不。",
+        "id": "2043741432914292739",
+        "name": "OwO",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051359561806958592/87d8P4MV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 15,
+          "like_count": 103,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 47
+        },
+        "url": "",
+        "username": "Tudouni213",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,365 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075026280634896384"
+      ],
+      "media_source_tweet_id": [
+        "2075026287047983450"
+      ]
+    },
+    "author_id": "1880979169297022976",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2075086095600218608",
+    "created_at": "2026-07-09T05:14:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T06:14:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075086095600218608"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 30,
+          "start": 21,
+          "tag": "まのさばネタバレ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1134887949936537600",
+          "start": 3,
+          "username": "RikaOfFragments"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/t5gsNL8wIf",
+          "end": 90,
+          "expanded_url": "https://x.com/RikaOfFragments/status/2075026287047983450/photo/1",
+          "media_key": "3_2075026280634896384",
+          "start": 67,
+          "url": "https://t.co/t5gsNL8wIf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075086095600218608",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 184
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075026287047983450",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @RikaOfFragments: #まのさばネタバレ\n\nFINALLY THEY ADDED THIS CUT IN 😭♥️ https://t.co/t5gsNL8wIf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1079,
+        "media_key": "3_2075026280634896384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMv5aITX0AATf0L.jpg",
+        "width": 1908
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075026280634896384"
+          ],
+          "media_source_tweet_id": [
+            "2075026287047983450"
+          ]
+        },
+        "author_id": "1880979169297022976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2075086095600218608",
+        "created_at": "2026-07-09T05:14:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T06:14:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075086095600218608"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 30,
+              "start": 21,
+              "tag": "まのさばネタバレ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1134887949936537600",
+              "start": 3,
+              "username": "RikaOfFragments"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/t5gsNL8wIf",
+              "end": 90,
+              "expanded_url": "https://x.com/RikaOfFragments/status/2075026287047983450/photo/1",
+              "media_key": "3_2075026280634896384",
+              "start": 67,
+              "url": "https://t.co/t5gsNL8wIf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075086095600218608",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 184
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075026287047983450",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @RikaOfFragments: #まのさばネタバレ\n\nFINALLY THEY ADDED THIS CUT IN 😭♥️ https://t.co/t5gsNL8wIf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075026280634896384"
+          ]
+        },
+        "author_id": "1134887949936537600",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2075026287047983450",
+        "created_at": "2026-07-09T01:16:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T02:16:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075026287047983450"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 9,
+              "start": 0,
+              "tag": "まのさばネタバレ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/t5gsNL8wIf",
+              "end": 69,
+              "expanded_url": "https://x.com/RikaOfFragments/status/2075026287047983450/photo/1",
+              "media_key": "3_2075026280634896384",
+              "start": 46,
+              "url": "https://t.co/t5gsNL8wIf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075026287047983450",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 166,
+          "impression_count": 31781,
+          "like_count": 1727,
+          "quote_count": 21,
+          "reply_count": 2,
+          "retweet_count": 184
+        },
+        "reply_settings": "everyone",
+        "text": "#まのさばネタバレ\n\nFINALLY THEY ADDED THIS CUT IN 😭♥️ https://t.co/t5gsNL8wIf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳 / 友跨🏳️‍⚧️ / 欢迎DM聊天 / 兴趣相近互fo\n魔裁（まのさば）/ 崩铁（HSR）/ Galgame\n头像来自@pale_noon\n学生党 周末 / 节假日在线\n中文 / English / 日本語（勉強中）\n防失联@Wesley10033\n和平友善交流 谢绝人身攻击",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 66,
+                "username": "pale_noon"
+              },
+              {
+                "end": 131,
+                "start": 119,
+                "username": "Wesley10033"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://t.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/HjVzyPDIuK"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "location": "China",
+        "name": "Wesley",
+        "pinned_tweet_id": "2068037933899407863",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070912735362387968/eccaKvtY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138,
+          "following_count": 322,
+          "like_count": 1456,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 537
+        },
+        "url": "https://t.co/HjVzyPDIuK",
+        "username": "Wesley10032",
+        "verified": true
+      },
+      {
+        "created_at": "2019-06-01T18:22:27.000Z",
+        "description": "m/w @exuskadi • 楠木ともり推し🌟 I like Kanade and Ichika a normal amount • Mutsumi too • Arknights, WTC, prsk, Manosaba, VN, yuri, Avemuji, Touhou fan • EN/日本語",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 4,
+                "username": "exuskadi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "rikaoffragments.straw.page",
+                "end": 23,
+                "expanded_url": "https://rikaoffragments.straw.page/",
+                "start": 0,
+                "url": "https://t.co/5Cdc2LoZ0B"
+              }
+            ]
+          }
+        },
+        "id": "1134887949936537600",
+        "location": "#FreePalestine🇵🇸 | aroace",
+        "name": "Mina 🌟 ともりる",
+        "pinned_tweet_id": "2039787868013408537",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072286454349549568/6sZmm5iZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3286,
+          "following_count": 3324,
+          "like_count": 121049,
+          "listed_count": 20,
+          "media_count": 4395,
+          "tweet_count": 57061
+        },
+        "url": "https://t.co/5Cdc2LoZ0B",
+        "username": "RikaOfFragments",
+        "verified": false
+      }
+    ]
+  }
+}

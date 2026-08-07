@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880979169297022976",
+    "conversation_id": "2080135740026196195",
+    "created_at": "2026-07-23T04:14:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T05:14:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080144517110677639"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2075742270993641472",
+          "start": 0,
+          "username": "vani_0610"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080144517110677639",
+    "in_reply_to_user_id": "2075742270993641472",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080144356363682114",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@vani_0610 🤔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880979169297022976",
+        "conversation_id": "2080135740026196195",
+        "created_at": "2026-07-23T04:14:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T05:14:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080144517110677639"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2075742270993641472",
+              "start": 0,
+              "username": "vani_0610"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080144517110677639",
+        "in_reply_to_user_id": "2075742270993641472",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080144356363682114",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@vani_0610 🤔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2075742270993641472",
+        "conversation_id": "2080135740026196195",
+        "created_at": "2026-07-23T04:13:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T05:13:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080144356363682114"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1880979169297022976",
+              "start": 0,
+              "username": "Wesley10032"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080144356363682114",
+        "in_reply_to_user_id": "1880979169297022976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080135740026196195",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wesley10032 我也要挂你的👿\n但是感觉这种一言不和就挂人的真好笑"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳/男/友跨🏳️‍⚧️/或许是温和粉红/欢迎DM聊天(推荐使用TG)\n魔裁(まのさば)/VRChat/Galgame/IT 兴趣相近互fo\n好基友@lockloveovo\n学生党 周末/节假日在线(暑假限时全天在线)\nCN/EN/JP\nTG群见置顶\n防失联@Wesley10033",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 77,
+                "username": "lockloveovo"
+              },
+              {
+                "end": 144,
+                "start": 132,
+                "username": "Wesley10033"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://telegram.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/Q5wiGuqCLC"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "location": "People's Republic of China",
+        "name": "Wesley",
+        "pinned_tweet_id": "2075263019853238477",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 558,
+          "following_count": 853,
+          "like_count": 7615,
+          "listed_count": 1,
+          "media_count": 176,
+          "tweet_count": 1475
+        },
+        "url": "https://t.co/Q5wiGuqCLC",
+        "username": "Wesley10032",
+        "verified": true
+      },
+      {
+        "created_at": "2026-07-11T00:45:26.000Z",
+        "description": "一个水仙婊子  自由左翼  MTF  精神病人",
+        "id": "2075742270993641472",
+        "location": "法国",
+        "name": "Mi An",
+        "pinned_tweet_id": "2078687843514233110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078045022553808896/eM3lWbB9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 32,
+          "like_count": 97,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 123
+        },
+        "url": "",
+        "username": "vani_0610",
+        "verified": false
+      }
+    ]
+  }
+}

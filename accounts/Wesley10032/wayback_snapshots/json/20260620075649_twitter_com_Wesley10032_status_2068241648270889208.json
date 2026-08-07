@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880979169297022976",
+    "conversation_id": "2068241648270889208",
+    "created_at": "2026-06-20T07:56:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T08:56:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068241648270889208"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/madostaff/stat…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/madostaff/status/2067940465026953676",
+          "start": 7,
+          "url": "https://t.co/KTcM0bvoa4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068241648270889208",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067940465026953676",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "速速端上来罢 https://t.co/KTcM0bvoa4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 900,
+        "media_key": "3_2067939763542437889",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLLMQi7aMAEef0m.jpg",
+        "width": 1600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880979169297022976",
+        "conversation_id": "2068241648270889208",
+        "created_at": "2026-06-20T07:56:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T08:56:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068241648270889208"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/madostaff/stat…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/madostaff/status/2067940465026953676",
+              "start": 7,
+              "url": "https://t.co/KTcM0bvoa4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068241648270889208",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067940465026953676",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "速速端上来罢 https://t.co/KTcM0bvoa4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067939763542437889"
+          ]
+        },
+        "author_id": "1220956447",
+        "conversation_id": "2067940465026953676",
+        "created_at": "2026-06-19T12:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T13:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067940465026953676"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 127,
+              "start": 121,
+              "tag": "まどそふと"
+            }
+          ],
+          "urls": [
+            {
+              "description": "まどそふと10th Projectのティザーサイトです。",
+              "display_url": "madosoft.net/10th/",
+              "end": 69,
+              "expanded_url": "https://madosoft.net/10th/",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2067940724960821248/PSXH-2oG?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2067940724960821248/PSXH-2oG?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 46,
+              "status": 200,
+              "title": "まどそふと 10th project",
+              "unwound_url": "https://madosoft.net/10th/",
+              "url": "https://t.co/1cBwSmlVjs"
+            },
+            {
+              "display_url": "pic.x.com/Hd96eHuI9E",
+              "end": 151,
+              "expanded_url": "https://x.com/madostaff/status/2067940465026953676/photo/1",
+              "media_key": "3_2067939763542437889",
+              "start": 128,
+              "url": "https://t.co/Hd96eHuI9E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067940465026953676",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 210,
+          "impression_count": 128320,
+          "like_count": 2206,
+          "quote_count": 73,
+          "reply_count": 8,
+          "retweet_count": 982
+        },
+        "reply_settings": "everyone",
+        "text": "【お知らせ】\nまどそふと10th project\n\n最新作のティザーサイトを公開しました！\nhttps://t.co/1cBwSmlVjs\n\n次回情報公開は7月3日19時より、\nまどそふと生放送の新作発表会にて行います！\nぜひお楽しみに！\n\n#まどそふと https://t.co/Hd96eHuI9E"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳 / 友跨🏳️‍⚧️ / Free Ukraine 🇺🇦 / Free Palestine 🇵🇸 / DM可\n中文 / English / 日本語（勉強中）\n防失联 @Wesley10033\n和平友善交流，谢绝人身攻击\n中华人民共和国万岁 世界人民大团结万岁",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 88,
+                "username": "Wesley10033"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "location": "China",
+        "name": "Wesley10032",
+        "pinned_tweet_id": "2068037933899407863",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021156330271039488/mAwe21JP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 156,
+          "like_count": 659,
+          "listed_count": 1,
+          "media_count": 7,
+          "tweet_count": 397
+        },
+        "url": "",
+        "username": "Wesley10032",
+        "verified": false
+      },
+      {
+        "created_at": "2013-02-26T09:39:33.000Z",
+        "description": "美少女ゲームブランド「まどそふと」公式アカウントです。最新作『ハミダシクリエイティブRe:Re:call』4月25日(金)発売！作品の情報の他、関係ない事もつぶやきます。問い合わせ返信やDM返信はしていませんので公式サイトよりお問い合わせください。\n公式YouTube（https://t.co/Ea0JXH4gxK）",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bit.ly/3kJ0mtk",
+                "end": 158,
+                "expanded_url": "http://bit.ly/3kJ0mtk",
+                "start": 135,
+                "url": "https://t.co/Ea0JXH4gxK"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "madosoft.net",
+                "end": 23,
+                "expanded_url": "http://madosoft.net/",
+                "start": 0,
+                "url": "https://t.co/rX16Qpzp6K"
+              }
+            ]
+          }
+        },
+        "id": "1220956447",
+        "location": "秋葉原",
+        "name": "まどそふと公式",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867558900687679492/WbDTN1Ml_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118723,
+          "following_count": 927,
+          "like_count": 1421,
+          "listed_count": 921,
+          "media_count": 4082,
+          "tweet_count": 26146
+        },
+        "url": "https://t.co/rX16Qpzp6K",
+        "username": "madostaff",
+        "verified": true
+      }
+    ]
+  }
+}

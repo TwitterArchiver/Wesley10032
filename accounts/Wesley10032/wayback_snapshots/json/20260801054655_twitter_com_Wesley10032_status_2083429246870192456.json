@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880979169297022976",
+    "conversation_id": "2078111913112981793",
+    "created_at": "2026-08-01T05:46:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T06:46:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083429246870192456"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1927736766662156288",
+          "start": 0,
+          "username": "GLANT796970"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083429246870192456",
+    "in_reply_to_user_id": "1927736766662156288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083428887644832253",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GLANT796970 TG 的电话好像是端对端加密，对网络要求比较高吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880979169297022976",
+        "conversation_id": "2078111913112981793",
+        "created_at": "2026-08-01T05:46:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T06:46:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083429246870192456"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1927736766662156288",
+              "start": 0,
+              "username": "GLANT796970"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083429246870192456",
+        "in_reply_to_user_id": "1927736766662156288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083428887644832253",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GLANT796970 TG 的电话好像是端对端加密，对网络要求比较高吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1927736766662156288",
+        "conversation_id": "2078111913112981793",
+        "created_at": "2026-08-01T05:45:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T06:45:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083428887644832253"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1880979169297022976",
+              "start": 0,
+              "username": "Wesley10032"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083428887644832253",
+        "in_reply_to_user_id": "1880979169297022976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078125851594695075",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wesley10032 为什么我使用电报无法连接视频通话？我确实有VPN，但是我用的是国内的Wi-Fi😶"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳/♂/08.11.3/友跨🏳️‍⚧️\n或许是温和粉红/欢迎DM聊天(TG优先)\n魔裁(まのさば)/CS2/三角洲/Galgame/IT \n兴趣相近互fo\n好基友@lockloveovo\n学生党 周末/节假日在线(暑假限时全天在线)\nCN/EN/JP\nTG群见置顶\n防失联@Wesley10033",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 85,
+                "username": "lockloveovo"
+              },
+              {
+                "end": 152,
+                "start": 140,
+                "username": "Wesley10033"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://telegram.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/Q5wiGuqCLC"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "location": "People's Republic of China",
+        "name": "Wesley",
+        "pinned_tweet_id": "2083033063257420070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 705,
+          "following_count": 1068,
+          "like_count": 10577,
+          "listed_count": 1,
+          "media_count": 213,
+          "tweet_count": 1917
+        },
+        "url": "https://t.co/Q5wiGuqCLC",
+        "username": "Wesley10032",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-28T14:41:26.000Z",
+        "description": "Китайская молодежь, пользователи сети в Telegram, общаются. 俄语帖子发布\n特长：照片拍摄，科技小论文。学习无人机操作与维修。喜欢的花是紫罗兰，最喜欢的书《耶路撒冷三千年》政治立场：资本主义，中国人权，民主国家复兴。少数民族文化维护、支持🇺🇦🇯🇵🇮🇱",
+        "id": "1927736766662156288",
+        "location": "柏林德国",
+        "name": "GLANT.EARTH🇨🇳🇭🇰🇺🇦（1220 IRAN revolution)",
+        "pinned_tweet_id": "2071689743239111025",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071688574823768064/VF-H31SX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 1177,
+          "like_count": 1144,
+          "listed_count": 0,
+          "media_count": 83,
+          "tweet_count": 689
+        },
+        "url": "",
+        "username": "GLANT796970",
+        "verified": false
+      }
+    ]
+  }
+}

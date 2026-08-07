@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070742001092329472"
+      ]
+    },
+    "author_id": "1880979169297022976",
+    "conversation_id": "2070500351204098327",
+    "created_at": "2026-06-27T05:32:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T06:32:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070742015730688046"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "880024648770965504",
+          "start": 0,
+          "username": "SGjRC3HWuTLWIKo"
+        },
+        {
+          "end": 30,
+          "id": "1697913281816432640",
+          "start": 17,
+          "username": "kiligulyanov"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1DYnb8thLl",
+          "end": 75,
+          "expanded_url": "https://x.com/Wesley10032/status/2070742015730688046/photo/1",
+          "media_key": "3_2070742001092329472",
+          "start": 52,
+          "url": "https://t.co/1DYnb8thLl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070742015730688046",
+    "in_reply_to_user_id": "880024648770965504",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070655036716446192",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SGjRC3HWuTLWIKo @kiligulyanov 虽然但是，这图是AI生成的，没撞那么严重 https://t.co/1DYnb8thLl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2532,
+        "media_key": "3_2070742001092329472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLzA4PSXAAA1vi_.jpg",
+        "width": 1170
+      },
+      {
+        "height": 680,
+        "media_key": "3_2070654978830794752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLxxu4GagAAQCS4.jpg",
+        "width": 680
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070742001092329472"
+          ]
+        },
+        "author_id": "1880979169297022976",
+        "conversation_id": "2070500351204098327",
+        "created_at": "2026-06-27T05:32:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T06:32:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070742015730688046"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "880024648770965504",
+              "start": 0,
+              "username": "SGjRC3HWuTLWIKo"
+            },
+            {
+              "end": 30,
+              "id": "1697913281816432640",
+              "start": 17,
+              "username": "kiligulyanov"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1DYnb8thLl",
+              "end": 75,
+              "expanded_url": "https://x.com/Wesley10032/status/2070742015730688046/photo/1",
+              "media_key": "3_2070742001092329472",
+              "start": 52,
+              "url": "https://t.co/1DYnb8thLl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070742015730688046",
+        "in_reply_to_user_id": "880024648770965504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070655036716446192",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SGjRC3HWuTLWIKo @kiligulyanov 虽然但是，这图是AI生成的，没撞那么严重 https://t.co/1DYnb8thLl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070654978830794752"
+          ]
+        },
+        "author_id": "880024648770965504",
+        "conversation_id": "2070500351204098327",
+        "created_at": "2026-06-26T23:46:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T00:46:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070655036716446192"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1697913281816432640",
+              "start": 0,
+              "username": "kiligulyanov"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7jfewaT7xJ",
+              "end": 42,
+              "expanded_url": "https://x.com/SGjRC3HWuTLWIKo/status/2070655036716446192/photo/1",
+              "media_key": "3_2070654978830794752",
+              "start": 19,
+              "url": "https://t.co/7jfewaT7xJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070655036716446192",
+        "in_reply_to_user_id": "1697913281816432640",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 2944,
+          "like_count": 60,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070500351204098327",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kiligulyanov 明明就有 https://t.co/7jfewaT7xJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳 / 友跨🏳️‍⚧️ / 欢迎DM聊天 / 兴趣相近互fo\n魔裁（まのさば）/ 崩铁（HSR）/ Galgame\n学生党 周末 / 节假日在线\n中文 / English / 日本語（勉強中）\n防失联 @Wesley10033\n和平友善交流 谢绝人身攻击\n中华人民共和国万岁 世界人民大团结万岁",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 105,
+                "username": "Wesley10033"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "location": "China",
+        "name": "Wesley10032",
+        "pinned_tweet_id": "2068037933899407863",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068584583315283968/pGV4njxw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 218,
+          "like_count": 955,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 464
+        },
+        "url": "",
+        "username": "Wesley10032",
+        "verified": false
+      },
+      {
+        "created_at": "2017-06-28T11:26:41.000Z",
+        "description": "尚未設定",
+        "id": "880024648770965504",
+        "location": "Taiwan",
+        "name": "坐姿不良都翹腳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/884116703667302405/mLP7av99_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 58,
+          "like_count": 1659,
+          "listed_count": 1,
+          "media_count": 76,
+          "tweet_count": 824
+        },
+        "url": "",
+        "username": "SGjRC3HWuTLWIKo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-02T10:04:17.000Z",
+        "description": "爱征服一切，让我们屈服于爱吧",
+        "id": "1697913281816432640",
+        "location": "梦境的地方",
+        "name": "Kilig",
+        "pinned_tweet_id": "1797459378897068324",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874127554749358085/H_nHRR6x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3085,
+          "following_count": 1338,
+          "like_count": 28107,
+          "listed_count": 11,
+          "media_count": 1539,
+          "tweet_count": 10560
+        },
+        "url": "",
+        "username": "kiligulyanov",
+        "verified": true
+      }
+    ]
+  }
+}

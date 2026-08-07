@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1525456751788969985",
+    "conversation_id": "1827151246765023455",
+    "created_at": "2024-08-26T12:15:37.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-26T13:15:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1828043621704331707"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1443961270026346503",
+          "start": 0,
+          "username": "123456mdsj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1828043621704331707",
+    "in_reply_to_user_id": "1443961270026346503",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1827151246765023455",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@123456mdsj 四个人凑不出一句完整的藏语"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1525456751788969985",
+        "conversation_id": "1827151246765023455",
+        "created_at": "2024-08-26T12:15:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-26T13:15:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1828043621704331707"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1443961270026346503",
+              "start": 0,
+              "username": "123456mdsj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1828043621704331707",
+        "in_reply_to_user_id": "1443961270026346503",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1827151246765023455",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@123456mdsj 四个人凑不出一句完整的藏语"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1827151240402231296",
+            "3_1827151240410624000",
+            "3_1827151240414838785"
+          ]
+        },
+        "author_id": "1443961270026346503",
+        "conversation_id": "1827151246765023455",
+        "created_at": "2024-08-24T01:09:38.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-24T02:09:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1827151246765023455"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/adjwguuont",
+              "end": 62,
+              "expanded_url": "https://twitter.com/123456mdsj/status/1827151246765023455/photo/1",
+              "media_key": "3_1827151240402231296",
+              "start": 39,
+              "url": "https://t.co/ADjwgUuoNT"
+            },
+            {
+              "display_url": "pic.x.com/adjwguuont",
+              "end": 62,
+              "expanded_url": "https://twitter.com/123456mdsj/status/1827151246765023455/photo/1",
+              "media_key": "3_1827151240410624000",
+              "start": 39,
+              "url": "https://t.co/ADjwgUuoNT"
+            },
+            {
+              "display_url": "pic.x.com/adjwguuont",
+              "end": 62,
+              "expanded_url": "https://twitter.com/123456mdsj/status/1827151246765023455/photo/1",
+              "media_key": "3_1827151240414838785",
+              "start": 39,
+              "url": "https://t.co/ADjwgUuoNT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1827151246765023455",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 61965,
+          "like_count": 122,
+          "quote_count": 19,
+          "reply_count": 164,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "希望西藏早日建国，藏人非常善良，待人真诚。中共非法侵占西藏，是反人类的行为。 https://t.co/ADjwgUuoNT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-14T12:43:40.000Z",
+        "description": "Free Ukraine and Palestine 🇺🇦🇵🇸",
+        "id": "1525456751788969985",
+        "name": "Wesley",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811578387594649600/eQdjLvSa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 34,
+          "like_count": 48,
+          "listed_count": 0,
+          "tweet_count": 260
+        },
+        "username": "Wesley10032",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-01T15:29:49.000Z",
+        "description": "本人江西鹰潭余江县人士，生于1988年10月。因爱好自由民主被中共国保抓过3次，以前在国内喜欢见民运人士，在中国提出过《反校园欺凌法》。我在推特上用后现代主义解构风，喜笑怒骂的方式反共。江西省鹰潭市国保在我推特造谣污蔑我的留言，广大网友自然能分清。中共国保用这种下三滥的方式只会增加我反共和爱好民主自由的决心！！！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@user-cj8bv1ss…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@user-cj8bv1ss8o",
+                "start": 0,
+                "url": "https://t.co/WWIoLdE4o5"
+              }
+            ]
+          }
+        },
+        "id": "1443961270026346503",
+        "name": "桂云才",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1510755583267426306/vwzTTbxz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21416,
+          "following_count": 5891,
+          "like_count": 1,
+          "listed_count": 127,
+          "tweet_count": 842
+        },
+        "url": "https://t.co/WWIoLdE4o5",
+        "username": "123456mdsj",
+        "verified": true
+      }
+    ]
+  }
+}

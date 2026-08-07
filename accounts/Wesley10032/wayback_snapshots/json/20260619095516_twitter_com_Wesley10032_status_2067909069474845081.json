@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880979169297022976",
+    "conversation_id": "2067800953412374996",
+    "created_at": "2026-06-19T09:55:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T10:55:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067909069474845081"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2028311264393678848",
+          "start": 0,
+          "username": "Kasumi10077"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067909069474845081",
+    "in_reply_to_user_id": "2028311264393678848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067800953412374996",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kasumi10077 东亚意外的都是多山地形\n难怪古人都喜欢游山玩水"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 549,
+        "media_key": "3_2067800944361041920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLJOANLbcAAPrih.png",
+        "width": 609
+      },
+      {
+        "height": 643,
+        "media_key": "3_2067800944365244416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLJOANMbkAAKDfw.png",
+        "width": 644
+      },
+      {
+        "height": 858,
+        "media_key": "3_2067800944457453568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLJOANiakAA90uT.png",
+        "width": 605
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880979169297022976",
+        "conversation_id": "2067800953412374996",
+        "created_at": "2026-06-19T09:55:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T10:55:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067909069474845081"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2028311264393678848",
+              "start": 0,
+              "username": "Kasumi10077"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067909069474845081",
+        "in_reply_to_user_id": "2028311264393678848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067800953412374996",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kasumi10077 东亚意外的都是多山地形\n难怪古人都喜欢游山玩水"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067800944361041920",
+            "3_2067800944365244416",
+            "3_2067800944457453568"
+          ]
+        },
+        "author_id": "2028311264393678848",
+        "conversation_id": "2067800953412374996",
+        "created_at": "2026-06-19T02:45:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T03:45:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067800953412374996"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EVOsNFoQRB",
+              "end": 139,
+              "expanded_url": "https://x.com/Kasumi10077/status/2067800953412374996/photo/1",
+              "media_key": "3_2067800944361041920",
+              "start": 116,
+              "url": "https://t.co/EVOsNFoQRB"
+            },
+            {
+              "display_url": "pic.x.com/EVOsNFoQRB",
+              "end": 139,
+              "expanded_url": "https://x.com/Kasumi10077/status/2067800953412374996/photo/1",
+              "media_key": "3_2067800944365244416",
+              "start": 116,
+              "url": "https://t.co/EVOsNFoQRB"
+            },
+            {
+              "display_url": "pic.x.com/EVOsNFoQRB",
+              "end": 139,
+              "expanded_url": "https://x.com/Kasumi10077/status/2067800953412374996/photo/1",
+              "media_key": "3_2067800944457453568",
+              "start": 116,
+              "url": "https://t.co/EVOsNFoQRB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067800953412374996",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 14411,
+          "like_count": 94,
+          "quote_count": 5,
+          "reply_count": 28,
+          "retweet_count": 29
+        },
+        "reply_settings": "everyone",
+        "text": "영토가 작게 느껴지는 이유...\n\n일본의 70%는 산지이며, 나머지 30%는 대략 남한 면적이다.\n\n그리고 남한의 70%는 산지이며, 나머지 30%는 대략 대만 면적이다.\n\n그리고 대만의 70%도 산지... https://t.co/EVOsNFoQRB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳 / 民主社会主义 / 反台独 / 友跨🏳️‍⚧️ / Free Ukraine 🇺🇦 / Free Palestine 🇵🇸\n中文 / English / 日本語（勉強中）\n偶尔转帖插画等内容\n和平友善交流，谢绝人身攻击\n中华人民共和国万岁 世界人民大团结万岁",
+        "id": "1880979169297022976",
+        "location": "China",
+        "name": "Wesley10032",
+        "pinned_tweet_id": "2067905508191990010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021156330271039488/mAwe21JP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 129,
+          "like_count": 584,
+          "listed_count": 1,
+          "media_count": 5,
+          "tweet_count": 354
+        },
+        "url": "",
+        "username": "Wesley10032",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-02T03:27:54.000Z",
+        "description": "일본 🇯🇵, 미국 🇺🇸, 프랑스 🇫🇷를 사랑하는 한국인입니다.\n\n🇰🇷❤️🇯🇵❤️🇺🇸❤️🇫🇷",
+        "id": "2028311264393678848",
+        "location": "Seoul, Republic of Korea",
+        "name": "Kasumi(かすみ)🇰🇷🇯🇵🇺🇸🇫🇷⚜️",
+        "pinned_tweet_id": "2067800953412374996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061671721833549825/_23GaaCY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4089,
+          "following_count": 3213,
+          "like_count": 22375,
+          "listed_count": 12,
+          "media_count": 759,
+          "tweet_count": 19077
+        },
+        "url": "",
+        "username": "Kasumi10077",
+        "verified": true
+      }
+    ]
+  }
+}

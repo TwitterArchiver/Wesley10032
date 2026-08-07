@@ -1,0 +1,472 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077055257264156673"
+      ],
+      "media_source_tweet_id": [
+        "2077055260992966749"
+      ]
+    },
+    "author_id": "1880979169297022976",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      }
+    ],
+    "conversation_id": "2077067791191183534",
+    "created_at": "2026-07-14T16:28:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T17:28:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077067791191183534"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 28,
+          "start": 23,
+          "tag": "恋与深空"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1961469534491054080",
+          "start": 3,
+          "username": "Xingnan214606"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/mIfvzT7qW0",
+          "end": 124,
+          "expanded_url": "https://x.com/Xingnan214606/status/2077055260992966749/photo/1",
+          "media_key": "3_2077055257264156673",
+          "start": 101,
+          "url": "https://t.co/mIfvzT7qW0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077067791191183534",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077055260992966749",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Xingnan214606: 发力了😂#恋与深空 老子的小鸟游六花！老子的蕾姆！老子的赛迦！老子的漩涡鸣人！老子的蛋仔派对！老子的三角洲！老子的原神！老子的崩铁！恋与深空我丢你老母操你死妈！😡 https://t.co/mIfvzT7qW0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1335,
+        "media_key": "3_2077055257264156673",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNMuwHQWcAEUnLX.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077055257264156673"
+          ],
+          "media_source_tweet_id": [
+            "2077055260992966749"
+          ]
+        },
+        "author_id": "1880979169297022976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          }
+        ],
+        "conversation_id": "2077067791191183534",
+        "created_at": "2026-07-14T16:28:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T17:28:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077067791191183534"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 28,
+              "start": 23,
+              "tag": "恋与深空"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1961469534491054080",
+              "start": 3,
+              "username": "Xingnan214606"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mIfvzT7qW0",
+              "end": 124,
+              "expanded_url": "https://x.com/Xingnan214606/status/2077055260992966749/photo/1",
+              "media_key": "3_2077055257264156673",
+              "start": 101,
+              "url": "https://t.co/mIfvzT7qW0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077067791191183534",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077055260992966749",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Xingnan214606: 发力了😂#恋与深空 老子的小鸟游六花！老子的蕾姆！老子的赛迦！老子的漩涡鸣人！老子的蛋仔派对！老子的三角洲！老子的原神！老子的崩铁！恋与深空我丢你老母操你死妈！😡 https://t.co/mIfvzT7qW0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077055257264156673"
+          ]
+        },
+        "author_id": "1961469534491054080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          }
+        ],
+        "conversation_id": "2077055260992966749",
+        "created_at": "2026-07-14T15:38:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T16:38:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077055260992966749"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 9,
+              "start": 4,
+              "tag": "恋与深空"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mIfvzT7qW0",
+              "end": 105,
+              "expanded_url": "https://x.com/Xingnan214606/status/2077055260992966749/photo/1",
+              "media_key": "3_2077055257264156673",
+              "start": 82,
+              "url": "https://t.co/mIfvzT7qW0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077055260992966749",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 96,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "发力了😂#恋与深空 老子的小鸟游六花！老子的蕾姆！老子的赛迦！老子的漩涡鸣人！老子的蛋仔派对！老子的三角洲！老子的原神！老子的崩铁！恋与深空我丢你老母操你死妈！😡 https://t.co/mIfvzT7qW0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳/友跨🏳️‍⚧️/欢迎DM聊天(X/TG均可)/兴趣相近互fo\n魔裁(まのさば)/ 崩铁(HSR)/Galgame\n学生党 周末/节假日在线(暑假限时全天在线)\nCN/EN/JP(a little)\n防失联@Wesley10033\n和平友善交流 谢绝人身攻击",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 120,
+                "start": 108,
+                "username": "Wesley10033"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://telegram.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/Q5wiGuqCLC"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "location": "People's Republic of China",
+        "name": "Wesley",
+        "pinned_tweet_id": "2075263019853238477",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 316,
+          "following_count": 576,
+          "like_count": 4279,
+          "listed_count": 0,
+          "media_count": 86,
+          "tweet_count": 908
+        },
+        "url": "https://t.co/Q5wiGuqCLC",
+        "username": "Wesley10032",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-29T16:45:03.000Z",
+        "description": "我来自中国🇨🇳，二次元永远的神！本人喜欢《中二病也要谈恋爱》《Re：从零开始的异世界生活》等动漫😁，三角洲行动：“東亜死神”（我平时爱单排，不怎么跟人玩）有事请找我“m136858@qq.com”",
+        "id": "1961469534491054080",
+        "location": "Delta Force G.T.I. 特勤处",
+        "name": "MrXingnan",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067613745300324352/5FY6gL6N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 183,
+          "following_count": 177,
+          "like_count": 421,
+          "listed_count": 1,
+          "media_count": 37,
+          "tweet_count": 314
+        },
+        "url": "",
+        "username": "Xingnan214606",
+        "verified": false
+      }
+    ]
+  }
+}

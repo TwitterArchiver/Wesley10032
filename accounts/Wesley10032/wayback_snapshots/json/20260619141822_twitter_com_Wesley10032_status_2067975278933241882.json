@@ -1,0 +1,442 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067962120281755650"
+      ],
+      "media_source_tweet_id": [
+        "2067962124627034150"
+      ]
+    },
+    "author_id": "1880979169297022976",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      }
+    ],
+    "conversation_id": "2067975278933241882",
+    "created_at": "2026-06-19T14:18:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T15:18:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067975278933241882"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 70,
+          "start": 61,
+          "tag": "まのさば二次創作"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1851023117378060288",
+          "start": 3,
+          "username": "Shu_uka5"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/15gRhzhTxA",
+          "end": 94,
+          "expanded_url": "https://x.com/Shu_uka5/status/2067962124627034150/photo/1",
+          "media_key": "3_2067962120281755650",
+          "start": 71,
+          "url": "https://t.co/15gRhzhTxA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067975278933241882",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067962124627034150",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Shu_uka5: イラスト投稿ペース遅くてすみません💦\n今週夏風邪でダウンしてました😭\n徐々に進めています！！\n#まのさば二次創作 https://t.co/15gRhzhTxA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2067962120281755650",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLLgl4RbkAIGDdX.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067962120281755650"
+          ],
+          "media_source_tweet_id": [
+            "2067962124627034150"
+          ]
+        },
+        "author_id": "1880979169297022976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2067975278933241882",
+        "created_at": "2026-06-19T14:18:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T15:18:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067975278933241882"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 70,
+              "start": 61,
+              "tag": "まのさば二次創作"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1851023117378060288",
+              "start": 3,
+              "username": "Shu_uka5"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/15gRhzhTxA",
+              "end": 94,
+              "expanded_url": "https://x.com/Shu_uka5/status/2067962124627034150/photo/1",
+              "media_key": "3_2067962120281755650",
+              "start": 71,
+              "url": "https://t.co/15gRhzhTxA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067975278933241882",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067962124627034150",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Shu_uka5: イラスト投稿ペース遅くてすみません💦\n今週夏風邪でダウンしてました😭\n徐々に進めています！！\n#まのさば二次創作 https://t.co/15gRhzhTxA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067962120281755650"
+          ]
+        },
+        "author_id": "1851023117378060288",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2067962124627034150",
+        "created_at": "2026-06-19T13:26:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T14:26:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067962124627034150"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 56,
+              "start": 47,
+              "tag": "まのさば二次創作"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/15gRhzhTxA",
+              "end": 80,
+              "expanded_url": "https://x.com/Shu_uka5/status/2067962124627034150/photo/1",
+              "media_key": "3_2067962120281755650",
+              "start": 57,
+              "url": "https://t.co/15gRhzhTxA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067962124627034150",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 455,
+          "like_count": 42,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "イラスト投稿ペース遅くてすみません💦\n今週夏風邪でダウンしてました😭\n徐々に進めています！！\n#まのさば二次創作 https://t.co/15gRhzhTxA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳 / 民主社会主义 / 反台独 / 友跨🏳️‍⚧️ / Free Ukraine 🇺🇦 / Free Palestine 🇵🇸\n中文 / English / 日本語（勉強中）\n偶尔转帖插画等内容\n和平友善交流，谢绝人身攻击\n中华人民共和国万岁 世界人民大团结万岁",
+        "id": "1880979169297022976",
+        "location": "China",
+        "name": "Wesley10032",
+        "pinned_tweet_id": "2067905508191990010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021156330271039488/mAwe21JP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 129,
+          "like_count": 586,
+          "listed_count": 1,
+          "media_count": 5,
+          "tweet_count": 358
+        },
+        "url": "",
+        "username": "Wesley10032",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-28T22:08:57.000Z",
+        "description": "819￤WM￤D4￤まのさば￤ｶﾞﾁｱｸﾀ￤2.5次元舞台等\nイラスト投稿多め\n詳しいことはﾘﾄﾘﾝでご確認ください。\n創作＆刀剣▶@shu_uKa77",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 66,
+                "username": "shu_uKa77"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/shuuuka5",
+                "end": 23,
+                "expanded_url": "https://lit.link/shuuuka5",
+                "start": 0,
+                "url": "https://t.co/Kpol8DMv5I"
+              }
+            ]
+          }
+        },
+        "id": "1851023117378060288",
+        "name": "酒柿",
+        "pinned_tweet_id": "2061241805719658638",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999754224419373059/3Gk-QbPu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1637,
+          "following_count": 83,
+          "like_count": 620,
+          "listed_count": 4,
+          "media_count": 216,
+          "tweet_count": 1217
+        },
+        "url": "https://t.co/Kpol8DMv5I",
+        "username": "Shu_uka5",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880979169297022976",
+    "conversation_id": "2084282613783462376",
+    "created_at": "2026-08-04T05:17:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T06:17:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084509036838531452"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2306422282",
+          "start": 0,
+          "username": "marylou916"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084509036838531452",
+    "in_reply_to_user_id": "2306422282",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084282613783462376",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@marylou916 Happy Birthday to Robert 🎂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880979169297022976",
+        "conversation_id": "2084282613783462376",
+        "created_at": "2026-08-04T05:17:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T06:17:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084509036838531452"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2306422282",
+              "start": 0,
+              "username": "marylou916"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084509036838531452",
+        "in_reply_to_user_id": "2306422282",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084282613783462376",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@marylou916 Happy Birthday to Robert 🎂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2306422282",
+        "conversation_id": "2084282613783462376",
+        "created_at": "2026-08-03T14:17:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T15:17:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084282613783462376"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084282613783462376",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 924,
+          "impression_count": 624182,
+          "like_count": 38391,
+          "quote_count": 234,
+          "reply_count": 5212,
+          "retweet_count": 1676
+        },
+        "reply_settings": "everyone",
+        "text": "Today is my son’s birthday. His name is Robert and he’s 31 years old. He is autistic and the light of my life. Could you possibly wish him a happy birthday."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳/♂/08.11.3/友跨🏳️‍⚧️\n或许是温和粉红/欢迎DM聊天(TG优先)\n魔裁(まのさば)/CS2/三角洲/Galgame/IT \n兴趣相近互fo/想做心理委员\n好基友@lockloveovo\n学生党 周末/节假日在线(暑假限时全天在线)\nCN/EN/JP\n防失联@Wesley10033",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 104,
+                "start": 92,
+                "username": "lockloveovo"
+              },
+              {
+                "end": 152,
+                "start": 140,
+                "username": "Wesley10033"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://telegram.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/Q5wiGuq4W4"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "location": "People's Republic of China",
+        "name": "Wesley",
+        "pinned_tweet_id": "2083033063257420070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 794,
+          "following_count": 1133,
+          "like_count": 11726,
+          "listed_count": 1,
+          "media_count": 246,
+          "tweet_count": 2112
+        },
+        "url": "https://t.co/Q5wiGuq4W4",
+        "username": "Wesley10032",
+        "verified": true
+      },
+      {
+        "created_at": "2014-01-26T20:46:28.000Z",
+        "description": "Married to my bestest friend. Mama of one great Son. Boston Red Sox, NE patriots, Boston Bruins fan.",
+        "id": "2306422282",
+        "location": "Providence, RI",
+        "name": "Marylou",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 844,
+          "following_count": 2386,
+          "like_count": 24446,
+          "listed_count": 1,
+          "media_count": 310,
+          "tweet_count": 15403
+        },
+        "url": "",
+        "username": "marylou916",
+        "verified": false
+      }
+    ]
+  }
+}

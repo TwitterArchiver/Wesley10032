@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880979169297022976",
+    "conversation_id": "2068322562875011212",
+    "created_at": "2026-06-20T13:54:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T14:54:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068331764033171766"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1961469534491054080",
+          "start": 0,
+          "username": "Xingnan214606"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068331764033171766",
+    "in_reply_to_user_id": "1961469534491054080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068322562875011212",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xingnan214606 没有言论审查（或者缺少中文言论审查）是这样的，歧视用语和脏话满天飞"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880979169297022976",
+        "conversation_id": "2068322562875011212",
+        "created_at": "2026-06-20T13:54:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T14:54:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068331764033171766"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1961469534491054080",
+              "start": 0,
+              "username": "Xingnan214606"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068331764033171766",
+        "in_reply_to_user_id": "1961469534491054080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068322562875011212",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xingnan214606 没有言论审查（或者缺少中文言论审查）是这样的，歧视用语和脏话满天飞"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1961469534491054080",
+        "conversation_id": "2068322562875011212",
+        "created_at": "2026-06-20T13:18:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T14:18:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068322562875011212"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2068322562875011212",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 108,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "推特的素质就犹如快手一样😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳 / 友跨🏳️‍⚧️ / Free Ukraine 🇺🇦 / Free Palestine 🇵🇸 / 欢迎DM聊天 / 兴趣相近互fo\n中文 / English / 日本語（勉強中）\n防失联 @Wesley10033\n和平友善交流，谢绝人身攻击\n中华人民共和国万岁 世界人民大团结万岁",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 113,
+                "start": 101,
+                "username": "Wesley10033"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "location": "China",
+        "name": "Wesley10032",
+        "pinned_tweet_id": "2068037933899407863",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021156330271039488/mAwe21JP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 179,
+          "like_count": 743,
+          "listed_count": 1,
+          "media_count": 9,
+          "tweet_count": 423
+        },
+        "url": "",
+        "username": "Wesley10032",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-29T16:45:03.000Z",
+        "description": "二次元永远的神！本人喜欢《中二病也要谈恋爱》《Re：从零开始的异世界生活》等动漫😁，三角洲行动：“東亜死神”（我平时爱单排，不怎么跟人玩）",
+        "id": "1961469534491054080",
+        "location": "Delta Force G.T.I. 特勤处",
+        "name": "MrXingnan",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067613745300324352/5FY6gL6N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 142,
+          "like_count": 162,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 221
+        },
+        "url": "",
+        "username": "Xingnan214606",
+        "verified": false
+      }
+    ]
+  }
+}

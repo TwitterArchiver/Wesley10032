@@ -1,0 +1,516 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083175842935627776"
+      ],
+      "media_source_tweet_id": [
+        "2083175849034232013"
+      ]
+    },
+    "author_id": "1880979169297022976",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1585790663575994368",
+          "name": "Magical girl"
+        }
+      }
+    ],
+    "conversation_id": "2083245610539581858",
+    "created_at": "2026-07-31T17:37:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T18:37:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083245610539581858"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 88,
+          "start": 78,
+          "tag": "ファットカンパニー"
+        },
+        {
+          "end": 99,
+          "start": 89,
+          "tag": "魔法少女ノ魔女裁判"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "292351939",
+          "start": 3,
+          "username": "figsoku"
+        }
+      ],
+      "urls": [
+        {
+          "description": "■魔法少女ノ魔女裁判「橘シェリー」スケールフィギュア化決定メーカー ファット・カンパニーhttps://x.com/Phat_official/status/2083168299521564788",
+          "display_url": "figsoku.net/blog-entry-515…",
+          "end": 77,
+          "expanded_url": "https://figsoku.net/blog-entry-515356.html",
+          "images": [
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2083175854151204866/znVrYsPr?format=jpg&name=orig",
+              "width": 200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2083175854151204866/znVrYsPr?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 54,
+          "status": 200,
+          "title": "【魔法少女ノ魔女裁判】ファット・カンパニー「橘シェリー」【フィギュア化決定】",
+          "unwound_url": "https://figsoku.net/blog-entry-515356.html",
+          "url": "https://t.co/ZKIncL4N7b"
+        },
+        {
+          "display_url": "pic.x.com/3N07K9xwA0",
+          "end": 123,
+          "expanded_url": "https://x.com/figsoku/status/2083175849034232013/photo/1",
+          "media_key": "3_2083175842935627776",
+          "start": 100,
+          "url": "https://t.co/3N07K9xwA0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083245610539581858",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 82
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083175849034232013",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @figsoku: 【魔法少女ノ魔女裁判】ファット・カンパニー「橘シェリー」\n\n【フィギュア化決定】\nhttps://t.co/ZKIncL4N7b\n#ファットカンパニー #魔法少女ノ魔女裁判 https://t.co/3N07K9xwA0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1703,
+        "media_key": "3_2083175842935627776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOjtZFraYAAGi7P.jpg",
+        "width": 1703
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083175842935627776"
+          ]
+        },
+        "author_id": "292351939",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1206704182717104128",
+              "name": "Model figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1585790663575994368",
+              "name": "Magical girl"
+            }
+          }
+        ],
+        "conversation_id": "2083175849034232013",
+        "created_at": "2026-07-31T13:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T14:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083175849034232013"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 75,
+              "start": 65,
+              "tag": "ファットカンパニー"
+            },
+            {
+              "end": 86,
+              "start": 76,
+              "tag": "魔法少女ノ魔女裁判"
+            }
+          ],
+          "urls": [
+            {
+              "description": "■魔法少女ノ魔女裁判「橘シェリー」スケールフィギュア化決定メーカー ファット・カンパニーhttps://x.com/Phat_official/status/2083168299521564788",
+              "display_url": "figsoku.net/blog-entry-515…",
+              "end": 64,
+              "expanded_url": "https://figsoku.net/blog-entry-515356.html",
+              "images": [
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2083175854151204866/znVrYsPr?format=jpg&name=orig",
+                  "width": 200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2083175854151204866/znVrYsPr?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 41,
+              "status": 200,
+              "title": "【魔法少女ノ魔女裁判】ファット・カンパニー「橘シェリー」【フィギュア化決定】",
+              "unwound_url": "https://figsoku.net/blog-entry-515356.html",
+              "url": "https://t.co/ZKIncL4N7b"
+            },
+            {
+              "display_url": "pic.x.com/3N07K9xwA0",
+              "end": 110,
+              "expanded_url": "https://x.com/figsoku/status/2083175849034232013/photo/1",
+              "media_key": "3_2083175842935627776",
+              "start": 87,
+              "url": "https://t.co/3N07K9xwA0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083175849034232013",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 40,
+          "impression_count": 23826,
+          "like_count": 423,
+          "quote_count": 5,
+          "reply_count": 0,
+          "retweet_count": 82
+        },
+        "reply_settings": "everyone",
+        "text": "【魔法少女ノ魔女裁判】ファット・カンパニー「橘シェリー」\n\n【フィギュア化決定】\nhttps://t.co/ZKIncL4N7b\n#ファットカンパニー #魔法少女ノ魔女裁判 https://t.co/3N07K9xwA0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083175842935627776"
+          ],
+          "media_source_tweet_id": [
+            "2083175849034232013"
+          ]
+        },
+        "author_id": "1880979169297022976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1585790663575994368",
+              "name": "Magical girl"
+            }
+          }
+        ],
+        "conversation_id": "2083245610539581858",
+        "created_at": "2026-07-31T17:37:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T18:37:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083245610539581858"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 88,
+              "start": 78,
+              "tag": "ファットカンパニー"
+            },
+            {
+              "end": 99,
+              "start": 89,
+              "tag": "魔法少女ノ魔女裁判"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "292351939",
+              "start": 3,
+              "username": "figsoku"
+            }
+          ],
+          "urls": [
+            {
+              "description": "■魔法少女ノ魔女裁判「橘シェリー」スケールフィギュア化決定メーカー ファット・カンパニーhttps://x.com/Phat_official/status/2083168299521564788",
+              "display_url": "figsoku.net/blog-entry-515…",
+              "end": 77,
+              "expanded_url": "https://figsoku.net/blog-entry-515356.html",
+              "images": [
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2083175854151204866/znVrYsPr?format=jpg&name=orig",
+                  "width": 200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2083175854151204866/znVrYsPr?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 54,
+              "status": 200,
+              "title": "【魔法少女ノ魔女裁判】ファット・カンパニー「橘シェリー」【フィギュア化決定】",
+              "unwound_url": "https://figsoku.net/blog-entry-515356.html",
+              "url": "https://t.co/ZKIncL4N7b"
+            },
+            {
+              "display_url": "pic.x.com/3N07K9xwA0",
+              "end": 123,
+              "expanded_url": "https://x.com/figsoku/status/2083175849034232013/photo/1",
+              "media_key": "3_2083175842935627776",
+              "start": 100,
+              "url": "https://t.co/3N07K9xwA0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083245610539581858",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 82
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083175849034232013",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @figsoku: 【魔法少女ノ魔女裁判】ファット・カンパニー「橘シェリー」\n\n【フィギュア化決定】\nhttps://t.co/ZKIncL4N7b\n#ファットカンパニー #魔法少女ノ魔女裁判 https://t.co/3N07K9xwA0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳/♂/08.11.3/友跨🏳️‍⚧️\n或许是温和粉红/欢迎DM聊天(TG优先)\n魔裁(まのさば)/CS2/三角洲/Galgame/IT \n兴趣相近互fo\n好基友@lockloveovo\n学生党 周末/节假日在线(暑假限时全天在线)\nCN/EN/JP\nTG群见置顶\n防失联@Wesley10033",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 85,
+                "username": "lockloveovo"
+              },
+              {
+                "end": 152,
+                "start": 140,
+                "username": "Wesley10033"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://telegram.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/Q5wiGuqCLC"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "location": "People's Republic of China",
+        "name": "Wesley",
+        "pinned_tweet_id": "2083033063257420070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 703,
+          "following_count": 1062,
+          "like_count": 10417,
+          "listed_count": 1,
+          "media_count": 207,
+          "tweet_count": 1894
+        },
+        "url": "https://t.co/Q5wiGuqCLC",
+        "username": "Wesley10032",
+        "verified": true
+      },
+      {
+        "created_at": "2011-05-03T14:25:14.000Z",
+        "description": "美少女フィギュアやガンプラ・プラモ・玩具の\n新作情報や予約情報を配信してます！\n\nAmazonアソシエイト・プログラムの参加者です。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "figsoku.net",
+                "end": 23,
+                "expanded_url": "http://figsoku.net/",
+                "start": 0,
+                "url": "https://t.co/paQJpi7uX6"
+              }
+            ]
+          }
+        },
+        "id": "292351939",
+        "location": "ポストにはPR・アフィリエイトのリンクを使用しています。",
+        "name": "ホビー速報＠フィギュア＆プラモ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/809605551332081664/CeREvYxX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 197229,
+          "following_count": 2032,
+          "like_count": 58,
+          "listed_count": 2392,
+          "media_count": 68545,
+          "tweet_count": 128494
+        },
+        "url": "https://t.co/paQJpi7uX6",
+        "username": "figsoku",
+        "verified": true
+      }
+    ]
+  }
+}

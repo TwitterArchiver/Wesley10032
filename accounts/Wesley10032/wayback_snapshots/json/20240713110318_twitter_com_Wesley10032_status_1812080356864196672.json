@@ -1,0 +1,221 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1525456751788969985",
+    "conversation_id": "1811673467500290413",
+    "created_at": "2024-07-13T11:03:18.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-13T12:03:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1812080356864196672"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1717707158379454464",
+          "start": 0,
+          "username": "fang_danie121"
+        },
+        {
+          "end": 31,
+          "id": "1651242589637705729",
+          "start": 15,
+          "username": "chumendesh63112"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1812080356864196672",
+    "in_reply_to_user_id": "1717707158379454464",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1811687293989892159",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fang_danie121 @chumendesh63112 别甩锅共产主义，你自己先把《共产党宣言》《资本论》看完再评价😅"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1525456751788969985",
+        "conversation_id": "1811673467500290413",
+        "created_at": "2024-07-13T11:03:18.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-13T12:03:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1812080356864196672"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1717707158379454464",
+              "start": 0,
+              "username": "fang_danie121"
+            },
+            {
+              "end": 31,
+              "id": "1651242589637705729",
+              "start": 15,
+              "username": "chumendesh63112"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1812080356864196672",
+        "in_reply_to_user_id": "1717707158379454464",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1811687293989892159",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fang_danie121 @chumendesh63112 别甩锅共产主义，你自己先把《共产党宣言》《资本论》看完再评价😅"
+      },
+      {
+        "attachments": {},
+        "author_id": "1717707158379454464",
+        "conversation_id": "1811673467500290413",
+        "created_at": "2024-07-12T09:01:25.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-12T10:01:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1811687293989892159"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1651242589637705729",
+              "start": 0,
+              "username": "chumendesh63112"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1811687293989892159",
+        "in_reply_to_user_id": "1651242589637705729",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15296,
+          "like_count": 47,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1811678840739049912",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chumendesh63112 共产主义特色，当年毛泽东，斯大林，波尔布特，哪一个不是如此"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-14T12:43:40.000Z",
+        "description": "Free Ukraine and Palestine",
+        "id": "1525456751788969985",
+        "name": "Wesley",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811578387594649600/eQdjLvSa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 24,
+          "like_count": 30,
+          "listed_count": 0,
+          "tweet_count": 129
+        },
+        "username": "Wesley10032",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-27T00:58:19.000Z",
+        "description": "freedom work \nIf you don't follow me, I will support Biden.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCo-pX…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/channel/UCo-pXawlcL1Hf62Jn_nscdg",
+                "start": 0,
+                "url": "https://t.co/UzEqxdomEO"
+              }
+            ]
+          }
+        },
+        "id": "1717707158379454464",
+        "name": "Daniel Fang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1772444057241063424/J8O3EnOw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72545,
+          "following_count": 4604,
+          "like_count": 129034,
+          "listed_count": 302,
+          "tweet_count": 68618
+        },
+        "url": "https://t.co/UzEqxdomEO",
+        "username": "fang_danie121",
+        "verified": true
+      },
+      {
+        "created_at": "2023-04-26T15:12:20.000Z",
+        "description": "热爱生活，爱自己，爱自由，愛世界，陽光燦爛。",
+        "id": "1651242589637705729",
+        "location": "生命不息，战斗不止，永不放棄追求自由的權利！",
+        "name": "楚门的新世界",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1737807124993048576/PVACXa8P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 321,
+          "following_count": 382,
+          "like_count": 21660,
+          "listed_count": 0,
+          "tweet_count": 4497
+        },
+        "username": "chumendesh63112",
+        "verified": false
+      }
+    ]
+  }
+}

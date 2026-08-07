@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880979169297022976",
+    "conversation_id": "2068061985959502256",
+    "created_at": "2026-06-20T09:46:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T10:46:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068269229787476285"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1642058369161920512",
+          "start": 0,
+          "username": "Karl02049"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068269229787476285",
+    "in_reply_to_user_id": "1642058369161920512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068267786502353124",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Karl02049 中国在历史上“间接统治”的地方多了去了，明清时期整个东南亚基本都是中原王朝的藩属国，中国能据此提出对东南亚的主权声索吗？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880979169297022976",
+        "conversation_id": "2068061985959502256",
+        "created_at": "2026-06-20T09:46:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T10:46:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068269229787476285"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1642058369161920512",
+              "start": 0,
+              "username": "Karl02049"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068269229787476285",
+        "in_reply_to_user_id": "1642058369161920512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068267786502353124",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Karl02049 中国在历史上“间接统治”的地方多了去了，明清时期整个东南亚基本都是中原王朝的藩属国，中国能据此提出对东南亚的主权声索吗？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1642058369161920512",
+        "conversation_id": "2068061985959502256",
+        "created_at": "2026-06-20T09:40:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T10:40:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068267786502353124"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1880979169297022976",
+              "start": 0,
+              "username": "Wesley10032"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068267786502353124",
+        "in_reply_to_user_id": "1880979169297022976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068260096283681201",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wesley10032 间接统治。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳 / 友跨🏳️‍⚧️ / Free Ukraine 🇺🇦 / Free Palestine 🇵🇸 / DM可 / 兴趣相近互fo\n中文 / English / 日本語（勉強中）\n防失联 @Wesley10033\n和平友善交流，谢绝人身攻击\n中华人民共和国万岁 世界人民大团结万岁",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 98,
+                "username": "Wesley10033"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "location": "China",
+        "name": "Wesley10032",
+        "pinned_tweet_id": "2068037933899407863",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021156330271039488/mAwe21JP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 162,
+          "like_count": 705,
+          "listed_count": 1,
+          "media_count": 7,
+          "tweet_count": 412
+        },
+        "url": "",
+        "username": "Wesley10032",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-01T06:57:07.000Z",
+        "description": "真实、朴素的个性，以观点传播正面价值。\n\n邮箱： karl@im1069.top",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@karl1367",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@karl1367",
+                "start": 0,
+                "url": "https://t.co/Y2zwfmCwdq"
+              }
+            ]
+          }
+        },
+        "id": "1642058369161920512",
+        "name": "Karl（Karl卡尔大叔）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1736254323238322176/RhG_17gp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6331,
+          "following_count": 3086,
+          "like_count": 26985,
+          "listed_count": 70,
+          "media_count": 966,
+          "tweet_count": 5839
+        },
+        "url": "https://t.co/Y2zwfmCwdq",
+        "username": "Karl02049",
+        "verified": true
+      }
+    ]
+  }
+}

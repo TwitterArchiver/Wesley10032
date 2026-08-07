@@ -1,0 +1,394 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1525456751788969985",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "US President Joe Biden",
+          "id": "10040395078",
+          "name": "Joe Biden"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "US President Joe Biden",
+          "id": "10040395078",
+          "name": "Joe Biden"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "US President Joe Biden",
+          "id": "10040395078",
+          "name": "Joe Biden"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      }
+    ],
+    "conversation_id": "1811913524819480810",
+    "created_at": "2024-07-13T11:11:49.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-13T12:11:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1812082497993441477"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 36,
+          "normalized_text": "Alzheimer",
+          "probability": 0.861,
+          "start": 28,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 9,
+          "id": "939091",
+          "start": 0,
+          "username": "JoeBiden"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1812082497993441477",
+    "in_reply_to_user_id": "939091",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1811913524819480810",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JoeBiden A dictator and an Alzheimer's patient, I believe Americans can make their own right choices."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1525456751788969985",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "US President Joe Biden",
+              "id": "10040395078",
+              "name": "Joe Biden"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "US President Joe Biden",
+              "id": "10040395078",
+              "name": "Joe Biden"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "US President Joe Biden",
+              "id": "10040395078",
+              "name": "Joe Biden"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "1811913524819480810",
+        "created_at": "2024-07-13T11:11:49.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-13T12:11:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1812082497993441477"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 36,
+              "normalized_text": "Alzheimer",
+              "probability": 0.861,
+              "start": 28,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 9,
+              "id": "939091",
+              "start": 0,
+              "username": "JoeBiden"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1812082497993441477",
+        "in_reply_to_user_id": "939091",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1811913524819480810",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JoeBiden A dictator and an Alzheimer's patient, I believe Americans can make their own right choices."
+      },
+      {
+        "attachments": {},
+        "author_id": "939091",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "US President Joe Biden",
+              "id": "10040395078",
+              "name": "Joe Biden"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "US President Joe Biden",
+              "id": "10040395078",
+              "name": "Joe Biden"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "US President Joe Biden",
+              "id": "10040395078",
+              "name": "Joe Biden"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "1811913524819480810",
+        "created_at": "2024-07-13T00:00:22.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-13T01:00:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1811913524819480810"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1811913524819480810",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 331,
+          "impression_count": 2095571,
+          "like_count": 42660,
+          "quote_count": 1108,
+          "reply_count": 7759,
+          "retweet_count": 7542
+        },
+        "reply_settings": "everyone",
+        "text": "Americans want a president, not a dictator."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-14T12:43:40.000Z",
+        "description": "Free Ukraine and Palestine",
+        "id": "1525456751788969985",
+        "name": "Wesley",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811578387594649600/eQdjLvSa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 24,
+          "like_count": 30,
+          "listed_count": 0,
+          "tweet_count": 132
+        },
+        "username": "Wesley10032",
+        "verified": false
+      },
+      {
+        "created_at": "2007-03-11T17:51:24.000Z",
+        "description": "Husband to @DrBiden, proud father and grandfather. Ready to finish the job for all Americans. Official account is @POTUS.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 11,
+                "username": "DrBiden"
+              },
+              {
+                "end": 120,
+                "start": 114,
+                "username": "POTUS"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "joebiden.com",
+                "end": 23,
+                "expanded_url": "http://joebiden.com",
+                "start": 0,
+                "url": "https://t.co/g69HDLeWU6"
+              }
+            ]
+          }
+        },
+        "id": "939091",
+        "location": "Washington, DC",
+        "name": "Joe Biden",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1308769664240160770/AfgzWVE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38134339,
+          "following_count": 46,
+          "like_count": 26,
+          "listed_count": 43123,
+          "tweet_count": 10702
+        },
+        "url": "https://t.co/g69HDLeWU6",
+        "username": "JoeBiden",
+        "verified": true
+      }
+    ]
+  }
+}

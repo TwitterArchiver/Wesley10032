@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080483058478989312"
+      ],
+      "media_source_tweet_id": [
+        "2080485620690911451"
+      ]
+    },
+    "author_id": "1880979169297022976",
+    "conversation_id": "2080584376560332883",
+    "created_at": "2026-07-24T09:22:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T10:22:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080584376560332883"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1303335410609790976",
+          "start": 3,
+          "username": "Rococo90933671"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/VjZN5RJ3Or",
+          "end": 64,
+          "expanded_url": "https://x.com/Rococo90933671/status/2080485620690911451/photo/1",
+          "media_key": "3_2080483058478989312",
+          "start": 41,
+          "url": "https://t.co/VjZN5RJ3Or"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080584376560332883",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080485620690911451",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Rococo90933671: 我的自画像belike（谁把我挂出来了） https://t.co/VjZN5RJ3Or"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 602,
+        "media_key": "3_2080483058478989312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN9cUZ3bwAApPoo.jpg",
+        "width": 643
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080483058478989312"
+          ]
+        },
+        "author_id": "1303335410609790976",
+        "conversation_id": "2080485620690911451",
+        "created_at": "2026-07-24T02:50:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T03:50:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080485620690911451"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VjZN5RJ3Or",
+              "end": 44,
+              "expanded_url": "https://x.com/Rococo90933671/status/2080485620690911451/photo/1",
+              "media_key": "3_2080483058478989312",
+              "start": 21,
+              "url": "https://t.co/VjZN5RJ3Or"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080485620690911451",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 508,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的自画像belike（谁把我挂出来了） https://t.co/VjZN5RJ3Or"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080483058478989312"
+          ],
+          "media_source_tweet_id": [
+            "2080485620690911451"
+          ]
+        },
+        "author_id": "1880979169297022976",
+        "conversation_id": "2080584376560332883",
+        "created_at": "2026-07-24T09:22:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T10:22:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080584376560332883"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1303335410609790976",
+              "start": 3,
+              "username": "Rococo90933671"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VjZN5RJ3Or",
+              "end": 64,
+              "expanded_url": "https://x.com/Rococo90933671/status/2080485620690911451/photo/1",
+              "media_key": "3_2080483058478989312",
+              "start": 41,
+              "url": "https://t.co/VjZN5RJ3Or"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080584376560332883",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080485620690911451",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Rococo90933671: 我的自画像belike（谁把我挂出来了） https://t.co/VjZN5RJ3Or"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳/♂/友跨🏳️‍⚧️\n或许是温和粉红/欢迎DM聊天(推荐使用TG)\n魔裁(まのさば)/CS2/三角洲/Galgame/IT \n兴趣相近互fo\n好基友@lockloveovo\n学生党 周末/节假日在线(暑假限时全天在线)\nCN/EN/JP\nTG群见置顶\n防失联@Wesley10033",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 79,
+                "username": "lockloveovo"
+              },
+              {
+                "end": 146,
+                "start": 134,
+                "username": "Wesley10033"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://telegram.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/Q5wiGuqCLC"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "location": "People's Republic of China",
+        "name": "Wesley",
+        "pinned_tweet_id": "2077761863937597659",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 571,
+          "following_count": 864,
+          "like_count": 7920,
+          "listed_count": 1,
+          "media_count": 179,
+          "tweet_count": 1518
+        },
+        "url": "https://t.co/Q5wiGuqCLC",
+        "username": "Wesley10032",
+        "verified": true
+      },
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "24岁，但不是学生，因为本科已退学。十七年war3玩家、语言爱好者，梦想是成为polyglot。椎名林檎を愛する。互fo可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，因为没有这种习惯。Langues: 🇬🇧🇯🇵🇫🇷。大狐帝国为十多年前的初中时代作为历史爱好者的自创设定",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrsXJh"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1896091552017236177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960243028746280960/c3BZrJmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13400,
+          "following_count": 3195,
+          "like_count": 44498,
+          "listed_count": 40,
+          "media_count": 4793,
+          "tweet_count": 24290
+        },
+        "url": "https://t.co/FNHXVrsXJh",
+        "username": "Rococo90933671",
+        "verified": true
+      }
+    ]
+  }
+}

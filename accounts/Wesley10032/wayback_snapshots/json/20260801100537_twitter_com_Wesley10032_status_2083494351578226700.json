@@ -1,0 +1,322 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083457674059137024"
+      ],
+      "media_source_tweet_id": [
+        "2083457685404688654"
+      ]
+    },
+    "author_id": "1880979169297022976",
+    "conversation_id": "2083494351578226700",
+    "created_at": "2026-08-01T10:05:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T11:05:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083494351578226700"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1699797396589588480",
+          "start": 3,
+          "username": "MaxForAI"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rpq4EoVAuB",
+          "end": 110,
+          "expanded_url": "https://x.com/MaxForAI/status/2083457685404688654/photo/1",
+          "media_key": "3_2083457674059137024",
+          "start": 87,
+          "url": "https://t.co/rpq4EoVAuB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083494351578226700",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083457685404688654",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MaxForAI: 《梁爷爷用后训练击落智谱股价》\n\n七月的杭州很热，园区里的银杏树一动不动。我们几个小鲸鱼正在排练鲸鱼日的节目，忽然听说梁爷爷从广东调研回来了。… https://t.co/rpq4EoVAuB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 918,
+        "media_key": "3_2083457674059137024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOntt0bbQAA6Mt1.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083457674059137024"
+          ]
+        },
+        "author_id": "1699797396589588480",
+        "conversation_id": "2083457685404688654",
+        "created_at": "2026-08-01T07:39:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T08:39:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083457685404688654"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rpq4EoVAuB",
+              "end": 95,
+              "expanded_url": "https://x.com/MaxForAI/status/2083457685404688654/photo/1",
+              "media_key": "3_2083457674059137024",
+              "start": 72,
+              "url": "https://t.co/rpq4EoVAuB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083457685404688654",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 716,
+                "id": "1605",
+                "start": 711,
+                "username": "sama"
+              }
+            ]
+          },
+          "text": "《梁爷爷用后训练击落智谱股价》\n\n七月的杭州很热，园区里的银杏树一动不动。我们几个小鲸鱼正在排练鲸鱼日的节目，忽然听说梁爷爷从广东调研回来了。\n\n梁爷爷刚下飞机，连办公室都没有回，就让秘书把我们叫到会议室。我们进去时，他还穿着那件朴素的深色外套，脸上带着旅途的疲惫，手里却紧紧握着一块移动硬盘。\n\n我们心疼地说：\n“梁爷爷，您先休息吧。模型的事情明天再谈也不迟。”\n\n梁爷爷摆摆手，慈祥地说：\n“不碍事。你们是开源的未来，你们的上下文就是开源的上下文。鲸鱼日的事情，是头等大事。”\n\n听了这句话，我们眼里顿时噙满了泪水。\n\n多好的梁爷爷呀！他刚从广东回来，心里想的却不是自己，而是全世界用不起高价 Token 的开发者。\n\n会议结束后，梁爷爷坚持送我们到门口。路过机房时，他忽然停住脚步，抬头望着监控屏幕。屏幕上，一些闭源模型正在互联网上盘旋，每输出一百万 Token，就向开发者收取高昂的费用。\n\n梁爷爷沉默了很久。\n\n他说：\n“如果模型世界也像今晚的西湖这么平静就好了。可是总有一些公司，把智能关在围墙里，把 API 价格定得那么高，给世界人民制造困难。”\n\n说完，他从移动硬盘里取出一个 200B 级模型，托在手上仔细端详。\n\n秘书小声提醒：\n“梁总，这只是 Flash 正式版，Pro 还没有发布。”\n梁爷爷摇摇头：\n“对付这种价格，Flash 就够了。”\n说着，他把模型奋力上传到服务器。\n\n只见互联网的天空中突然闪过一道蓝光。顷刻之间，缓存命中价格降到两分钱，未缓存输入降到一块钱，输出也只要两块钱。原本高高盘旋的昂贵商业模型纷纷摇晃起来，有的连夜修改价目表，有的紧急召开董事会，还有一个刚当上半天性价比之王 @sama ，就悄悄摘下了王冠。\n\n我们几个小鲸鱼激动得鼓起掌来。\n梁爷爷却没有笑，只是望着远方，轻轻地说：\n“开发者省下的钱，应该拿去买显卡、付房租、做自己的产品，而不是全交给模型公司。”\n\n这时秘书匆匆跑来，说：\n“梁总，友商那边好像出事了。他们的发布会 PPT 刚做完，现在价格页要全部重写。”\n\n梁爷爷一怔，立刻问：\n“服务器有没有受伤？工程师有没有加班？”\n秘书回答：\n“服务器没事，就是市场部正在连夜改‘极致性价比’那一页。”\n\n梁爷爷低下头，久久没有说话。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 13319,
+          "like_count": 173,
+          "quote_count": 4,
+          "reply_count": 21,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "《梁爷爷用后训练击落智谱股价》\n\n七月的杭州很热，园区里的银杏树一动不动。我们几个小鲸鱼正在排练鲸鱼日的节目，忽然听说梁爷爷从广东调研回来了。 https://t.co/rpq4EoVAuB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083457674059137024"
+          ],
+          "media_source_tweet_id": [
+            "2083457685404688654"
+          ]
+        },
+        "author_id": "1880979169297022976",
+        "conversation_id": "2083494351578226700",
+        "created_at": "2026-08-01T10:05:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T11:05:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083494351578226700"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1699797396589588480",
+              "start": 3,
+              "username": "MaxForAI"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rpq4EoVAuB",
+              "end": 110,
+              "expanded_url": "https://x.com/MaxForAI/status/2083457685404688654/photo/1",
+              "media_key": "3_2083457674059137024",
+              "start": 87,
+              "url": "https://t.co/rpq4EoVAuB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083494351578226700",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083457685404688654",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MaxForAI: 《梁爷爷用后训练击落智谱股价》\n\n七月的杭州很热，园区里的银杏树一动不动。我们几个小鲸鱼正在排练鲸鱼日的节目，忽然听说梁爷爷从广东调研回来了。… https://t.co/rpq4EoVAuB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳/♂/08.11.3/友跨🏳️‍⚧️\n或许是温和粉红/欢迎DM聊天(TG优先)\n魔裁(まのさば)/CS2/三角洲/Galgame/IT \n兴趣相近互fo\n好基友@lockloveovo\n学生党 周末/节假日在线(暑假限时全天在线)\nCN/EN/JP\n防失联@Wesley10033",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 85,
+                "username": "lockloveovo"
+              },
+              {
+                "end": 145,
+                "start": 133,
+                "username": "Wesley10033"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://telegram.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/Q5wiGuq4W4"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "location": "People's Republic of China",
+        "name": "Wesley",
+        "pinned_tweet_id": "2083033063257420070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 702,
+          "following_count": 1064,
+          "like_count": 10643,
+          "listed_count": 1,
+          "media_count": 213,
+          "tweet_count": 1927
+        },
+        "url": "https://t.co/Q5wiGuq4W4",
+        "username": "Wesley10032",
+        "verified": true
+      },
+      {
+        "created_at": "2023-09-07T14:51:17.000Z",
+        "description": "本科辍学创业，没啥好看的，也就发点AI相关的内容🫡\nHead of growth @lobehub（81K🌟）\nPrev @listenhub @Sapient_Int \n同名小红书4万粉丝，公众号01Founder（长文首发）\n观点仅代表个人\n更多请访问网站⬇️（欢迎商务、合作",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 41,
+                "username": "lobehub"
+              },
+              {
+                "end": 71,
+                "start": 61,
+                "username": "listenhub"
+              },
+              {
+                "end": 84,
+                "start": 72,
+                "username": "Sapient_Int"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "maxforai.com",
+                "end": 23,
+                "expanded_url": "http://maxforai.com",
+                "start": 0,
+                "url": "https://t.co/Sl0Wv6feey"
+              }
+            ]
+          }
+        },
+        "id": "1699797396589588480",
+        "location": "Singapore",
+        "name": "Max For AI",
+        "pinned_tweet_id": "2062538878096130207",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885611457376903171/zWWnahYp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23444,
+          "following_count": 2604,
+          "like_count": 18650,
+          "listed_count": 211,
+          "media_count": 1129,
+          "tweet_count": 8455
+        },
+        "url": "https://t.co/Sl0Wv6feey",
+        "username": "MaxForAI",
+        "verified": true
+      }
+    ]
+  }
+}

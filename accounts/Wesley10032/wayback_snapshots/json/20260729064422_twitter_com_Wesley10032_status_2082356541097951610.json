@@ -1,0 +1,458 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082297167247716352"
+      ],
+      "media_source_tweet_id": [
+        "2082297652356714584"
+      ]
+    },
+    "author_id": "1880979169297022976",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      }
+    ],
+    "conversation_id": "2082356541097951610",
+    "created_at": "2026-07-29T06:44:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T07:44:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082356541097951610"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "69568870",
+          "start": 3,
+          "username": "noblepri"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/pjNnxdZJHF",
+          "end": 72,
+          "expanded_url": "https://x.com/noblepri/status/2082297652356714584/photo/1",
+          "media_key": "3_2082297167247716352",
+          "start": 49,
+          "url": "https://t.co/pjNnxdZJHF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082356541097951610",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 296
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082297652356714584",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @noblepri: 千恋＊万花１０周年おめでとうございます✨\n連載当時の扉イラストです。 https://t.co/pjNnxdZJHF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 800,
+        "media_key": "3_2082297167247716352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOXOPbqaMAAMn4F.jpg",
+        "width": 1143
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082297167247716352"
+          ]
+        },
+        "author_id": "69568870",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2082297652356714584",
+        "created_at": "2026-07-29T02:50:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T03:50:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082297652356714584"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pjNnxdZJHF",
+              "end": 58,
+              "expanded_url": "https://x.com/noblepri/status/2082297652356714584/photo/1",
+              "media_key": "3_2082297167247716352",
+              "start": 35,
+              "url": "https://t.co/pjNnxdZJHF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082297652356714584",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 123,
+          "impression_count": 20424,
+          "like_count": 1276,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 296
+        },
+        "reply_settings": "everyone",
+        "text": "千恋＊万花１０周年おめでとうございます✨\n連載当時の扉イラストです。 https://t.co/pjNnxdZJHF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082297167247716352"
+          ],
+          "media_source_tweet_id": [
+            "2082297652356714584"
+          ]
+        },
+        "author_id": "1880979169297022976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2082356541097951610",
+        "created_at": "2026-07-29T06:44:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T07:44:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082356541097951610"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "69568870",
+              "start": 3,
+              "username": "noblepri"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pjNnxdZJHF",
+              "end": 72,
+              "expanded_url": "https://x.com/noblepri/status/2082297652356714584/photo/1",
+              "media_key": "3_2082297167247716352",
+              "start": 49,
+              "url": "https://t.co/pjNnxdZJHF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082356541097951610",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 296
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082297652356714584",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @noblepri: 千恋＊万花１０周年おめでとうございます✨\n連載当時の扉イラストです。 https://t.co/pjNnxdZJHF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳/♂/08.11.3/友跨🏳️‍⚧️\n或许是温和粉红/欢迎DM聊天(推荐使用TG)\n魔裁(まのさば)/CS2/三角洲/Galgame/IT \n兴趣相近互fo\n好基友@lockloveovo\n学生党 周末/节假日在线(暑假限时全天在线)\nCN/EN/JP\nTG群见置顶\n防失联@Wesley10033",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 87,
+                "username": "lockloveovo"
+              },
+              {
+                "end": 154,
+                "start": 142,
+                "username": "Wesley10033"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://telegram.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/Q5wiGuqCLC"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "location": "People's Republic of China",
+        "name": "Wesley",
+        "pinned_tweet_id": "2077761863937597659",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 671,
+          "following_count": 1007,
+          "like_count": 9580,
+          "listed_count": 1,
+          "media_count": 197,
+          "tweet_count": 1772
+        },
+        "url": "https://t.co/Q5wiGuqCLC",
+        "username": "Wesley10032",
+        "verified": true
+      },
+      {
+        "created_at": "2009-08-28T11:51:39.000Z",
+        "description": "漫画…天色＊アイルノーツ、サノバウィッチ、千恋＊万花、RIDDLE JOKER/一部原画…らぶこみゅ skeb：https://t.co/28WwC1qnbp お仕事: rknight@ai.littlestar.jp FANBOX: https://t.co/tZ2ZZ11gDh　R18注意",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@noblepri",
+                "end": 79,
+                "expanded_url": "http://skeb.jp/@noblepri",
+                "start": 56,
+                "url": "https://t.co/28WwC1qnbp"
+              },
+              {
+                "display_url": "fanbox.cc/@rknight",
+                "end": 141,
+                "expanded_url": "https://www.fanbox.cc/@rknight",
+                "start": 118,
+                "url": "https://t.co/tZ2ZZ11gDh"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/419808",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/419808",
+                "start": 0,
+                "url": "https://t.co/r9PqguXzm6"
+              }
+            ]
+          }
+        },
+        "id": "69568870",
+        "location": "お仕事: rknight@ai.littlestar.jp",
+        "name": "季月えりか",
+        "pinned_tweet_id": "2081654299294339199",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1177386953844523008/h1_NaiDe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9893,
+          "following_count": 396,
+          "like_count": 123,
+          "listed_count": 300,
+          "media_count": 654,
+          "tweet_count": 48605
+        },
+        "url": "https://t.co/r9PqguXzm6",
+        "username": "noblepri",
+        "verified": false
+      }
+    ]
+  }
+}

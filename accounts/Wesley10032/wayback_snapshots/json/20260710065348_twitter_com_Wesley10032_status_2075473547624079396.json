@@ -1,0 +1,328 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075416537998176256"
+      ],
+      "media_source_tweet_id": [
+        "2075416550115520954"
+      ]
+    },
+    "author_id": "1880979169297022976",
+    "conversation_id": "2075473547624079396",
+    "created_at": "2026-07-10T06:53:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T07:53:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075473547624079396"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 33,
+          "start": 24,
+          "tag": "まのさばネタバレ"
+        },
+        {
+          "end": 43,
+          "start": 34,
+          "tag": "まのさば二次創作"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1952405686627016704",
+          "start": 3,
+          "username": "disHtheCatLover"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/uL9e0phsWp",
+          "end": 67,
+          "expanded_url": "https://x.com/disHtheCatLover/status/2075416550115520954/photo/1",
+          "media_key": "3_2075416537998176256",
+          "start": 44,
+          "url": "https://t.co/uL9e0phsWp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075473547624079396",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 49
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075416550115520954",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @disHtheCatLover: 錯位\n#まのさばネタバレ\n#まのさば二次創作 https://t.co/uL9e0phsWp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2159,
+        "media_key": "3_2075416537998176256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM1cWGRaMAA8Dds.jpg",
+        "width": 1750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075416537998176256"
+          ],
+          "media_source_tweet_id": [
+            "2075416550115520954"
+          ]
+        },
+        "author_id": "1880979169297022976",
+        "conversation_id": "2075473547624079396",
+        "created_at": "2026-07-10T06:53:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T07:53:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075473547624079396"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 33,
+              "start": 24,
+              "tag": "まのさばネタバレ"
+            },
+            {
+              "end": 43,
+              "start": 34,
+              "tag": "まのさば二次創作"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1952405686627016704",
+              "start": 3,
+              "username": "disHtheCatLover"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uL9e0phsWp",
+              "end": 67,
+              "expanded_url": "https://x.com/disHtheCatLover/status/2075416550115520954/photo/1",
+              "media_key": "3_2075416537998176256",
+              "start": 44,
+              "url": "https://t.co/uL9e0phsWp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075473547624079396",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 49
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075416550115520954",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @disHtheCatLover: 錯位\n#まのさばネタバレ\n#まのさば二次創作 https://t.co/uL9e0phsWp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075416537998176256"
+          ]
+        },
+        "author_id": "1952405686627016704",
+        "conversation_id": "2075416550115520954",
+        "created_at": "2026-07-10T03:07:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T04:07:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075416550115520954"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 12,
+              "start": 3,
+              "tag": "まのさばネタバレ"
+            },
+            {
+              "end": 22,
+              "start": 13,
+              "tag": "まのさば二次創作"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uL9e0phsWp",
+              "end": 46,
+              "expanded_url": "https://x.com/disHtheCatLover/status/2075416550115520954/photo/1",
+              "media_key": "3_2075416537998176256",
+              "start": 23,
+              "url": "https://t.co/uL9e0phsWp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075416550115520954",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 36,
+          "impression_count": 3445,
+          "like_count": 376,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 49
+        },
+        "reply_settings": "everyone",
+        "text": "錯位\n#まのさばネタバレ\n#まのさば二次創作 https://t.co/uL9e0phsWp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳 / 友跨🏳️‍⚧️ / 欢迎DM聊天 / 兴趣相近互fo\n魔裁（まのさば）/ 崩铁（HSR）/ Galgame\n头像来自@pale_noon\n学生党 周末 / 节假日在线\n中文 / English / 日本語（勉強中）\n防失联@Wesley10033\n和平友善交流 谢绝人身攻击",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 66,
+                "username": "pale_noon"
+              },
+              {
+                "end": 131,
+                "start": 119,
+                "username": "Wesley10033"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://t.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/HjVzyPDIuK"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "location": "China",
+        "name": "Wesley",
+        "pinned_tweet_id": "2075263019853238477",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070912735362387968/eccaKvtY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 153,
+          "following_count": 355,
+          "like_count": 1630,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 560
+        },
+        "url": "https://t.co/HjVzyPDIuK",
+        "username": "Wesley10032",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-04T16:26:23.000Z",
+        "description": "絵の技術はすごく普通ですが絵を描くのが好き、自分の醜い虚栄心で自分の下手な絵を公開して注目を集めています。） \n最近はまのさばに夢中です。\nlang:Eng/中文/日本語OK\npixiv:https://t.co/GoTSiu6RGq",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/119669715",
+                "end": 117,
+                "expanded_url": "https://www.pixiv.net/users/119669715",
+                "start": 94,
+                "url": "https://t.co/GoTSiu6RGq"
+              }
+            ]
+          }
+        },
+        "id": "1952405686627016704",
+        "name": "皿",
+        "pinned_tweet_id": "2003513814957121958",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005199233394286592/VsH_tEvD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 547,
+          "following_count": 1058,
+          "like_count": 10143,
+          "listed_count": 2,
+          "media_count": 95,
+          "tweet_count": 1579
+        },
+        "url": "",
+        "username": "disHtheCatLover",
+        "verified": false
+      }
+    ]
+  }
+}

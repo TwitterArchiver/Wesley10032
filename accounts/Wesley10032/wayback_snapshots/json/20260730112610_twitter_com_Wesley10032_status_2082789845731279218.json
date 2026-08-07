@@ -1,0 +1,675 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880979169297022976",
+    "conversation_id": "2082788264004755801",
+    "created_at": "2026-07-30T11:26:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T12:26:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082789845731279218"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 5,
+          "id": "1720665183188922368",
+          "start": 0,
+          "username": "grok"
+        },
+        {
+          "end": 21,
+          "id": "1819172584044560384",
+          "start": 6,
+          "username": "Asid_Leta_Zero"
+        },
+        {
+          "end": 34,
+          "id": "1794569354597793792",
+          "start": 22,
+          "username": "lockloveovo"
+        },
+        {
+          "end": 45,
+          "id": "1917261838485708802",
+          "start": 35,
+          "username": "qiujiudev"
+        },
+        {
+          "end": 61,
+          "id": "1688792465292374016",
+          "start": 46,
+          "username": "unitedly_37400"
+        },
+        {
+          "end": 71,
+          "id": "2037086952034566144",
+          "start": 62,
+          "username": "tsingin1"
+        },
+        {
+          "end": 86,
+          "id": "2048331424504463360",
+          "start": 72,
+          "username": "Com0loquieras"
+        },
+        {
+          "end": 99,
+          "id": "1870108535268487169",
+          "start": 87,
+          "username": "MomoseReina"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082789845731279218",
+    "in_reply_to_user_id": "1720665183188922368",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082788624874057965",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@grok @Asid_Leta_Zero @lockloveovo @qiujiudev @unitedly_37400 @tsingin1 @Com0loquieras @MomoseReina 😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880979169297022976",
+        "conversation_id": "2082788264004755801",
+        "created_at": "2026-07-30T11:26:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T12:26:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082789845731279218"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 5,
+              "id": "1720665183188922368",
+              "start": 0,
+              "username": "grok"
+            },
+            {
+              "end": 21,
+              "id": "1819172584044560384",
+              "start": 6,
+              "username": "Asid_Leta_Zero"
+            },
+            {
+              "end": 34,
+              "id": "1794569354597793792",
+              "start": 22,
+              "username": "lockloveovo"
+            },
+            {
+              "end": 45,
+              "id": "1917261838485708802",
+              "start": 35,
+              "username": "qiujiudev"
+            },
+            {
+              "end": 61,
+              "id": "1688792465292374016",
+              "start": 46,
+              "username": "unitedly_37400"
+            },
+            {
+              "end": 71,
+              "id": "2037086952034566144",
+              "start": 62,
+              "username": "tsingin1"
+            },
+            {
+              "end": 86,
+              "id": "2048331424504463360",
+              "start": 72,
+              "username": "Com0loquieras"
+            },
+            {
+              "end": 99,
+              "id": "1870108535268487169",
+              "start": 87,
+              "username": "MomoseReina"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082789845731279218",
+        "in_reply_to_user_id": "1720665183188922368",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082788624874057965",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@grok @Asid_Leta_Zero @lockloveovo @qiujiudev @unitedly_37400 @tsingin1 @Com0loquieras @MomoseReina 😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720665183188922368",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Family and Life Stages",
+              "id": "864925500627484672",
+              "name": "Family and life stages"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Dads",
+              "id": "847545883637891072",
+              "name": "Fatherhood"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Dads",
+              "id": "847545883637891072",
+              "name": "Fatherhood"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "The world's smartest AI, Grok 3, is now available on X and iOS. Tap below to try.\n\nGrok in X: https://x.com/i/grok\n\nGrok on iOS: https://apps.apple.com/us/app/grok/id6670324846 ",
+              "id": "1892394207127465984",
+              "name": "Grok 3 is here. Try it for free."
+            }
+          }
+        ],
+        "conversation_id": "2082788264004755801",
+        "created_at": "2026-07-30T11:21:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T12:21:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082788624874057965"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1880979169297022976",
+              "start": 0,
+              "username": "Wesley10032"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082788624874057965",
+        "in_reply_to_user_id": "1880979169297022976",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {},
+          "text": "父: （なし）\n母: （なし）\n兄: Asid Leta\n弟: 不知道起啥名\n姉: （なし）\n妹: 秋玖\n親友: 中井鶴見\n友達: 初白洛\n先輩: （なし）\n後輩: Simón Bolívar🇪🇸🇲🇽🇨🇴🇦🇷🇨🇱\n彼氏: （なし）\n彼女: （なし）\n近所のお兄さん: （なし）\n近所のお姉さん: 桃濑玲奈\nストーカー: （なし）\n\nよく絡んでる子たちから雰囲気で選んだよ。許してね。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082788264004755801",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wesley10032 父: （なし）\n母: （なし）\n兄: Asid Leta\n弟: 不知道起啥名\n姉: （なし）\n妹: 秋玖\n親友: 中井鶴見\n友達: 初白洛\n先輩: （なし）\n後輩: Simón Bolívar🇪🇸🇲🇽🇨🇴🇦🇷🇨🇱\n彼氏: （なし）\n彼女: （なし）\n近所のお兄さん: （なし）\n近所のお姉さん: 桃濑玲奈\nストーカー: （なし）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳/♂/08.11.3/友跨🏳️‍⚧️\n或许是温和粉红/欢迎DM聊天(TG优先)\n魔裁(まのさば)/CS2/三角洲/Galgame/IT \n兴趣相近互fo\n好基友@lockloveovo\n学生党 周末/节假日在线(暑假限时全天在线)\nCN/EN/JP\nTG群见置顶\n防失联@Wesley10033",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 85,
+                "username": "lockloveovo"
+              },
+              {
+                "end": 152,
+                "start": 140,
+                "username": "Wesley10033"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://telegram.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/Q5wiGuqCLC"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "location": "People's Republic of China",
+        "name": "Wesley",
+        "pinned_tweet_id": "2077761863937597659",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 682,
+          "following_count": 1035,
+          "like_count": 9975,
+          "listed_count": 1,
+          "media_count": 202,
+          "tweet_count": 1823
+        },
+        "url": "https://t.co/Q5wiGuqCLC",
+        "username": "Wesley10032",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 5,
+                "start": 0,
+                "username": "grok"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSjjG9"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "name": "Grok",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057885623374290944/lmj0pawP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8886563,
+          "following_count": 5,
+          "like_count": 122,
+          "listed_count": 7239,
+          "media_count": 9200405,
+          "tweet_count": 132812131
+        },
+        "url": "https://t.co/fqNKQSjjG9",
+        "username": "grok",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-02T00:45:27.000Z",
+        "description": "男/中国人/新左派/友跨/Windows主机安全\n偶尔发女装，大部分帖子评论和AI/安全相关\nAmateurish red team researcher",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/DisaWdcba/",
+                "end": 23,
+                "expanded_url": "https://github.com/DisaWdcba/",
+                "start": 0,
+                "url": "https://t.co/6L5mNxDfzl"
+              }
+            ]
+          }
+        },
+        "id": "1819172584044560384",
+        "location": "死亡谷",
+        "name": "Asid Leta",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819173201953673217/LARlJJXU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 631,
+          "following_count": 107,
+          "like_count": 307,
+          "listed_count": 2,
+          "media_count": 159,
+          "tweet_count": 914
+        },
+        "url": "https://t.co/6L5mNxDfzl",
+        "username": "Asid_Leta_Zero",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-26T03:21:00.000Z",
+        "description": "男｜zh-cn🇨🇳｜准初三｜进步保守主义（建制？)｜爱玩三角洲和看少女乐队番｜喜怒无常乐子人|友跨🏳️‍⚧️\nqq空间（bushi）：https://t.co/lUzu6rW4L0\n老婆🥰@Venti718\n好朋友😋@Wesley10032",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 103,
+                "start": 94,
+                "username": "Venti718"
+              },
+              {
+                "end": 120,
+                "start": 108,
+                "username": "Wesley10032"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "telegram.me/locklove947",
+                "end": 90,
+                "expanded_url": "https://telegram.me/locklove947",
+                "start": 67,
+                "url": "https://t.co/lUzu6rW4L0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/lockloveovo",
+                "end": 23,
+                "expanded_url": "http://telegram.me/lockloveovo",
+                "start": 0,
+                "url": "https://t.co/YnKeIlxkHT"
+              }
+            ]
+          }
+        },
+        "id": "1794569354597793792",
+        "location": "你家",
+        "name": "不知道起啥名",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075495501156290560/d4HzXytJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 155,
+          "following_count": 265,
+          "like_count": 1401,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 781
+        },
+        "url": "https://t.co/YnKeIlxkHT",
+        "username": "lockloveovo",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-29T16:57:06.000Z",
+        "description": "你好啊，我是秋玖，一个普普通通的10后wmc，重度VOCALOID爱好者 音游痴 和杂食党 爱玩魔裁。爱好广泛，欢迎扩列～私信和TG随时欢迎随时骚扰！TG:https://t.co/v5O8gYnjm0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Qiujiudev",
+                "end": 101,
+                "expanded_url": "http://t.me/Qiujiudev",
+                "start": 78,
+                "url": "https://t.co/v5O8gYnjm0"
+              }
+            ]
+          }
+        },
+        "id": "1917261838485708802",
+        "name": "秋玖",
+        "pinned_tweet_id": "2082503874066423896",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077321726548193281/6_jw7mdP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 171,
+          "following_count": 345,
+          "like_count": 1911,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 336
+        },
+        "url": "",
+        "username": "qiujiudev",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-08T06:01:32.000Z",
+        "description": "念作なかい つるみ😼称呼我鹤宝就好😋｜大阪人🥰｜现在的名字不像假账号了👊｜🇯🇵🏳️‍⚧️｜微查成分回fo(真的很微)🥺没回就是100%没看到😭｜小号@tsurumi_37400 欢迎关注喵｜魔裁/F1(CL16)/MC/天际线｜最好的伙伴 @tomo9487｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 74,
+                "username": "tsurumi_37400"
+              },
+              {
+                "end": 129,
+                "start": 120,
+                "username": "tomo9487"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/da4B7bSnC",
+                "end": 23,
+                "expanded_url": "https://discord.gg/da4B7bSnC",
+                "start": 0,
+                "url": "https://t.co/QrtZ8v9W7F"
+              }
+            ]
+          }
+        },
+        "id": "1688792465292374016",
+        "location": "滋賀県",
+        "name": "中井鶴見",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060737570250891264/5ckknA3g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 521,
+          "following_count": 591,
+          "like_count": 85292,
+          "listed_count": 2,
+          "media_count": 286,
+          "tweet_count": 2402
+        },
+        "url": "https://t.co/QrtZ8v9W7F",
+        "username": "unitedly_37400",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-26T08:39:20.000Z",
+        "description": "国家：🇨🇳\n查成分互fo\n另一个号：@tsingin2\n抱有好感的国家：🇫🇷🇨🇺🇩🇪🇯🇵🇰🇷🇬🇧🇺🇸🇷🇺\n最喜欢的政治角色：孙中山\n思想倾向：偏保守\n喜欢的虚拟角色：洛天依 初音未来\n最喜欢的游戏：永劫无间 维多利亚3 pjsk phigros Milthm cytus2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 18,
+                "username": "tsingin2"
+              }
+            ]
+          }
+        },
+        "id": "2037086952034566144",
+        "name": "初白洛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079803820205551616/KDVVyW8a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 174,
+          "following_count": 265,
+          "like_count": 1282,
+          "listed_count": 1,
+          "media_count": 71,
+          "tweet_count": 948
+        },
+        "url": "",
+        "username": "tsingin1",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-26T09:20:48.000Z",
+        "description": "Producción:2010/10/10\nHabilidades:Go,astro,pnpm,Linux,Vibe Código,前端,网络,西班牙语A1\n性格特点：直球的堪比西班牙人 拉美大手子 图灵的诅咒 梦到什么说什么 \"Reino de 炫压抑\" 谈崩专家不善言辞 在线求操",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/Tortillas111",
+                "end": 23,
+                "expanded_url": "https://telegram.me/Tortillas111",
+                "start": 0,
+                "url": "https://t.co/wa6FNzZMeH"
+              }
+            ]
+          }
+        },
+        "id": "2048331424504463360",
+        "location": "大哥伦比亚",
+        "name": "Simón Bolívar🇪🇸🇲🇽🇨🇴🇦🇷🇨🇱",
+        "pinned_tweet_id": "2082657036920328668",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073259657762848768/-8GxQ6y8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 161,
+          "following_count": 189,
+          "like_count": 6650,
+          "listed_count": 1,
+          "media_count": 67,
+          "tweet_count": 3067
+        },
+        "url": "https://t.co/wa6FNzZMeH",
+        "username": "Com0loquieras",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友 | 音游吃 | 术术人 | 技术宅 | 社恐 | 不见证 | 逃生舱: @NanaseReina | 🐱: @45_206MHz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 54,
+                "username": "NanaseReina"
+              },
+              {
+                "end": 82,
+                "start": 72,
+                "username": "45_206MHz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyNlK"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "location": "舞萌DX 2026",
+        "name": "桃濑玲奈",
+        "pinned_tweet_id": "1979966539353989565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039367447946665985/gYaQo32t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1244,
+          "following_count": 340,
+          "like_count": 9634,
+          "listed_count": 5,
+          "media_count": 441,
+          "tweet_count": 6845
+        },
+        "url": "https://t.co/OdaAdEyNlK",
+        "username": "MomoseReina",
+        "verified": true
+      }
+    ]
+  }
+}

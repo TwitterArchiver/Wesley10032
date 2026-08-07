@@ -1,0 +1,426 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1525456751788969985",
+    "conversation_id": "1812403883073057066",
+    "created_at": "2024-07-16T00:00:25.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-16T01:00:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1813000700286365831"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "952820189191536641",
+          "start": 0,
+          "username": "XisMoments"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1813000700286365831",
+    "in_reply_to_user_id": "952820189191536641",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1812403883073057066",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XisMoments 下一个就是你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1525456751788969985",
+        "conversation_id": "1812403883073057066",
+        "created_at": "2024-07-16T00:00:25.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-16T01:00:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1813000700286365831"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "952820189191536641",
+              "start": 0,
+              "username": "XisMoments"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1813000700286365831",
+        "in_reply_to_user_id": "952820189191536641",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1812403883073057066",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XisMoments 下一个就是你"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1812403874172428288"
+          ]
+        },
+        "author_id": "952820189191536641",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "45th US President, Donald Trump",
+              "id": "799022225751871488",
+              "name": "Donald Trump"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2020 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "45th US President, Donald Trump",
+              "id": "799022225751871488",
+              "name": "Donald Trump"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "45th US President, Donald Trump",
+              "id": "799022225751871488",
+              "name": "Donald Trump"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Conversation about US Foreign Policy",
+              "id": "847876936378441729",
+              "name": "United States Foreign Policy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political issues",
+              "id": "900740740468191232",
+              "name": "Political issues"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2020 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "States, provinces, or prefectures, like California or Fukushima Prefecture",
+              "id": "159",
+              "name": "States"
+            },
+            "entity": {
+              "description": "Pennsylvania",
+              "id": "1010255110465679361",
+              "name": "Pennsylvania"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "The Republican National Convention is about to convene in Milwaukee to nominate President Donald J. Trump! Tune in live on X starting July 15th at 6pm CT to watch LIVE as we unite for a stronger America!",
+              "id": "1811085126010281984",
+              "name": "2024 Republican National Convention"
+            }
+          }
+        ],
+        "conversation_id": "1812403883073057066",
+        "created_at": "2024-07-14T08:28:53.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-14T09:28:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1812403883073057066"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 19,
+              "normalized_text": "Xi Jinping",
+              "probability": 0.9393,
+              "start": 10,
+              "type": "Person"
+            },
+            {
+              "end": 57,
+              "normalized_text": "US",
+              "probability": 0.8549,
+              "start": 56,
+              "type": "Place"
+            },
+            {
+              "end": 80,
+              "normalized_text": "Donald Trump",
+              "probability": 0.97,
+              "start": 69,
+              "type": "Person"
+            },
+            {
+              "end": 110,
+              "normalized_text": "Trump",
+              "probability": 0.9072,
+              "start": 106,
+              "type": "Person"
+            },
+            {
+              "end": 143,
+              "normalized_text": "Pennsylvania",
+              "probability": 0.9779,
+              "start": 132,
+              "type": "Place"
+            },
+            {
+              "end": 165,
+              "normalized_text": "Foreign Ministry",
+              "probability": 0.6869,
+              "start": 150,
+              "type": "Organization"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/laTDK3Lc9q",
+              "end": 221,
+              "expanded_url": "https://twitter.com/XisMoments/status/1812403883073057066/photo/1",
+              "media_key": "3_1812403874172428288",
+              "start": 198,
+              "url": "https://t.co/laTDK3Lc9q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1812403883073057066",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 59005,
+          "like_count": 590,
+          "quote_count": 6,
+          "reply_count": 15,
+          "retweet_count": 97
+        },
+        "reply_settings": "everyone",
+        "text": "President Xi Jinping has expressed sympathies to former US president Donald Trump following a shooting at Trump's campaign rally in Pennsylvania, the Foreign Ministry said in a statement on Sunday. https://t.co/laTDK3Lc9q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-14T12:43:40.000Z",
+        "description": "Free Ukraine and Palestine 🇺🇦🇵🇸",
+        "id": "1525456751788969985",
+        "name": "Wesley",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811578387594649600/eQdjLvSa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 26,
+          "like_count": 33,
+          "listed_count": 0,
+          "tweet_count": 150
+        },
+        "username": "Wesley10032",
+        "verified": false
+      },
+      {
+        "created_at": "2018-01-15T08:30:10.000Z",
+        "description": "We focus on news about President Xi Jinping and China.",
+        "id": "952820189191536641",
+        "name": "Xi's Moments",
+        "pinned_tweet_id": "1812403883073057066",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/960768604462460928/Onlx6gVb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137887,
+          "following_count": 104,
+          "like_count": 2188,
+          "listed_count": 239,
+          "tweet_count": 12267
+        },
+        "username": "XisMoments",
+        "verified": true
+      }
+    ]
+  }
+}

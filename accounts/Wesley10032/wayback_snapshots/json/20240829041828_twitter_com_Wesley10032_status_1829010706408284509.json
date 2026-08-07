@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1829010700523712512"
+      ]
+    },
+    "author_id": "1525456751788969985",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1828330769166803383",
+    "created_at": "2024-08-29T04:18:28.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-29T05:18:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1829010706408284509"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1117030500923609089",
+          "start": 0,
+          "username": "CCP13009647"
+        },
+        {
+          "end": 24,
+          "id": "1224953820716945408",
+          "start": 13,
+          "username": "ChingteLai"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/cjujpu5qqp",
+          "end": 65,
+          "expanded_url": "https://twitter.com/Wesley10032/status/1829010706408284509/photo/1",
+          "media_key": "3_1829010700523712512",
+          "start": 42,
+          "url": "https://t.co/CJUJPU5qQp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1829010706408284509",
+    "in_reply_to_user_id": "1117030500923609089",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1828637941197160561",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CCP13009647 @ChingteLai 历史上只有一个“国家”被叫做支那 https://t.co/CJUJPU5qQp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 288,
+        "media_key": "3_1829010700523712512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GWHziqcasAA2ai1.jpg",
+        "width": 386
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1829010700523712512"
+          ]
+        },
+        "author_id": "1525456751788969985",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1828330769166803383",
+        "created_at": "2024-08-29T04:18:28.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-29T05:18:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1829010706408284509"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1117030500923609089",
+              "start": 0,
+              "username": "CCP13009647"
+            },
+            {
+              "end": 24,
+              "id": "1224953820716945408",
+              "start": 13,
+              "username": "ChingteLai"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cjujpu5qqp",
+              "end": 65,
+              "expanded_url": "https://twitter.com/Wesley10032/status/1829010706408284509/photo/1",
+              "media_key": "3_1829010700523712512",
+              "start": 42,
+              "url": "https://t.co/CJUJPU5qQp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1829010706408284509",
+        "in_reply_to_user_id": "1117030500923609089",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1828637941197160561",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CCP13009647 @ChingteLai 历史上只有一个“国家”被叫做支那 https://t.co/CJUJPU5qQp"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1117030500923609089",
+        "conversation_id": "1828330769166803383",
+        "created_at": "2024-08-28T03:37:14.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-28T04:37:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1828637941197160561"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1224953820716945408",
+              "start": 0,
+              "username": "ChingteLai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1828637941197160561",
+        "in_reply_to_user_id": "1224953820716945408",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2615,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 24,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1828330769166803383",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ChingteLai 就是故意寫日文\n讓你支那人看不懂啊\n笑死"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-14T12:43:40.000Z",
+        "description": "Free Ukraine and Palestine 🇺🇦🇵🇸",
+        "id": "1525456751788969985",
+        "name": "Wesley",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811578387594649600/eQdjLvSa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 36,
+          "like_count": 62,
+          "listed_count": 0,
+          "tweet_count": 292
+        },
+        "username": "Wesley10032",
+        "verified": false
+      },
+      {
+        "created_at": "2019-04-13T11:43:19.000Z",
+        "description": "大日本帝國國民",
+        "id": "1117030500923609089",
+        "location": "日本神戶",
+        "name": "CP1309647 🇯🇵",
+        "pinned_tweet_id": "1826904907628396665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1820005140688146432/O3WHkeBX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 17,
+          "like_count": 65,
+          "listed_count": 3,
+          "tweet_count": 406
+        },
+        "username": "CCP13009647",
+        "verified": true
+      },
+      {
+        "created_at": "2020-02-05T07:12:26.000Z",
+        "description": "President of R.O.C. Taiwan. Chairperson of Democratic Progressive Party.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "facebook.com/chingte/",
+                "end": 23,
+                "expanded_url": "https://www.facebook.com/chingte/",
+                "start": 0,
+                "url": "https://t.co/jlskvCNP8H"
+              }
+            ]
+          }
+        },
+        "id": "1224953820716945408",
+        "location": "Taiwan",
+        "name": "賴清德Lai Ching-te",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1730152721926516736/K-asKS36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 326242,
+          "following_count": 9,
+          "like_count": 162,
+          "listed_count": 988,
+          "tweet_count": 481
+        },
+        "url": "https://t.co/jlskvCNP8H",
+        "username": "ChingteLai",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082430853410631680"
+      ],
+      "media_source_tweet_id": [
+        "2082430860096373151"
+      ]
+    },
+    "author_id": "1880979169297022976",
+    "conversation_id": "2082466136919355653",
+    "created_at": "2026-07-29T13:59:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T14:59:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082466136919355653"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1886969144031240192",
+          "start": 3,
+          "username": "SpoxCHN_MaoNing"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/YCe83arVQQ",
+          "end": 113,
+          "expanded_url": "https://x.com/SpoxCHN_MaoNing/status/2082430860096373151/photo/1",
+          "media_key": "3_2082430853410631680",
+          "start": 90,
+          "url": "https://t.co/YCe83arVQQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082466136919355653",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 111
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082430860096373151",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SpoxCHN_MaoNing: 中国は熊本県の地震の動向を注視しており、犠牲者に対し哀悼の意を表するとともに、遺族に弔意を表し、負傷者に心からのお見舞いを申し上げます。 https://t.co/YCe83arVQQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1676,
+        "media_key": "3_2082430853410631680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOZH0_basAAoF8J.jpg",
+        "width": 2000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082430853410631680"
+          ]
+        },
+        "author_id": "1886969144031240192",
+        "conversation_id": "2082430860096373151",
+        "created_at": "2026-07-29T11:39:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T12:39:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082430860096373151"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YCe83arVQQ",
+              "end": 92,
+              "expanded_url": "https://x.com/SpoxCHN_MaoNing/status/2082430860096373151/photo/1",
+              "media_key": "3_2082430853410631680",
+              "start": 69,
+              "url": "https://t.co/YCe83arVQQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082430860096373151",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 24,
+          "impression_count": 28540,
+          "like_count": 521,
+          "quote_count": 15,
+          "reply_count": 72,
+          "retweet_count": 111
+        },
+        "reply_settings": "everyone",
+        "text": "中国は熊本県の地震の動向を注視しており、犠牲者に対し哀悼の意を表するとともに、遺族に弔意を表し、負傷者に心からのお見舞いを申し上げます。 https://t.co/YCe83arVQQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082430853410631680"
+          ],
+          "media_source_tweet_id": [
+            "2082430860096373151"
+          ]
+        },
+        "author_id": "1880979169297022976",
+        "conversation_id": "2082466136919355653",
+        "created_at": "2026-07-29T13:59:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T14:59:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082466136919355653"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1886969144031240192",
+              "start": 3,
+              "username": "SpoxCHN_MaoNing"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YCe83arVQQ",
+              "end": 113,
+              "expanded_url": "https://x.com/SpoxCHN_MaoNing/status/2082430860096373151/photo/1",
+              "media_key": "3_2082430853410631680",
+              "start": 90,
+              "url": "https://t.co/YCe83arVQQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082466136919355653",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 111
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082430860096373151",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SpoxCHN_MaoNing: 中国は熊本県の地震の動向を注視しており、犠牲者に対し哀悼の意を表するとともに、遺族に弔意を表し、負傷者に心からのお見舞いを申し上げます。 https://t.co/YCe83arVQQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳/♂/08.11.3/友跨🏳️‍⚧️\n或许是温和粉红/欢迎DM聊天(TG优先)\n魔裁(まのさば)/CS2/三角洲/Galgame/IT \n兴趣相近互fo\n好基友@lockloveovo\n学生党 周末/节假日在线(暑假限时全天在线)\nCN/EN/JP\nTG群见置顶\n防失联@Wesley10033",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 85,
+                "username": "lockloveovo"
+              },
+              {
+                "end": 152,
+                "start": 140,
+                "username": "Wesley10033"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://telegram.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/Q5wiGuqCLC"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "location": "People's Republic of China",
+        "name": "Wesley",
+        "pinned_tweet_id": "2077761863937597659",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 676,
+          "following_count": 1022,
+          "like_count": 9718,
+          "listed_count": 1,
+          "media_count": 197,
+          "tweet_count": 1788
+        },
+        "url": "https://t.co/Q5wiGuqCLC",
+        "username": "Wesley10032",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-05T02:45:17.000Z",
+        "description": "Spokesperson of Ministry of Foreign Affairs of China\nDG of Department of Press,\nCommunication and Public Diplomacy",
+        "id": "1886969144031240192",
+        "name": "Mao Ning 毛宁",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888800829660168193/uCHvf1z7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 217856,
+          "following_count": 247,
+          "like_count": 1,
+          "listed_count": 840,
+          "media_count": 1550,
+          "tweet_count": 1651
+        },
+        "url": "",
+        "username": "SpoxCHN_MaoNing",
+        "verified": true
+      }
+    ]
+  }
+}

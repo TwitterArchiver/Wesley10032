@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074672678980759552"
+      ]
+    },
+    "author_id": "1880979169297022976",
+    "conversation_id": "2074212223480701186",
+    "created_at": "2026-07-08T01:52:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T02:52:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074672868055732678"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1998421154562973696",
+          "start": 0,
+          "username": "ffaa1683174"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/cnuowdKb3M",
+          "end": 52,
+          "expanded_url": "https://x.com/Wesley10032/status/2074672868055732678/photo/1",
+          "media_key": "3_2074672678980759552",
+          "start": 29,
+          "url": "https://t.co/cnuowdKb3M"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074672868055732678",
+    "in_reply_to_user_id": "1998421154562973696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074212223480701186",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ffaa1683174 me too，或许是被送中了？ https://t.co/cnuowdKb3M"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2074672678980759552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMq3zzfbMAAQE3f.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2074212220746035201",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMkVBm5XcAEtA16.jpg",
+        "width": 1367
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074672678980759552"
+          ]
+        },
+        "author_id": "1880979169297022976",
+        "conversation_id": "2074212223480701186",
+        "created_at": "2026-07-08T01:52:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T02:52:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074672868055732678"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1998421154562973696",
+              "start": 0,
+              "username": "ffaa1683174"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cnuowdKb3M",
+              "end": 52,
+              "expanded_url": "https://x.com/Wesley10032/status/2074672868055732678/photo/1",
+              "media_key": "3_2074672678980759552",
+              "start": 29,
+              "url": "https://t.co/cnuowdKb3M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074672868055732678",
+        "in_reply_to_user_id": "1998421154562973696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074212223480701186",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ffaa1683174 me too，或许是被送中了？ https://t.co/cnuowdKb3M"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074212220746035201"
+          ]
+        },
+        "author_id": "1998421154562973696",
+        "conversation_id": "2074212223480701186",
+        "created_at": "2026-07-06T19:21:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T20:21:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074212223480701186"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AqPrcc8Ba0",
+              "end": 73,
+              "expanded_url": "https://x.com/ffaa1683174/status/2074212223480701186/photo/1",
+              "media_key": "3_2074212220746035201",
+              "start": 50,
+              "url": "https://t.co/AqPrcc8Ba0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074212223480701186",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 111,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我操了，我刚才在逛推特，结果发现这边趋势为啥是中国啊？滑后台一看我VPN呢！\n我靠了，我直连上了？ https://t.co/AqPrcc8Ba0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "description": "中国人🇨🇳 / 友跨🏳️‍⚧️ / 欢迎DM聊天 / 兴趣相近互fo\n魔裁（まのさば）/ 崩铁（HSR）/ Galgame\n头像来自@pale_noon\n学生党 周末 / 节假日在线\n中文 / English / 日本語（勉強中）\n防失联@Wesley10033\n和平友善交流 谢绝人身攻击",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 66,
+                "username": "pale_noon"
+              },
+              {
+                "end": 131,
+                "start": 119,
+                "username": "Wesley10033"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://t.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/HjVzyPDIuK"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "location": "China",
+        "name": "Wesley",
+        "pinned_tweet_id": "2068037933899407863",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070912735362387968/eccaKvtY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 289,
+          "like_count": 1305,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 531
+        },
+        "url": "https://t.co/HjVzyPDIuK",
+        "username": "Wesley10032",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-09T15:56:01.000Z",
+        "description": "冷知识：博丽柠檬不是御坂美琴\n冷知识：也不是藤原妹红",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "cpc.people.com.cn",
+                "end": 23,
+                "expanded_url": "http://cpc.people.com.cn",
+                "start": 0,
+                "url": "https://t.co/aieclHlFvH"
+              }
+            ]
+          }
+        },
+        "id": "1998421154562973696",
+        "location": "东方project 幻想乡 博丽神社",
+        "name": "博丽灵梦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998585900801064960/AXVZqJUK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 34,
+          "like_count": 9859,
+          "listed_count": 3,
+          "media_count": 59,
+          "tweet_count": 1548
+        },
+        "url": "https://t.co/aieclHlFvH",
+        "username": "ffaa1683174",
+        "verified": false
+      }
+    ]
+  }
+}

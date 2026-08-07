@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2081319184672362496"
+      ],
+      "media_source_tweet_id": [
+        "2081319196944912425"
+      ]
+    },
+    "author_id": "1880979169297022976",
+    "conversation_id": "2081346037982306341",
+    "created_at": "2026-07-26T11:48:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T12:48:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081346037982306341"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "894022910439940096",
+          "start": 3,
+          "username": "nodoameyatou"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/kTs00KTdrn",
+          "end": 46,
+          "expanded_url": "https://x.com/nodoameyatou/status/2081319196944912425/photo/1",
+          "media_key": "3_2081319184672362496",
+          "start": 23,
+          "url": "https://t.co/kTs00KTdrn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081346037982306341",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 208
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081319196944912425",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nodoameyatou: エマ…！ https://t.co/kTs00KTdrn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4093,
+        "media_key": "3_2081319184672362496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOJUxWqaEAAQA_D.jpg",
+        "width": 2894
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081319184672362496"
+          ]
+        },
+        "author_id": "894022910439940096",
+        "conversation_id": "2081319196944912425",
+        "created_at": "2026-07-26T10:02:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T11:02:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081319196944912425"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kTs00KTdrn",
+              "end": 28,
+              "expanded_url": "https://x.com/nodoameyatou/status/2081319196944912425/photo/1",
+              "media_key": "3_2081319184672362496",
+              "start": 5,
+              "url": "https://t.co/kTs00KTdrn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081319196944912425",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 207,
+          "impression_count": 14323,
+          "like_count": 1552,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 208
+        },
+        "reply_settings": "everyone",
+        "text": "エマ…！ https://t.co/kTs00KTdrn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081319184672362496"
+          ],
+          "media_source_tweet_id": [
+            "2081319196944912425"
+          ]
+        },
+        "author_id": "1880979169297022976",
+        "conversation_id": "2081346037982306341",
+        "created_at": "2026-07-26T11:48:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T12:48:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081346037982306341"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "894022910439940096",
+              "start": 3,
+              "username": "nodoameyatou"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kTs00KTdrn",
+              "end": 46,
+              "expanded_url": "https://x.com/nodoameyatou/status/2081319196944912425/photo/1",
+              "media_key": "3_2081319184672362496",
+              "start": 23,
+              "url": "https://t.co/kTs00KTdrn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081346037982306341",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 208
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081319196944912425",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nodoameyatou: エマ…！ https://t.co/kTs00KTdrn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳/♂/友跨🏳️‍⚧️\n或许是温和粉红/欢迎DM聊天(推荐使用TG)\n魔裁(まのさば)/CS2/三角洲/Galgame/IT \n兴趣相近互fo\n好基友@lockloveovo\n学生党 周末/节假日在线(暑假限时全天在线)\nCN/EN/JP\nTG群见置顶\n防失联@Wesley10033",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 79,
+                "username": "lockloveovo"
+              },
+              {
+                "end": 146,
+                "start": 134,
+                "username": "Wesley10033"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://telegram.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/Q5wiGuqCLC"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "location": "People's Republic of China",
+        "name": "Wesley",
+        "pinned_tweet_id": "2077761863937597659",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 615,
+          "following_count": 932,
+          "like_count": 8846,
+          "listed_count": 1,
+          "media_count": 190,
+          "tweet_count": 1647
+        },
+        "url": "https://t.co/Q5wiGuqCLC",
+        "username": "Wesley10032",
+        "verified": true
+      },
+      {
+        "created_at": "2017-08-06T02:30:46.000Z",
+        "description": "描きたいものを描きたいだけ。 ⚠︎RT多めですので注意",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/member.php?id=…",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/member.php?id=29549971",
+                "start": 0,
+                "url": "https://t.co/D8SscCpKhb"
+              }
+            ]
+          }
+        },
+        "id": "894022910439940096",
+        "name": "のどあめじくと",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007513459223867392/6VIrtAOv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29825,
+          "following_count": 246,
+          "like_count": 25204,
+          "listed_count": 258,
+          "media_count": 753,
+          "tweet_count": 26561
+        },
+        "url": "https://t.co/D8SscCpKhb",
+        "username": "nodoameyatou",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,391 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082093318922780672",
+        "3_2082093336572420097",
+        "3_2082093354280689664",
+        "3_2082093377605308416"
+      ],
+      "media_source_tweet_id": [
+        "2082093401579897203",
+        "2082093401579897203",
+        "2082093401579897203",
+        "2082093401579897203"
+      ]
+    },
+    "author_id": "1880979169297022976",
+    "conversation_id": "2082298646247473283",
+    "created_at": "2026-07-29T02:54:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T03:54:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082298646247473283"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1686914633314013184",
+          "start": 3,
+          "username": "KTD593yug"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1OnPBxrwl9",
+          "end": 50,
+          "expanded_url": "https://x.com/KTD593yug/status/2082093401579897203/photo/1",
+          "media_key": "3_2082093318922780672",
+          "start": 27,
+          "url": "https://t.co/1OnPBxrwl9"
+        },
+        {
+          "display_url": "pic.x.com/1OnPBxrwl9",
+          "end": 50,
+          "expanded_url": "https://x.com/KTD593yug/status/2082093401579897203/photo/1",
+          "media_key": "3_2082093336572420097",
+          "start": 27,
+          "url": "https://t.co/1OnPBxrwl9"
+        },
+        {
+          "display_url": "pic.x.com/1OnPBxrwl9",
+          "end": 50,
+          "expanded_url": "https://x.com/KTD593yug/status/2082093401579897203/photo/1",
+          "media_key": "3_2082093354280689664",
+          "start": 27,
+          "url": "https://t.co/1OnPBxrwl9"
+        },
+        {
+          "display_url": "pic.x.com/1OnPBxrwl9",
+          "end": 50,
+          "expanded_url": "https://x.com/KTD593yug/status/2082093401579897203/photo/1",
+          "media_key": "3_2082093377605308416",
+          "start": 27,
+          "url": "https://t.co/1OnPBxrwl9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082298646247473283",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082093401579897203",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KTD593yug: 100fo福利（？）喵 https://t.co/1OnPBxrwl9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2082093318922780672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOUU15ebQAAOP0G.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2082093336572420097",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOUU27ObYAEH-w-.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2082093354280689664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOUU39MaIAAbbz9.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2082093377605308416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOUU5UFbkAA9Cxm.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082093318922780672",
+            "3_2082093336572420097",
+            "3_2082093354280689664",
+            "3_2082093377605308416"
+          ]
+        },
+        "author_id": "1686914633314013184",
+        "conversation_id": "2082093401579897203",
+        "created_at": "2026-07-28T13:18:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T14:18:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082093401579897203"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1OnPBxrwl9",
+              "end": 35,
+              "expanded_url": "https://x.com/KTD593yug/status/2082093401579897203/photo/1",
+              "media_key": "3_2082093318922780672",
+              "start": 12,
+              "url": "https://t.co/1OnPBxrwl9"
+            },
+            {
+              "display_url": "pic.x.com/1OnPBxrwl9",
+              "end": 35,
+              "expanded_url": "https://x.com/KTD593yug/status/2082093401579897203/photo/1",
+              "media_key": "3_2082093336572420097",
+              "start": 12,
+              "url": "https://t.co/1OnPBxrwl9"
+            },
+            {
+              "display_url": "pic.x.com/1OnPBxrwl9",
+              "end": 35,
+              "expanded_url": "https://x.com/KTD593yug/status/2082093401579897203/photo/1",
+              "media_key": "3_2082093354280689664",
+              "start": 12,
+              "url": "https://t.co/1OnPBxrwl9"
+            },
+            {
+              "display_url": "pic.x.com/1OnPBxrwl9",
+              "end": 35,
+              "expanded_url": "https://x.com/KTD593yug/status/2082093401579897203/photo/1",
+              "media_key": "3_2082093377605308416",
+              "start": 12,
+              "url": "https://t.co/1OnPBxrwl9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082093401579897203",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 2031,
+          "like_count": 69,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "100fo福利（？）喵 https://t.co/1OnPBxrwl9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082093318922780672",
+            "3_2082093336572420097",
+            "3_2082093354280689664",
+            "3_2082093377605308416"
+          ],
+          "media_source_tweet_id": [
+            "2082093401579897203",
+            "2082093401579897203",
+            "2082093401579897203",
+            "2082093401579897203"
+          ]
+        },
+        "author_id": "1880979169297022976",
+        "conversation_id": "2082298646247473283",
+        "created_at": "2026-07-29T02:54:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T03:54:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082298646247473283"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1686914633314013184",
+              "start": 3,
+              "username": "KTD593yug"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1OnPBxrwl9",
+              "end": 50,
+              "expanded_url": "https://x.com/KTD593yug/status/2082093401579897203/photo/1",
+              "media_key": "3_2082093318922780672",
+              "start": 27,
+              "url": "https://t.co/1OnPBxrwl9"
+            },
+            {
+              "display_url": "pic.x.com/1OnPBxrwl9",
+              "end": 50,
+              "expanded_url": "https://x.com/KTD593yug/status/2082093401579897203/photo/1",
+              "media_key": "3_2082093336572420097",
+              "start": 27,
+              "url": "https://t.co/1OnPBxrwl9"
+            },
+            {
+              "display_url": "pic.x.com/1OnPBxrwl9",
+              "end": 50,
+              "expanded_url": "https://x.com/KTD593yug/status/2082093401579897203/photo/1",
+              "media_key": "3_2082093354280689664",
+              "start": 27,
+              "url": "https://t.co/1OnPBxrwl9"
+            },
+            {
+              "display_url": "pic.x.com/1OnPBxrwl9",
+              "end": 50,
+              "expanded_url": "https://x.com/KTD593yug/status/2082093401579897203/photo/1",
+              "media_key": "3_2082093377605308416",
+              "start": 27,
+              "url": "https://t.co/1OnPBxrwl9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082298646247473283",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082093401579897203",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @KTD593yug: 100fo福利（？）喵 https://t.co/1OnPBxrwl9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳/♂/08.11.3/友跨🏳️‍⚧️\n或许是温和粉红/欢迎DM聊天(推荐使用TG)\n魔裁(まのさば)/CS2/三角洲/Galgame/IT \n兴趣相近互fo\n好基友@lockloveovo\n学生党 周末/节假日在线(暑假限时全天在线)\nCN/EN/JP\nTG群见置顶\n防失联@Wesley10033",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 87,
+                "username": "lockloveovo"
+              },
+              {
+                "end": 154,
+                "start": 142,
+                "username": "Wesley10033"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://telegram.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/Q5wiGuqCLC"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "location": "People's Republic of China",
+        "name": "Wesley",
+        "pinned_tweet_id": "2077761863937597659",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 669,
+          "following_count": 1003,
+          "like_count": 9521,
+          "listed_count": 1,
+          "media_count": 197,
+          "tweet_count": 1763
+        },
+        "url": "https://t.co/Q5wiGuqCLC",
+        "username": "Wesley10032",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-03T01:39:45.000Z",
+        "description": "雑魚ざこ♡ | 是ENFP | 友跨 | 偶尔半夜emo | 看情况互fo | 简介不定期更新喵",
+        "id": "1686914633314013184",
+        "location": "-13cm",
+        "name": "千绘莉喵～",
+        "pinned_tweet_id": "2077804269668110515",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029148198111985664/FJjVvRik_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 164,
+          "like_count": 1860,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 498
+        },
+        "url": "",
+        "username": "KTD593yug",
+        "verified": false
+      }
+    ]
+  }
+}

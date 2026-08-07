@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1525456751788969985",
+    "conversation_id": "1819893113814720918",
+    "created_at": "2024-08-04T15:27:59.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-04T16:27:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1820119497531076679"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "929020808",
+          "start": 0,
+          "username": "jasongordo626"
+        },
+        {
+          "end": 29,
+          "id": "1221824882582753280",
+          "start": 15,
+          "username": "kinglinzhuhui"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1820119497531076679",
+    "in_reply_to_user_id": "929020808",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1820041088649900172",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jasongordo626 @kinglinzhuhui 笑点解析：台湾自称“中华民国”"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1525456751788969985",
+        "conversation_id": "1819893113814720918",
+        "created_at": "2024-08-04T15:27:59.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-04T16:27:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1820119497531076679"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "929020808",
+              "start": 0,
+              "username": "jasongordo626"
+            },
+            {
+              "end": 29,
+              "id": "1221824882582753280",
+              "start": 15,
+              "username": "kinglinzhuhui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1820119497531076679",
+        "in_reply_to_user_id": "929020808",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1820041088649900172",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jasongordo626 @kinglinzhuhui 笑点解析：台湾自称“中华民国”"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "929020808",
+        "conversation_id": "1819893113814720918",
+        "created_at": "2024-08-04T10:16:24.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-04T11:16:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1820041088649900172"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1221824882582753280",
+              "start": 0,
+              "username": "kinglinzhuhui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1820041088649900172",
+        "in_reply_to_user_id": "1221824882582753280",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1586,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1819893113814720918",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kinglinzhuhui 台灣是台灣！\n中國僅僅是中國"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-14T12:43:40.000Z",
+        "description": "Free Ukraine and Palestine 🇺🇦🇵🇸",
+        "id": "1525456751788969985",
+        "name": "Wesley",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811578387594649600/eQdjLvSa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 28,
+          "like_count": 37,
+          "listed_count": 0,
+          "tweet_count": 208
+        },
+        "username": "Wesley10032",
+        "verified": false
+      },
+      {
+        "created_at": "2012-11-06T04:53:15.000Z",
+        "description": "",
+        "id": "929020808",
+        "name": "Jason Gordan",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1784305938469429248/tWsR2er2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 656,
+          "following_count": 4633,
+          "like_count": 21240,
+          "listed_count": 13,
+          "tweet_count": 16267
+        },
+        "username": "jasongordo626",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-27T15:59:01.000Z",
+        "description": "福清哥",
+        "id": "1221824882582753280",
+        "location": "中国",
+        "name": "K.L",
+        "pinned_tweet_id": "1421097516582408195",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1395025733068607489/hmRGrANd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14127,
+          "following_count": 3153,
+          "like_count": 62823,
+          "listed_count": 71,
+          "tweet_count": 39751
+        },
+        "username": "kinglinzhuhui",
+        "verified": false
+      }
+    ]
+  }
+}

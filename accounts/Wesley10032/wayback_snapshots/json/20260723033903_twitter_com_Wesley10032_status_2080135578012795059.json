@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880979169297022976",
+    "conversation_id": "2080135578012795059",
+    "created_at": "2026-07-23T03:39:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T04:39:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080135578012795059"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/nanami_touko21…",
+          "end": 44,
+          "expanded_url": "https://twitter.com/nanami_touko219/status/2079744316696916383",
+          "start": 21,
+          "url": "https://t.co/6Uxue05JmO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080135578012795059",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079744316696916383",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我也想被墙内挂喵\n咱还是有点像出名的喵（ https://t.co/6Uxue05JmO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2079743651522265088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNy71QTbwAAhgW6.jpg",
+        "width": 926
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2079743676176277504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNy72sJaIAAEUk-.jpg",
+        "width": 926
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880979169297022976",
+        "conversation_id": "2080135578012795059",
+        "created_at": "2026-07-23T03:39:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T04:39:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080135578012795059"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nanami_touko21…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/nanami_touko219/status/2079744316696916383",
+              "start": 21,
+              "url": "https://t.co/6Uxue05JmO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080135578012795059",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079744316696916383",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我也想被墙内挂喵\n咱还是有点像出名的喵（ https://t.co/6Uxue05JmO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079743651522265088",
+            "3_2079743676176277504"
+          ]
+        },
+        "author_id": "1937048792487849984",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2079744316696916383",
+        "created_at": "2026-07-22T01:44:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T02:44:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079744316696916383"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ei9jPCWF11",
+              "end": 39,
+              "expanded_url": "https://x.com/nanami269322/status/2079744316696916383/photo/1",
+              "media_key": "3_2079743651522265088",
+              "start": 16,
+              "url": "https://t.co/ei9jPCWF11"
+            },
+            {
+              "display_url": "pic.x.com/ei9jPCWF11",
+              "end": 39,
+              "expanded_url": "https://x.com/nanami269322/status/2079744316696916383/photo/1",
+              "media_key": "3_2079743676176277504",
+              "start": 16,
+              "url": "https://t.co/ei9jPCWF11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079744316696916383",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 23294,
+          "like_count": 240,
+          "quote_count": 10,
+          "reply_count": 34,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "孩子们辉夜被劳保挂了，绷不住了 https://t.co/ei9jPCWF11"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳/男/友跨🏳️‍⚧️/或许是温和粉红/欢迎DM聊天(推荐使用TG)\n魔裁(まのさば)/VRChat/Galgame/IT 兴趣相近互fo\n好基友@lockloveovo\n学生党 周末/节假日在线(暑假限时全天在线)\nCN/EN/JP\nTG群见置顶\n防失联@Wesley10033",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 77,
+                "username": "lockloveovo"
+              },
+              {
+                "end": 144,
+                "start": 132,
+                "username": "Wesley10033"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://telegram.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/Q5wiGuqCLC"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "location": "People's Republic of China",
+        "name": "Wesley",
+        "pinned_tweet_id": "2075263019853238477",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 557,
+          "following_count": 851,
+          "like_count": 7569,
+          "listed_count": 1,
+          "media_count": 176,
+          "tweet_count": 1469
+        },
+        "url": "https://t.co/Q5wiGuqCLC",
+        "username": "Wesley10032",
+        "verified": true
+      },
+      {
+        "created_at": "2025-06-23T07:23:30.000Z",
+        "description": "時は流れて、大切な人とまた会えるように",
+        "id": "1937048792487849984",
+        "location": "克拉科夫",
+        "name": "七海燈子☭🚩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078497285584150529/qDw5vPwS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 734,
+          "following_count": 976,
+          "like_count": 50826,
+          "listed_count": 5,
+          "media_count": 1370,
+          "tweet_count": 4591
+        },
+        "url": "",
+        "username": "nanami_touko219",
+        "verified": false
+      }
+    ]
+  }
+}

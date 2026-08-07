@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880979169297022976",
+    "conversation_id": "2083149833767157863",
+    "created_at": "2026-07-31T16:23:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T17:23:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083227161989963934"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1829109586571513856",
+          "start": 0,
+          "username": "Chypre271828"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083227161989963934",
+    "in_reply_to_user_id": "1829109586571513856",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083226723374817379",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chypre271828 好喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880979169297022976",
+        "conversation_id": "2083149833767157863",
+        "created_at": "2026-07-31T16:23:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T17:23:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083227161989963934"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1829109586571513856",
+              "start": 0,
+              "username": "Chypre271828"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083227161989963934",
+        "in_reply_to_user_id": "1829109586571513856",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083226723374817379",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chypre271828 好喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1829109586571513856",
+        "conversation_id": "2083149833767157863",
+        "created_at": "2026-07-31T16:22:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T17:22:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083226723374817379"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1880979169297022976",
+              "start": 0,
+              "username": "Wesley10032"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Use DeepSeek V4 Flash inside the stock ChatGPT desktop app / Codex model picker — native Responses API, full agentic tool loop, no fork, no app patch. GPT models keep working via your ChatGPT OAuth...",
+              "display_url": "github.com/fish2lab/DSCod…",
+              "end": 66,
+              "expanded_url": "https://github.com/fish2lab/DSCodex",
+              "images": [
+                {
+                  "height": 600,
+                  "url": "https://pbs.twimg.com/news_img/2083220196244996096/YJ86TEsW?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2083220196244996096/YJ86TEsW?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 43,
+              "status": 200,
+              "title": "GitHub - fish2lab/DSCodex: Use DeepSeek V4 Flash inside the stock ChatGPT desktop app / Codex model picker — native Responses API, full agentic tool loop, no fork, no app patch. GPT models keep working via your ChatGPT OAuth subscription.",
+              "unwound_url": "https://github.com/fish2lab/DSCodex",
+              "url": "https://t.co/tPOA0eFWUi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083226723374817379",
+        "in_reply_to_user_id": "1880979169297022976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083149833767157863",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wesley10032 可以试试我的项目，这样就能同时用GPT和Deepseek（\nhttps://t.co/tPOA0eFWUi\n因为原生为Response API设计，比当前版本的opencodex好一点，解决了官方脚本只能OAuth和deepseek二选一，和切模型互相覆盖思考档位的问题"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳/♂/08.11.3/友跨🏳️‍⚧️\n或许是温和粉红/欢迎DM聊天(TG优先)\n魔裁(まのさば)/CS2/三角洲/Galgame/IT \n兴趣相近互fo\n好基友@lockloveovo\n学生党 周末/节假日在线(暑假限时全天在线)\nCN/EN/JP\nTG群见置顶\n防失联@Wesley10033",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 85,
+                "username": "lockloveovo"
+              },
+              {
+                "end": 152,
+                "start": 140,
+                "username": "Wesley10033"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://telegram.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/Q5wiGuqCLC"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "location": "People's Republic of China",
+        "name": "Wesley",
+        "pinned_tweet_id": "2083033063257420070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 703,
+          "following_count": 1061,
+          "like_count": 10405,
+          "listed_count": 1,
+          "media_count": 207,
+          "tweet_count": 1891
+        },
+        "url": "https://t.co/Q5wiGuqCLC",
+        "username": "Wesley10032",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-29T10:51:43.000Z",
+        "description": "💻CS Senior | 🎓Incoming PhD Student | 📷GFX100s | 🍡LGBTQ+ friendly",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fish2lab.com",
+                "end": 23,
+                "expanded_url": "http://fish2lab.com",
+                "start": 0,
+                "url": "https://t.co/GuYd4IB3lB"
+              }
+            ]
+          }
+        },
+        "id": "1829109586571513856",
+        "name": "Silas Su",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078185052396212224/2BjNQNKN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 120,
+          "like_count": 4841,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 1173
+        },
+        "url": "https://t.co/GuYd4IB3lB",
+        "username": "Chypre271828",
+        "verified": true
+      }
+    ]
+  }
+}

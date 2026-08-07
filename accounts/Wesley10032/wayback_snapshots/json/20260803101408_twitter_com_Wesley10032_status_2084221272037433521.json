@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084221262650634240"
+      ]
+    },
+    "author_id": "1880979169297022976",
+    "conversation_id": "2084221272037433521",
+    "created_at": "2026-08-03T10:14:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T11:14:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084221272037433521"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1885529810942009344",
+          "start": 4,
+          "username": "NEO_NA45"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/z5XuyDVYr5",
+          "end": 63,
+          "expanded_url": "https://x.com/Wesley10032/status/2084221272037433521/photo/1",
+          "media_key": "3_2084221262650634240",
+          "start": 40,
+          "url": "https://t.co/z5XuyDVYr5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084221272037433521",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "不是……@NEO_NA45 泥是按错了吗（）\n这么多钱咱不太敢收啊😭\n谢谢你😭 https://t.co/z5XuyDVYr5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1242,
+        "media_key": "3_2084221262650634240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOykMhmbcAApaMb.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084221262650634240"
+          ]
+        },
+        "author_id": "1880979169297022976",
+        "conversation_id": "2084221272037433521",
+        "created_at": "2026-08-03T10:14:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T11:14:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084221272037433521"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1885529810942009344",
+              "start": 4,
+              "username": "NEO_NA45"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/z5XuyDVYr5",
+              "end": 63,
+              "expanded_url": "https://x.com/Wesley10032/status/2084221272037433521/photo/1",
+              "media_key": "3_2084221262650634240",
+              "start": 40,
+              "url": "https://t.co/z5XuyDVYr5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084221272037433521",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不是……@NEO_NA45 泥是按错了吗（）\n这么多钱咱不太敢收啊😭\n谢谢你😭 https://t.co/z5XuyDVYr5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳/♂/08.11.3/友跨🏳️‍⚧️\n或许是温和粉红/欢迎DM聊天(TG优先)\n魔裁(まのさば)/CS2/三角洲/Galgame/IT \n兴趣相近互fo/想做心理委员\n好基友@lockloveovo\n学生党 周末/节假日在线(暑假限时全天在线)\nCN/EN/JP\n防失联@Wesley10033",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 104,
+                "start": 92,
+                "username": "lockloveovo"
+              },
+              {
+                "end": 152,
+                "start": 140,
+                "username": "Wesley10033"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://telegram.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/Q5wiGuq4W4"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "location": "People's Republic of China",
+        "name": "Wesley",
+        "pinned_tweet_id": "2083033063257420070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 778,
+          "following_count": 1109,
+          "like_count": 11471,
+          "listed_count": 1,
+          "media_count": 233,
+          "tweet_count": 2044
+        },
+        "url": "https://t.co/Q5wiGuq4W4",
+        "username": "Wesley10032",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-01T03:25:23.000Z",
+        "description": "互fo喵 | 主要產出：🏎️ F1｜📱 Android｜📷 Photography｜⛏️Minecraft  | 分享生活碎片與一些想法 | F1相關長文 | 是夜貓子呢。。多夜間出沒！\n👑GOAT:@LewisHamilton #WeRaceAsOne",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 127,
+                "start": 115,
+                "tag": "WeRaceAsOne"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 114,
+                "start": 100,
+                "username": "LewisHamilton"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/NEO_NA45s_Chan…",
+                "end": 23,
+                "expanded_url": "https://t.me/NEO_NA45s_Channel",
+                "start": 0,
+                "url": "https://t.co/rS411XNlcO"
+              }
+            ]
+          }
+        },
+        "id": "1885529810942009344",
+        "name": "NEO_NA45",
+        "pinned_tweet_id": "2084165092191703268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075981609870991360/TQWSYK8d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 515,
+          "following_count": 607,
+          "like_count": 4881,
+          "listed_count": 0,
+          "media_count": 89,
+          "tweet_count": 1456
+        },
+        "url": "https://t.co/rS411XNlcO",
+        "username": "NEO_NA45",
+        "verified": true
+      }
+    ]
+  }
+}

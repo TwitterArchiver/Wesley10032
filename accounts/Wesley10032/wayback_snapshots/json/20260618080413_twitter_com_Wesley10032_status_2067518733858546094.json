@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1924000985828999168"
+      ],
+      "media_source_tweet_id": [
+        "1924001021266919496"
+      ]
+    },
+    "author_id": "1880979169297022976",
+    "conversation_id": "2067518733858546094",
+    "created_at": "2026-06-18T08:04:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T09:04:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067518733858546094"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "894022910439940096",
+          "start": 3,
+          "username": "nodoameyatou"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/He4rDGfrxA",
+          "end": 47,
+          "expanded_url": "https://x.com/nodoameyatou/status/1924001021266919496/photo/1",
+          "media_key": "3_1924000985828999168",
+          "start": 24,
+          "url": "https://t.co/He4rDGfrxA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067518733858546094",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 915
+    },
+    "referenced_tweets": [
+      {
+        "id": "1924001021266919496",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nodoameyatou: あやちさん https://t.co/He4rDGfrxA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3541,
+        "media_key": "3_1924000985828999168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrNss-vWwAAoGDp.jpg",
+        "width": 2508
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1924000985828999168"
+          ],
+          "media_source_tweet_id": [
+            "1924001021266919496"
+          ]
+        },
+        "author_id": "1880979169297022976",
+        "conversation_id": "2067518733858546094",
+        "created_at": "2026-06-18T08:04:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T09:04:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067518733858546094"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "894022910439940096",
+              "start": 3,
+              "username": "nodoameyatou"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/He4rDGfrxA",
+              "end": 47,
+              "expanded_url": "https://x.com/nodoameyatou/status/1924001021266919496/photo/1",
+              "media_key": "3_1924000985828999168",
+              "start": 24,
+              "url": "https://t.co/He4rDGfrxA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067518733858546094",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 915
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924001021266919496",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nodoameyatou: あやちさん https://t.co/He4rDGfrxA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1924000985828999168"
+          ]
+        },
+        "author_id": "894022910439940096",
+        "conversation_id": "1924001021266919496",
+        "created_at": "2025-05-18T07:16:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-18T08:16:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1924001021266919496"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/He4rDGfrxA",
+              "end": 29,
+              "expanded_url": "https://x.com/nodoameyatou/status/1924001021266919496/photo/1",
+              "media_key": "3_1924000985828999168",
+              "start": 6,
+              "url": "https://t.co/He4rDGfrxA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924001021266919496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1085,
+          "impression_count": 104022,
+          "like_count": 5572,
+          "quote_count": 2,
+          "reply_count": 15,
+          "retweet_count": 915
+        },
+        "reply_settings": "everyone",
+        "text": "あやちさん https://t.co/He4rDGfrxA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳 / 民主社会主义 / 反台独 / Free Ukraine 🇺🇦 / Free Palestine 🇵🇸\n魔裁（まのさば） / 崩铁（HSR）\n和平友善交流，谢绝人身攻击\n中华人民共和国万岁 世界人民大团结万岁",
+        "id": "1880979169297022976",
+        "location": "China",
+        "name": "Wesley10032",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021156330271039488/mAwe21JP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 120,
+          "like_count": 543,
+          "listed_count": 1,
+          "media_count": 2,
+          "tweet_count": 320
+        },
+        "username": "Wesley10032",
+        "verified": false
+      },
+      {
+        "created_at": "2017-08-06T02:30:46.000Z",
+        "description": "描きたいものを描きたいだけ。 ⚠︎RT多めですので注意",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/member.php?id=…",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/member.php?id=29549971",
+                "start": 0,
+                "url": "https://t.co/D8SscCpKhb"
+              }
+            ]
+          }
+        },
+        "id": "894022910439940096",
+        "name": "のどあめじくと",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007513459223867392/6VIrtAOv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29609,
+          "following_count": 246,
+          "like_count": 24927,
+          "listed_count": 257,
+          "media_count": 739,
+          "tweet_count": 26260
+        },
+        "url": "https://t.co/D8SscCpKhb",
+        "username": "nodoameyatou",
+        "verified": false
+      }
+    ]
+  }
+}

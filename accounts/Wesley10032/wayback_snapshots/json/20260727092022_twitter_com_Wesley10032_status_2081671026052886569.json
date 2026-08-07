@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2081671018826092545"
+      ]
+    },
+    "author_id": "1880979169297022976",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2081671026052886569",
+    "created_at": "2026-07-27T09:20:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T10:20:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081671026052886569"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/GUIuhktg6x",
+          "end": 30,
+          "expanded_url": "https://x.com/Wesley10032/status/2081671026052886569/photo/1",
+          "media_key": "3_2081671018826092545",
+          "start": 7,
+          "url": "https://t.co/GUIuhktg6x"
+        },
+        {
+          "display_url": "x.com/wesley10032/st…",
+          "end": 54,
+          "expanded_url": "https://twitter.com/wesley10032/status/2081613097819943323",
+          "start": 31,
+          "url": "https://t.co/wZcZaaJrCu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081671026052886569",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081613097819943323",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "依旧骑车锻炼 https://t.co/GUIuhktg6x https://t.co/wZcZaaJrCu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2081671018826092545",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOOUwzBa0AEf_YB.jpg",
+        "width": 946
+      },
+      {
+        "height": 484,
+        "media_key": "3_2081613092778307584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HONgFDracAAdHh9.jpg",
+        "width": 396
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081671018826092545"
+          ]
+        },
+        "author_id": "1880979169297022976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2081671026052886569",
+        "created_at": "2026-07-27T09:20:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T10:20:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081671026052886569"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GUIuhktg6x",
+              "end": 30,
+              "expanded_url": "https://x.com/Wesley10032/status/2081671026052886569/photo/1",
+              "media_key": "3_2081671018826092545",
+              "start": 7,
+              "url": "https://t.co/GUIuhktg6x"
+            },
+            {
+              "display_url": "x.com/wesley10032/st…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/wesley10032/status/2081613097819943323",
+              "start": 31,
+              "url": "https://t.co/wZcZaaJrCu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081671026052886569",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081613097819943323",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "依旧骑车锻炼 https://t.co/GUIuhktg6x https://t.co/wZcZaaJrCu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081613092778307584"
+          ]
+        },
+        "author_id": "1880979169297022976",
+        "conversation_id": "2081613097819943323",
+        "created_at": "2026-07-27T05:30:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T06:30:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081613097819943323"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KcjfZnCJg4",
+              "end": 31,
+              "expanded_url": "https://x.com/Wesley10032/status/2081613097819943323/photo/1",
+              "media_key": "3_2081613092778307584",
+              "start": 8,
+              "url": "https://t.co/KcjfZnCJg4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081613097819943323",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 356,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不会死吧（） https://t.co/KcjfZnCJg4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳/♂/友跨🏳️‍⚧️\n或许是温和粉红/欢迎DM聊天(推荐使用TG)\n魔裁(まのさば)/CS2/三角洲/Galgame/IT \n兴趣相近互fo\n好基友@lockloveovo\n学生党 周末/节假日在线(暑假限时全天在线)\nCN/EN/JP\nTG群见置顶\n防失联@Wesley10033",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 79,
+                "username": "lockloveovo"
+              },
+              {
+                "end": 146,
+                "start": 134,
+                "username": "Wesley10033"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://telegram.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/Q5wiGuqCLC"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "location": "People's Republic of China",
+        "name": "Wesley",
+        "pinned_tweet_id": "2077761863937597659",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 623,
+          "following_count": 950,
+          "like_count": 9109,
+          "listed_count": 1,
+          "media_count": 195,
+          "tweet_count": 1688
+        },
+        "url": "https://t.co/Q5wiGuqCLC",
+        "username": "Wesley10032",
+        "verified": true
+      }
+    ]
+  }
+}

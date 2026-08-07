@@ -1,0 +1,321 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880979169297022976",
+    "conversation_id": "2083882630223659390",
+    "created_at": "2026-08-02T12:48:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T13:48:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083897627767423080"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1917261838485708802",
+          "start": 0,
+          "username": "qiujiudev"
+        },
+        {
+          "end": 27,
+          "id": "1977331200709595136",
+          "start": 11,
+          "username": "PhylissWei13477"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083897627767423080",
+    "in_reply_to_user_id": "1917261838485708802",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083882630223659390",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qiujiudev @PhylissWei13477 喵喵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2083882605259415553",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOtwMEgaYAEoGK7.jpg",
+        "width": 4096
+      },
+      {
+        "height": 2526,
+        "media_key": "3_2083882621080313856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOtwM_caIAAYLoZ.jpg",
+        "width": 1843
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880979169297022976",
+        "conversation_id": "2083882630223659390",
+        "created_at": "2026-08-02T12:48:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T13:48:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083897627767423080"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1917261838485708802",
+              "start": 0,
+              "username": "qiujiudev"
+            },
+            {
+              "end": 27,
+              "id": "1977331200709595136",
+              "start": 11,
+              "username": "PhylissWei13477"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083897627767423080",
+        "in_reply_to_user_id": "1917261838485708802",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083882630223659390",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qiujiudev @PhylissWei13477 喵喵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083882605259415553",
+            "3_2083882621080313856"
+          ]
+        },
+        "author_id": "1917261838485708802",
+        "conversation_id": "2083882630223659390",
+        "created_at": "2026-08-02T11:48:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T12:48:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083882630223659390"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OeH7YXJVn9",
+              "end": 167,
+              "expanded_url": "https://x.com/qiujiudev/status/2083882630223659390/photo/1",
+              "media_key": "3_2083882605259415553",
+              "start": 144,
+              "url": "https://t.co/OeH7YXJVn9"
+            },
+            {
+              "display_url": "pic.x.com/OeH7YXJVn9",
+              "end": 167,
+              "expanded_url": "https://x.com/qiujiudev/status/2083882630223659390/photo/1",
+              "media_key": "3_2083882621080313856",
+              "start": 144,
+              "url": "https://t.co/OeH7YXJVn9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083882630223659390",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 285,
+          "like_count": 33,
+          "quote_count": 0,
+          "reply_count": 24,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "庆祝400fo，抽一个奖吧！\n揪15位推u送一份礼物\n奖品：蜜雪柠檬水一杯（可折现）\n奖品于抽奖结束日统一发出\n后续抽奖会放在每增加100fo，欢迎参加\n开奖时间为：2026年8月5日（UTC+8）12:00分开奖\n转发点赞评论这个帖子就可以参与啦\n(有没有老师能帮我画个头像啊求帮助) https://t.co/OeH7YXJVn9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳/♂/08.11.3/友跨🏳️‍⚧️\n或许是温和粉红/欢迎DM聊天(TG优先)\n魔裁(まのさば)/CS2/三角洲/Galgame/IT \n兴趣相近互fo/想做心理委员\n好基友@lockloveovo\n学生党 周末/节假日在线(暑假限时全天在线)\nCN/EN/JP\n防失联@Wesley10033",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 104,
+                "start": 92,
+                "username": "lockloveovo"
+              },
+              {
+                "end": 152,
+                "start": 140,
+                "username": "Wesley10033"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://telegram.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/Q5wiGuq4W4"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "location": "People's Republic of China",
+        "name": "Wesley",
+        "pinned_tweet_id": "2083033063257420070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 740,
+          "following_count": 1086,
+          "like_count": 11047,
+          "listed_count": 1,
+          "media_count": 220,
+          "tweet_count": 1980
+        },
+        "url": "https://t.co/Q5wiGuq4W4",
+        "username": "Wesley10032",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-29T16:57:06.000Z",
+        "description": "你好啊，我是秋玖，一个普普通通的10后wmc，重度VOCALOID爱好者 音游痴 和杂食党 爱玩魔裁。爱好广泛，欢迎扩列～私信和TG随时欢迎随时骚扰！TG:https://t.co/v5O8gYnjm0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Qiujiudev",
+                "end": 101,
+                "expanded_url": "http://t.me/Qiujiudev",
+                "start": 78,
+                "url": "https://t.co/v5O8gYnjm0"
+              }
+            ]
+          }
+        },
+        "id": "1917261838485708802",
+        "name": "秋玖",
+        "pinned_tweet_id": "2083548515905753559",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077321726548193281/6_jw7mdP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 410,
+          "following_count": 447,
+          "like_count": 2210,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 440
+        },
+        "url": "",
+        "username": "qiujiudev",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-12T11:11:11.000Z",
+        "description": "INFP/死人微活的高中生ʕ⁠´⁠•⁠ ⁠ᴥ⁠•̥⁠`⁠ʔ/对一切常规地球人类表示友好/全世界最好最萌最可爱的天使宝宝@Air_Yukiha",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 59,
+                "username": "Air_Yukiha"
+              }
+            ]
+          }
+        },
+        "id": "1977331200709595136",
+        "location": "未知",
+        "name": "Asdtruna.",
+        "pinned_tweet_id": "2006055508105650576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993011337593757697/QKux05BV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 175,
+          "like_count": 1227,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 867
+        },
+        "url": "",
+        "username": "PhylissWei13477",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880979169297022976",
+    "conversation_id": "2067997695420321858",
+    "created_at": "2026-06-19T19:45:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T20:45:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068057542497030387"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "786662054",
+          "start": 0,
+          "username": "aiqiang888"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068057542497030387",
+    "in_reply_to_user_id": "786662054",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067997695420321858",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aiqiang888 不是Premium也可以申请吗？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1615,
+        "media_key": "3_2067997685303648256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLMA8CTaoAAaui5.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880979169297022976",
+        "conversation_id": "2067997695420321858",
+        "created_at": "2026-06-19T19:45:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T20:45:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068057542497030387"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "786662054",
+              "start": 0,
+              "username": "aiqiang888"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068057542497030387",
+        "in_reply_to_user_id": "786662054",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067997695420321858",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aiqiang888 不是Premium也可以申请吗？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067997685303648256"
+          ]
+        },
+        "author_id": "786662054",
+        "conversation_id": "2067997695420321858",
+        "created_at": "2026-06-19T15:47:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T16:47:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067997695420321858"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lOV0XRlzGP",
+              "end": 116,
+              "expanded_url": "https://x.com/aiqiang888/status/2067997695420321858/photo/1",
+              "media_key": "3_2067997685303648256",
+              "start": 93,
+              "url": "https://t.co/lOV0XRlzGP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067997695420321858",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 84,
+          "impression_count": 32135,
+          "like_count": 108,
+          "quote_count": 7,
+          "reply_count": 73,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "所有人立刻马上去申请推特身份认证！\n\n不是领工资的那个，而是 x 应用本身的\n\n设置-安全-身份认证-中国-身份证\n\n亲测可以过，很流畅，别等入口关了后悔\n\n身份认证也可以增加账号权重 https://t.co/lOV0XRlzGP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳 / 友跨🏳️‍⚧️ / Free Ukraine 🇺🇦 / Free Palestine 🇵🇸 / DM可\n中文 / English / 日本語（勉強中）\n防失联 @Wesley10033\n和平友善交流，谢绝人身攻击\n中华人民共和国万岁 世界人民大团结万岁",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 88,
+                "username": "Wesley10033"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "location": "China",
+        "name": "Wesley10032",
+        "pinned_tweet_id": "2068037933899407863",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021156330271039488/mAwe21JP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 147,
+          "like_count": 623,
+          "listed_count": 1,
+          "media_count": 7,
+          "tweet_count": 383
+        },
+        "url": "",
+        "username": "Wesley10032",
+        "verified": false
+      },
+      {
+        "created_at": "2012-08-28T09:58:29.000Z",
+        "description": "我是撸毛小白，我有两只小狗，一只叫多多，一只叫元宝。 \n商务合作       TG: kas_silver      #蓝鸟会 #灯塔",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 63,
+                "start": 59,
+                "tag": "蓝鸟会"
+              },
+              {
+                "end": 67,
+                "start": 64,
+                "tag": "灯塔"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "aiqiang888.com",
+                "end": 23,
+                "expanded_url": "https://aiqiang888.com/",
+                "start": 0,
+                "url": "https://t.co/9s3yqxEtzG"
+              }
+            ]
+          }
+        },
+        "id": "786662054",
+        "location": "个人网站👉",
+        "name": "记得爱强",
+        "pinned_tweet_id": "2067921591233888742",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973882737632391168/37cVOJSJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14532,
+          "following_count": 3533,
+          "like_count": 16916,
+          "listed_count": 108,
+          "media_count": 878,
+          "tweet_count": 25727
+        },
+        "url": "https://t.co/9s3yqxEtzG",
+        "username": "aiqiang888",
+        "verified": true
+      }
+    ]
+  }
+}

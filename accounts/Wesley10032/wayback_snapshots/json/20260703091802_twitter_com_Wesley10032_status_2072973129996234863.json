@@ -1,0 +1,460 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880979169297022976",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1585790663575994368",
+          "name": "Magical girl"
+        }
+      }
+    ],
+    "conversation_id": "2072973129996234863",
+    "created_at": "2026-07-03T09:18:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T10:18:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072973129996234863"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "192779788",
+          "start": 3,
+          "username": "hiiragi_yuka530"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072973129996234863",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1032
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072624429558087834",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hiiragi_yuka530: 【🦋超重大お知らせ🦋】\n\nAcaciaの最新作ゲーム\n魔法少女ノ因習村 にて\n\n御影リズのCVを担当させて頂く事になりました！\n\n1番気になっていたキャラクターだったので\n自分でも未だに信じられない程、嬉しいです！！\n\nまのむら、\n入村…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2072624423111380992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMNw7nxaUAA2Lt-.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880979169297022976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1585790663575994368",
+              "name": "Magical girl"
+            }
+          }
+        ],
+        "conversation_id": "2072973129996234863",
+        "created_at": "2026-07-03T09:18:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T10:18:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072973129996234863"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "192779788",
+              "start": 3,
+              "username": "hiiragi_yuka530"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072973129996234863",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1032
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072624429558087834",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hiiragi_yuka530: 【🦋超重大お知らせ🦋】\n\nAcaciaの最新作ゲーム\n魔法少女ノ因習村 にて\n\n御影リズのCVを担当させて頂く事になりました！\n\n1番気になっていたキャラクターだったので\n自分でも未だに信じられない程、嬉しいです！！\n\nまのむら、\n入村…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072624423111380992"
+          ]
+        },
+        "author_id": "192779788",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1585790663575994368",
+              "name": "Magical girl"
+            }
+          }
+        ],
+        "conversation_id": "2072624429558087834",
+        "created_at": "2026-07-02T10:12:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T11:12:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072624429558087834"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 147,
+              "start": 142,
+              "tag": "まのむら"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xZOBhp50fN",
+              "end": 171,
+              "expanded_url": "https://x.com/hiiragi_yuka530/status/2072624429558087834/photo/1",
+              "media_key": "3_2072624423111380992",
+              "start": 148,
+              "url": "https://t.co/xZOBhp50fN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072624429558087834",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 107,
+          "impression_count": 172942,
+          "like_count": 3945,
+          "quote_count": 86,
+          "reply_count": 180,
+          "retweet_count": 1032
+        },
+        "reply_settings": "everyone",
+        "text": "【🦋超重大お知らせ🦋】\n\nAcaciaの最新作ゲーム\n魔法少女ノ因習村 にて\n\n御影リズのCVを担当させて頂く事になりました！\n\n1番気になっていたキャラクターだったので\n自分でも未だに信じられない程、嬉しいです！！\n\nまのむら、\n入村けってぇーい(  •̀  ̫ -︎︎  )✩\n\n#まのむら https://t.co/xZOBhp50fN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳 / 友跨🏳️‍⚧️ / 欢迎DM聊天 / 兴趣相近互fo\n魔裁（まのさば）/ 崩铁（HSR）/ Galgame\n头像来自@pale_noon\n学生党 周末 / 节假日在线\n中文 / English / 日本語（勉強中）\n防失联@Wesley10033\n和平友善交流 谢绝人身攻击",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 66,
+                "username": "pale_noon"
+              },
+              {
+                "end": 131,
+                "start": 119,
+                "username": "Wesley10033"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://t.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/HjVzyPDIuK"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "location": "China",
+        "name": "Wesley",
+        "pinned_tweet_id": "2068037933899407863",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070912735362387968/eccaKvtY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 246,
+          "like_count": 1092,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 491
+        },
+        "url": "https://t.co/HjVzyPDIuK",
+        "username": "Wesley10032",
+        "verified": false
+      },
+      {
+        "created_at": "2010-09-20T03:37:03.000Z",
+        "description": "ひいらぎゆかです！歌と声優🌟 #魔法少女ノ魔女裁判 橘シェリー/ #配信少女ノ裏垢迷宮 水無月メイカ / #魔法少女ノ因習村 御影リズ /#PokerDolls レイズ /#棋桜 猫宮さくら /#パラバト 龍亀 \n ボイスサンプル経歴  https://t.co/bmwfeDcUbY @Sub_Yukasi",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 25,
+                "start": 15,
+                "tag": "魔法少女ノ魔女裁判"
+              },
+              {
+                "end": 43,
+                "start": 33,
+                "tag": "配信少女ノ裏垢迷宮"
+              },
+              {
+                "end": 62,
+                "start": 53,
+                "tag": "魔法少女ノ因習村"
+              },
+              {
+                "end": 80,
+                "start": 69,
+                "tag": "PokerDolls"
+              },
+              {
+                "end": 89,
+                "start": 86,
+                "tag": "棋桜"
+              },
+              {
+                "end": 102,
+                "start": 97,
+                "tag": "パラバト"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 154,
+                "start": 143,
+                "username": "Sub_Yukasi"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "lit.link/hiiragiyuka",
+                "end": 142,
+                "expanded_url": "https://lit.link/hiiragiyuka",
+                "start": 119,
+                "url": "https://t.co/bmwfeDcUbY"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCdvq5…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/channel/UCdvq5i3RyRsoTqITD1xSxNw",
+                "start": 0,
+                "url": "https://t.co/O2kvBmh2fa"
+              }
+            ]
+          }
+        },
+        "id": "192779788",
+        "location": "ご依頼➡︎hiiragiyuka530@gmail.com ",
+        "name": "柊 優花⋈",
+        "pinned_tweet_id": "2063138958142546406",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955217257438777350/QmF4xGwa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110291,
+          "following_count": 557,
+          "like_count": 156199,
+          "listed_count": 929,
+          "media_count": 709,
+          "tweet_count": 14201
+        },
+        "url": "https://t.co/O2kvBmh2fa",
+        "username": "hiiragi_yuka530",
+        "verified": true
+      }
+    ]
+  }
+}

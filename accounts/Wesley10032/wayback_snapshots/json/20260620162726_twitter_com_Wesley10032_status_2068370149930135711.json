@@ -1,0 +1,356 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068281561913655296"
+      ],
+      "media_source_tweet_id": [
+        "2068281741073428809"
+      ]
+    },
+    "author_id": "1880979169297022976",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2068370149930135711",
+    "created_at": "2026-06-20T16:27:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T17:27:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068370149930135711"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1161547932375474176",
+          "start": 3,
+          "username": "N1U3G"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/EWGcfaqZlA",
+          "end": 47,
+          "expanded_url": "https://x.com/N1U3G/status/2068281741073428809/photo/1",
+          "media_key": "3_2068281561913655296",
+          "start": 24,
+          "url": "https://t.co/EWGcfaqZlA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068370149930135711",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 717
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068281741073428809",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @N1U3G: ぜったい来世でまた会お？ https://t.co/EWGcfaqZlA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1307,
+        "media_key": "3_2068281561913655296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLQDH1FagAAXj-D.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068281561913655296"
+          ],
+          "media_source_tweet_id": [
+            "2068281741073428809"
+          ]
+        },
+        "author_id": "1880979169297022976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2068370149930135711",
+        "created_at": "2026-06-20T16:27:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T17:27:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068370149930135711"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1161547932375474176",
+              "start": 3,
+              "username": "N1U3G"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EWGcfaqZlA",
+              "end": 47,
+              "expanded_url": "https://x.com/N1U3G/status/2068281741073428809/photo/1",
+              "media_key": "3_2068281561913655296",
+              "start": 24,
+              "url": "https://t.co/EWGcfaqZlA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068370149930135711",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 717
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068281741073428809",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @N1U3G: ぜったい来世でまた会お？ https://t.co/EWGcfaqZlA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068281561913655296"
+          ]
+        },
+        "author_id": "1161547932375474176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2068281741073428809",
+        "created_at": "2026-06-20T10:36:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T11:36:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068281741073428809"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EWGcfaqZlA",
+              "end": 36,
+              "expanded_url": "https://x.com/N1U3G/status/2068281741073428809/photo/1",
+              "media_key": "3_2068281561913655296",
+              "start": 13,
+              "url": "https://t.co/EWGcfaqZlA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068281741073428809",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 427,
+          "impression_count": 56455,
+          "like_count": 7418,
+          "quote_count": 5,
+          "reply_count": 5,
+          "retweet_count": 717
+        },
+        "reply_settings": "everyone",
+        "text": "ぜったい来世でまた会お？ https://t.co/EWGcfaqZlA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳 / 友跨🏳️‍⚧️ / Free Ukraine 🇺🇦 / Free Palestine 🇵🇸 / 欢迎DM聊天 / 兴趣相近互fo\n中文 / English / 日本語（勉強中）\n防失联 @Wesley10033\n和平友善交流，谢绝人身攻击\n中华人民共和国万岁 世界人民大团结万岁",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 113,
+                "start": 101,
+                "username": "Wesley10033"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "location": "China",
+        "name": "Wesley10032",
+        "pinned_tweet_id": "2068037933899407863",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021156330271039488/mAwe21JP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 184,
+          "like_count": 757,
+          "listed_count": 1,
+          "media_count": 9,
+          "tweet_count": 428
+        },
+        "url": "",
+        "username": "Wesley10032",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-14T07:59:42.000Z",
+        "description": "絵を描くオタクです！￤お仕事⇒@U3GN1￤サブ⇒@P31NT￤skeb(メイン) ⇒https://t.co/pPiqiz7ZiU￤skeb(サブ)⇒https://t.co/WmfIrcgNgX￤wavebox⇒https://t.co/L4x5dYY7Kv",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 15,
+                "username": "U3GN1"
+              },
+              {
+                "end": 31,
+                "start": 25,
+                "username": "P31NT"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "skeb.jp/@u3g1n",
+                "end": 66,
+                "expanded_url": "http://skeb.jp/@u3g1n",
+                "start": 43,
+                "url": "https://t.co/pPiqiz7ZiU"
+              },
+              {
+                "display_url": "skeb.jp/@N1U3G",
+                "end": 99,
+                "expanded_url": "http://skeb.jp/@N1U3G",
+                "start": 76,
+                "url": "https://t.co/WmfIrcgNgX"
+              },
+              {
+                "display_url": "wavebox.me/wave/2bcsug8is…",
+                "end": 131,
+                "expanded_url": "https://wavebox.me/wave/2bcsug8isgjrvy19/",
+                "start": 108,
+                "url": "https://t.co/L4x5dYY7Kv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/U3GN1",
+                "end": 23,
+                "expanded_url": "https://lit.link/U3GN1",
+                "start": 0,
+                "url": "https://t.co/wnWYAk33So"
+              }
+            ]
+          }
+        },
+        "id": "1161547932375474176",
+        "location": "Usagi Nui",
+        "name": "兎鷺ぬい",
+        "pinned_tweet_id": "2067910269532070118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989333554015391745/w-2NdPnm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19482,
+          "following_count": 973,
+          "like_count": 8626,
+          "listed_count": 227,
+          "media_count": 215,
+          "tweet_count": 2212
+        },
+        "url": "https://t.co/wnWYAk33So",
+        "username": "N1U3G",
+        "verified": false
+      }
+    ]
+  }
+}

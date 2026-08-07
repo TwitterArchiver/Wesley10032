@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067912890548690944"
+      ],
+      "media_source_tweet_id": [
+        "2067913323388289425"
+      ]
+    },
+    "author_id": "1880979169297022976",
+    "conversation_id": "2068191200683999384",
+    "created_at": "2026-06-20T04:36:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T05:36:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068191200683999384"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1069963422153015296",
+          "start": 3,
+          "username": "komugirakko"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/iFeKEpqmh1",
+          "end": 76,
+          "expanded_url": "https://x.com/komugirakko/status/2067913323388289425/photo/1",
+          "media_key": "3_2067912890548690944",
+          "start": 53,
+          "url": "https://t.co/iFeKEpqmh1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068191200683999384",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 775
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067913323388289425",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @komugirakko: ホタル実装２周年おめでとう🎊\nこれからも色んなホタルを描き続けます✨️ https://t.co/iFeKEpqmh1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3508,
+        "media_key": "3_2067912890548690944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLKz0VObIAA-Uby.jpg",
+        "width": 2480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067912890548690944"
+          ],
+          "media_source_tweet_id": [
+            "2067913323388289425"
+          ]
+        },
+        "author_id": "1880979169297022976",
+        "conversation_id": "2068191200683999384",
+        "created_at": "2026-06-20T04:36:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T05:36:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068191200683999384"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1069963422153015296",
+              "start": 3,
+              "username": "komugirakko"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iFeKEpqmh1",
+              "end": 76,
+              "expanded_url": "https://x.com/komugirakko/status/2067913323388289425/photo/1",
+              "media_key": "3_2067912890548690944",
+              "start": 53,
+              "url": "https://t.co/iFeKEpqmh1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068191200683999384",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 775
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067913323388289425",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @komugirakko: ホタル実装２周年おめでとう🎊\nこれからも色んなホタルを描き続けます✨️ https://t.co/iFeKEpqmh1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067912890548690944"
+          ]
+        },
+        "author_id": "1069963422153015296",
+        "conversation_id": "2067913323388289425",
+        "created_at": "2026-06-19T10:12:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T11:12:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067913323388289425"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iFeKEpqmh1",
+              "end": 59,
+              "expanded_url": "https://x.com/komugirakko/status/2067913323388289425/photo/1",
+              "media_key": "3_2067912890548690944",
+              "start": 36,
+              "url": "https://t.co/iFeKEpqmh1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067913323388289425",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 801,
+          "impression_count": 47246,
+          "like_count": 6509,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 775
+        },
+        "reply_settings": "everyone",
+        "text": "ホタル実装２周年おめでとう🎊\nこれからも色んなホタルを描き続けます✨️ https://t.co/iFeKEpqmh1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳 / 友跨🏳️‍⚧️ / Free Ukraine 🇺🇦 / Free Palestine 🇵🇸 / DM可\n中文 / English / 日本語（勉強中）\n防失联 @Wesley10033\n和平友善交流，谢绝人身攻击\n中华人民共和国万岁 世界人民大团结万岁",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 88,
+                "username": "Wesley10033"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "location": "China",
+        "name": "Wesley10032",
+        "pinned_tweet_id": "2068037933899407863",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021156330271039488/mAwe21JP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 151,
+          "like_count": 633,
+          "listed_count": 1,
+          "media_count": 7,
+          "tweet_count": 388
+        },
+        "url": "",
+        "username": "Wesley10032",
+        "verified": false
+      },
+      {
+        "created_at": "2018-12-04T14:35:33.000Z",
+        "description": "イラストレーター お仕事募集中です ご依頼→komugirakko☆https://t.co/QQ97OzIEAg FANBOX【https://t.co/6P2Hdq6xct】 skeb【https://t.co/5Qoq3P5gU9】 一枚絵/音声作品ジャケットイラスト/ラノベ挿絵・表紙/キャラデザ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "gmail.com",
+                "end": 57,
+                "expanded_url": "http://gmail.com",
+                "start": 34,
+                "url": "https://t.co/QQ97OzIEAg"
+              },
+              {
+                "display_url": "komugirakko.fanbox.cc",
+                "end": 88,
+                "expanded_url": "https://komugirakko.fanbox.cc/",
+                "start": 65,
+                "url": "https://t.co/6P2Hdq6xct"
+              },
+              {
+                "display_url": "skeb.jp/@komugirakko",
+                "end": 118,
+                "expanded_url": "http://skeb.jp/@komugirakko",
+                "start": 95,
+                "url": "https://t.co/5Qoq3P5gU9"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/komugirakko",
+                "end": 23,
+                "expanded_url": "https://lit.link/komugirakko",
+                "start": 0,
+                "url": "https://t.co/NF8Q8yCI6U"
+              }
+            ]
+          }
+        },
+        "id": "1069963422153015296",
+        "location": "支援サイト、同人誌通販や実績等→",
+        "name": "小麦らっこ@C108土曜(1日目) 西の-34ab",
+        "pinned_tweet_id": "2002336630196351447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930976609458401280/CS9Kk0Gu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24654,
+          "following_count": 1023,
+          "like_count": 2628,
+          "listed_count": 220,
+          "media_count": 232,
+          "tweet_count": 4780
+        },
+        "url": "https://t.co/NF8Q8yCI6U",
+        "username": "komugirakko",
+        "verified": true
+      }
+    ]
+  }
+}

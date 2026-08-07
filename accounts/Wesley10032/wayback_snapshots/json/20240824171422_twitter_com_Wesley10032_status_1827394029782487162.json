@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1525456751788969985",
+    "conversation_id": "1827378935862006167",
+    "created_at": "2024-08-24T17:14:22.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-24T18:14:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1827394029782487162"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "52664627",
+          "start": 0,
+          "username": "gamespeed_2008"
+        },
+        {
+          "end": 28,
+          "id": "245354027",
+          "start": 16,
+          "username": "remonwangxt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1827394029782487162",
+    "in_reply_to_user_id": "52664627",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1827386387257290896",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gamespeed_2008 @remonwangxt 要是中国发生同类事件就得变成“民主抗争”而不是这种科学的解释了🤣"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1525456751788969985",
+        "conversation_id": "1827378935862006167",
+        "created_at": "2024-08-24T17:14:22.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-24T18:14:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1827394029782487162"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "52664627",
+              "start": 0,
+              "username": "gamespeed_2008"
+            },
+            {
+              "end": 28,
+              "id": "245354027",
+              "start": 16,
+              "username": "remonwangxt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1827394029782487162",
+        "in_reply_to_user_id": "52664627",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1827386387257290896",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gamespeed_2008 @remonwangxt 要是中国发生同类事件就得变成“民主抗争”而不是这种科学的解释了🤣"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "52664627",
+        "conversation_id": "1827378935862006167",
+        "created_at": "2024-08-24T16:44:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-24T17:44:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1827386387257290896"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "245354027",
+              "start": 0,
+              "username": "remonwangxt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1827386387257290896",
+        "in_reply_to_user_id": "245354027",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 63,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1827378935862006167",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@remonwangxt 既然你提供了原文链接，就应该清楚，他的被捕是跟扰乱公共秩序、拒绝服从警察给出的离开现场的指令、口袋里装了若干打火机（潜在纵火）等等有关，挥舞国旗只是一个他同时做了的事情，并非逮捕的原因"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-14T12:43:40.000Z",
+        "description": "Free Ukraine and Palestine 🇺🇦🇵🇸",
+        "id": "1525456751788969985",
+        "name": "Wesley",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811578387594649600/eQdjLvSa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 34,
+          "like_count": 47,
+          "listed_count": 0,
+          "tweet_count": 250
+        },
+        "username": "Wesley10032",
+        "verified": false
+      },
+      {
+        "created_at": "2009-07-01T07:43:15.000Z",
+        "description": "",
+        "id": "52664627",
+        "location": "USA",
+        "name": "gamespeed@m.cmx.im",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/608804167/gamespeed.1051_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 75,
+          "like_count": 204,
+          "listed_count": 1,
+          "tweet_count": 1119
+        },
+        "username": "gamespeed_2008",
+        "verified": false
+      },
+      {
+        "created_at": "2011-01-31T14:05:50.000Z",
+        "description": "First Political Cartoonist Targeted for Kidnap by China! 全世界第一個被中國政府試圖綁架回國的政治漫畫家  https://t.co/69BfndugWr",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtu.be/STq7LNwa3Gs?si…",
+                "end": 105,
+                "expanded_url": "https://youtu.be/STq7LNwa3Gs?si=XYHZTBe3OVRG2SHh",
+                "start": 82,
+                "url": "https://t.co/69BfndugWr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "paypal.me/LimingWang1973",
+                "end": 23,
+                "expanded_url": "http://paypal.me/LimingWang1973",
+                "start": 0,
+                "url": "https://t.co/vLWnSMmP9x"
+              }
+            ]
+          }
+        },
+        "id": "245354027",
+        "location": "Frederick, MD",
+        "name": "变态辣椒RebelPepper",
+        "pinned_tweet_id": "1793915320215687616",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1812649834253324288/y__y6F4R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 505717,
+          "following_count": 369,
+          "like_count": 561,
+          "listed_count": 1970,
+          "tweet_count": 25281
+        },
+        "url": "https://t.co/vLWnSMmP9x",
+        "username": "remonwangxt",
+        "verified": true
+      }
+    ]
+  }
+}

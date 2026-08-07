@@ -1,0 +1,347 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880979169297022976",
+    "conversation_id": "2067907187142476218",
+    "created_at": "2026-06-19T09:47:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T10:47:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067907187142476218"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yahoonewstopic…",
+          "end": 48,
+          "expanded_url": "https://twitter.com/yahoonewstopics/status/2067821675186700525",
+          "start": 25,
+          "url": "https://t.co/Go3rfbdZFL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067907187142476218",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067821675186700525",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好事，政治争端没必要影响民间友好交流，一码归一码 https://t.co/Go3rfbdZFL"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880979169297022976",
+        "conversation_id": "2067907187142476218",
+        "created_at": "2026-06-19T09:47:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T10:47:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067907187142476218"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yahoonewstopic…",
+              "end": 48,
+              "expanded_url": "https://twitter.com/yahoonewstopics/status/2067821675186700525",
+              "start": 25,
+              "url": "https://t.co/Go3rfbdZFL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067907187142476218",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067821675186700525",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好事，政治争端没必要影响民间友好交流，一码归一码 https://t.co/Go3rfbdZFL"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "88846085",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+              "id": "1557697121477832705",
+              "name": "Publisher & News Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1418265706076917762",
+              "name": "Yahoo News"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "News",
+              "id": "1046545033657081857",
+              "name": "News"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196447117297905665",
+              "name": "News outlets"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1418265706076917762",
+              "name": "Yahoo News"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027474933",
+              "name": "Yahoo!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10027474933",
+              "name": "Yahoo!"
+            }
+          },
+          {
+            "domain": {
+              "description": "News Categories like Entertainment or Technology",
+              "id": "69",
+              "name": "News Vertical"
+            },
+            "entity": {
+              "id": "1192881321577598977",
+              "name": "Japan national news"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1192881321577598977",
+              "name": "Japan national news"
+            }
+          }
+        ],
+        "conversation_id": "2067821675186700525",
+        "created_at": "2026-06-19T04:08:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T05:08:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067821675186700525"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "日中関係の悪化で中国政府が日本行きの団体旅行を事実上、禁止する中、夏休みを前に、国有の旅行会社などで団体旅行を再開する動きが広がっていることが新たに分かりました。",
+              "display_url": "news.yahoo.co.jp/pickup/6584825",
+              "end": 42,
+              "expanded_url": "https://news.yahoo.co.jp/pickup/6584825",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/2067821717532368896/OTzANOQK?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2067821717532368896/OTzANOQK?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 19,
+              "status": 200,
+              "title": "日本へ団体旅行 中国で再開の動き - Yahoo!ニュース",
+              "unwound_url": "https://news.yahoo.co.jp/pickup/6584825",
+              "url": "https://t.co/RWqXDdVmIP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067821675186700525",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 445,
+          "impression_count": 3137913,
+          "like_count": 3034,
+          "quote_count": 3443,
+          "reply_count": 2132,
+          "retweet_count": 1599
+        },
+        "reply_settings": "everyone",
+        "text": "【日本へ団体旅行 中国で再開の動き】\nhttps://t.co/RWqXDdVmIP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳 / 民主社会主义 / 反台独 / 友跨🏳️‍⚧️ / Free Ukraine 🇺🇦 / Free Palestine 🇵🇸\n中文 / English / 日本語（勉強中）\n偶尔转帖插画等内容\n和平友善交流，谢绝人身攻击\n中华人民共和国万岁 世界人民大团结万岁",
+        "id": "1880979169297022976",
+        "location": "China",
+        "name": "Wesley10032",
+        "pinned_tweet_id": "2067905508191990010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021156330271039488/mAwe21JP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 128,
+          "like_count": 582,
+          "listed_count": 1,
+          "media_count": 5,
+          "tweet_count": 352
+        },
+        "url": "",
+        "username": "Wesley10032",
+        "verified": false
+      },
+      {
+        "created_at": "2009-11-10T03:59:51.000Z",
+        "description": "Yahoo!ニュースの公式アカウントです。365日24時間、Yahoo! JAPANトップページに掲出される話題を速報でお届け。※株式会社アフロ社提供の写真を使用している場合があります。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "news.yahoo.co.jp",
+                "end": 23,
+                "expanded_url": "https://news.yahoo.co.jp/",
+                "start": 0,
+                "url": "https://t.co/PORT0VCtyG"
+              }
+            ]
+          }
+        },
+        "id": "88846085",
+        "name": "Yahoo!ニュース",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/875506779743895552/jqN_tEe4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2029316,
+          "following_count": 8,
+          "like_count": 0,
+          "listed_count": 22258,
+          "media_count": 3976,
+          "tweet_count": 589609
+        },
+        "url": "https://t.co/PORT0VCtyG",
+        "username": "YahooNewsTopics",
+        "verified": true
+      }
+    ]
+  }
+}

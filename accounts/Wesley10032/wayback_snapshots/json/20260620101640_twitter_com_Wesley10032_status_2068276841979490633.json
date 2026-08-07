@@ -1,0 +1,313 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068098804881178624"
+      ],
+      "media_source_tweet_id": [
+        "2068098809830514868"
+      ]
+    },
+    "author_id": "1880979169297022976",
+    "conversation_id": "2068276841979490633",
+    "created_at": "2026-06-20T10:16:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T11:16:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068276841979490633"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 34,
+          "start": 29,
+          "tag": "まのさば"
+        },
+        {
+          "end": 45,
+          "start": 36,
+          "tag": "まのさば二次創作"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2514948601",
+          "start": 3,
+          "username": "yulie_1127"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/vpy3tVLIRF",
+          "end": 69,
+          "expanded_url": "https://x.com/yulie_1127/status/2068098809830514868/photo/1",
+          "media_key": "3_2068098804881178624",
+          "start": 46,
+          "url": "https://t.co/vpy3tVLIRF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068276841979490633",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 123
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068098809830514868",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yulie_1127: 橘シェリー\n防御の感じ\n\n#まのさば \n#まのさば二次創作 https://t.co/vpy3tVLIRF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 750,
+        "media_key": "3_2068098804881178624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLNc5-FaQAATaR5.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068098804881178624"
+          ],
+          "media_source_tweet_id": [
+            "2068098809830514868"
+          ]
+        },
+        "author_id": "1880979169297022976",
+        "conversation_id": "2068276841979490633",
+        "created_at": "2026-06-20T10:16:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T11:16:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068276841979490633"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 34,
+              "start": 29,
+              "tag": "まのさば"
+            },
+            {
+              "end": 45,
+              "start": 36,
+              "tag": "まのさば二次創作"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2514948601",
+              "start": 3,
+              "username": "yulie_1127"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vpy3tVLIRF",
+              "end": 69,
+              "expanded_url": "https://x.com/yulie_1127/status/2068098809830514868/photo/1",
+              "media_key": "3_2068098804881178624",
+              "start": 46,
+              "url": "https://t.co/vpy3tVLIRF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068276841979490633",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 123
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068098809830514868",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yulie_1127: 橘シェリー\n防御の感じ\n\n#まのさば \n#まのさば二次創作 https://t.co/vpy3tVLIRF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068098804881178624"
+          ]
+        },
+        "author_id": "2514948601",
+        "conversation_id": "2068098809830514868",
+        "created_at": "2026-06-19T22:29:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T23:29:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068098809830514868"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 18,
+              "start": 13,
+              "tag": "まのさば"
+            },
+            {
+              "end": 29,
+              "start": 20,
+              "tag": "まのさば二次創作"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vpy3tVLIRF",
+              "end": 53,
+              "expanded_url": "https://x.com/yulie_1127/status/2068098809830514868/photo/1",
+              "media_key": "3_2068098804881178624",
+              "start": 30,
+              "url": "https://t.co/vpy3tVLIRF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068098809830514868",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 63,
+          "impression_count": 8087,
+          "like_count": 793,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 123
+        },
+        "reply_settings": "everyone",
+        "text": "橘シェリー\n防御の感じ\n\n#まのさば \n#まのさば二次創作 https://t.co/vpy3tVLIRF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳 / 友跨🏳️‍⚧️ / Free Ukraine 🇺🇦 / Free Palestine 🇵🇸 / DM可 / 兴趣相近互fo\n中文 / English / 日本語（勉強中）\n防失联 @Wesley10033\n和平友善交流，谢绝人身攻击\n中华人民共和国万岁 世界人民大团结万岁",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 98,
+                "username": "Wesley10033"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "location": "China",
+        "name": "Wesley10032",
+        "pinned_tweet_id": "2068037933899407863",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021156330271039488/mAwe21JP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 165,
+          "like_count": 716,
+          "listed_count": 1,
+          "media_count": 7,
+          "tweet_count": 415
+        },
+        "url": "",
+        "username": "Wesley10032",
+        "verified": false
+      },
+      {
+        "created_at": "2014-05-22T09:09:58.000Z",
+        "description": "台湾人です！ アイカツシリーズ､エースリー、ガンダムシリーズ､マクロスシリーズ、アイマス好き。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/yulie_1127?t=a…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/yulie_1127?t=a8y38I&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/Py97j8RpF1"
+              }
+            ]
+          }
+        },
+        "id": "2514948601",
+        "location": "Taipei City, Taiwan",
+        "name": "鯉魚",
+        "pinned_tweet_id": "1416350971509166081",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1549465018160123904/GmGwqpBC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 255,
+          "following_count": 416,
+          "like_count": 4741,
+          "listed_count": 2,
+          "media_count": 176,
+          "tweet_count": 3173
+        },
+        "url": "https://t.co/Py97j8RpF1",
+        "username": "yulie_1127",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,445 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880979169297022976",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1498702169922420739",
+          "name": "Volodymyr Zelensky"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "id": "1498702169922420739",
+          "name": "Volodymyr Zelensky"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1498702169922420739",
+          "name": "Volodymyr Zelensky"
+        }
+      }
+    ],
+    "conversation_id": "2068226343674827146",
+    "created_at": "2026-06-20T06:56:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T07:56:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068226343674827146"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/crx7601/status…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/crx7601/status/2068035086289928336",
+          "start": 13,
+          "url": "https://t.co/zyWXjkfARE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068226343674827146",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068035086289928336",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这家伙在说什么呢.jpg https://t.co/zyWXjkfARE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 675,
+        "media_key": "3_2068035084012457984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLMi87WbkAAmldt.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880979169297022976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1498702169922420739",
+              "name": "Volodymyr Zelensky"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "id": "1498702169922420739",
+              "name": "Volodymyr Zelensky"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1498702169922420739",
+              "name": "Volodymyr Zelensky"
+            }
+          }
+        ],
+        "conversation_id": "2068226343674827146",
+        "created_at": "2026-06-20T06:56:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T07:56:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068226343674827146"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/crx7601/status…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/crx7601/status/2068035086289928336",
+              "start": 13,
+              "url": "https://t.co/zyWXjkfARE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068226343674827146",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068035086289928336",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这家伙在说什么呢.jpg https://t.co/zyWXjkfARE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068035084012457984"
+          ]
+        },
+        "author_id": "519918715",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1498702169922420739",
+              "name": "Volodymyr Zelensky"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "id": "1498702169922420739",
+              "name": "Volodymyr Zelensky"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2068035086289928336",
+        "created_at": "2026-06-19T18:16:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T19:16:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068035086289928336"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "1: それでも動く名無し 2026/06/19(金) 20:13:56.33 ID:ID:rmRO8Myv0🔥 今読まれている注目ニュース【どっちでも文句】蓮舫議員も引用して言及 高市首相が日本式の正しい座り方に難癖「媚びている」足組むメローニを称賛「威厳がある」 「6月に詰む」発言で話題・専門家語る",
+              "display_url": "crx7601.com/archives/63285…",
+              "end": 92,
+              "expanded_url": "https://crx7601.com/archives/63285360.html",
+              "images": [
+                {
+                  "height": 675,
+                  "url": "https://pbs.twimg.com/news_img/2068035094556868608/Vv3PvLMp?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2068035094556868608/Vv3PvLMp?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 69,
+              "status": 200,
+              "title": "【朗報】日本、北方領土が無償で還ってきそう ゼレンスキー大統領「戦争に勝ったら北方領土を日本に還す事を約束します」首都モスクワに大規模攻撃開始へ : おーるじゃんる",
+              "unwound_url": "https://crx7601.com/archives/63285360.html",
+              "url": "https://t.co/HYrSeWZztb"
+            },
+            {
+              "display_url": "pic.x.com/IfzlTGaSwB",
+              "end": 145,
+              "expanded_url": "https://x.com/crx7601/status/2068035086289928336/photo/1",
+              "media_key": "3_2068035084012457984",
+              "start": 122,
+              "url": "https://t.co/IfzlTGaSwB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068035086289928336",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1068,
+          "impression_count": 1669471,
+          "like_count": 15206,
+          "quote_count": 507,
+          "reply_count": 341,
+          "retweet_count": 2109
+        },
+        "reply_settings": "everyone",
+        "text": "日本、北方領土が無償で還ってきそう ゼレンスキー大統領「戦争に勝ったら北方領土を日本に還す事を約束します」首都モスクワに大規模攻撃開始へ\nhttps://t.co/HYrSeWZztb\n\n大どんでん返しすぎるｗｗｗ\nやっぱイランよりこっちだわ https://t.co/IfzlTGaSwB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳 / 友跨🏳️‍⚧️ / Free Ukraine 🇺🇦 / Free Palestine 🇵🇸 / DM可\n中文 / English / 日本語（勉強中）\n防失联 @Wesley10033\n和平友善交流，谢绝人身攻击\n中华人民共和国万岁 世界人民大团结万岁",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 88,
+                "username": "Wesley10033"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "location": "China",
+        "name": "Wesley10032",
+        "pinned_tweet_id": "2068037933899407863",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021156330271039488/mAwe21JP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 154,
+          "like_count": 643,
+          "listed_count": 1,
+          "media_count": 7,
+          "tweet_count": 392
+        },
+        "url": "",
+        "username": "Wesley10032",
+        "verified": false
+      },
+      {
+        "created_at": "2012-03-09T23:33:20.000Z",
+        "description": "5chまとめサイト\n2026年の目標1.5万人フォロワー\n■お知らせや通報報告はハイライト\n■支援https://t.co/ysA10mbYUI \n※リポストやいいねは賛同や同意を示すものではありません。\n※サムネにAI生成使用も記事は手動\n※特定の党や国との関わりは一切ありません。\n※まとめる記事は5chでの勢い基準です",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bit.ly/3g3bdwl",
+                "end": 72,
+                "expanded_url": "http://bit.ly/3g3bdwl",
+                "start": 49,
+                "url": "https://t.co/ysA10mbYUI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "crx7601.com",
+                "end": 23,
+                "expanded_url": "https://crx7601.com/",
+                "start": 0,
+                "url": "https://t.co/yR4rv4EJvf"
+              }
+            ]
+          }
+        },
+        "id": "519918715",
+        "location": "Amazonアソシエイト・プログラムの参加者です。",
+        "name": "おーるじゃんる🎌",
+        "pinned_tweet_id": "2061284120513401110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052711002245079041/OXLORl-u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16804,
+          "following_count": 7834,
+          "like_count": 4693,
+          "listed_count": 281,
+          "media_count": 5394,
+          "tweet_count": 77428
+        },
+        "url": "https://t.co/yR4rv4EJvf",
+        "username": "crx7601",
+        "verified": true
+      }
+    ]
+  }
+}

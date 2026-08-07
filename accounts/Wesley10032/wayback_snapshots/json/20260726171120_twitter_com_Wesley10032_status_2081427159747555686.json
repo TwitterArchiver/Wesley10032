@@ -1,0 +1,384 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2081379352743419905",
+        "13_2081379352743477248"
+      ],
+      "media_source_tweet_id": [
+        "2081379381692514687",
+        "2081379381692514687"
+      ]
+    },
+    "author_id": "1880979169297022976",
+    "conversation_id": "2081427159747555686",
+    "created_at": "2026-07-26T17:11:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T18:11:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081427159747555686"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2034245121009729536",
+          "start": 3,
+          "username": "qianjianmoxin"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7qJH0xqVIh",
+          "end": 136,
+          "expanded_url": "https://x.com/qianjianmoxin/status/2081379381692514687/video/1",
+          "media_key": "13_2081379352743419905",
+          "start": 113,
+          "url": "https://t.co/7qJH0xqVIh"
+        },
+        {
+          "display_url": "pic.x.com/7qJH0xqVIh",
+          "end": 136,
+          "expanded_url": "https://x.com/qianjianmoxin/status/2081379381692514687/video/1",
+          "media_key": "13_2081379352743477248",
+          "start": 113,
+          "url": "https://t.co/7qJH0xqVIh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081427159747555686",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081379381692514687",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @qianjianmoxin: 如果感觉我的声音和我的长相不符合的话，那是正常的（主页置顶有长相）本来想做的高级点的 实在是太忙了 只能选择这种方式，让大家听到我的声音 实在是抱歉\n不过能听到我声音忍住不笑的是个老绷家 https://t.co/7qJH0xqVIh"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7416,
+        "height": 1280,
+        "media_key": "13_2081379352743419905",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2081379352743419905/img/B5_sso2JAIo1P7L6.jpg",
+        "public_metrics": {
+          "view_count": 80
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081379352743419905/vid/avc1/320x568/cynUUScshbZO9LOi.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081379352743419905/vid/avc1/480x852/rPcOMmR_VIoNoWyr.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081379352743419905/vid/avc1/720x1280/TxWv22qoDxcISGyK.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2081379352743419905/pl/NuYpPjuL8Di1oRgj.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 6208,
+        "height": 1280,
+        "media_key": "13_2081379352743477248",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2081379352743477248/img/YlikYV1gT7oyJEPZ.jpg",
+        "public_metrics": {
+          "view_count": 15
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081379352743477248/vid/avc1/320x568/joDVBSXB0XQUMPIA.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081379352743477248/vid/avc1/480x852/cgjvV6g9qQeN6xFO.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081379352743477248/vid/avc1/720x1280/pgSPXJSAnKJCGvl_.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2081379352743477248/pl/mEu1xxtpaQ8I4n6q.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2081379352743419905",
+            "13_2081379352743477248"
+          ]
+        },
+        "author_id": "2034245121009729536",
+        "conversation_id": "2081379381692514687",
+        "created_at": "2026-07-26T14:01:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T15:01:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081379381692514687"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7qJH0xqVIh",
+              "end": 117,
+              "expanded_url": "https://x.com/qianjianmoxin/status/2081379381692514687/video/1",
+              "media_key": "13_2081379352743419905",
+              "start": 94,
+              "url": "https://t.co/7qJH0xqVIh"
+            },
+            {
+              "display_url": "pic.x.com/7qJH0xqVIh",
+              "end": 117,
+              "expanded_url": "https://x.com/qianjianmoxin/status/2081379381692514687/video/1",
+              "media_key": "13_2081379352743477248",
+              "start": 94,
+              "url": "https://t.co/7qJH0xqVIh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081379381692514687",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 152,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如果感觉我的声音和我的长相不符合的话，那是正常的（主页置顶有长相）本来想做的高级点的 实在是太忙了 只能选择这种方式，让大家听到我的声音 实在是抱歉\n不过能听到我声音忍住不笑的是个老绷家 https://t.co/7qJH0xqVIh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2081379352743419905",
+            "13_2081379352743477248"
+          ],
+          "media_source_tweet_id": [
+            "2081379381692514687",
+            "2081379381692514687"
+          ]
+        },
+        "author_id": "1880979169297022976",
+        "conversation_id": "2081427159747555686",
+        "created_at": "2026-07-26T17:11:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T18:11:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081427159747555686"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2034245121009729536",
+              "start": 3,
+              "username": "qianjianmoxin"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7qJH0xqVIh",
+              "end": 136,
+              "expanded_url": "https://x.com/qianjianmoxin/status/2081379381692514687/video/1",
+              "media_key": "13_2081379352743419905",
+              "start": 113,
+              "url": "https://t.co/7qJH0xqVIh"
+            },
+            {
+              "display_url": "pic.x.com/7qJH0xqVIh",
+              "end": 136,
+              "expanded_url": "https://x.com/qianjianmoxin/status/2081379381692514687/video/1",
+              "media_key": "13_2081379352743477248",
+              "start": 113,
+              "url": "https://t.co/7qJH0xqVIh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081427159747555686",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081379381692514687",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @qianjianmoxin: 如果感觉我的声音和我的长相不符合的话，那是正常的（主页置顶有长相）本来想做的高级点的 实在是太忙了 只能选择这种方式，让大家听到我的声音 实在是抱歉\n不过能听到我声音忍住不笑的是个老绷家 https://t.co/7qJH0xqVIh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳/♂/友跨🏳️‍⚧️\n或许是温和粉红/欢迎DM聊天(推荐使用TG)\n魔裁(まのさば)/CS2/三角洲/Galgame/IT \n兴趣相近互fo\n好基友@lockloveovo\n学生党 周末/节假日在线(暑假限时全天在线)\nCN/EN/JP\nTG群见置顶\n防失联@Wesley10033",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 79,
+                "username": "lockloveovo"
+              },
+              {
+                "end": 146,
+                "start": 134,
+                "username": "Wesley10033"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://telegram.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/Q5wiGuqCLC"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "location": "People's Republic of China",
+        "name": "Wesley",
+        "pinned_tweet_id": "2077761863937597659",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 619,
+          "following_count": 938,
+          "like_count": 8932,
+          "listed_count": 1,
+          "media_count": 192,
+          "tweet_count": 1656
+        },
+        "url": "https://t.co/Q5wiGuqCLC",
+        "username": "Wesley10032",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-18T12:27:43.000Z",
+        "description": "SCP/轻文学/proxy爱好者创作者 猫咪爱好者 \n厌恶ntr\n私信评论回复看到都会回 可以随意找我聊天\n三秋缒小说爱好者\ntg；https://t.co/qXqTtHm6bl\ngit: https://t.co/0FsJQZRzHS",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/xinmoyu",
+                "end": 89,
+                "expanded_url": "https://t.me/xinmoyu",
+                "start": 66,
+                "url": "https://t.co/qXqTtHm6bl"
+              },
+              {
+                "display_url": "github.com/nekokemoji",
+                "end": 118,
+                "expanded_url": "https://github.com/nekokemoji",
+                "start": 95,
+                "url": "https://t.co/0FsJQZRzHS"
+              }
+            ]
+          }
+        },
+        "id": "2034245121009729536",
+        "name": "浅见墨心🏳️‍⚧️",
+        "pinned_tweet_id": "2081008129689731545",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070910174450360320/K4W57DUk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 214,
+          "like_count": 275,
+          "listed_count": 1,
+          "media_count": 12,
+          "tweet_count": 1067
+        },
+        "url": "",
+        "username": "qianjianmoxin",
+        "verified": false
+      }
+    ]
+  }
+}

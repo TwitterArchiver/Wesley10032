@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1525456751788969985",
+    "conversation_id": "1827666498825093434",
+    "created_at": "2024-08-26T12:50:01.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-26T13:50:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1828052278881972426"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "600932445",
+          "start": 0,
+          "username": "wktong2012"
+        },
+        {
+          "end": 25,
+          "id": "1316086202051620864",
+          "start": 12,
+          "username": "TheReacherTW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1828052278881972426",
+    "in_reply_to_user_id": "600932445",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1827682750536753420",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wktong2012 @TheReacherTW 如果你们能推出中华文化（台湾文化也是中华文化的衍生体，毕竟你们国名就叫“中华民国”）的游戏并被小岛祝贺，我第一个去庆祝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1525456751788969985",
+        "conversation_id": "1827666498825093434",
+        "created_at": "2024-08-26T12:50:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-26T13:50:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1828052278881972426"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "600932445",
+              "start": 0,
+              "username": "wktong2012"
+            },
+            {
+              "end": 25,
+              "id": "1316086202051620864",
+              "start": 12,
+              "username": "TheReacherTW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1828052278881972426",
+        "in_reply_to_user_id": "600932445",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1827682750536753420",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wktong2012 @TheReacherTW 如果你们能推出中华文化（台湾文化也是中华文化的衍生体，毕竟你们国名就叫“中华民国”）的游戏并被小岛祝贺，我第一个去庆祝"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "600932445",
+        "conversation_id": "1827666498825093434",
+        "created_at": "2024-08-25T12:21:39.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-25T13:21:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1827682750536753420"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1316086202051620864",
+              "start": 0,
+              "username": "TheReacherTW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1827682750536753420",
+        "in_reply_to_user_id": "1316086202051620864",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19000,
+          "like_count": 14,
+          "quote_count": 5,
+          "reply_count": 93,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1827666498825093434",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TheReacherTW 有點好奇，如果是小島秀夫祝賀台灣國產遊戲大賣，小粉紅們會有什麼樣的反應呢？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-14T12:43:40.000Z",
+        "description": "Free Ukraine and Palestine 🇺🇦🇵🇸",
+        "id": "1525456751788969985",
+        "name": "Wesley",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811578387594649600/eQdjLvSa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 35,
+          "like_count": 51,
+          "listed_count": 0,
+          "tweet_count": 269
+        },
+        "username": "Wesley10032",
+        "verified": false
+      },
+      {
+        "created_at": "2012-06-06T10:11:16.000Z",
+        "description": "$NANO $LTC & $XMR is the currency of the future.",
+        "entities": {
+          "description": {
+            "cashtags": [
+              {
+                "end": 5,
+                "start": 0,
+                "tag": "NANO"
+              },
+              {
+                "end": 10,
+                "start": 6,
+                "tag": "LTC"
+              },
+              {
+                "end": 17,
+                "start": 13,
+                "tag": "XMR"
+              }
+            ]
+          }
+        },
+        "id": "600932445",
+        "name": "Faketoshi Nakamoto",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1616791626848034816/MhXYVZIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 648,
+          "following_count": 5019,
+          "like_count": 304,
+          "listed_count": 40,
+          "tweet_count": 13867
+        },
+        "username": "wktong2012",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-13T18:40:40.000Z",
+        "description": "觸極者，一個傳播宏觀視野、進步價值、批判視角、新聞真相和人本主張的新媒體。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@TheReacherTW",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@TheReacherTW",
+                "start": 0,
+                "url": "https://t.co/7mHHgFCut1"
+              }
+            ]
+          }
+        },
+        "id": "1316086202051620864",
+        "location": "台灣",
+        "name": "觸極者The Reacher",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1316086534655811585/XaNGDFGe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3287,
+          "following_count": 32,
+          "like_count": 8,
+          "listed_count": 16,
+          "tweet_count": 2894
+        },
+        "url": "https://t.co/7mHHgFCut1",
+        "username": "TheReacherTW",
+        "verified": false
+      }
+    ]
+  }
+}

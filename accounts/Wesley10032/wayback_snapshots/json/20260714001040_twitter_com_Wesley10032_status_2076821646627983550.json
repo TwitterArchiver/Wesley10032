@@ -1,0 +1,313 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880979169297022976",
+    "conversation_id": "2076750288044875789",
+    "created_at": "2026-07-14T00:10:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T01:10:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076821646627983550"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2050253104935997440",
+          "start": 0,
+          "username": "auspiceshirley"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076821646627983550",
+    "in_reply_to_user_id": "2050253104935997440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076750288044875789",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@auspiceshirley 粉毛小狗😋suki😋"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1169,
+        "media_key": "3_2076750228565250050",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNIZVGzX0AIHmjU.jpg",
+        "width": 826
+      },
+      {
+        "height": 1200,
+        "media_key": "3_2076750228565176320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNIZVGzWsAAZJSz.jpg",
+        "width": 720
+      },
+      {
+        "height": 1084,
+        "media_key": "3_2076750275558178816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNIZX13XAAAMuDS.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1200,
+        "media_key": "3_2076750239554310144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNIZVvvXkAApzc5.jpg",
+        "width": 900
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880979169297022976",
+        "conversation_id": "2076750288044875789",
+        "created_at": "2026-07-14T00:10:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T01:10:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076821646627983550"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2050253104935997440",
+              "start": 0,
+              "username": "auspiceshirley"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076821646627983550",
+        "in_reply_to_user_id": "2050253104935997440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076750288044875789",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@auspiceshirley 粉毛小狗😋suki😋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076750228565250050",
+            "3_2076750228565176320",
+            "3_2076750275558178816",
+            "3_2076750239554310144"
+          ]
+        },
+        "author_id": "2050253104935997440",
+        "conversation_id": "2076750288044875789",
+        "created_at": "2026-07-13T19:27:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T20:27:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076750288044875789"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TQ9pyEgoKC",
+              "end": 131,
+              "expanded_url": "https://x.com/auspiceshirley/status/2076750288044875789/photo/1",
+              "media_key": "3_2076750228565250050",
+              "start": 108,
+              "url": "https://t.co/TQ9pyEgoKC"
+            },
+            {
+              "display_url": "pic.x.com/TQ9pyEgoKC",
+              "end": 131,
+              "expanded_url": "https://x.com/auspiceshirley/status/2076750288044875789/photo/1",
+              "media_key": "3_2076750228565176320",
+              "start": 108,
+              "url": "https://t.co/TQ9pyEgoKC"
+            },
+            {
+              "display_url": "pic.x.com/TQ9pyEgoKC",
+              "end": 131,
+              "expanded_url": "https://x.com/auspiceshirley/status/2076750288044875789/photo/1",
+              "media_key": "3_2076750275558178816",
+              "start": 108,
+              "url": "https://t.co/TQ9pyEgoKC"
+            },
+            {
+              "display_url": "pic.x.com/TQ9pyEgoKC",
+              "end": 131,
+              "expanded_url": "https://x.com/auspiceshirley/status/2076750288044875789/photo/1",
+              "media_key": "3_2076750239554310144",
+              "start": 108,
+              "url": "https://t.co/TQ9pyEgoKC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076750288044875789",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "🌸樱羽艾玛怎么这么可爱……好喜欢🌸艾玛啊……🤤🤤🤤\n\n不不不，这是不正确的！😡😡😡\n\n不对不对，🌸艾玛真的好可爱啊🥺……好喜欢好喜欢……♥️♥️♥️\n\n这只「邪恶」的🌸小笨狗，又在魅惑我了……可恶🥵🥵🥵\n\n…………\n\n呃……刚才被希罗顶号了，她把「仪式剑」架在我脖子上让我写的这些——千万别让汉娜看到了。\n\n所以……希罗酱……可以把这个危险的东西从我脖子上挪开嘛……嗯？呃。啊啊啊！！！希罗酱……你……😵\n\n——Bad End"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 111,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🌸樱羽艾玛怎么这么可爱……好喜欢🌸艾玛啊……🤤🤤🤤\n\n不不不，这是不正确的！😡😡😡\n\n不对不对，🌸艾玛真的好可爱啊🥺……好喜欢好喜欢……♥️♥️♥️\n\n这只「邪恶」的🌸小笨狗，又在魅惑我了……可恶🥵🥵🥵\n\n………… https://t.co/TQ9pyEgoKC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳/友跨🏳️‍⚧️/欢迎DM聊天(X/TG均可)/兴趣相近互fo\n魔裁(まのさば)/ 崩铁(HSR)/Galgame\n头像来自@pale_noon\n学生党 周末/节假日在线(暑假限时全天在线)\nCN/EN/JP(a little)\n防失联@Wesley10033\n和平友善交流 谢绝人身攻击",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 67,
+                "username": "pale_noon"
+              },
+              {
+                "end": 135,
+                "start": 123,
+                "username": "Wesley10033"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://t.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/HjVzyPDIuK"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "location": "People's Republic of China",
+        "name": "Wesley",
+        "pinned_tweet_id": "2075263019853238477",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070912735362387968/eccaKvtY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 280,
+          "following_count": 535,
+          "like_count": 3814,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 837
+        },
+        "url": "https://t.co/HjVzyPDIuK",
+        "username": "Wesley10032",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-01T16:38:27.000Z",
+        "description": "ENG/中文 | Daily life & Technology &「魔法少女ノ魔女裁判」🍎",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "me.auspiceshirley.dev",
+                "end": 23,
+                "expanded_url": "https://me.auspiceshirley.dev",
+                "start": 0,
+                "url": "https://t.co/1qfE6dIPvx"
+              }
+            ]
+          }
+        },
+        "id": "2050253104935997440",
+        "location": "Hong Kong",
+        "name": "Shirley Auspice",
+        "pinned_tweet_id": "2065781030783472110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050253824372412417/h-oCtpG6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 955,
+          "following_count": 567,
+          "like_count": 1784,
+          "listed_count": 1,
+          "media_count": 344,
+          "tweet_count": 2485
+        },
+        "url": "https://t.co/1qfE6dIPvx",
+        "username": "auspiceshirley",
+        "verified": true
+      }
+    ]
+  }
+}

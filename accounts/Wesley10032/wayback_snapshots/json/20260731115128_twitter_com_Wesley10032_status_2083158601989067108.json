@@ -1,0 +1,411 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083119146578202624"
+      ],
+      "media_source_tweet_id": [
+        "2083125515645337684"
+      ]
+    },
+    "author_id": "1880979169297022976",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2083158601989067108",
+    "created_at": "2026-07-31T11:51:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T12:51:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083158601989067108"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 24,
+          "start": 19,
+          "tag": "まのさば"
+        },
+        {
+          "end": 35,
+          "start": 25,
+          "tag": "魔法少女ノ魔女裁判"
+        },
+        {
+          "end": 42,
+          "start": 36,
+          "tag": "二階堂ヒロ"
+        },
+        {
+          "end": 50,
+          "start": 43,
+          "tag": "acacia"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1620426810554220545",
+          "start": 3,
+          "username": "Sumishake1687"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZqU0EeOZXr",
+          "end": 89,
+          "expanded_url": "https://x.com/Sumishake1687/status/2083125515645337684/photo/1",
+          "media_key": "3_2083119146578202624",
+          "start": 66,
+          "url": "https://t.co/ZqU0EeOZXr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083158601989067108",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 24
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083125515645337684",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Sumishake1687: #まのさば #魔法少女ノ魔女裁判 #二階堂ヒロ #acacia\n黒背景が多分に合うヒロちゃん https://t.co/ZqU0EeOZXr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2083119146578202624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOi507Sb0AAXPTZ.jpg",
+        "width": 973
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083119146578202624"
+          ]
+        },
+        "author_id": "1620426810554220545",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2083125515645337684",
+        "created_at": "2026-07-31T09:40:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T10:40:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083125515645337684"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "まのさば"
+            },
+            {
+              "end": 16,
+              "start": 6,
+              "tag": "魔法少女ノ魔女裁判"
+            },
+            {
+              "end": 23,
+              "start": 17,
+              "tag": "二階堂ヒロ"
+            },
+            {
+              "end": 31,
+              "start": 24,
+              "tag": "acacia"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZqU0EeOZXr",
+              "end": 70,
+              "expanded_url": "https://x.com/Sumishake1687/status/2083125515645337684/photo/1",
+              "media_key": "3_2083119146578202624",
+              "start": 47,
+              "url": "https://t.co/ZqU0EeOZXr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083125515645337684",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 2292,
+          "like_count": 195,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 24
+        },
+        "reply_settings": "everyone",
+        "text": "#まのさば #魔法少女ノ魔女裁判 #二階堂ヒロ #acacia\n黒背景が多分に合うヒロちゃん https://t.co/ZqU0EeOZXr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083119146578202624"
+          ],
+          "media_source_tweet_id": [
+            "2083125515645337684"
+          ]
+        },
+        "author_id": "1880979169297022976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2083158601989067108",
+        "created_at": "2026-07-31T11:51:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T12:51:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083158601989067108"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 24,
+              "start": 19,
+              "tag": "まのさば"
+            },
+            {
+              "end": 35,
+              "start": 25,
+              "tag": "魔法少女ノ魔女裁判"
+            },
+            {
+              "end": 42,
+              "start": 36,
+              "tag": "二階堂ヒロ"
+            },
+            {
+              "end": 50,
+              "start": 43,
+              "tag": "acacia"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1620426810554220545",
+              "start": 3,
+              "username": "Sumishake1687"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZqU0EeOZXr",
+              "end": 89,
+              "expanded_url": "https://x.com/Sumishake1687/status/2083125515645337684/photo/1",
+              "media_key": "3_2083119146578202624",
+              "start": 66,
+              "url": "https://t.co/ZqU0EeOZXr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083158601989067108",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 24
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083125515645337684",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Sumishake1687: #まのさば #魔法少女ノ魔女裁判 #二階堂ヒロ #acacia\n黒背景が多分に合うヒロちゃん https://t.co/ZqU0EeOZXr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳/♂/08.11.3/友跨🏳️‍⚧️\n或许是温和粉红/欢迎DM聊天(TG优先)\n魔裁(まのさば)/CS2/三角洲/Galgame/IT \n兴趣相近互fo\n好基友@lockloveovo\n学生党 周末/节假日在线(暑假限时全天在线)\nCN/EN/JP\nTG群见置顶\n防失联@Wesley10033",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 85,
+                "username": "lockloveovo"
+              },
+              {
+                "end": 152,
+                "start": 140,
+                "username": "Wesley10033"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://telegram.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/Q5wiGuqCLC"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "location": "People's Republic of China",
+        "name": "Wesley",
+        "pinned_tweet_id": "2083033063257420070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 698,
+          "following_count": 1054,
+          "like_count": 10294,
+          "listed_count": 1,
+          "media_count": 205,
+          "tweet_count": 1871
+        },
+        "url": "https://t.co/Q5wiGuqCLC",
+        "username": "Wesley10032",
+        "verified": true
+      },
+      {
+        "created_at": "2023-01-31T14:20:52.000Z",
+        "description": "描くイラストは基本版権。\n無断転載や無断利用、自作発言はダメです。\n見たアニメとかゲームだったり結構雑多。Pixivに差分とかもあったりします（イラスト投稿用に作成23/1/31）\n\nskebは停止中。完全趣味かつ遅筆なので100％リクエスト受諾ではないです\nhttps://t.co/lYvjuyZzya",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@Sumishake1687",
+                "end": 153,
+                "expanded_url": "http://skeb.jp/@Sumishake1687",
+                "start": 130,
+                "url": "https://t.co/lYvjuyZzya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/18371653…",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/18371653/artworks",
+                "start": 0,
+                "url": "https://t.co/e112cBOSUJ"
+              }
+            ]
+          }
+        },
+        "id": "1620426810554220545",
+        "location": "み",
+        "name": "すみしの助",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1705512204186050561/A6XU29XE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2008,
+          "following_count": 132,
+          "like_count": 1163,
+          "listed_count": 21,
+          "media_count": 96,
+          "tweet_count": 101
+        },
+        "url": "https://t.co/e112cBOSUJ",
+        "username": "Sumishake1687",
+        "verified": true
+      }
+    ]
+  }
+}

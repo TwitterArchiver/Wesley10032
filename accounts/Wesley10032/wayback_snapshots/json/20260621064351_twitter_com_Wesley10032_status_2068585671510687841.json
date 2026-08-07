@@ -1,0 +1,310 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880979169297022976",
+    "conversation_id": "2068585671510687841",
+    "created_at": "2026-06-21T06:43:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T07:43:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068585671510687841"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1072373414029971456",
+          "start": 3,
+          "username": "47news_official"
+        }
+      ],
+      "urls": [
+        {
+          "description": "　日中戦争中に陸軍が開いた会合で、軍医学校（東京）の教官が動物の血液を人に注入する「異種輸血」実験を繰り返したと報告していたことが20日、分かった。輸血用血液の大量確保が難しい戦場での失血対応を研究す ...",
+          "display_url": "47news.jp/14500178.html?…",
+          "end": 69,
+          "expanded_url": "https://www.47news.jp/14500178.html?utm_source=twitter&utm_medium=social&utm_campaign=api",
+          "images": [
+            {
+              "height": 198,
+              "url": "https://pbs.twimg.com/news_img/2068303150680014848/E6MDEihN?format=png&name=orig",
+              "width": 406
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2068303150680014848/E6MDEihN?format=png&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 46,
+          "status": 200,
+          "title": "【速報】日中戦争時に「異種輸血実験」、記録を確認",
+          "unwound_url": "https://www.47news.jp/14500178.html?utm_source=twitter&utm_medium=social&utm_campaign=api",
+          "url": "https://t.co/dzxWdUJG6G"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068585671510687841",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 517
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068303107503857786",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @47news_official: 【速報】日中戦争時に「異種輸血実験」、記録を確認\nhttps://t.co/dzxWdUJG6G"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880979169297022976",
+        "conversation_id": "2068585671510687841",
+        "created_at": "2026-06-21T06:43:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T07:43:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068585671510687841"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1072373414029971456",
+              "start": 3,
+              "username": "47news_official"
+            }
+          ],
+          "urls": [
+            {
+              "description": "　日中戦争中に陸軍が開いた会合で、軍医学校（東京）の教官が動物の血液を人に注入する「異種輸血」実験を繰り返したと報告していたことが20日、分かった。輸血用血液の大量確保が難しい戦場での失血対応を研究す ...",
+              "display_url": "47news.jp/14500178.html?…",
+              "end": 69,
+              "expanded_url": "https://www.47news.jp/14500178.html?utm_source=twitter&utm_medium=social&utm_campaign=api",
+              "images": [
+                {
+                  "height": 198,
+                  "url": "https://pbs.twimg.com/news_img/2068303150680014848/E6MDEihN?format=png&name=orig",
+                  "width": 406
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2068303150680014848/E6MDEihN?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 46,
+              "status": 200,
+              "title": "【速報】日中戦争時に「異種輸血実験」、記録を確認",
+              "unwound_url": "https://www.47news.jp/14500178.html?utm_source=twitter&utm_medium=social&utm_campaign=api",
+              "url": "https://t.co/dzxWdUJG6G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068585671510687841",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 517
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068303107503857786",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @47news_official: 【速報】日中戦争時に「異種輸血実験」、記録を確認\nhttps://t.co/dzxWdUJG6G"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1072373414029971456",
+        "conversation_id": "2068303107503857786",
+        "created_at": "2026-06-20T12:01:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T13:01:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068303107503857786"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "　日中戦争中に陸軍が開いた会合で、軍医学校（東京）の教官が動物の血液を人に注入する「異種輸血」実験を繰り返したと報告していたことが20日、分かった。輸血用血液の大量確保が難しい戦場での失血対応を研究す ...",
+              "display_url": "47news.jp/14500178.html?…",
+              "end": 48,
+              "expanded_url": "https://www.47news.jp/14500178.html?utm_source=twitter&utm_medium=social&utm_campaign=api",
+              "images": [
+                {
+                  "height": 198,
+                  "url": "https://pbs.twimg.com/news_img/2068303150680014848/E6MDEihN?format=png&name=orig",
+                  "width": 406
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2068303150680014848/E6MDEihN?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 25,
+              "status": 200,
+              "title": "【速報】日中戦争時に「異種輸血実験」、記録を確認",
+              "unwound_url": "https://www.47news.jp/14500178.html?utm_source=twitter&utm_medium=social&utm_campaign=api",
+              "url": "https://t.co/dzxWdUJG6G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068303107503857786",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 407,
+          "impression_count": 409577,
+          "like_count": 1728,
+          "quote_count": 66,
+          "reply_count": 43,
+          "retweet_count": 518
+        },
+        "reply_settings": "everyone",
+        "text": "【速報】日中戦争時に「異種輸血実験」、記録を確認\nhttps://t.co/dzxWdUJG6G"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳 / 友跨🏳️‍⚧️ / 欢迎DM聊天 / 兴趣相近互fo\n学生党 周末 / 节假日在线\n中文 / English / 日本語（勉強中）\n防失联 @Wesley10033\n和平友善交流，谢绝人身攻击\n中华人民共和国万岁 世界人民大团结万岁",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 78,
+                "username": "Wesley10033"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "location": "China",
+        "name": "Wesley10032",
+        "pinned_tweet_id": "2068037933899407863",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068584583315283968/pGV4njxw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 198,
+          "like_count": 817,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 444
+        },
+        "url": "",
+        "username": "Wesley10032",
+        "verified": false
+      },
+      {
+        "created_at": "2018-12-11T06:12:00.000Z",
+        "description": "47NEWS(よんななニュース)の公式アカウントです。地域から国際情勢まで、全国52新聞社と共同通信の速報やニュースをお届け。特集47リポーターズ も配信中。 FBは https://t.co/RZqXrfnx2y、ウェブはhttps://t.co/wJkzP2PIbY",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "facebook.com/47news",
+                "end": 107,
+                "expanded_url": "https://facebook.com/47news",
+                "start": 84,
+                "url": "https://t.co/RZqXrfnx2y"
+              },
+              {
+                "display_url": "47news.jp",
+                "end": 135,
+                "expanded_url": "http://47news.jp",
+                "start": 112,
+                "url": "https://t.co/wJkzP2PIbY"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "47news.jp",
+                "end": 23,
+                "expanded_url": "https://www.47news.jp/",
+                "start": 0,
+                "url": "https://t.co/zwPkXHY8bL"
+              }
+            ]
+          }
+        },
+        "id": "1072373414029971456",
+        "name": "47NEWS",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1072374944007364608/aaL1xS7__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92043,
+          "following_count": 63,
+          "like_count": 260,
+          "listed_count": 1403,
+          "media_count": 3260,
+          "tweet_count": 537145
+        },
+        "url": "https://t.co/zwPkXHY8bL",
+        "username": "47news_official",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,569 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880979169297022976",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291095284756357120",
+          "name": "Cultural events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1311728290139258880",
+          "name": "Animation & comics events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1312128054911619073",
+          "name": "Comiket"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1324489219360784384",
+          "name": "Summer festivals"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A genre for books, like Fiction",
+          "id": "85",
+          "name": "Book Genre"
+        },
+        "entity": {
+          "description": "Comics",
+          "id": "847521144173350912",
+          "name": "Comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Comics",
+          "id": "847521144173350912",
+          "name": "Comics"
+        }
+      }
+    ],
+    "conversation_id": "2083127210916122985",
+    "created_at": "2026-07-31T09:46:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T10:46:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083127210916122985"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "94992537",
+          "start": 3,
+          "username": "mokowata"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/1RC",
+          "end": 139,
+          "start": 123,
+          "url": "https://t.co/1RC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083127210916122985",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 239
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082837875541102937",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mokowata: C108TOYPLA様のブースにてライムライト・レモネードジャムで描かせていただいております。夏祭りセット！と、毎回豪華なヒロインセット他ありますのでぜひお立ち寄りください～！（ジト目グッズもこっそり7人分あります） https://t.co/1RC…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 676,
+        "media_key": "3_2082837354260426753",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOe5idGbcAEL2T1.jpg",
+        "width": 500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880979169297022976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1311728290139258880",
+              "name": "Animation & comics events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1312128054911619073",
+              "name": "Comiket"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1324489219360784384",
+              "name": "Summer festivals"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A genre for books, like Fiction",
+              "id": "85",
+              "name": "Book Genre"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          }
+        ],
+        "conversation_id": "2083127210916122985",
+        "created_at": "2026-07-31T09:46:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T10:46:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083127210916122985"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "94992537",
+              "start": 3,
+              "username": "mokowata"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/1RC",
+              "end": 139,
+              "start": 123,
+              "url": "https://t.co/1RC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083127210916122985",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 239
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082837875541102937",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mokowata: C108TOYPLA様のブースにてライムライト・レモネードジャムで描かせていただいております。夏祭りセット！と、毎回豪華なヒロインセット他ありますのでぜひお立ち寄りください～！（ジト目グッズもこっそり7人分あります） https://t.co/1RC…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082837354260426753"
+          ]
+        },
+        "author_id": "94992537",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A genre for books, like Fiction",
+              "id": "85",
+              "name": "Book Genre"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          }
+        ],
+        "conversation_id": "2082837875541102937",
+        "created_at": "2026-07-30T14:37:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T15:37:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082837875541102937"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1RCIyIqcTO",
+              "end": 132,
+              "expanded_url": "https://x.com/mokowata/status/2082837875541102937/photo/1",
+              "media_key": "3_2082837354260426753",
+              "start": 109,
+              "url": "https://t.co/1RCIyIqcTO"
+            },
+            {
+              "display_url": "x.com/toypla_info/st…",
+              "end": 156,
+              "expanded_url": "https://twitter.com/toypla_info/status/2078057123255333238",
+              "start": 133,
+              "url": "https://t.co/jq5Zczms97"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082837875541102937",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 78,
+          "impression_count": 56221,
+          "like_count": 956,
+          "quote_count": 4,
+          "reply_count": 3,
+          "retweet_count": 239
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078057123255333238",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "C108TOYPLA様のブースにてライムライト・レモネードジャムで描かせていただいております。夏祭りセット！と、毎回豪華なヒロインセット他ありますのでぜひお立ち寄りください～！（ジト目グッズもこっそり7人分あります） https://t.co/1RCIyIqcTO https://t.co/jq5Zczms97"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳/♂/08.11.3/友跨🏳️‍⚧️\n或许是温和粉红/欢迎DM聊天(TG优先)\n魔裁(まのさば)/CS2/三角洲/Galgame/IT \n兴趣相近互fo\n好基友@lockloveovo\n学生党 周末/节假日在线(暑假限时全天在线)\nCN/EN/JP\nTG群见置顶\n防失联@Wesley10033",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 85,
+                "username": "lockloveovo"
+              },
+              {
+                "end": 152,
+                "start": 140,
+                "username": "Wesley10033"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://telegram.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/Q5wiGuqCLC"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "location": "People's Republic of China",
+        "name": "Wesley",
+        "pinned_tweet_id": "2083033063257420070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 695,
+          "following_count": 1051,
+          "like_count": 10220,
+          "listed_count": 1,
+          "media_count": 203,
+          "tweet_count": 1859
+        },
+        "url": "https://t.co/Q5wiGuqCLC",
+        "username": "Wesley10032",
+        "verified": true
+      },
+      {
+        "created_at": "2009-12-06T12:46:44.000Z",
+        "description": "デフォルメメインのイラストレーターです。4コマ漫画やゲームのSD原画担当。 \nBOOTH→https://t.co/RRC3QoLrjE\nLINEスタンプ→https://t.co/7uSvxpc85j\nFANBOX→https://t.co/gbYsokmkLE",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "komowa.booth.pm",
+                "end": 68,
+                "expanded_url": "http://komowa.booth.pm",
+                "start": 45,
+                "url": "https://t.co/RRC3QoLrjE"
+              },
+              {
+                "display_url": "is.gd/xzemsg",
+                "end": 101,
+                "expanded_url": "https://is.gd/xzemsg",
+                "start": 78,
+                "url": "https://t.co/7uSvxpc85j"
+              },
+              {
+                "display_url": "fanbox.cc/@komowatan",
+                "end": 132,
+                "expanded_url": "http://fanbox.cc/@komowatan",
+                "start": 109,
+                "url": "https://t.co/gbYsokmkLE"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "komowata.com",
+                "end": 23,
+                "expanded_url": "https://www.komowata.com/",
+                "start": 0,
+                "url": "https://t.co/C3oO5jEcEA"
+              }
+            ]
+          }
+        },
+        "id": "94992537",
+        "location": "日本",
+        "name": "こもわた遙華",
+        "pinned_tweet_id": "2072983196799742310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070534480562098176/WZylsiE3_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137809,
+          "following_count": 769,
+          "like_count": 1267,
+          "listed_count": 1606,
+          "media_count": 1639,
+          "tweet_count": 29608
+        },
+        "url": "https://t.co/C3oO5jEcEA",
+        "username": "mokowata",
+        "verified": true
+      }
+    ]
+  }
+}

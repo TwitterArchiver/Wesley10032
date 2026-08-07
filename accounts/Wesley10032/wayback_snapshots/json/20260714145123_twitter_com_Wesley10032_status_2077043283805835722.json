@@ -1,0 +1,335 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880979169297022976",
+    "conversation_id": "2077043283805835722",
+    "created_at": "2026-07-14T14:51:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T15:51:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077043283805835722"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2008360423771316224",
+          "start": 3,
+          "username": "Konizaza"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/DumbZy",
+          "end": 139,
+          "start": 120,
+          "url": "https://t.co/DumbZy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077043283805835722",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077038647170437554",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Konizaza: 1灌注塔菲喵～❤️\n2夜色南京站，直特八连发\n3正（附赠品）\n4请慢用～❤️\nzaza酱皮肤的确不是很好喵～\n见谅的说～\n没有抽到的也不用灰心😋\n可以找我私信喵😋\n有心情的时候我也会再画一些😋\n谢谢大家喵～❤️ https://t.co/DumbZy…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2077038636475011072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNMfop_a0AA4HXk.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2077038636483448833",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNMfoqBbkAE6kC2.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2077038636919562240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNMforpaIAAoSfl.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2077038636915400705",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNMforoaoAEQ6a6.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880979169297022976",
+        "conversation_id": "2077043283805835722",
+        "created_at": "2026-07-14T14:51:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T15:51:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077043283805835722"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2008360423771316224",
+              "start": 3,
+              "username": "Konizaza"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/DumbZy",
+              "end": 139,
+              "start": 120,
+              "url": "https://t.co/DumbZy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077043283805835722",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077038647170437554",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Konizaza: 1灌注塔菲喵～❤️\n2夜色南京站，直特八连发\n3正（附赠品）\n4请慢用～❤️\nzaza酱皮肤的确不是很好喵～\n见谅的说～\n没有抽到的也不用灰心😋\n可以找我私信喵😋\n有心情的时候我也会再画一些😋\n谢谢大家喵～❤️ https://t.co/DumbZy…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077038636475011072",
+            "3_2077038636483448833",
+            "3_2077038636919562240",
+            "3_2077038636915400705"
+          ]
+        },
+        "author_id": "2008360423771316224",
+        "conversation_id": "2077038647170437554",
+        "created_at": "2026-07-14T14:32:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T15:32:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077038647170437554"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DumbZyX4Fy",
+              "end": 129,
+              "expanded_url": "https://x.com/Konizaza/status/2077038647170437554/photo/1",
+              "media_key": "3_2077038636475011072",
+              "start": 106,
+              "url": "https://t.co/DumbZyX4Fy"
+            },
+            {
+              "display_url": "pic.x.com/DumbZyX4Fy",
+              "end": 129,
+              "expanded_url": "https://x.com/Konizaza/status/2077038647170437554/photo/1",
+              "media_key": "3_2077038636483448833",
+              "start": 106,
+              "url": "https://t.co/DumbZyX4Fy"
+            },
+            {
+              "display_url": "pic.x.com/DumbZyX4Fy",
+              "end": 129,
+              "expanded_url": "https://x.com/Konizaza/status/2077038647170437554/photo/1",
+              "media_key": "3_2077038636919562240",
+              "start": 106,
+              "url": "https://t.co/DumbZyX4Fy"
+            },
+            {
+              "display_url": "pic.x.com/DumbZyX4Fy",
+              "end": 129,
+              "expanded_url": "https://x.com/Konizaza/status/2077038647170437554/photo/1",
+              "media_key": "3_2077038636915400705",
+              "start": 106,
+              "url": "https://t.co/DumbZyX4Fy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077038647170437554",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 164,
+          "like_count": 17,
+          "quote_count": 1,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "1灌注塔菲喵～❤️\n2夜色南京站，直特八连发\n3正（附赠品）\n4请慢用～❤️\nzaza酱皮肤的确不是很好喵～\n见谅的说～\n没有抽到的也不用灰心😋\n可以找我私信喵😋\n有心情的时候我也会再画一些😋\n谢谢大家喵～❤️ https://t.co/DumbZyX4Fy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳/友跨🏳️‍⚧️/欢迎DM聊天(X/TG均可)/兴趣相近互fo\n魔裁(まのさば)/ 崩铁(HSR)/Galgame\n头像来自@pale_noon\n学生党 周末/节假日在线(暑假限时全天在线)\nCN/EN/JP(a little)\n防失联@Wesley10033\n和平友善交流 谢绝人身攻击",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 67,
+                "username": "pale_noon"
+              },
+              {
+                "end": 135,
+                "start": 123,
+                "username": "Wesley10033"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://telegram.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/Q5wiGuqCLC"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "location": "People's Republic of China",
+        "name": "Wesley",
+        "pinned_tweet_id": "2075263019853238477",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070912735362387968/eccaKvtY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 310,
+          "following_count": 569,
+          "like_count": 4179,
+          "listed_count": 0,
+          "media_count": 83,
+          "tweet_count": 882
+        },
+        "url": "https://t.co/Q5wiGuqCLC",
+        "username": "Wesley10032",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-06T02:10:47.000Z",
+        "description": "互关/互fo喵～｜MTF断糖｜生产日期：08年九月|喜欢喵喵叫｜也喜欢大家｜\n｜小号@konizazadesu免得找不到请灌注一下喵～｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 42,
+                "username": "konizazadesu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/konizaza",
+                "end": 23,
+                "expanded_url": "https://ngl.link/konizaza",
+                "start": 0,
+                "url": "https://t.co/UxxyJbfdds"
+              }
+            ]
+          }
+        },
+        "id": "2008360423771316224",
+        "location": "你的心里",
+        "name": "Konizaza🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2077038647170437554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008360701203476480/8eFKwyGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1051,
+          "following_count": 1241,
+          "like_count": 4121,
+          "listed_count": 1,
+          "media_count": 196,
+          "tweet_count": 2123
+        },
+        "url": "https://t.co/UxxyJbfdds",
+        "username": "Konizaza",
+        "verified": true
+      }
+    ]
+  }
+}

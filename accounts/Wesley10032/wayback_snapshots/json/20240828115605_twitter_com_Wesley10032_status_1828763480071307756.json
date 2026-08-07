@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1525456751788969985",
+    "conversation_id": "1828585701371158885",
+    "created_at": "2024-08-28T11:56:05.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-28T12:56:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1828763480071307756"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 35,
+          "normalized_text": "New York",
+          "probability": 0.9874,
+          "start": 28,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "119032944",
+          "start": 0,
+          "username": "rahuliiml"
+        },
+        {
+          "end": 27,
+          "id": "1797783548545409025",
+          "start": 11,
+          "username": "SpoxCHN_LinJian"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1828763480071307756",
+    "in_reply_to_user_id": "119032944",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1828651708282454183",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rahuliiml @SpoxCHN_LinJian New York subway stations are full of homeless people and dirty, is that an age decision?"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1525456751788969985",
+        "conversation_id": "1828585701371158885",
+        "created_at": "2024-08-28T11:56:05.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-28T12:56:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1828763480071307756"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 35,
+              "normalized_text": "New York",
+              "probability": 0.9874,
+              "start": 28,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 10,
+              "id": "119032944",
+              "start": 0,
+              "username": "rahuliiml"
+            },
+            {
+              "end": 27,
+              "id": "1797783548545409025",
+              "start": 11,
+              "username": "SpoxCHN_LinJian"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1828763480071307756",
+        "in_reply_to_user_id": "119032944",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1828651708282454183",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rahuliiml @SpoxCHN_LinJian New York subway stations are full of homeless people and dirty, is that an age decision?"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "119032944",
+        "conversation_id": "1828585701371158885",
+        "created_at": "2024-08-28T04:31:56.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-28T05:31:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1828651708282454183"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1797783548545409025",
+              "start": 0,
+              "username": "SpoxCHN_LinJian"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1828651708282454183",
+        "in_reply_to_user_id": "1797783548545409025",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 16906,
+          "like_count": 138,
+          "quote_count": 1,
+          "reply_count": 36,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1828585701371158885",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SpoxCHN_LinJian What is age of both the stations???"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-14T12:43:40.000Z",
+        "description": "Free Ukraine and Palestine 🇺🇦🇵🇸",
+        "id": "1525456751788969985",
+        "name": "Wesley",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811578387594649600/eQdjLvSa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 36,
+          "like_count": 58,
+          "listed_count": 0,
+          "tweet_count": 287
+        },
+        "username": "Wesley10032",
+        "verified": false
+      },
+      {
+        "created_at": "2010-03-02T13:23:07.000Z",
+        "description": "Free Radical || Theatre Actor || IIM Grad || B Pharm",
+        "id": "119032944",
+        "location": "delhi",
+        "name": "Rahul Birendra Singh",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1315511794291470339/Ob-_cCoC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 156,
+          "following_count": 220,
+          "like_count": 272,
+          "listed_count": 0,
+          "tweet_count": 756
+        },
+        "username": "rahuliiml",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-04T00:13:54.000Z",
+        "description": "Foreign Ministry Spokesperson\nDeputy Director General, Department of Press, Communication and Public Diplomacy\nGet to know us more @MFA_China",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 141,
+                "start": 131,
+                "username": "MFA_China"
+              }
+            ]
+          }
+        },
+        "id": "1797783548545409025",
+        "name": "Lin Jian 林剑",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1799684400965140480/d6Mu5BJJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8850,
+          "following_count": 52,
+          "like_count": 3,
+          "listed_count": 45,
+          "tweet_count": 275
+        },
+        "username": "SpoxCHN_LinJian",
+        "verified": true
+      }
+    ]
+  }
+}

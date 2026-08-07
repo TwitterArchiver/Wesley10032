@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067494870865108992"
+      ],
+      "media_source_tweet_id": [
+        "2067759265759236379"
+      ]
+    },
+    "author_id": "1880979169297022976",
+    "conversation_id": "2067907888211997091",
+    "created_at": "2026-06-19T09:50:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T10:50:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067907888211997091"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1442805688665710598",
+          "start": 3,
+          "username": "MOFCOM_China"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DcYUB3cukR",
+          "end": 69,
+          "expanded_url": "https://x.com/MOFCOM_China/status/2067759265759236379/photo/1",
+          "media_key": "3_2067494870865108992",
+          "start": 46,
+          "url": "https://t.co/DcYUB3cukR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067907888211997091",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067759265759236379",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MOFCOM_China: Happy Dragon Boat Festival! https://t.co/DcYUB3cukR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2067494870865108992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLE3oYjbYAACaWQ.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067494870865108992"
+          ],
+          "media_source_tweet_id": [
+            "2067759265759236379"
+          ]
+        },
+        "author_id": "1880979169297022976",
+        "conversation_id": "2067907888211997091",
+        "created_at": "2026-06-19T09:50:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T10:50:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067907888211997091"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1442805688665710598",
+              "start": 3,
+              "username": "MOFCOM_China"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DcYUB3cukR",
+              "end": 69,
+              "expanded_url": "https://x.com/MOFCOM_China/status/2067759265759236379/photo/1",
+              "media_key": "3_2067494870865108992",
+              "start": 46,
+              "url": "https://t.co/DcYUB3cukR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067907888211997091",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067759265759236379",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MOFCOM_China: Happy Dragon Boat Festival! https://t.co/DcYUB3cukR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067494870865108992"
+          ]
+        },
+        "author_id": "1442805688665710598",
+        "conversation_id": "2067759265759236379",
+        "created_at": "2026-06-19T00:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T01:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067759265759236379"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DcYUB3cukR",
+              "end": 51,
+              "expanded_url": "https://x.com/MOFCOM_China/status/2067759265759236379/photo/1",
+              "media_key": "3_2067494870865108992",
+              "start": 28,
+              "url": "https://t.co/DcYUB3cukR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067759265759236379",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1164,
+          "like_count": 42,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "Happy Dragon Boat Festival! https://t.co/DcYUB3cukR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳 / 民主社会主义 / 反台独 / 友跨🏳️‍⚧️ / Free Ukraine 🇺🇦 / Free Palestine 🇵🇸\n中文 / English / 日本語（勉強中）\n偶尔转帖插画等内容\n和平友善交流，谢绝人身攻击\n中华人民共和国万岁 世界人民大团结万岁",
+        "id": "1880979169297022976",
+        "location": "China",
+        "name": "Wesley10032",
+        "pinned_tweet_id": "2067905508191990010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021156330271039488/mAwe21JP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 129,
+          "like_count": 583,
+          "listed_count": 1,
+          "media_count": 5,
+          "tweet_count": 353
+        },
+        "url": "",
+        "username": "Wesley10032",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-28T11:00:09.000Z",
+        "description": "Welcome to the official account of the Ministry of Commerce of the People's Republic of China.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mofcom.gov.cn",
+                "end": 23,
+                "expanded_url": "http://www.mofcom.gov.cn",
+                "start": 0,
+                "url": "https://t.co/WfKD1JC9qu"
+              }
+            ]
+          }
+        },
+        "id": "1442805688665710598",
+        "name": "中华人民共和国商务部MOFCOM",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1442806451009835011/LDmhY-c7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24088,
+          "following_count": 12,
+          "like_count": 1,
+          "listed_count": 131,
+          "media_count": 812,
+          "tweet_count": 2093
+        },
+        "url": "https://t.co/WfKD1JC9qu",
+        "username": "MOFCOM_China",
+        "verified": true
+      }
+    ]
+  }
+}

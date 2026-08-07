@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880979169297022976",
+    "conversation_id": "2067516137278243141",
+    "created_at": "2026-06-18T07:53:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T08:53:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067516137278243141"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/nekotail843/st…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/nekotail843/status/2066880932146282621",
+          "start": 5,
+          "url": "https://t.co/nn7XvUJvb9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067516137278243141",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066880932146282621",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "那很惨了 https://t.co/nn7XvUJvb9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2066880929478696960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK8JQSqbYAAMtcN.jpg",
+        "width": 1316
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880979169297022976",
+        "conversation_id": "2067516137278243141",
+        "created_at": "2026-06-18T07:53:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T08:53:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067516137278243141"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nekotail843/st…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/nekotail843/status/2066880932146282621",
+              "start": 5,
+              "url": "https://t.co/nn7XvUJvb9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067516137278243141",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066880932146282621",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "那很惨了 https://t.co/nn7XvUJvb9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066880929478696960"
+          ]
+        },
+        "author_id": "1270767246021804033",
+        "conversation_id": "2066880932146282621",
+        "created_at": "2026-06-16T13:49:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T14:49:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066880932146282621"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SYBNglqCvO",
+              "end": 41,
+              "expanded_url": "https://x.com/nekotail843/status/2066880932146282621/photo/1",
+              "media_key": "3_2066880929478696960",
+              "start": 18,
+              "url": "https://t.co/SYBNglqCvO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066880932146282621",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1260,
+          "impression_count": 1479822,
+          "like_count": 23128,
+          "quote_count": 393,
+          "reply_count": 164,
+          "retweet_count": 1140
+        },
+        "reply_settings": "following",
+        "text": "ヤバ😂😂😂\n地震思ったより酷かった https://t.co/SYBNglqCvO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳 / 民主社会主义 / 反台独 / Free Ukraine 🇺🇦 / Free Palestine 🇵🇸\n魔裁（まのさば） / 崩铁（HSR）\n和平友善交流，谢绝人身攻击\n中华人民共和国万岁 世界人民大团结万岁",
+        "id": "1880979169297022976",
+        "location": "China",
+        "name": "Wesley10032",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021156330271039488/mAwe21JP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 120,
+          "like_count": 537,
+          "listed_count": 1,
+          "media_count": 2,
+          "tweet_count": 316
+        },
+        "url": "",
+        "username": "Wesley10032",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-10T17:22:27.000Z",
+        "description": "hololive箱推し/しら建最推し/🌸☄️miComet/💫👾/+++/女子35P🌸と女子座員🎪の二人組/最近🌽🌸☄️はアツい！ 台湾出身/日本在住/成年済み。無言フォロー失礼します🙇‍♀️",
+        "id": "1270767246021804033",
+        "location": "日本",
+        "name": "ネコ・テル",
+        "pinned_tweet_id": "1976261098572816426",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1700532518175571968/crbfnZew_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2016,
+          "following_count": 736,
+          "like_count": 42629,
+          "listed_count": 17,
+          "media_count": 3102,
+          "tweet_count": 9095
+        },
+        "url": "",
+        "username": "nekotail843",
+        "verified": false
+      }
+    ]
+  }
+}

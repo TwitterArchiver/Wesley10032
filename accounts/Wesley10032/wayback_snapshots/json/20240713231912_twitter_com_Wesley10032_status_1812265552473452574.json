@@ -1,0 +1,293 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1525456751788969985",
+    "conversation_id": "1812010896442409361",
+    "created_at": "2024-07-13T23:19:12.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-14T00:19:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1812265552473452574"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 20,
+          "normalized_text": "Bill",
+          "probability": 0.4748,
+          "start": 17,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "918420895495946240",
+          "start": 0,
+          "username": "CTA_TibetdotNet"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1812265552473452574",
+    "in_reply_to_user_id": "918420895495946240",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1812010896442409361",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CTA_TibetdotNet Bill left to the Tibetan government-in-exile to amuse itself."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1525456751788969985",
+        "conversation_id": "1812010896442409361",
+        "created_at": "2024-07-13T23:19:12.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-14T00:19:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1812265552473452574"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 20,
+              "normalized_text": "Bill",
+              "probability": 0.4748,
+              "start": 17,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "918420895495946240",
+              "start": 0,
+              "username": "CTA_TibetdotNet"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1812265552473452574",
+        "in_reply_to_user_id": "918420895495946240",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1812010896442409361",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CTA_TibetdotNet Bill left to the Tibetan government-in-exile to amuse itself."
+      },
+      {
+        "attachments": {},
+        "author_id": "918420895495946240",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "US President Joe Biden",
+              "id": "10040395078",
+              "name": "Joe Biden"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "US President Joe Biden",
+              "id": "10040395078",
+              "name": "Joe Biden"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "US President Joe Biden",
+              "id": "10040395078",
+              "name": "Joe Biden"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "1812010896442409361",
+        "created_at": "2024-07-13T06:27:17.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-13T07:27:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1812010896442409361"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Dharamshala: On 12 July 2024, US President Joe Biden signed into law ‘‘Promoting a Resolution to the Tibet-China Dispute Act’’ that bolsters America’s Tibet policy through further amendments of the Tibetan Policy Act of 2002 and aims to facilitate the resolution of the longstanding conflict between Tibet and China. Known as Resolve Tibet Act in",
+              "display_url": "tibet.net/president-joe-…",
+              "end": 108,
+              "expanded_url": "https://tibet.net/president-joe-biden-signs-resolve-tibet-act-strengthens-americas-tibet-policy/",
+              "images": [
+                {
+                  "height": 467,
+                  "url": "https://pbs.twimg.com/news_img/1812010939043942400/zRIXik7h?format=jpg&name=orig",
+                  "width": 700
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1812010939043942400/zRIXik7h?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 85,
+              "status": 200,
+              "title": "President Joe Biden Signs Resolve Tibet Act, Strengthens America’s Tibet Policy - Central Tibetan Administration",
+              "unwound_url": "https://tibet.net/president-joe-biden-signs-resolve-tibet-act-strengthens-americas-tibet-policy/",
+              "url": "https://t.co/8ckCWktjiX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1812010896442409361",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1779,
+          "like_count": 54,
+          "quote_count": 3,
+          "reply_count": 6,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "U.S. President Joe Biden Signs Resolve Tibet Act, Strengthens America’s Tibet Policy\nhttps://t.co/8ckCWktjiX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-14T12:43:40.000Z",
+        "description": "Free Ukraine and Palestine",
+        "id": "1525456751788969985",
+        "name": "Wesley",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811578387594649600/eQdjLvSa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 25,
+          "like_count": 31,
+          "listed_count": 0,
+          "tweet_count": 146
+        },
+        "username": "Wesley10032",
+        "verified": false
+      },
+      {
+        "created_at": "2017-10-12T10:19:39.000Z",
+        "description": "Official Twitter page of the Central Tibetan Administration. News articles posted on https://t.co/M6E0DW2hLO are tweeted here. Retweets are not endorsements.",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "Tibet.Net",
+                "end": 108,
+                "expanded_url": "http://Tibet.Net",
+                "start": 85,
+                "url": "https://t.co/M6E0DW2hLO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tibet.net",
+                "end": 23,
+                "expanded_url": "http://tibet.net/",
+                "start": 0,
+                "url": "https://t.co/jtyKwj9Qp2"
+              }
+            ]
+          }
+        },
+        "id": "918420895495946240",
+        "location": "Dharamsala, India",
+        "name": "Tibet.Net",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1404683781508767748/DkTFCPyV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17650,
+          "following_count": 24,
+          "like_count": 899,
+          "listed_count": 123,
+          "tweet_count": 12231
+        },
+        "url": "https://t.co/jtyKwj9Qp2",
+        "username": "CTA_TibetdotNet",
+        "verified": false
+      }
+    ]
+  }
+}

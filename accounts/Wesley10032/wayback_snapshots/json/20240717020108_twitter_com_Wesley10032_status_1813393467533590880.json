@@ -1,0 +1,178 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1525456751788969985",
+    "conversation_id": "1813350893838086205",
+    "created_at": "2024-07-17T02:01:08.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-17T03:01:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1813393467533590880"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1227213115986563073",
+          "start": 0,
+          "username": "1912ROCforever"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1813393467533590880",
+    "in_reply_to_user_id": "1227213115986563073",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1813350893838086205",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1912ROCforever 就你们这种混乱的国家认同感，我都不敢想象台湾以后会有怎样的政治混乱🤣"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1525456751788969985",
+        "conversation_id": "1813350893838086205",
+        "created_at": "2024-07-17T02:01:08.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-17T03:01:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1813393467533590880"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1227213115986563073",
+              "start": 0,
+              "username": "1912ROCforever"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1813393467533590880",
+        "in_reply_to_user_id": "1227213115986563073",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1813350893838086205",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1912ROCforever 就你们这种混乱的国家认同感，我都不敢想象台湾以后会有怎样的政治混乱🤣"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1813350886787428352"
+          ]
+        },
+        "author_id": "1227213115986563073",
+        "conversation_id": "1813350893838086205",
+        "created_at": "2024-07-16T23:11:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-17T00:11:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1813350893838086205"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/9Bmsd1XKZN",
+              "end": 29,
+              "expanded_url": "https://twitter.com/1912ROCforever/status/1813350893838086205/photo/1",
+              "media_key": "3_1813350886787428352",
+              "start": 6,
+              "url": "https://t.co/9Bmsd1XKZN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1813350893838086205",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1908,
+          "like_count": 36,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我好怕喔～ https://t.co/9Bmsd1XKZN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-14T12:43:40.000Z",
+        "description": "Free Ukraine and Palestine 🇺🇦🇵🇸",
+        "id": "1525456751788969985",
+        "name": "Wesley",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811578387594649600/eQdjLvSa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 26,
+          "like_count": 34,
+          "listed_count": 0,
+          "tweet_count": 165
+        },
+        "username": "Wesley10032",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-11T12:50:00.000Z",
+        "description": "富貴不能淫，貧賤不能移，威武不能屈，此謂大丈夫。",
+        "id": "1227213115986563073",
+        "location": "台灣省, 彰化縣, 溪湖鎮",
+        "name": "Dr. Zhou🇹🇼",
+        "pinned_tweet_id": "1688905042529816576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1642847038034554880/z-y5qSqm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9845,
+          "following_count": 156,
+          "like_count": 10891,
+          "listed_count": 50,
+          "tweet_count": 23674
+        },
+        "username": "1912ROCforever",
+        "verified": false
+      }
+    ]
+  }
+}

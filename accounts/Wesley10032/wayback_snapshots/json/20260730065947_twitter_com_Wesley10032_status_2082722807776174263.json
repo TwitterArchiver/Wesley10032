@@ -1,0 +1,691 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880979169297022976",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10030068348",
+          "name": "Mentiras Verdaderas"
+        }
+      },
+      {
+        "domain": {
+          "description": "Television Show Genres",
+          "id": "22",
+          "name": "TV Genres"
+        },
+        "entity": {
+          "id": "1281313250630492161",
+          "name": "Late night talk"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Television",
+          "id": "1072937043393560576",
+          "name": "Television"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1191379707473715201",
+          "name": "Voice actors"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1281312750648479744",
+          "name": "Talk shows"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1281313250630492161",
+          "name": "Late night talk"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1431299574807760896",
+          "name": "Mentiras Verdaderas"
+        }
+      },
+      {
+        "domain": {
+          "description": "For global/conceptual TV shows without localization.",
+          "id": "172",
+          "name": "Global TV Show"
+        },
+        "entity": {
+          "id": "1431299574807760896",
+          "name": "Mentiras Verdaderas"
+        }
+      }
+    ],
+    "conversation_id": "2082722807776174263",
+    "created_at": "2026-07-30T06:59:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T07:59:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082722807776174263"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "192779788",
+          "start": 3,
+          "username": "hiiragi_yuka530"
+        }
+      ],
+      "urls": [
+        {
+          "description": "柊優花（ひいらぎゆか）Vtuber ではないです！　実写と2D行き来しています！Real-time mirroring on o...",
+          "display_url": "youtube.com/watch?v=HemJDr…",
+          "end": 125,
+          "expanded_url": "https://www.youtube.com/watch?v=HemJDr567No",
+          "images": [
+            {
+              "height": 720,
+              "url": "https://pbs.twimg.com/news_img/2081336910161858560/btr96zb1?format=jpg&name=orig",
+              "width": 1280
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2081336910161858560/btr96zb1?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 102,
+          "status": 200,
+          "title": "XXXXXXXXXX　ワクワクしちゃいますねッ！",
+          "unwound_url": "https://www.youtube.com/watch?v=HemJDr567No",
+          "url": "https://t.co/i0m26CbeaJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082722807776174263",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4353
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082422956475765048",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hiiragi_yuka530: ――――――――――――――――\n\n橘シェリーの声優が歌う \n\nまのさばOP\nLaVI-Bavellabion ver柊優花\n\nを公開いたしました。\n\n◇MV◇\nhttps://t.co/i0m26CbeaJ\n\n――――――――――――…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2082422952956719104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOZApH8a8AAg5RA.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880979169297022976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10030068348",
+              "name": "Mentiras Verdaderas"
+            }
+          },
+          {
+            "domain": {
+              "description": "Television Show Genres",
+              "id": "22",
+              "name": "TV Genres"
+            },
+            "entity": {
+              "id": "1281313250630492161",
+              "name": "Late night talk"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Television",
+              "id": "1072937043393560576",
+              "name": "Television"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1191379707473715201",
+              "name": "Voice actors"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1281312750648479744",
+              "name": "Talk shows"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1281313250630492161",
+              "name": "Late night talk"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1431299574807760896",
+              "name": "Mentiras Verdaderas"
+            }
+          },
+          {
+            "domain": {
+              "description": "For global/conceptual TV shows without localization.",
+              "id": "172",
+              "name": "Global TV Show"
+            },
+            "entity": {
+              "id": "1431299574807760896",
+              "name": "Mentiras Verdaderas"
+            }
+          }
+        ],
+        "conversation_id": "2082722807776174263",
+        "created_at": "2026-07-30T06:59:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T07:59:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082722807776174263"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "192779788",
+              "start": 3,
+              "username": "hiiragi_yuka530"
+            }
+          ],
+          "urls": [
+            {
+              "description": "柊優花（ひいらぎゆか）Vtuber ではないです！　実写と2D行き来しています！Real-time mirroring on o...",
+              "display_url": "youtube.com/watch?v=HemJDr…",
+              "end": 125,
+              "expanded_url": "https://www.youtube.com/watch?v=HemJDr567No",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/2081336910161858560/btr96zb1?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2081336910161858560/btr96zb1?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 102,
+              "status": 200,
+              "title": "XXXXXXXXXX　ワクワクしちゃいますねッ！",
+              "unwound_url": "https://www.youtube.com/watch?v=HemJDr567No",
+              "url": "https://t.co/i0m26CbeaJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082722807776174263",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4353
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082422956475765048",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hiiragi_yuka530: ――――――――――――――――\n\n橘シェリーの声優が歌う \n\nまのさばOP\nLaVI-Bavellabion ver柊優花\n\nを公開いたしました。\n\n◇MV◇\nhttps://t.co/i0m26CbeaJ\n\n――――――――――――…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082422952956719104"
+          ]
+        },
+        "author_id": "192779788",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10030068348",
+              "name": "Mentiras Verdaderas"
+            }
+          },
+          {
+            "domain": {
+              "description": "Television Show Genres",
+              "id": "22",
+              "name": "TV Genres"
+            },
+            "entity": {
+              "id": "1281313250630492161",
+              "name": "Late night talk"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Television",
+              "id": "1072937043393560576",
+              "name": "Television"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1191379707473715201",
+              "name": "Voice actors"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1281312750648479744",
+              "name": "Talk shows"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1281313250630492161",
+              "name": "Late night talk"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1431299574807760896",
+              "name": "Mentiras Verdaderas"
+            }
+          },
+          {
+            "domain": {
+              "description": "For global/conceptual TV shows without localization.",
+              "id": "172",
+              "name": "Global TV Show"
+            },
+            "entity": {
+              "id": "1431299574807760896",
+              "name": "Mentiras Verdaderas"
+            }
+          }
+        ],
+        "conversation_id": "2082422956475765048",
+        "created_at": "2026-07-29T11:08:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T12:08:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082422956475765048"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "柊優花（ひいらぎゆか）Vtuber ではないです！　実写と2D行き来しています！Real-time mirroring on o...",
+              "display_url": "youtube.com/watch?v=HemJDr…",
+              "end": 104,
+              "expanded_url": "https://www.youtube.com/watch?v=HemJDr567No",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/2081336910161858560/btr96zb1?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2081336910161858560/btr96zb1?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 81,
+              "status": 200,
+              "title": "XXXXXXXXXX　ワクワクしちゃいますねッ！",
+              "unwound_url": "https://www.youtube.com/watch?v=HemJDr567No",
+              "url": "https://t.co/i0m26CbeaJ"
+            },
+            {
+              "display_url": "pic.x.com/mdHnUBnL2f",
+              "end": 146,
+              "expanded_url": "https://x.com/hiiragi_yuka530/status/2082422956475765048/photo/1",
+              "media_key": "3_2082422952956719104",
+              "start": 123,
+              "url": "https://t.co/mdHnUBnL2f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082422956475765048",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2007,
+          "impression_count": 596516,
+          "like_count": 13745,
+          "quote_count": 360,
+          "reply_count": 203,
+          "retweet_count": 4353
+        },
+        "reply_settings": "everyone",
+        "text": "――――――――――――――――\n\n橘シェリーの声優が歌う \n\nまのさばOP\nLaVI-Bavellabion ver柊優花\n\nを公開いたしました。\n\n◇MV◇\nhttps://t.co/i0m26CbeaJ\n\n―――――――――――――――― https://t.co/mdHnUBnL2f"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳/♂/08.11.3/友跨🏳️‍⚧️\n或许是温和粉红/欢迎DM聊天(TG优先)\n魔裁(まのさば)/CS2/三角洲/Galgame/IT \n兴趣相近互fo\n好基友@lockloveovo\n学生党 周末/节假日在线(暑假限时全天在线)\nCN/EN/JP\nTG群见置顶\n防失联@Wesley10033",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 85,
+                "username": "lockloveovo"
+              },
+              {
+                "end": 152,
+                "start": 140,
+                "username": "Wesley10033"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://telegram.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/Q5wiGuqCLC"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "location": "People's Republic of China",
+        "name": "Wesley",
+        "pinned_tweet_id": "2077761863937597659",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 681,
+          "following_count": 1029,
+          "like_count": 9866,
+          "listed_count": 1,
+          "media_count": 200,
+          "tweet_count": 1811
+        },
+        "url": "https://t.co/Q5wiGuqCLC",
+        "username": "Wesley10032",
+        "verified": true
+      },
+      {
+        "created_at": "2010-09-20T03:37:03.000Z",
+        "description": "ひいらぎゆかです！歌と声優🌟 #魔法少女ノ魔女裁判 橘シェリー/ #配信少女ノ裏垢迷宮 水無月メイカ / #魔法少女ノ因習村 御影リズ /#PokerDolls レイズ /#棋桜 猫宮さくら /#パラバト 龍亀 \n ボイスサンプル経歴  https://t.co/bmwfeDcUbY @Sub_Yukasi",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 25,
+                "start": 15,
+                "tag": "魔法少女ノ魔女裁判"
+              },
+              {
+                "end": 43,
+                "start": 33,
+                "tag": "配信少女ノ裏垢迷宮"
+              },
+              {
+                "end": 62,
+                "start": 53,
+                "tag": "魔法少女ノ因習村"
+              },
+              {
+                "end": 80,
+                "start": 69,
+                "tag": "PokerDolls"
+              },
+              {
+                "end": 89,
+                "start": 86,
+                "tag": "棋桜"
+              },
+              {
+                "end": 102,
+                "start": 97,
+                "tag": "パラバト"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 154,
+                "start": 143,
+                "username": "Sub_Yukasi"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "lit.link/hiiragiyuka",
+                "end": 142,
+                "expanded_url": "https://lit.link/hiiragiyuka",
+                "start": 119,
+                "url": "https://t.co/bmwfeDcUbY"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCdvq5…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/channel/UCdvq5i3RyRsoTqITD1xSxNw",
+                "start": 0,
+                "url": "https://t.co/O2kvBmh2fa"
+              }
+            ]
+          }
+        },
+        "id": "192779788",
+        "location": "ご依頼➡︎hiiragiyuka530@gmail.com ",
+        "name": "柊 優花⋈",
+        "pinned_tweet_id": "2063138958142546406",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955217257438777350/QmF4xGwa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112905,
+          "following_count": 567,
+          "like_count": 162836,
+          "listed_count": 931,
+          "media_count": 728,
+          "tweet_count": 15281
+        },
+        "url": "https://t.co/O2kvBmh2fa",
+        "username": "hiiragi_yuka530",
+        "verified": true
+      }
+    ]
+  }
+}

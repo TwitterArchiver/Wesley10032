@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084190226981986304"
+      ]
+    },
+    "author_id": "1880979169297022976",
+    "conversation_id": "2084190235563577606",
+    "created_at": "2026-08-03T08:10:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T09:10:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084190235563577606"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/wlzJ9d3vRM",
+          "end": 28,
+          "expanded_url": "https://x.com/Wesley10032/status/2084190235563577606/photo/1",
+          "media_key": "3_2084190226981986304",
+          "start": 5,
+          "url": "https://t.co/wlzJ9d3vRM"
+        },
+        {
+          "display_url": "x.com/lucia_zakozaza…",
+          "end": 52,
+          "expanded_url": "https://twitter.com/lucia_zakozaza/status/2084189925466161554",
+          "start": 29,
+          "url": "https://t.co/QKQ24e0B62"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084190235563577606",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084189925466161554",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "谢谢喵😋 https://t.co/wlzJ9d3vRM https://t.co/QKQ24e0B62"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1184,
+        "media_key": "3_2084190226981986304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOyH-AuaIAAhxSc.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084190226981986304"
+          ]
+        },
+        "author_id": "1880979169297022976",
+        "conversation_id": "2084190235563577606",
+        "created_at": "2026-08-03T08:10:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T09:10:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084190235563577606"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wlzJ9d3vRM",
+              "end": 28,
+              "expanded_url": "https://x.com/Wesley10032/status/2084190235563577606/photo/1",
+              "media_key": "3_2084190226981986304",
+              "start": 5,
+              "url": "https://t.co/wlzJ9d3vRM"
+            },
+            {
+              "display_url": "x.com/lucia_zakozaza…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/lucia_zakozaza/status/2084189925466161554",
+              "start": 29,
+              "url": "https://t.co/QKQ24e0B62"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084190235563577606",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084189925466161554",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "谢谢喵😋 https://t.co/wlzJ9d3vRM https://t.co/QKQ24e0B62"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2082805185785831424",
+        "conversation_id": "2084175475317030941",
+        "created_at": "2026-08-03T08:09:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T09:09:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084189925466161554"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1880979169297022976",
+              "start": 0,
+              "username": "Wesley10032"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084189925466161554",
+        "in_reply_to_user_id": "1880979169297022976",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084175475317030941",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wesley10032 0.91喵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳/♂/08.11.3/友跨🏳️‍⚧️\n或许是温和粉红/欢迎DM聊天(TG优先)\n魔裁(まのさば)/CS2/三角洲/Galgame/IT \n兴趣相近互fo/想做心理委员\n好基友@lockloveovo\n学生党 周末/节假日在线(暑假限时全天在线)\nCN/EN/JP\n防失联@Wesley10033",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 104,
+                "start": 92,
+                "username": "lockloveovo"
+              },
+              {
+                "end": 152,
+                "start": 140,
+                "username": "Wesley10033"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://telegram.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/Q5wiGuq4W4"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "location": "People's Republic of China",
+        "name": "Wesley",
+        "pinned_tweet_id": "2083033063257420070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 773,
+          "following_count": 1107,
+          "like_count": 11401,
+          "listed_count": 1,
+          "media_count": 227,
+          "tweet_count": 2030
+        },
+        "url": "https://t.co/Q5wiGuq4W4",
+        "username": "Wesley10032",
+        "verified": true
+      },
+      {
+        "created_at": "2026-07-30T12:32:24.000Z",
+        "description": "男，目前不吃糖不女装  喜欢猫猫和抱抱",
+        "id": "2082805185785831424",
+        "name": "lucia",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082810716135030784/IVA3GIhb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 17,
+          "like_count": 14,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 20
+        },
+        "url": "",
+        "username": "lucia_zakozaza",
+        "verified": false
+      }
+    ]
+  }
+}

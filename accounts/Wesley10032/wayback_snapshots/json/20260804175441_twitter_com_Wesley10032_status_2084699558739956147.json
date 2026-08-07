@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084662850749190145"
+      ],
+      "media_source_tweet_id": [
+        "2084663053468185014"
+      ]
+    },
+    "author_id": "1880979169297022976",
+    "conversation_id": "2084699558739956147",
+    "created_at": "2026-08-04T17:54:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T18:54:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084699558739956147"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1819172584044560384",
+          "start": 3,
+          "username": "Asid_Leta_Zero"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/IW30MZYDwy",
+          "end": 63,
+          "expanded_url": "https://x.com/Asid_Leta_Zero/status/2084663053468185014/photo/1",
+          "media_key": "3_2084662850749190145",
+          "start": 40,
+          "url": "https://t.co/IW30MZYDwy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084699558739956147",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084663053468185014",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Asid_Leta_Zero: 有没有人知道拍摄噪点在什么时候会出现🤔 https://t.co/IW30MZYDwy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1127,
+        "media_key": "3_2084662850749190145",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO410Vdb0AEcllx.jpg",
+        "width": 775
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084662850749190145"
+          ]
+        },
+        "author_id": "1819172584044560384",
+        "conversation_id": "2084663053468185014",
+        "created_at": "2026-08-04T15:29:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T16:29:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084663053468185014"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IW30MZYDwy",
+              "end": 43,
+              "expanded_url": "https://x.com/Asid_Leta_Zero/status/2084663053468185014/photo/1",
+              "media_key": "3_2084662850749190145",
+              "start": 20,
+              "url": "https://t.co/IW30MZYDwy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084663053468185014",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 173,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "有没有人知道拍摄噪点在什么时候会出现🤔 https://t.co/IW30MZYDwy"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084662850749190145"
+          ],
+          "media_source_tweet_id": [
+            "2084663053468185014"
+          ]
+        },
+        "author_id": "1880979169297022976",
+        "conversation_id": "2084699558739956147",
+        "created_at": "2026-08-04T17:54:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T18:54:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084699558739956147"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1819172584044560384",
+              "start": 3,
+              "username": "Asid_Leta_Zero"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IW30MZYDwy",
+              "end": 63,
+              "expanded_url": "https://x.com/Asid_Leta_Zero/status/2084663053468185014/photo/1",
+              "media_key": "3_2084662850749190145",
+              "start": 40,
+              "url": "https://t.co/IW30MZYDwy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084699558739956147",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084663053468185014",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Asid_Leta_Zero: 有没有人知道拍摄噪点在什么时候会出现🤔 https://t.co/IW30MZYDwy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳/♂/08.11.3/友跨🏳️‍⚧️\n或许是温和粉红/欢迎DM聊天(TG优先)\n魔裁(まのさば)/CS2/三角洲/Galgame/IT \n兴趣相近互fo/想做心理委员\n好基友@lockloveovo\n学生党 周末/节假日在线(暑假限时全天在线)\nCN/EN/JP\n防失联@Wesley10033",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 104,
+                "start": 92,
+                "username": "lockloveovo"
+              },
+              {
+                "end": 152,
+                "start": 140,
+                "username": "Wesley10033"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://telegram.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/Q5wiGuq4W4"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "location": "People's Republic of China",
+        "name": "Wesley",
+        "pinned_tweet_id": "2083033063257420070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 819,
+          "following_count": 1161,
+          "like_count": 11941,
+          "listed_count": 1,
+          "media_count": 255,
+          "tweet_count": 2140
+        },
+        "url": "https://t.co/Q5wiGuq4W4",
+        "username": "Wesley10032",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-02T00:45:27.000Z",
+        "description": "男/中国人/新左派/友跨/Windows主机安全\n偶尔发女装，大部分帖子评论和AI/安全相关\nAmateurish red team researcher",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/DisaWdcba/",
+                "end": 23,
+                "expanded_url": "https://github.com/DisaWdcba/",
+                "start": 0,
+                "url": "https://t.co/6L5mNxDfzl"
+              }
+            ]
+          }
+        },
+        "id": "1819172584044560384",
+        "location": "死亡谷",
+        "name": "Asid Leta",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819173201953673217/LARlJJXU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 628,
+          "following_count": 113,
+          "like_count": 368,
+          "listed_count": 2,
+          "media_count": 173,
+          "tweet_count": 1020
+        },
+        "url": "https://t.co/6L5mNxDfzl",
+        "username": "Asid_Leta_Zero",
+        "verified": false
+      }
+    ]
+  }
+}

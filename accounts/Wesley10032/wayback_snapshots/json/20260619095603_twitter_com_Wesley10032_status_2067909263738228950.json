@@ -1,0 +1,901 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880979169297022976",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Mobile gaming",
+          "id": "847527946864607232",
+          "name": "Mobile gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.",
+          "id": "1093271119849635840",
+          "name": "Honkai series"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.",
+          "id": "1093271119849635840",
+          "name": "Honkai series"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1197907410582532096",
+          "name": "Roleplaying games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900373098921986",
+          "name": "Gacha games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1541880308336713728",
+          "name": "Action games"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      }
+    ],
+    "conversation_id": "2067909263738228950",
+    "created_at": "2026-06-19T09:56:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T10:56:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067909263738228950"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 66,
+          "start": 59,
+          "tag": "Elysia"
+        },
+        {
+          "end": 74,
+          "start": 67,
+          "tag": "miHoYo"
+        },
+        {
+          "end": 85,
+          "start": 75,
+          "tag": "HoYoverse"
+        },
+        {
+          "end": 102,
+          "start": 86,
+          "tag": "HonkaiImpact3rd"
+        },
+        {
+          "end": 109,
+          "start": 103,
+          "tag": "hi3rd"
+        },
+        {
+          "end": 115,
+          "start": 110,
+          "tag": "pink"
+        },
+        {
+          "end": 120,
+          "start": 116,
+          "tag": "Elf"
+        },
+        {
+          "end": 126,
+          "start": 121,
+          "tag": "イラスト"
+        },
+        {
+          "end": 133,
+          "start": 127,
+          "tag": "崩壊3rd"
+        },
+        {
+          "end": 139,
+          "start": 134,
+          "tag": "爱莉希雅"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1893983986101178368",
+          "start": 3,
+          "username": "YourDailyElysia"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "m.miyoushe.com/bh3/#/article/…",
+          "end": 57,
+          "expanded_url": "https://m.miyoushe.com/bh3/#/article/60964841",
+          "start": 34,
+          "status": 200,
+          "title": "崩坏3社区-米游社",
+          "unwound_url": "https://m.miyoushe.com/bh3/#/article/60964841",
+          "url": "https://t.co/kGoBvdjOVY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067909263738228950",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067868527260737718",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @YourDailyElysia: Artist: 玥潮yc\nhttps://t.co/kGoBvdjOVY\n\n#Elysia #miHoYo #HoYoverse #HonkaiImpact3rd #hi3rd #pink #Elf #イラスト #崩壊3rd #爱莉希雅…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2067868524878385152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLKLd6OWUAAx6cL.jpg",
+        "width": 1343
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880979169297022976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.",
+              "id": "1093271119849635840",
+              "name": "Honkai series"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.",
+              "id": "1093271119849635840",
+              "name": "Honkai series"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1541880308336713728",
+              "name": "Action games"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2067909263738228950",
+        "created_at": "2026-06-19T09:56:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T10:56:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067909263738228950"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 66,
+              "start": 59,
+              "tag": "Elysia"
+            },
+            {
+              "end": 74,
+              "start": 67,
+              "tag": "miHoYo"
+            },
+            {
+              "end": 85,
+              "start": 75,
+              "tag": "HoYoverse"
+            },
+            {
+              "end": 102,
+              "start": 86,
+              "tag": "HonkaiImpact3rd"
+            },
+            {
+              "end": 109,
+              "start": 103,
+              "tag": "hi3rd"
+            },
+            {
+              "end": 115,
+              "start": 110,
+              "tag": "pink"
+            },
+            {
+              "end": 120,
+              "start": 116,
+              "tag": "Elf"
+            },
+            {
+              "end": 126,
+              "start": 121,
+              "tag": "イラスト"
+            },
+            {
+              "end": 133,
+              "start": 127,
+              "tag": "崩壊3rd"
+            },
+            {
+              "end": 139,
+              "start": 134,
+              "tag": "爱莉希雅"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1893983986101178368",
+              "start": 3,
+              "username": "YourDailyElysia"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "m.miyoushe.com/bh3/#/article/…",
+              "end": 57,
+              "expanded_url": "https://m.miyoushe.com/bh3/#/article/60964841",
+              "start": 34,
+              "status": 200,
+              "title": "崩坏3社区-米游社",
+              "unwound_url": "https://m.miyoushe.com/bh3/#/article/60964841",
+              "url": "https://t.co/kGoBvdjOVY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067909263738228950",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067868527260737718",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @YourDailyElysia: Artist: 玥潮yc\nhttps://t.co/kGoBvdjOVY\n\n#Elysia #miHoYo #HoYoverse #HonkaiImpact3rd #hi3rd #pink #Elf #イラスト #崩壊3rd #爱莉希雅…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067868524878385152"
+          ]
+        },
+        "author_id": "1893983986101178368",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.",
+              "id": "1093271119849635840",
+              "name": "Honkai series"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.",
+              "id": "1093271119849635840",
+              "name": "Honkai series"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1541880308336713728",
+              "name": "Action games"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2067868527260737718",
+        "created_at": "2026-06-19T07:14:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T08:14:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067868527260737718"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 45,
+              "start": 38,
+              "tag": "Elysia"
+            },
+            {
+              "end": 53,
+              "start": 46,
+              "tag": "miHoYo"
+            },
+            {
+              "end": 64,
+              "start": 54,
+              "tag": "HoYoverse"
+            },
+            {
+              "end": 81,
+              "start": 65,
+              "tag": "HonkaiImpact3rd"
+            },
+            {
+              "end": 88,
+              "start": 82,
+              "tag": "hi3rd"
+            },
+            {
+              "end": 94,
+              "start": 89,
+              "tag": "pink"
+            },
+            {
+              "end": 99,
+              "start": 95,
+              "tag": "Elf"
+            },
+            {
+              "end": 105,
+              "start": 100,
+              "tag": "イラスト"
+            },
+            {
+              "end": 112,
+              "start": 106,
+              "tag": "崩壊3rd"
+            },
+            {
+              "end": 118,
+              "start": 113,
+              "tag": "爱莉希雅"
+            },
+            {
+              "end": 124,
+              "start": 119,
+              "tag": "エリシア"
+            },
+            {
+              "end": 129,
+              "start": 125,
+              "tag": "エルフ"
+            },
+            {
+              "end": 135,
+              "start": 130,
+              "tag": "イラスト"
+            },
+            {
+              "end": 142,
+              "start": 136,
+              "tag": "崩壊3rd"
+            },
+            {
+              "end": 152,
+              "start": 143,
+              "tag": "崩壊スターレイル"
+            },
+            {
+              "end": 168,
+              "start": 153,
+              "tag": "LiveWithElysia"
+            },
+            {
+              "end": 181,
+              "start": 169,
+              "tag": "DailyElysia"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "m.miyoushe.com/bh3/#/article/…",
+              "end": 36,
+              "expanded_url": "https://m.miyoushe.com/bh3/#/article/60964841",
+              "start": 13,
+              "status": 200,
+              "title": "崩坏3社区-米游社",
+              "unwound_url": "https://m.miyoushe.com/bh3/#/article/60964841",
+              "url": "https://t.co/kGoBvdjOVY"
+            },
+            {
+              "display_url": "pic.x.com/agKyYIqARC",
+              "end": 205,
+              "expanded_url": "https://x.com/YourDailyElysia/status/2067868527260737718/photo/1",
+              "media_key": "3_2067868524878385152",
+              "start": 182,
+              "url": "https://t.co/agKyYIqARC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067868527260737718",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 771,
+          "like_count": 118,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "Artist: 玥潮yc\nhttps://t.co/kGoBvdjOVY\n\n#Elysia #miHoYo #HoYoverse #HonkaiImpact3rd #hi3rd #pink #Elf #イラスト #崩壊3rd #爱莉希雅 #エリシア #エルフ #イラスト #崩壊3rd #崩壊スターレイル #LiveWithElysia #DailyElysia https://t.co/agKyYIqARC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳 / 民主社会主义 / 反台独 / 友跨🏳️‍⚧️ / Free Ukraine 🇺🇦 / Free Palestine 🇵🇸\n中文 / English / 日本語（勉強中）\n偶尔转帖插画等内容\n和平友善交流，谢绝人身攻击\n中华人民共和国万岁 世界人民大团结万岁",
+        "id": "1880979169297022976",
+        "location": "China",
+        "name": "Wesley10032",
+        "pinned_tweet_id": "2067905508191990010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021156330271039488/mAwe21JP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 129,
+          "like_count": 586,
+          "listed_count": 1,
+          "media_count": 5,
+          "tweet_count": 355
+        },
+        "url": "",
+        "username": "Wesley10032",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-24T11:20:05.000Z",
+        "description": "Account dedicated to my wife Elysia\n\n⚠️WARNING⚠️: I do not own any of these arts. all of the artists are credited in the posts",
+        "id": "1893983986101178368",
+        "name": "Elysia's Husband",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912974035530481665/SEO1mV2P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3113,
+          "following_count": 26,
+          "like_count": 92,
+          "listed_count": 7,
+          "media_count": 598,
+          "tweet_count": 933
+        },
+        "url": "",
+        "username": "YourDailyElysia",
+        "verified": false
+      }
+    ]
+  }
+}

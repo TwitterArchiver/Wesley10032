@@ -1,0 +1,248 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1525456751788969985",
+    "conversation_id": "1815462379070910531",
+    "created_at": "2024-07-25T11:01:10.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-25T12:01:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1816428476100153790"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 35,
+          "normalized_text": "China",
+          "probability": 0.9657,
+          "start": 31,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1794649272358498304",
+          "start": 0,
+          "username": "Boredom_Inc_"
+        },
+        {
+          "end": 30,
+          "id": "1693504856210767872",
+          "start": 14,
+          "username": "UniteUnderMLMpM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1816428476100153790",
+    "in_reply_to_user_id": "1794649272358498304",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1815778071707898042",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Boredom_Inc_ @UniteUnderMLMpM China's population doubled in that period."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1525456751788969985",
+        "conversation_id": "1815462379070910531",
+        "created_at": "2024-07-25T11:01:10.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-25T12:01:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1816428476100153790"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 35,
+              "normalized_text": "China",
+              "probability": 0.9657,
+              "start": 31,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1794649272358498304",
+              "start": 0,
+              "username": "Boredom_Inc_"
+            },
+            {
+              "end": 30,
+              "id": "1693504856210767872",
+              "start": 14,
+              "username": "UniteUnderMLMpM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1816428476100153790",
+        "in_reply_to_user_id": "1794649272358498304",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1815778071707898042",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Boredom_Inc_ @UniteUnderMLMpM China's population doubled in that period."
+      },
+      {
+        "attachments": {},
+        "author_id": "1794649272358498304",
+        "conversation_id": "1815462379070910531",
+        "created_at": "2024-07-23T15:56:42.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-23T16:56:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1815778071707898042"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 59,
+              "normalized_text": "Mao Zedong",
+              "probability": 0.9728,
+              "start": 50,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1693504856210767872",
+              "start": 0,
+              "username": "UniteUnderMLMpM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1815778071707898042",
+        "in_reply_to_user_id": "1693504856210767872",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 45,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1815462379070910531",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@UniteUnderMLMpM Chinese history be like\nChairman Mao Zedong proclaims PRC 1949\n15 million people die"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-14T12:43:40.000Z",
+        "description": "Free Ukraine and Palestine 🇺🇦🇵🇸",
+        "id": "1525456751788969985",
+        "name": "Wesley",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811578387594649600/eQdjLvSa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 27,
+          "like_count": 35,
+          "listed_count": 0,
+          "tweet_count": 190
+        },
+        "username": "Wesley10032",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-26T08:38:29.000Z",
+        "description": "",
+        "id": "1794649272358498304",
+        "name": "BoredomInc",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794649388788125696/Qsmfkvtw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 5,
+          "like_count": 12,
+          "listed_count": 0,
+          "tweet_count": 217
+        },
+        "username": "Boredom_Inc_",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-21T06:06:54.000Z",
+        "description": "“We have no regard; we expect none from you. When our turn comes, we will not embellish terror.”\n\nMarxist-Leninist-Maoist -\nFreePalestine🇵🇸",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/unite_under_ml…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/unite_under_mlm?igsh=NWowdHd3cTJ6dDZ3",
+                "start": 0,
+                "url": "https://t.co/siS91SGTtf"
+              }
+            ]
+          }
+        },
+        "id": "1693504856210767872",
+        "name": "Unite Under Maoism☭",
+        "pinned_tweet_id": "1815462379070910531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783912813779353600/zTHocCiZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1592,
+          "following_count": 1050,
+          "like_count": 3763,
+          "listed_count": 3,
+          "tweet_count": 5808
+        },
+        "url": "https://t.co/siS91SGTtf",
+        "username": "UniteUnderMLMpM",
+        "verified": false
+      }
+    ]
+  }
+}

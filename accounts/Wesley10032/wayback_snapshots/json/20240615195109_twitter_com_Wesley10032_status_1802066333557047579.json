@@ -1,0 +1,826 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1525456751788969985",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10058164128",
+          "name": "テレビアニメ「22/7」"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Nogizaka 46 (乃木坂46)",
+          "id": "1022870882086047745",
+          "name": "Nogizaka 46"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597310615553",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597105094656",
+          "name": "TV/Movies Related - Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "Tokyo Metropolitan Television (TOKYO MX)",
+          "id": "1034891798785617920",
+          "name": "TOKYO MX"
+        }
+      },
+      {
+        "domain": {
+          "description": "A musician in the world, like Adele or Bob Dylan",
+          "id": "54",
+          "name": "Musician"
+        },
+        "entity": {
+          "description": "Nogizaka 46 (乃木坂46)",
+          "id": "1022870882086047745",
+          "name": "Nogizaka 46"
+        }
+      },
+      {
+        "domain": {
+          "description": "A category for a musical style, like Pop, Rock, or Rap",
+          "id": "55",
+          "name": "Music Genre"
+        },
+        "entity": {
+          "description": "J-POP",
+          "id": "810938095772123136",
+          "name": "J-pop"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Nogizaka 46 (乃木坂46)",
+          "id": "1022870882086047745",
+          "name": "Nogizaka 46"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Tokyo Metropolitan Television (TOKYO MX)",
+          "id": "1034891798785617920",
+          "name": "TOKYO MX"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1299365067415154689",
+          "name": "Animation news"
+        }
+      }
+    ],
+    "conversation_id": "1802066333557047579",
+    "created_at": "2024-06-15T19:51:09.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-15T20:51:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1802066333557047579"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/atri_anime/sta…",
+          "end": 138,
+          "expanded_url": "https://twitter.com/atri_anime/status/1797932557301915743",
+          "start": 115,
+          "url": "https://t.co/F4MY9Yadzd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1802066333557047579",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1797932557301915743",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我强烈支持《ATRI》动画化。距离放送时间不到1个月，一定要交出一份让动画迷和原著党都满意的答卷。\n私は『ATRI』のアニメ化を強く支持する。放送まで1カ月を切った今、アニメファンも原作ファンも満足させる結果を出すことが急務だ。 https://t.co/F4MY9Yadzd"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1525456751788969985",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10058164128",
+              "name": "テレビアニメ「22/7」"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Nogizaka 46 (乃木坂46)",
+              "id": "1022870882086047745",
+              "name": "Nogizaka 46"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597105094656",
+              "name": "TV/Movies Related - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Tokyo Metropolitan Television (TOKYO MX)",
+              "id": "1034891798785617920",
+              "name": "TOKYO MX"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "description": "Nogizaka 46 (乃木坂46)",
+              "id": "1022870882086047745",
+              "name": "Nogizaka 46"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "J-POP",
+              "id": "810938095772123136",
+              "name": "J-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Nogizaka 46 (乃木坂46)",
+              "id": "1022870882086047745",
+              "name": "Nogizaka 46"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Tokyo Metropolitan Television (TOKYO MX)",
+              "id": "1034891798785617920",
+              "name": "TOKYO MX"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1299365067415154689",
+              "name": "Animation news"
+            }
+          }
+        ],
+        "conversation_id": "1802066333557047579",
+        "created_at": "2024-06-15T19:51:09.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-15T20:51:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1802066333557047579"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/atri_anime/sta…",
+              "end": 138,
+              "expanded_url": "https://twitter.com/atri_anime/status/1797932557301915743",
+              "start": 115,
+              "url": "https://t.co/F4MY9Yadzd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1802066333557047579",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1797932557301915743",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我强烈支持《ATRI》动画化。距离放送时间不到1个月，一定要交出一份让动画迷和原著党都满意的答卷。\n私は『ATRI』のアニメ化を強く支持する。放送まで1カ月を切った今、アニメファンも原作ファンも満足させる結果を出すことが急務だ。 https://t.co/F4MY9Yadzd"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1797912068919836673"
+          ]
+        },
+        "author_id": "1557193112635998208",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10058164128",
+              "name": "テレビアニメ「22/7」"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Nogizaka 46 (乃木坂46)",
+              "id": "1022870882086047745",
+              "name": "Nogizaka 46"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597105094656",
+              "name": "TV/Movies Related - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Tokyo Metropolitan Television (TOKYO MX)",
+              "id": "1034891798785617920",
+              "name": "TOKYO MX"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "description": "Nogizaka 46 (乃木坂46)",
+              "id": "1022870882086047745",
+              "name": "Nogizaka 46"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "J-POP",
+              "id": "810938095772123136",
+              "name": "J-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Nogizaka 46 (乃木坂46)",
+              "id": "1022870882086047745",
+              "name": "Nogizaka 46"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Tokyo Metropolitan Television (TOKYO MX)",
+              "id": "1034891798785617920",
+              "name": "TOKYO MX"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1299365067415154689",
+              "name": "Animation news"
+            }
+          }
+        ],
+        "conversation_id": "1797932557301915743",
+        "created_at": "2024-06-04T10:05:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-04T11:05:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1797932557301915743"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 138,
+              "normalized_text": "TOKYOMX ・dアニメストア",
+              "probability": 0.3136,
+              "start": 123,
+              "type": "Other"
+            },
+            {
+              "end": 151,
+              "normalized_text": "あの光",
+              "probability": 0.7423,
+              "start": 149,
+              "type": "Other"
+            },
+            {
+              "end": 173,
+              "normalized_text": "YESとNOの間に",
+              "probability": 0.8574,
+              "start": 165,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 10,
+              "start": 5,
+              "tag": "ATRI"
+            },
+            {
+              "end": 157,
+              "start": 151,
+              "tag": "乃木坂46"
+            },
+            {
+              "end": 183,
+              "start": 178,
+              "tag": "ナナニジ"
+            }
+          ],
+          "urls": [
+            {
+              "description": "「ATRI-My Dear Moments-」2024.7.13 on TV",
+              "display_url": "atri-anime.com",
+              "end": 103,
+              "expanded_url": "https://atri-anime.com/",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/1800839607271182336/4QW6wQ8S?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1800839607271182336/4QW6wQ8S?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 80,
+              "status": 200,
+              "title": "TVアニメ「ATRI-My Dear Moments-」公式サイト",
+              "unwound_url": "https://atri-anime.com/",
+              "url": "https://t.co/2wzifJ27kf"
+            },
+            {
+              "description": "アニメ『ATRI -My Dear Moments-』2024年7月13日（土）より、TOKYO MXほかにて放送開始ｄアニメストアにて先行配信ほか各配信プラットフォームにて順次配信予定▶スタッフ原作：『ATRI -My Dear Moments-』（ANIPLEX.EXE） 監督：加藤　誠 シリーズ構成・脚本：...",
+              "display_url": "youtu.be/l5onThIXL9M",
+              "end": 212,
+              "expanded_url": "https://youtu.be/l5onThIXL9M",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/1800513734768762880/hZnBuGx6?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1800513734768762880/hZnBuGx6?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 189,
+              "status": 200,
+              "title": "アニメ『ATRI-My Dear Moments-』第２弾PV｜7月13日放送・配信スタート",
+              "unwound_url": "https://www.youtube.com/watch?v=l5onThIXL9M&feature=youtu.be",
+              "url": "https://t.co/xN17Bz3m7p"
+            },
+            {
+              "display_url": "pic.twitter.com/H3itdYHpqU",
+              "end": 236,
+              "expanded_url": "https://twitter.com/ATRI_anime/status/1797932557301915743/photo/1",
+              "media_key": "3_1797912068919836673",
+              "start": 213,
+              "url": "https://t.co/H3itdYHpqU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1797932557301915743",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 261,
+          "impression_count": 307101,
+          "like_count": 4916,
+          "quote_count": 150,
+          "reply_count": 13,
+          "retweet_count": 1648
+        },
+        "reply_settings": "everyone",
+        "text": "┼─\n\n #ATRI -My Dear Moments-\n\n    　　　   　　     　    ─┼\n\n🦀ビジュアル・放送配信\n　楽曲情報を公開✨️\n　https://t.co/2wzifJ27kf\n\n📅7/13㊏｜24:00\n　  TOKYOMX ・dアニメストア ほか\n\n♬OP｜「あの光」#乃木坂46\n　ED｜「YESとNOの間に」22/7 #ナナニジ\n\n🎬PV\nhttps://t.co/xN17Bz3m7p https://t.co/H3itdYHpqU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-14T12:43:40.000Z",
+        "description": "Free Ukraine and Palestine",
+        "id": "1525456751788969985",
+        "name": "Wesley Song",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583627511098908672/yCDe8RTb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 22,
+          "like_count": 26,
+          "listed_count": 0,
+          "tweet_count": 108
+        },
+        "username": "Wesley10032",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-10T02:32:32.000Z",
+        "description": "アニメ『ATRI -My Dear Moments-』公式アカウント｜7/13放送配信開始 🦀ストーリー原案：紺野アスタ｜キャラクター原案：ゆさの・基4｜監督：加藤誠｜シリーズ構成：花田十輝｜アニメ制作：TROYCA 🎙️ #赤尾ひかる #小野賢章 ♬ #乃木坂46 #ナナニジ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 118,
+                "start": 112,
+                "tag": "赤尾ひかる"
+              },
+              {
+                "end": 124,
+                "start": 119,
+                "tag": "小野賢章"
+              },
+              {
+                "end": 133,
+                "start": 127,
+                "tag": "乃木坂46"
+              },
+              {
+                "end": 139,
+                "start": 134,
+                "tag": "ナナニジ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "atri-anime.com",
+                "end": 23,
+                "expanded_url": "http://atri-anime.com",
+                "start": 0,
+                "url": "https://t.co/XLQPtx3uwX"
+              }
+            ]
+          }
+        },
+        "id": "1557193112635998208",
+        "name": "アニメ『ATRI -My Dear Moments-』公式｜7月13日放送配信スタート！",
+        "pinned_tweet_id": "1797932557301915743",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1797931338219270144/kYPveFu9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34917,
+          "following_count": 14,
+          "like_count": 0,
+          "listed_count": 178,
+          "tweet_count": 191
+        },
+        "url": "https://t.co/XLQPtx3uwX",
+        "username": "ATRI_anime",
+        "verified": false
+      }
+    ]
+  }
+}

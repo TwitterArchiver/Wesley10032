@@ -1,0 +1,327 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880979169297022976",
+    "conversation_id": "2080889991543320609",
+    "created_at": "2026-07-25T07:25:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T08:25:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080917340607402191"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1894461745277931524",
+          "start": 1,
+          "username": "Rain_Antar1121"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/rain_antar1121…",
+          "end": 118,
+          "expanded_url": "https://x.com/rain_antar1121/status/2080912176940978600?s=46",
+          "start": 95,
+          "url": "https://t.co/L13Bl3BYcw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080917340607402191",
+    "in_reply_to_user_id": "1880979169297022976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080912176940978600",
+        "type": "quoted"
+      },
+      {
+        "id": "2080889991543320609",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "受@Rain_Antar1121 的纠正，我在此阐明一下我的观点：\n目前跨性别群体在国内依然饱受歧视，自杀率偏高的现象仍然没有改变，所以我希望国内能推行官方层面的相关教育，矫正国内的思想。\nhttps://t.co/L13Bl3BYcw"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880979169297022976",
+        "conversation_id": "2080889991543320609",
+        "created_at": "2026-07-25T07:25:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T08:25:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080917340607402191"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1894461745277931524",
+              "start": 1,
+              "username": "Rain_Antar1121"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/rain_antar1121…",
+              "end": 118,
+              "expanded_url": "https://x.com/rain_antar1121/status/2080912176940978600?s=46",
+              "start": 95,
+              "url": "https://t.co/L13Bl3BYcw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080917340607402191",
+        "in_reply_to_user_id": "1880979169297022976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080912176940978600",
+            "type": "quoted"
+          },
+          {
+            "id": "2080889991543320609",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "受@Rain_Antar1121 的纠正，我在此阐明一下我的观点：\n目前跨性别群体在国内依然饱受歧视，自杀率偏高的现象仍然没有改变，所以我希望国内能推行官方层面的相关教育，矫正国内的思想。\nhttps://t.co/L13Bl3BYcw"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "2080889991543320609",
+        "created_at": "2026-07-25T07:04:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T08:04:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080912176940978600"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1880979169297022976",
+              "start": 0,
+              "username": "Wesley10032"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/rain_antar1121…",
+              "end": 148,
+              "expanded_url": "https://x.com/rain_antar1121/status/2053052810821066991",
+              "start": 125,
+              "url": "https://t.co/rjhVcAoGGT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080912176940978600",
+        "in_reply_to_user_id": "1880979169297022976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 65,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053052810821066991",
+            "type": "quoted"
+          },
+          {
+            "id": "2080889991543320609",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wesley10032 啊真是的嘛这么久了…怎么到现在还在转这个张口就来的谣言呢🥹贻害无穷喵\n那咱就假设泥没看原帖的评论区咯…根据咱的统计，能找到的48位朋友中有两位去世…虽然不容乐观，但绝非“大部分不在人世”\n无论观点如何，事实需要强调一下呢🥺\nhttps://t.co/rjhVcAoGGT"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880979169297022976",
+        "conversation_id": "2080889991543320609",
+        "created_at": "2026-07-25T05:36:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T06:36:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080889991543320609"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/cyberkanjousen…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/cyberkanjousen/status/2051650935366283558",
+              "start": 9,
+              "url": "https://t.co/zipIb4k7AU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080889991543320609",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 392,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051650935366283558",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我们的社会病了。 https://t.co/zipIb4k7AU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳/♂/友跨🏳️‍⚧️\n或许是温和粉红/欢迎DM聊天(推荐使用TG)\n魔裁(まのさば)/CS2/三角洲/Galgame/IT \n兴趣相近互fo\n好基友@lockloveovo\n学生党 周末/节假日在线(暑假限时全天在线)\nCN/EN/JP\nTG群见置顶\n防失联@Wesley10033",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 79,
+                "username": "lockloveovo"
+              },
+              {
+                "end": 146,
+                "start": 134,
+                "username": "Wesley10033"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://telegram.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/Q5wiGuqCLC"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "location": "People's Republic of China",
+        "name": "Wesley",
+        "pinned_tweet_id": "2077761863937597659",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 593,
+          "following_count": 890,
+          "like_count": 8414,
+          "listed_count": 1,
+          "media_count": 185,
+          "tweet_count": 1592
+        },
+        "url": "https://t.co/Q5wiGuqCLC",
+        "username": "Wesley10032",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️🎀 | 07年的南京女孩纸🍬 | 同类互fo喵🍥 | 可以叫我瑞或者ra | 温顺软软小动物 | 社恐小透明 | 阵发性中二病 | 可爱就忍不住想抱紧紧 | 天文🔭/航天🛰️/航空✈️/科幻🌌/业余无线电📡BA4VUF/一切好玩的事情 | 认真观察有趣的世界 | 贴贴愿意看到这里的你🥰",
+        "id": "1894461745277931524",
+        "location": "Triton, Neptune",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2052346517000986852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056704069759356928/L2l-00kV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4717,
+          "following_count": 6690,
+          "like_count": 17169,
+          "listed_count": 11,
+          "media_count": 359,
+          "tweet_count": 4570
+        },
+        "url": "",
+        "username": "Rain_Antar1121",
+        "verified": true
+      }
+    ]
+  }
+}

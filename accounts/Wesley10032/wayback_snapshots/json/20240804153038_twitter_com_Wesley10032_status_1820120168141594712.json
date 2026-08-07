@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1525456751788969985",
+    "conversation_id": "1819426737090187551",
+    "created_at": "2024-08-04T15:30:38.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-04T16:30:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1820120168141594712"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1784797942211330048",
+          "start": 0,
+          "username": "IamNOT_Tibetora"
+        },
+        {
+          "end": 30,
+          "id": "1260881050005315586",
+          "start": 17,
+          "username": "zhang_heqing"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1820120168141594712",
+    "in_reply_to_user_id": "1784797942211330048",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1819987158259905005",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IamNOT_Tibetora @zhang_heqing 殖人连奥林匹克精神都不要了，符合人设"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1525456751788969985",
+        "conversation_id": "1819426737090187551",
+        "created_at": "2024-08-04T15:30:38.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-04T16:30:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1820120168141594712"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1784797942211330048",
+              "start": 0,
+              "username": "IamNOT_Tibetora"
+            },
+            {
+              "end": 30,
+              "id": "1260881050005315586",
+              "start": 17,
+              "username": "zhang_heqing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1820120168141594712",
+        "in_reply_to_user_id": "1784797942211330048",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1819987158259905005",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IamNOT_Tibetora @zhang_heqing 殖人连奥林匹克精神都不要了，符合人设"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1784797942211330048",
+        "conversation_id": "1819426737090187551",
+        "created_at": "2024-08-04T06:42:06.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-04T07:42:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1819987158259905005"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1260881050005315586",
+              "start": 0,
+              "username": "zhang_heqing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1819987158259905005",
+        "in_reply_to_user_id": "1260881050005315586",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6728,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1819426737090187551",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhang_heqing 3488干得好！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-14T12:43:40.000Z",
+        "description": "Free Ukraine and Palestine 🇺🇦🇵🇸",
+        "id": "1525456751788969985",
+        "name": "Wesley",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811578387594649600/eQdjLvSa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 29,
+          "like_count": 37,
+          "listed_count": 0,
+          "tweet_count": 209
+        },
+        "username": "Wesley10032",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-29T04:12:52.000Z",
+        "description": "頭冷やしたほうがいいよねシナの人は",
+        "id": "1784797942211330048",
+        "location": "東トルキスタン",
+        "name": "拉萨の虎🇯🇵🇹🇷",
+        "pinned_tweet_id": "1787876489683484834",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1784799024421478400/lIhdT3g8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2431,
+          "following_count": 1795,
+          "like_count": 18923,
+          "listed_count": 22,
+          "tweet_count": 2940
+        },
+        "username": "IamNOT_Tibetora",
+        "verified": true
+      },
+      {
+        "created_at": "2020-05-14T10:34:17.000Z",
+        "description": "Counsellor & Director, Personal views, Rts are not necessarily endorsements. CPEC. China. Pakistan https://t.co/GCM8rAPPBp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "facebook.com/CulturalChinaBJ",
+                "end": 122,
+                "expanded_url": "http://facebook.com/CulturalChinaBJ",
+                "start": 99,
+                "url": "https://t.co/GCM8rAPPBp"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "en.chinaculture.org",
+                "end": 23,
+                "expanded_url": "http://en.chinaculture.org/",
+                "start": 0,
+                "url": "https://t.co/7A8Mwb1ZQN"
+              }
+            ]
+          }
+        },
+        "id": "1260881050005315586",
+        "location": "Pakistan ",
+        "name": "Zhang Heqing",
+        "pinned_tweet_id": "1819274501852708891",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1660859866754465792/5XoJpHtx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 394113,
+          "following_count": 20782,
+          "like_count": 234045,
+          "listed_count": 878,
+          "tweet_count": 272759
+        },
+        "url": "https://t.co/7A8Mwb1ZQN",
+        "username": "zhang_heqing",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880979169297022976",
+    "conversation_id": "2078397851210842147",
+    "created_at": "2026-07-18T08:33:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T09:33:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078397851210842147"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1998404754188488704",
+          "start": 3,
+          "username": "Xcxy888"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078397851210842147",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 25
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078068350975115458",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Xcxy888: 别人的生活：🇭🇰🇰🇷🇯🇵🇺🇸🇦🇺🇳🇿🇫🇷🇬🇧\n我的生活：以上国家的VPN"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880979169297022976",
+        "conversation_id": "2078397851210842147",
+        "created_at": "2026-07-18T08:33:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T09:33:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078397851210842147"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1998404754188488704",
+              "start": 3,
+              "username": "Xcxy888"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078397851210842147",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 25
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078068350975115458",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Xcxy888: 别人的生活：🇭🇰🇰🇷🇯🇵🇺🇸🇦🇺🇳🇿🇫🇷🇬🇧\n我的生活：以上国家的VPN"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1998404754188488704",
+        "conversation_id": "2078068350975115458",
+        "created_at": "2026-07-17T10:44:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T11:44:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078068350975115458"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078068350975115458",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 18092,
+          "like_count": 626,
+          "quote_count": 1,
+          "reply_count": 56,
+          "retweet_count": 25
+        },
+        "reply_settings": "everyone",
+        "text": "别人的生活：🇭🇰🇰🇷🇯🇵🇺🇸🇦🇺🇳🇿🇫🇷🇬🇧\n我的生活：以上国家的VPN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳/男/友跨🏳️‍⚧️/欢迎DM聊天(X/TG均可)\n魔裁(まのさば)/VRChat/Galgame/IT 兴趣相近互fo\n好基友@lockloveovo\n学生党 周末/节假日在线(暑假限时全天在线)\nCN/EN/JP(a little)\nTG群见置顶\n防失联@Wesley10033",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 69,
+                "username": "lockloveovo"
+              },
+              {
+                "end": 146,
+                "start": 134,
+                "username": "Wesley10033"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://telegram.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/Q5wiGuqCLC"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "location": "People's Republic of China",
+        "name": "Wesley",
+        "pinned_tweet_id": "2075263019853238477",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 460,
+          "following_count": 723,
+          "like_count": 5988,
+          "listed_count": 0,
+          "media_count": 139,
+          "tweet_count": 1205
+        },
+        "url": "https://t.co/Q5wiGuqCLC",
+        "username": "Wesley10032",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-09T14:50:11.000Z",
+        "description": "05个人创业者\n在 AI 中沉淀\n分享信息差 ｜不断试错中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/xyYN_gg",
+                "end": 23,
+                "expanded_url": "https://t.me/xyYN_gg",
+                "start": 0,
+                "url": "https://t.co/BsoiNud3j2"
+              }
+            ]
+          }
+        },
+        "id": "1998404754188488704",
+        "name": "Xc",
+        "pinned_tweet_id": "2074473066428830077",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072254576976416768/3tny7v5d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5541,
+          "following_count": 1294,
+          "like_count": 4656,
+          "listed_count": 11,
+          "media_count": 190,
+          "tweet_count": 4454
+        },
+        "url": "https://t.co/BsoiNud3j2",
+        "username": "Xcxy888",
+        "verified": true
+      }
+    ]
+  }
+}

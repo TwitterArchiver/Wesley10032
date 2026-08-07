@@ -1,0 +1,85 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1525456751788969985",
+    "conversation_id": "1829881085217657296",
+    "created_at": "2024-08-31T13:57:02.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-31T14:57:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1829881085217657296"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1829881085217657296",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "想去台湾旅游，看看不同政治体制下的同语言地区会擦出怎样的火花，也看看这座受到多方文化影响的岛屿究竟会生出怎样的文化。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1525456751788969985",
+        "conversation_id": "1829881085217657296",
+        "created_at": "2024-08-31T13:57:02.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-31T14:57:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1829881085217657296"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1829881085217657296",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想去台湾旅游，看看不同政治体制下的同语言地区会擦出怎样的火花，也看看这座受到多方文化影响的岛屿究竟会生出怎样的文化。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-14T12:43:40.000Z",
+        "description": "Free Ukraine and Palestine 🇺🇦🇵🇸",
+        "id": "1525456751788969985",
+        "name": "Wesley",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811578387594649600/eQdjLvSa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 36,
+          "like_count": 67,
+          "listed_count": 0,
+          "tweet_count": 304
+        },
+        "username": "Wesley10032",
+        "verified": false
+      }
+    ]
+  }
+}

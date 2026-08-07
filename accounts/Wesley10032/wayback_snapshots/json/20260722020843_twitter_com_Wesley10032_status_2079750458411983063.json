@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2079500294065717249"
+      ],
+      "media_source_tweet_id": [
+        "2079500419223695701"
+      ]
+    },
+    "author_id": "1880979169297022976",
+    "conversation_id": "2079750458411983063",
+    "created_at": "2026-07-22T02:08:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T03:08:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079750458411983063"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1562375313559994368",
+          "start": 3,
+          "username": "xnyn47519716"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/j1x2K8pRiL",
+          "end": 48,
+          "expanded_url": "https://x.com/xnyn47519716/status/2079500419223695701/photo/1",
+          "media_key": "3_2079500294065717249",
+          "start": 25,
+          "url": "https://t.co/j1x2K8pRiL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079750458411983063",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 17
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079500419223695701",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xnyn47519716: 狗狗立大功😭 https://t.co/j1x2K8pRiL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1348,
+        "media_key": "3_2079500294065717249",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNvef_IbgAEBr8H.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079500294065717249"
+          ]
+        },
+        "author_id": "1562375313559994368",
+        "conversation_id": "2079500419223695701",
+        "created_at": "2026-07-21T09:35:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T10:35:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079500419223695701"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/j1x2K8pRiL",
+              "end": 30,
+              "expanded_url": "https://x.com/xnyn47519716/status/2079500419223695701/photo/1",
+              "media_key": "3_2079500294065717249",
+              "start": 7,
+              "url": "https://t.co/j1x2K8pRiL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079500419223695701",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 68,
+          "impression_count": 32043,
+          "like_count": 347,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "狗狗立大功😭 https://t.co/j1x2K8pRiL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079500294065717249"
+          ],
+          "media_source_tweet_id": [
+            "2079500419223695701"
+          ]
+        },
+        "author_id": "1880979169297022976",
+        "conversation_id": "2079750458411983063",
+        "created_at": "2026-07-22T02:08:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T03:08:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079750458411983063"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1562375313559994368",
+              "start": 3,
+              "username": "xnyn47519716"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/j1x2K8pRiL",
+              "end": 48,
+              "expanded_url": "https://x.com/xnyn47519716/status/2079500419223695701/photo/1",
+              "media_key": "3_2079500294065717249",
+              "start": 25,
+              "url": "https://t.co/j1x2K8pRiL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079750458411983063",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 17
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079500419223695701",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xnyn47519716: 狗狗立大功😭 https://t.co/j1x2K8pRiL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳/男/友跨🏳️‍⚧️/或许是温和粉红/欢迎DM聊天(推荐使用TG)\n魔裁(まのさば)/VRChat/Galgame/IT 兴趣相近互fo\n好基友@lockloveovo\n学生党 周末/节假日在线(暑假限时全天在线)\nCN/EN/JP\nTG群见置顶\n防失联@Wesley10033",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 77,
+                "username": "lockloveovo"
+              },
+              {
+                "end": 144,
+                "start": 132,
+                "username": "Wesley10033"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://telegram.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/Q5wiGuqCLC"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "location": "People's Republic of China",
+        "name": "Wesley",
+        "pinned_tweet_id": "2075263019853238477",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 545,
+          "following_count": 829,
+          "like_count": 7156,
+          "listed_count": 1,
+          "media_count": 166,
+          "tweet_count": 1411
+        },
+        "url": "https://t.co/Q5wiGuqCLC",
+        "username": "Wesley10032",
+        "verified": true
+      },
+      {
+        "created_at": "2022-08-24T09:45:09.000Z",
+        "description": "無言フォロー失礼します。Anti-CCP 8964\n中国出身｜18↑｜日本語勉強中｜女性\n昭和軍歌・演歌・IJN / IJA関連が好きです 🇯🇵色々な思想や価値観に理解あります。\n\nDMどうぞ🐱※R18系ばかりの方はごめんなさい🚫\n\n※イラスト依頼品\n\n本垢→ @dolphin_5ge\n♡ @Minoru260502",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 143,
+                "start": 131,
+                "username": "dolphin_5ge"
+              },
+              {
+                "end": 159,
+                "start": 146,
+                "username": "Minoru260502"
+              }
+            ]
+          }
+        },
+        "id": "1562375313559994368",
+        "name": "桃之夭夭二代目🇯🇵🇲🇽🇵🇱🇺🇦",
+        "pinned_tweet_id": "2073696601894248854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059987682537943041/QAI4GHke_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 263,
+          "following_count": 306,
+          "like_count": 7323,
+          "listed_count": 1,
+          "media_count": 158,
+          "tweet_count": 1058
+        },
+        "url": "",
+        "username": "xnyn47519716",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075824517960941568"
+      ],
+      "media_source_tweet_id": [
+        "2075824522771755124"
+      ]
+    },
+    "author_id": "1880979169297022976",
+    "conversation_id": "2075958593682362757",
+    "created_at": "2026-07-11T15:01:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T16:01:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075958593682362757"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1918311019031740417",
+          "start": 3,
+          "username": "xxoxx_01a"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/gYUOsHGOiI",
+          "end": 45,
+          "expanded_url": "https://x.com/xxoxx_01a/status/2075824522771755124/photo/1",
+          "media_key": "3_2075824517960941568",
+          "start": 22,
+          "url": "https://t.co/gYUOsHGOiI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075958593682362757",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 132
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075824522771755124",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xxoxx_01a: 背景ないほう https://t.co/gYUOsHGOiI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1125,
+        "media_key": "3_2075824517960941568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM7PZqEbwAAV6Te.jpg",
+        "width": 729
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075824517960941568"
+          ],
+          "media_source_tweet_id": [
+            "2075824522771755124"
+          ]
+        },
+        "author_id": "1880979169297022976",
+        "conversation_id": "2075958593682362757",
+        "created_at": "2026-07-11T15:01:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T16:01:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075958593682362757"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1918311019031740417",
+              "start": 3,
+              "username": "xxoxx_01a"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gYUOsHGOiI",
+              "end": 45,
+              "expanded_url": "https://x.com/xxoxx_01a/status/2075824522771755124/photo/1",
+              "media_key": "3_2075824517960941568",
+              "start": 22,
+              "url": "https://t.co/gYUOsHGOiI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075958593682362757",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 132
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075824522771755124",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xxoxx_01a: 背景ないほう https://t.co/gYUOsHGOiI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075824517960941568"
+          ]
+        },
+        "author_id": "1918311019031740417",
+        "conversation_id": "2075824522771755124",
+        "created_at": "2026-07-11T06:08:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T07:08:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075824522771755124"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gYUOsHGOiI",
+              "end": 30,
+              "expanded_url": "https://x.com/xxoxx_01a/status/2075824522771755124/photo/1",
+              "media_key": "3_2075824517960941568",
+              "start": 7,
+              "url": "https://t.co/gYUOsHGOiI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075824522771755124",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 81,
+          "impression_count": 8961,
+          "like_count": 1048,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 132
+        },
+        "reply_settings": "everyone",
+        "text": "背景ないほう https://t.co/gYUOsHGOiI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳 / 友跨🏳️‍⚧️ / 欢迎DM聊天 / 兴趣相近互fo\n魔裁（まのさば）/ 崩铁（HSR）/ Galgame\n头像来自@pale_noon\n学生党 周末 / 节假日在线\n中文 / English / 日本語（勉強中）\n防失联@Wesley10033\n和平友善交流 谢绝人身攻击",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 66,
+                "username": "pale_noon"
+              },
+              {
+                "end": 131,
+                "start": 119,
+                "username": "Wesley10033"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://t.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/HjVzyPDIuK"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "location": "People's Republic of China",
+        "name": "Wesley",
+        "pinned_tweet_id": "2075263019853238477",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070912735362387968/eccaKvtY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 185,
+          "following_count": 400,
+          "like_count": 2185,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 630
+        },
+        "url": "https://t.co/HjVzyPDIuK",
+        "username": "Wesley10032",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-02T14:26:24.000Z",
+        "description": "✦18↑不定期に絵を描いてます ✦AI学習、編集、無断使用禁止\n✦雑多鍵@re_xRi2x ✦可愛い女の子が好き🪄お絵描き練習中!\n✦ https://t.co/tkziQFLKiu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 36,
+                "username": "re_xRi2x"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "skeb.jp/@xxoxx_01a",
+                "end": 91,
+                "expanded_url": "https://skeb.jp/@xxoxx_01a",
+                "start": 68,
+                "url": "https://t.co/tkziQFLKiu"
+              }
+            ]
+          }
+        },
+        "id": "1918311019031740417",
+        "name": "ritu‎‎‎‎‎",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068031305947009025/qvs5Z184_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2090,
+          "following_count": 119,
+          "like_count": 4497,
+          "listed_count": 6,
+          "media_count": 230,
+          "tweet_count": 1318
+        },
+        "url": "",
+        "username": "xxoxx_01a",
+        "verified": false
+      }
+    ]
+  }
+}

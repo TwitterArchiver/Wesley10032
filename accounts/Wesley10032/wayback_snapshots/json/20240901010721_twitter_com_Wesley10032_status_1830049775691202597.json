@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1525456751788969985",
+    "conversation_id": "1829822520289100096",
+    "created_at": "2024-09-01T01:07:21.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-01T02:07:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1830049775691202597"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1221824882582753280",
+          "start": 0,
+          "username": "kinglinzhuhui"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1830049775691202597",
+    "in_reply_to_user_id": "1221824882582753280",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1829822520289100096",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kinglinzhuhui 不过还是设几个公共电话亭应急比较好，万一到机场SIM卡不能用呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1525456751788969985",
+        "conversation_id": "1829822520289100096",
+        "created_at": "2024-09-01T01:07:21.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-01T02:07:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1830049775691202597"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1221824882582753280",
+              "start": 0,
+              "username": "kinglinzhuhui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1830049775691202597",
+        "in_reply_to_user_id": "1221824882582753280",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1829822520289100096",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kinglinzhuhui 不过还是设几个公共电话亭应急比较好，万一到机场SIM卡不能用呢"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1829822511217086464"
+          ]
+        },
+        "author_id": "1221824882582753280",
+        "conversation_id": "1829822520289100096",
+        "created_at": "2024-08-31T10:04:19.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-31T11:04:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1829822520289100096"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xzod4ac7pr",
+              "end": 54,
+              "expanded_url": "https://twitter.com/kinglinzhuhui/status/1829822520289100096/photo/1",
+              "media_key": "3_1829822511217086464",
+              "start": 31,
+              "url": "https://t.co/XzOD4AC7pr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1829822520289100096",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 47126,
+          "like_count": 323,
+          "quote_count": 1,
+          "reply_count": 74,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "别说固定电话，穷到大街上99.99%的人都拿不出一张人民币🥺 https://t.co/XzOD4AC7pr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-14T12:43:40.000Z",
+        "description": "Free Ukraine and Palestine 🇺🇦🇵🇸",
+        "id": "1525456751788969985",
+        "name": "Wesley",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811578387594649600/eQdjLvSa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 36,
+          "like_count": 67,
+          "listed_count": 0,
+          "tweet_count": 305
+        },
+        "username": "Wesley10032",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-27T15:59:01.000Z",
+        "description": "福清哥",
+        "id": "1221824882582753280",
+        "location": "中国",
+        "name": "K.L",
+        "pinned_tweet_id": "1545859803049648128",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1395025733068607489/hmRGrANd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14846,
+          "following_count": 3181,
+          "like_count": 65762,
+          "listed_count": 78,
+          "tweet_count": 40802
+        },
+        "username": "kinglinzhuhui",
+        "verified": false
+      }
+    ]
+  }
+}

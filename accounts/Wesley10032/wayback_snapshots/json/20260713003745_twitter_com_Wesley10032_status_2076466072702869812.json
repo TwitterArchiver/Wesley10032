@@ -1,0 +1,312 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2076287994181619712"
+      ],
+      "media_source_tweet_id": [
+        "2076287999466471537"
+      ]
+    },
+    "author_id": "1880979169297022976",
+    "conversation_id": "2076466072702869812",
+    "created_at": "2026-07-13T00:37:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T01:37:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076466072702869812"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 23,
+          "start": 18,
+          "tag": "まのさば"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2007425793425829889",
+          "start": 3,
+          "username": "KokoSawatari"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/LZIg0tW4df",
+          "end": 60,
+          "expanded_url": "https://x.com/KokoSawatari/status/2076287999466471537/photo/1",
+          "media_key": "3_2076287994181619712",
+          "start": 37,
+          "url": "https://t.co/LZIg0tW4df"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076466072702869812",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 26
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076287999466471537",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KokoSawatari: #まのさば　\n明日月曜日は正しくない https://t.co/LZIg0tW4df"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2076287994181619712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNB07hiakAAbXZP.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076287994181619712"
+          ],
+          "media_source_tweet_id": [
+            "2076287999466471537"
+          ]
+        },
+        "author_id": "1880979169297022976",
+        "conversation_id": "2076466072702869812",
+        "created_at": "2026-07-13T00:37:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T01:37:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076466072702869812"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 23,
+              "start": 18,
+              "tag": "まのさば"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2007425793425829889",
+              "start": 3,
+              "username": "KokoSawatari"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LZIg0tW4df",
+              "end": 60,
+              "expanded_url": "https://x.com/KokoSawatari/status/2076287999466471537/photo/1",
+              "media_key": "3_2076287994181619712",
+              "start": 37,
+              "url": "https://t.co/LZIg0tW4df"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076466072702869812",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 26
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076287999466471537",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @KokoSawatari: #まのさば　\n明日月曜日は正しくない https://t.co/LZIg0tW4df"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076287994181619712"
+          ]
+        },
+        "author_id": "2007425793425829889",
+        "conversation_id": "2076287999466471537",
+        "created_at": "2026-07-12T12:50:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T13:50:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076287999466471537"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "まのさば"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LZIg0tW4df",
+              "end": 42,
+              "expanded_url": "https://x.com/KokoSawatari/status/2076287999466471537/photo/1",
+              "media_key": "3_2076287994181619712",
+              "start": 19,
+              "url": "https://t.co/LZIg0tW4df"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076287999466471537",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 4108,
+          "like_count": 228,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 26
+        },
+        "reply_settings": "everyone",
+        "text": "#まのさば　\n明日月曜日は正しくない https://t.co/LZIg0tW4df"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳/友跨🏳️‍⚧️/欢迎DM聊天(X/TG均可)/兴趣相近互fo\n魔裁(まのさば)/ 崩铁(HSR)/Galgame\n头像来自@pale_noon\n学生党 周末/节假日在线(暑假限时全天在线)\nCN/EN/JP(a little)\n防失联@Wesley10033\n和平友善交流 谢绝人身攻击",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 67,
+                "username": "pale_noon"
+              },
+              {
+                "end": 135,
+                "start": 123,
+                "username": "Wesley10033"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://t.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/HjVzyPDIuK"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "location": "People's Republic of China",
+        "name": "Wesley",
+        "pinned_tweet_id": "2075263019853238477",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070912735362387968/eccaKvtY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 241,
+          "following_count": 491,
+          "like_count": 3334,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 779
+        },
+        "url": "https://t.co/HjVzyPDIuK",
+        "username": "Wesley10032",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-03T12:16:42.000Z",
+        "description": "推しは沢渡ココです！！\n大切な相方　@Kokuto210\n家族思いなところ がブッ刺さりました。\nまのさばとダンガンロンパと麻雀に脳を焼かれています。\n都市伝説解体センターには脳破壊されました。\nあと最近コラ画像を作り始めました。\nソシャゲはファンパレをやってます。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 18,
+                "username": "Kokuto210"
+              }
+            ]
+          }
+        },
+        "id": "2007425793425829889",
+        "location": "奈良県",
+        "name": "まのん",
+        "pinned_tweet_id": "2070529342581743991",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070527687073112064/Ta9ae8WL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 371,
+          "following_count": 607,
+          "like_count": 1153,
+          "listed_count": 0,
+          "media_count": 155,
+          "tweet_count": 1384
+        },
+        "url": "",
+        "username": "KokoSawatari",
+        "verified": false
+      }
+    ]
+  }
+}

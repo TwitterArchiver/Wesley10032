@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1828036235832832001"
+      ],
+      "media_source_tweet_id": [
+        "1828447377952317920"
+      ]
+    },
+    "author_id": "1525456751788969985",
+    "conversation_id": "1828603288092393536",
+    "created_at": "2024-08-28T01:19:32.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-28T02:19:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1828603288092393536"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 29,
+          "normalized_text": "アトリ",
+          "probability": 0.5428,
+          "start": 27,
+          "type": "Person"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 89,
+          "start": 84,
+          "tag": "ATRI"
+        },
+        {
+          "end": 101,
+          "start": 90,
+          "tag": "アニプレックスエグゼ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1204630544903856128",
+          "start": 3,
+          "username": "ANIPLEX_EXE"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/facmwkdpps",
+          "end": 125,
+          "expanded_url": "https://twitter.com/ANIPLEX_EXE/status/1828447377952317920/photo/1",
+          "media_key": "3_1828036235832832001",
+          "start": 102,
+          "url": "https://t.co/FaCmWKdPPs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1828603288092393536",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 612
+    },
+    "referenced_tweets": [
+      {
+        "id": "1828447377952317920",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ANIPLEX_EXE: ✩˖°⌖\n  本日はアトリの誕生日！\n    　　　　　　　　   ⌖.꙳✩\n \n    Happy Birthday Atri🎉\n\n#ATRI #アニプレックスエグゼ https://t.co/FaCmWKdPPs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 675,
+        "media_key": "3_1828036235832832001",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GV59RWlbsAEF1e1.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1828036235832832001"
+          ],
+          "media_source_tweet_id": [
+            "1828447377952317920"
+          ]
+        },
+        "author_id": "1525456751788969985",
+        "conversation_id": "1828603288092393536",
+        "created_at": "2024-08-28T01:19:32.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-28T02:19:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1828603288092393536"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 29,
+              "normalized_text": "アトリ",
+              "probability": 0.5428,
+              "start": 27,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 89,
+              "start": 84,
+              "tag": "ATRI"
+            },
+            {
+              "end": 101,
+              "start": 90,
+              "tag": "アニプレックスエグゼ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1204630544903856128",
+              "start": 3,
+              "username": "ANIPLEX_EXE"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/facmwkdpps",
+              "end": 125,
+              "expanded_url": "https://twitter.com/ANIPLEX_EXE/status/1828447377952317920/photo/1",
+              "media_key": "3_1828036235832832001",
+              "start": 102,
+              "url": "https://t.co/FaCmWKdPPs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1828603288092393536",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 612
+        },
+        "referenced_tweets": [
+          {
+            "id": "1828447377952317920",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ANIPLEX_EXE: ✩˖°⌖\n  本日はアトリの誕生日！\n    　　　　　　　　   ⌖.꙳✩\n \n    Happy Birthday Atri🎉\n\n#ATRI #アニプレックスエグゼ https://t.co/FaCmWKdPPs"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1828036235832832001"
+          ]
+        },
+        "author_id": "1204630544903856128",
+        "conversation_id": "1828447377952317920",
+        "created_at": "2024-08-27T15:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-27T16:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1828447377952317920"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 72,
+              "start": 67,
+              "tag": "ATRI"
+            },
+            {
+              "end": 84,
+              "start": 73,
+              "tag": "アニプレックスエグゼ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/facmwkdpps",
+              "end": 108,
+              "expanded_url": "https://twitter.com/ANIPLEX_EXE/status/1828447377952317920/photo/1",
+              "media_key": "3_1828036235832832001",
+              "start": 85,
+              "url": "https://t.co/FaCmWKdPPs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1828447377952317920",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 54,
+          "impression_count": 41715,
+          "like_count": 1579,
+          "quote_count": 10,
+          "reply_count": 9,
+          "retweet_count": 612
+        },
+        "reply_settings": "everyone",
+        "text": "✩˖°⌖\n  本日はアトリの誕生日！\n    　　　　　　　　   ⌖.꙳✩\n \n    Happy Birthday Atri🎉\n\n#ATRI #アニプレックスエグゼ https://t.co/FaCmWKdPPs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-14T12:43:40.000Z",
+        "description": "Free Ukraine and Palestine 🇺🇦🇵🇸",
+        "id": "1525456751788969985",
+        "name": "Wesley",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811578387594649600/eQdjLvSa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 36,
+          "like_count": 58,
+          "listed_count": 0,
+          "tweet_count": 286
+        },
+        "username": "Wesley10032",
+        "verified": false
+      },
+      {
+        "created_at": "2019-12-11T05:17:00.000Z",
+        "description": "”ノベルゲームだから、おもしろい”「ANIPLEX.EXE」公式アカウント\n『たねつみの歌』2024年冬発売予定\n(https://t.co/jAX47gAdXO)\n\n『ATRI -My Dear Moments-』『徒花異譚』『ヒラヒラヒヒル』発売中",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tanetsumi.aniplex-exe.com",
+                "end": 81,
+                "expanded_url": "https://tanetsumi.aniplex-exe.com",
+                "start": 58,
+                "url": "https://t.co/jAX47gAdXO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "aniplex-exe.com",
+                "end": 23,
+                "expanded_url": "https://aniplex-exe.com",
+                "start": 0,
+                "url": "https://t.co/Ip37g3GUZl"
+              }
+            ]
+          }
+        },
+        "id": "1204630544903856128",
+        "name": "ANIPLEX.EXE(アニプレックスエグゼ）",
+        "pinned_tweet_id": "1812147472736915486",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1210026891731591168/muJvw_Ry_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18957,
+          "following_count": 38,
+          "like_count": 83,
+          "listed_count": 120,
+          "tweet_count": 1057
+        },
+        "url": "https://t.co/Ip37g3GUZl",
+        "username": "ANIPLEX_EXE",
+        "verified": true
+      }
+    ]
+  }
+}

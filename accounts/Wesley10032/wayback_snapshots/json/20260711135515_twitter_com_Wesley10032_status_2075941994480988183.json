@@ -1,0 +1,343 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880979169297022976",
+    "conversation_id": "2075898214683918426",
+    "created_at": "2026-07-11T13:55:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T14:55:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075941994480988183"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1519649212736049152",
+          "start": 0,
+          "username": "Mark67358226"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/Wesley10032/st…",
+          "end": 41,
+          "expanded_url": "https://x.com/Wesley10032/status/2075926473022792085?s=20",
+          "start": 18,
+          "url": "https://t.co/n1YzrWf6bo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075941994480988183",
+    "in_reply_to_user_id": "1519649212736049152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075926473022792085",
+        "type": "quoted"
+      },
+      {
+        "id": "2075898214683918426",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mark67358226 陪一个\nhttps://t.co/n1YzrWf6bo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2532,
+        "media_key": "3_2075926464273551360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM8sHtrbkAA7yNh.jpg",
+        "width": 1170
+      },
+      {
+        "height": 1171,
+        "media_key": "3_2075898205414522880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM8Sa1OagAAk6l5.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880979169297022976",
+        "conversation_id": "2075898214683918426",
+        "created_at": "2026-07-11T13:55:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T14:55:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075941994480988183"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1519649212736049152",
+              "start": 0,
+              "username": "Mark67358226"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/Wesley10032/st…",
+              "end": 41,
+              "expanded_url": "https://x.com/Wesley10032/status/2075926473022792085?s=20",
+              "start": 18,
+              "url": "https://t.co/n1YzrWf6bo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075941994480988183",
+        "in_reply_to_user_id": "1519649212736049152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075926473022792085",
+            "type": "quoted"
+          },
+          {
+            "id": "2075898214683918426",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mark67358226 陪一个\nhttps://t.co/n1YzrWf6bo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075926464273551360"
+          ]
+        },
+        "author_id": "1880979169297022976",
+        "conversation_id": "2075926473022792085",
+        "created_at": "2026-07-11T12:53:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T13:53:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075926473022792085"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6d98nkfPuD",
+              "end": 38,
+              "expanded_url": "https://x.com/Wesley10032/status/2075926473022792085/photo/1",
+              "media_key": "3_2075926464273551360",
+              "start": 15,
+              "url": "https://t.co/6d98nkfPuD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075926473022792085",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 152,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "孩子们也是拿到荣誉勋章了✌️ https://t.co/6d98nkfPuD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075898205414522880"
+          ]
+        },
+        "author_id": "1519649212736049152",
+        "conversation_id": "2075898214683918426",
+        "created_at": "2026-07-11T11:01:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T12:01:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075898214683918426"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/usIdNba6Pm",
+              "end": 84,
+              "expanded_url": "https://x.com/Mark67358226/status/2075898214683918426/photo/1",
+              "media_key": "3_2075898205414522880",
+              "start": 61,
+              "url": "https://t.co/usIdNba6Pm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075898214683918426",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 797,
+          "like_count": 39,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "為啥啊我甚至都沒和他說過話😭\n三十多個拉黑動態，而拉黑我甚至都不值得他發個動態，這點我是真傷心😭，愛你喵第一個b我的人😭 https://t.co/usIdNba6Pm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳 / 友跨🏳️‍⚧️ / 欢迎DM聊天 / 兴趣相近互fo\n魔裁（まのさば）/ 崩铁（HSR）/ Galgame\n头像来自@pale_noon\n学生党 周末 / 节假日在线\n中文 / English / 日本語（勉強中）\n防失联@Wesley10033\n和平友善交流 谢绝人身攻击",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 66,
+                "username": "pale_noon"
+              },
+              {
+                "end": 131,
+                "start": 119,
+                "username": "Wesley10033"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://t.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/HjVzyPDIuK"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "location": "People's Republic of China",
+        "name": "Wesley",
+        "pinned_tweet_id": "2075263019853238477",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070912735362387968/eccaKvtY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 184,
+          "following_count": 398,
+          "like_count": 2149,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 622
+        },
+        "url": "https://t.co/HjVzyPDIuK",
+        "username": "Wesley10032",
+        "verified": true
+      },
+      {
+        "created_at": "2022-04-28T12:06:42.000Z",
+        "description": "生產日期：2010.9.6 | 181cm 57kg | 北京昌平🇨🇳 | 主要繁體🇹🇼 簡體🉑 | 是mtx喵w |日語🇯🇵 朝鮮語🇰🇷也會一點 | 友跨+LGBT友好 | 留長髮中 | 喜歡漢服、東亞文化和可愛的男孩子（小南梁），歡迎諸君找我聊天口牙！（求你們私信找我聊天吧！）僅交友不約！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "dreamail.cn/send?dm=2225cc…",
+                "end": 23,
+                "expanded_url": "https://dreamail.cn/send?dm=2225ccc1-e4e4-4a1f-98a3-24d13a1d0999",
+                "start": 0,
+                "url": "https://t.co/0zMrtG63tc"
+              }
+            ]
+          }
+        },
+        "id": "1519649212736049152",
+        "location": "琉球國首里城",
+        "name": "Lhn002",
+        "pinned_tweet_id": "2070101728381591818",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020892688674103296/MTlilAxM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1228,
+          "following_count": 1564,
+          "like_count": 28346,
+          "listed_count": 3,
+          "media_count": 335,
+          "tweet_count": 6347
+        },
+        "url": "https://t.co/0zMrtG63tc",
+        "username": "Mark67358226",
+        "verified": true
+      }
+    ]
+  }
+}

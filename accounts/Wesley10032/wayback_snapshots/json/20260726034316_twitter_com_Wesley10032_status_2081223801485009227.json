@@ -1,0 +1,411 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2081013158848905216"
+      ],
+      "media_source_tweet_id": [
+        "2081014078638813277"
+      ]
+    },
+    "author_id": "1880979169297022976",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2081223801485009227",
+    "created_at": "2026-07-26T03:43:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T04:43:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081223801485009227"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 74,
+          "start": 65,
+          "tag": "まのさばネタバレ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1712785744358699008",
+          "start": 3,
+          "username": "Kimty00"
+        },
+        {
+          "end": 46,
+          "id": "1598318130690166785",
+          "start": 36,
+          "username": "anne_7007"
+        },
+        {
+          "end": 62,
+          "id": "1712785744358699008",
+          "start": 54,
+          "username": "Kimty00"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GbcXnU6rYv",
+          "end": 98,
+          "expanded_url": "https://x.com/Kimty00/status/2081014078638813277/video/1",
+          "media_key": "13_2081013158848905216",
+          "start": 75,
+          "url": "https://t.co/GbcXnU6rYv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081223801485009227",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 287
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081014078638813277",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Kimty00: 28_メルティランドナイトメア\n\naudio @anne_7007 \nvideo @Kimty00 \n\n#まのさばネタバレ https://t.co/GbcXnU6rYv"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 39633,
+        "height": 1080,
+        "media_key": "13_2081013158848905216",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2081013158848905216/img/qA9wsMGWM8tli1Op.jpg",
+        "public_metrics": {
+          "view_count": 20609
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081013158848905216/vid/avc1/480x270/CMDSC76N6SVO6AaE.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081013158848905216/vid/avc1/640x360/s6iFIeDSI_tZ0Wsx.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081013158848905216/vid/avc1/1280x720/cieFM1xdGWAikKOA.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2081013158848905216/pl/V3TXN8jcmPF1EFPv.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2081013158848905216"
+          ]
+        },
+        "author_id": "1712785744358699008",
+        "conversation_id": "2081014078638813277",
+        "created_at": "2026-07-25T13:49:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T14:49:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081014078638813277"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 61,
+              "start": 52,
+              "tag": "まのさばネタバレ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 33,
+              "id": "1598318130690166785",
+              "start": 23,
+              "username": "anne_7007"
+            },
+            {
+              "end": 49,
+              "id": "1712785744358699008",
+              "start": 41,
+              "username": "Kimty00"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GbcXnU6rYv",
+              "end": 85,
+              "expanded_url": "https://x.com/Kimty00/status/2081014078638813277/video/1",
+              "media_key": "13_2081013158848905216",
+              "start": 62,
+              "url": "https://t.co/GbcXnU6rYv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081014078638813277",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 581,
+          "impression_count": 48737,
+          "like_count": 1616,
+          "quote_count": 49,
+          "reply_count": 8,
+          "retweet_count": 287
+        },
+        "reply_settings": "everyone",
+        "text": "28_メルティランドナイトメア\n\naudio @anne_7007 \nvideo @Kimty00 \n\n#まのさばネタバレ https://t.co/GbcXnU6rYv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2081013158848905216"
+          ],
+          "media_source_tweet_id": [
+            "2081014078638813277"
+          ]
+        },
+        "author_id": "1880979169297022976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2081223801485009227",
+        "created_at": "2026-07-26T03:43:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T04:43:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081223801485009227"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 74,
+              "start": 65,
+              "tag": "まのさばネタバレ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1712785744358699008",
+              "start": 3,
+              "username": "Kimty00"
+            },
+            {
+              "end": 46,
+              "id": "1598318130690166785",
+              "start": 36,
+              "username": "anne_7007"
+            },
+            {
+              "end": 62,
+              "id": "1712785744358699008",
+              "start": 54,
+              "username": "Kimty00"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GbcXnU6rYv",
+              "end": 98,
+              "expanded_url": "https://x.com/Kimty00/status/2081014078638813277/video/1",
+              "media_key": "13_2081013158848905216",
+              "start": 75,
+              "url": "https://t.co/GbcXnU6rYv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081223801485009227",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 287
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081014078638813277",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Kimty00: 28_メルティランドナイトメア\n\naudio @anne_7007 \nvideo @Kimty00 \n\n#まのさばネタバレ https://t.co/GbcXnU6rYv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳/♂/友跨🏳️‍⚧️\n或许是温和粉红/欢迎DM聊天(推荐使用TG)\n魔裁(まのさば)/CS2/三角洲/Galgame/IT \n兴趣相近互fo\n好基友@lockloveovo\n学生党 周末/节假日在线(暑假限时全天在线)\nCN/EN/JP\nTG群见置顶\n防失联@Wesley10033",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 79,
+                "username": "lockloveovo"
+              },
+              {
+                "end": 146,
+                "start": 134,
+                "username": "Wesley10033"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://telegram.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/Q5wiGuqCLC"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "location": "People's Republic of China",
+        "name": "Wesley",
+        "pinned_tweet_id": "2077761863937597659",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 604,
+          "following_count": 909,
+          "like_count": 8681,
+          "listed_count": 1,
+          "media_count": 187,
+          "tweet_count": 1626
+        },
+        "url": "https://t.co/Q5wiGuqCLC",
+        "username": "Wesley10032",
+        "verified": true
+      },
+      {
+        "created_at": "2023-10-13T11:02:05.000Z",
+        "description": "리듬게임,모션그래픽,音mad\n\n등을하고있습니다\n고3인관계로 활동이 적을수도있습니다",
+        "id": "1712785744358699008",
+        "location": "우리게임장2",
+        "name": "태양",
+        "pinned_tweet_id": "1932463243588686029",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1712796123818323968/PL6-wXHs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 297,
+          "following_count": 542,
+          "like_count": 22733,
+          "listed_count": 2,
+          "media_count": 438,
+          "tweet_count": 1964
+        },
+        "url": "",
+        "username": "Kimty00",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-01T14:08:56.000Z",
+        "description": "이것저것",
+        "id": "1598318130690166785",
+        "name": "anne",
+        "pinned_tweet_id": "2043032301748314366",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989298190118744064/u0gmQy1h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 174,
+          "following_count": 104,
+          "like_count": 786,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 17
+        },
+        "url": "",
+        "username": "anne_7007",
+        "verified": false
+      }
+    ]
+  }
+}

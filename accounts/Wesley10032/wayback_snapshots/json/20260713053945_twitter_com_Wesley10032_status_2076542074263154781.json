@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880979169297022976",
+    "conversation_id": "2076539089810239645",
+    "created_at": "2026-07-13T05:39:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T06:39:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076542074263154781"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1884257206696124416",
+          "start": 0,
+          "username": "lyou93523"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076542074263154781",
+    "in_reply_to_user_id": "1884257206696124416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076539089810239645",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lyou93523 拿铁还在发力（"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 926,
+        "media_key": "3_2076539086689730560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNFZTCBbAAAtojt.jpg",
+        "width": 974
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880979169297022976",
+        "conversation_id": "2076539089810239645",
+        "created_at": "2026-07-13T05:39:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T06:39:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076542074263154781"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1884257206696124416",
+              "start": 0,
+              "username": "lyou93523"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076542074263154781",
+        "in_reply_to_user_id": "1884257206696124416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076539089810239645",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lyou93523 拿铁还在发力（"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076539086689730560"
+          ]
+        },
+        "author_id": "1884257206696124416",
+        "conversation_id": "2076539089810239645",
+        "created_at": "2026-07-13T05:27:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T06:27:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076539089810239645"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0sEXNs7r4j",
+              "end": 31,
+              "expanded_url": "https://x.com/lyou93523/status/2076539089810239645/photo/1",
+              "media_key": "3_2076539086689730560",
+              "start": 8,
+              "url": "https://t.co/0sEXNs7r4j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076539089810239645",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有人比我小的吗 https://t.co/0sEXNs7r4j"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳/友跨🏳️‍⚧️/欢迎DM聊天(X/TG均可)/兴趣相近互fo\n魔裁(まのさば)/ 崩铁(HSR)/Galgame\n头像来自@pale_noon\n学生党 周末/节假日在线(暑假限时全天在线)\nCN/EN/JP(a little)\n防失联@Wesley10033\n和平友善交流 谢绝人身攻击",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 67,
+                "username": "pale_noon"
+              },
+              {
+                "end": 135,
+                "start": 123,
+                "username": "Wesley10033"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://t.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/HjVzyPDIuK"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "location": "People's Republic of China",
+        "name": "Wesley",
+        "pinned_tweet_id": "2075263019853238477",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070912735362387968/eccaKvtY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 257,
+          "following_count": 503,
+          "like_count": 3446,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 795
+        },
+        "url": "https://t.co/HjVzyPDIuK",
+        "username": "Wesley10032",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-28T15:08:48.000Z",
+        "description": "高中生｜AI｜Linux 新手\n搞機｜硬體 DIY｜數位科技\n二次元｜劇情向遊戲\n極度內向玩轻度HiFi（不魔怔）\n不聊政治與 NSFW\n术力口|miku初音未来",
+        "id": "1884257206696124416",
+        "name": "hshshhssh",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069379658261602304/aF95wcBp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 21,
+          "like_count": 93,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 153
+        },
+        "url": "",
+        "username": "lyou93523",
+        "verified": false
+      }
+    ]
+  }
+}

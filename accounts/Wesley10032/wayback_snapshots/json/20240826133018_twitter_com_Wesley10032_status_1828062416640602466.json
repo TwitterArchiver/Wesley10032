@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1525456751788969985",
+    "conversation_id": "1827921301908127974",
+    "created_at": "2024-08-26T13:30:18.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-26T14:30:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1828062416640602466"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1374225903136481284",
+          "start": 0,
+          "username": "Whatis7777777"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1828062416640602466",
+    "in_reply_to_user_id": "1374225903136481284",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1827921301908127974",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Whatis7777777 药娘不是正常人，自然不会说出正常人话。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1525456751788969985",
+        "conversation_id": "1827921301908127974",
+        "created_at": "2024-08-26T13:30:18.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-26T14:30:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1828062416640602466"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1374225903136481284",
+              "start": 0,
+              "username": "Whatis7777777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1828062416640602466",
+        "in_reply_to_user_id": "1374225903136481284",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1827921301908127974",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Whatis7777777 药娘不是正常人，自然不会说出正常人话。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1827921298179432448"
+          ]
+        },
+        "author_id": "1374225903136481284",
+        "conversation_id": "1827921301908127974",
+        "created_at": "2024-08-26T04:09:34.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-26T05:09:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1827921301908127974"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wt6jw3nn9t",
+              "end": 42,
+              "expanded_url": "https://twitter.com/Whatis7777777/status/1827921301908127974/photo/1",
+              "media_key": "3_1827921298179432448",
+              "start": 19,
+              "url": "https://t.co/WT6JW3Nn9T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1827921301908127974",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 35530,
+          "like_count": 124,
+          "quote_count": 2,
+          "reply_count": 78,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "哪个来分析分析这种思维的逻辑在哪里？ https://t.co/WT6JW3Nn9T"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-14T12:43:40.000Z",
+        "description": "Free Ukraine and Palestine 🇺🇦🇵🇸",
+        "id": "1525456751788969985",
+        "name": "Wesley",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811578387594649600/eQdjLvSa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 35,
+          "like_count": 52,
+          "listed_count": 0,
+          "tweet_count": 275
+        },
+        "username": "Wesley10032",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-23T05:06:10.000Z",
+        "description": "Be true, be brave, be strong… \n真相不反抗，就被谎言拿走了阵地。\nI'm proud of being Chinese.",
+        "id": "1374225903136481284",
+        "name": "实事求是永立不败之地",
+        "pinned_tweet_id": "1827658267331612873",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1565251208117473282/9moZGZa9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43140,
+          "following_count": 3109,
+          "like_count": 159691,
+          "listed_count": 168,
+          "tweet_count": 73919
+        },
+        "username": "Whatis7777777",
+        "verified": true
+      }
+    ]
+  }
+}

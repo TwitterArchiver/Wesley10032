@@ -1,0 +1,221 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1525456751788969985",
+    "conversation_id": "1815446813153067093",
+    "created_at": "2024-07-24T01:44:43.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-24T02:44:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1815926050184216616"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1328412469790793728",
+          "start": 0,
+          "username": "101bioC"
+        },
+        {
+          "end": 20,
+          "id": "1737005935275773952",
+          "start": 9,
+          "username": "liu1363213"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1815926050184216616",
+    "in_reply_to_user_id": "1328412469790793728",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1815540552919880170",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@101bioC @liu1363213 目田传奇话术之：我就说谎话了，你敢反驳我吗？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1525456751788969985",
+        "conversation_id": "1815446813153067093",
+        "created_at": "2024-07-24T01:44:43.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-24T02:44:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1815926050184216616"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1328412469790793728",
+              "start": 0,
+              "username": "101bioC"
+            },
+            {
+              "end": 20,
+              "id": "1737005935275773952",
+              "start": 9,
+              "username": "liu1363213"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1815926050184216616",
+        "in_reply_to_user_id": "1328412469790793728",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1815540552919880170",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@101bioC @liu1363213 目田传奇话术之：我就说谎话了，你敢反驳我吗？"
+      },
+      {
+        "attachments": {},
+        "author_id": "1328412469790793728",
+        "conversation_id": "1815446813153067093",
+        "created_at": "2024-07-23T00:12:53.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-23T01:12:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1815540552919880170"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1737005935275773952",
+              "start": 0,
+              "username": "liu1363213"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1815540552919880170",
+        "in_reply_to_user_id": "1737005935275773952",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27576,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 44,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1815540005412184097",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liu1363213 关于文字内容，你敢发表看法吗？你敢吗？怂包。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-14T12:43:40.000Z",
+        "description": "Free Ukraine and Palestine 🇺🇦🇵🇸",
+        "id": "1525456751788969985",
+        "name": "Wesley",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811578387594649600/eQdjLvSa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 27,
+          "like_count": 35,
+          "listed_count": 0,
+          "tweet_count": 183
+        },
+        "username": "Wesley10032",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-16T18:59:59.000Z",
+        "description": "爱真相才是爱自己。尽管真相是奢侈品。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "101Bio.com",
+                "end": 23,
+                "expanded_url": "http://www.101Bio.com",
+                "start": 0,
+                "url": "https://t.co/168ywqWxvI"
+              }
+            ]
+          }
+        },
+        "id": "1328412469790793728",
+        "location": "San Francisco, CA",
+        "name": "101BioCom",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1328422542323793921/v_A51LwZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3402,
+          "following_count": 1228,
+          "like_count": 5048,
+          "listed_count": 12,
+          "tweet_count": 23038
+        },
+        "url": "https://t.co/168ywqWxvI",
+        "username": "101bioC",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-19T07:04:33.000Z",
+        "description": "",
+        "id": "1737005935275773952",
+        "name": "liu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1802957683584356352/gfiqx7qy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 38,
+          "like_count": 0,
+          "listed_count": 0,
+          "tweet_count": 20
+        },
+        "username": "liu1363213",
+        "verified": false
+      }
+    ]
+  }
+}

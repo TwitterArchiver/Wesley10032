@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067555123082170368"
+      ],
+      "media_source_tweet_id": [
+        "2067555174781190332"
+      ]
+    },
+    "author_id": "1880979169297022976",
+    "conversation_id": "2067570013494730962",
+    "created_at": "2026-06-18T11:27:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T12:27:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067570013494730962"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "3239195144",
+          "start": 3,
+          "username": "Mokomoko_system"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/SbfIqJ61vu",
+          "end": 44,
+          "expanded_url": "https://x.com/Mokomoko_system/status/2067555174781190332/photo/1",
+          "media_key": "3_2067555123082170368",
+          "start": 21,
+          "url": "https://t.co/SbfIqJ61vu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067570013494730962",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 61
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067555174781190332",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Mokomoko_system: https://t.co/SbfIqJ61vu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2916,
+        "media_key": "3_2067555123082170368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLFubhjaEAA641R.jpg",
+        "width": 2100
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067555123082170368"
+          ],
+          "media_source_tweet_id": [
+            "2067555174781190332"
+          ]
+        },
+        "author_id": "1880979169297022976",
+        "conversation_id": "2067570013494730962",
+        "created_at": "2026-06-18T11:27:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T12:27:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067570013494730962"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "3239195144",
+              "start": 3,
+              "username": "Mokomoko_system"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SbfIqJ61vu",
+              "end": 44,
+              "expanded_url": "https://x.com/Mokomoko_system/status/2067555174781190332/photo/1",
+              "media_key": "3_2067555123082170368",
+              "start": 21,
+              "url": "https://t.co/SbfIqJ61vu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067570013494730962",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 61
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067555174781190332",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Mokomoko_system: https://t.co/SbfIqJ61vu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067555123082170368"
+          ]
+        },
+        "author_id": "3239195144",
+        "conversation_id": "2067555174781190332",
+        "created_at": "2026-06-18T10:29:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T11:29:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067555174781190332"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SbfIqJ61vu",
+              "end": 23,
+              "expanded_url": "https://x.com/Mokomoko_system/status/2067555174781190332/photo/1",
+              "media_key": "3_2067555123082170368",
+              "start": 0,
+              "url": "https://t.co/SbfIqJ61vu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067555174781190332",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 37,
+          "impression_count": 1943,
+          "like_count": 204,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 61
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/SbfIqJ61vu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳 / 民主社会主义 / 反台独 / Free Ukraine 🇺🇦 / Free Palestine 🇵🇸\n魔裁（まのさば） / 崩铁（HSR）\n和平友善交流，谢绝人身攻击\n中华人民共和国万岁 世界人民大团结万岁",
+        "id": "1880979169297022976",
+        "location": "China",
+        "name": "Wesley10032",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021156330271039488/mAwe21JP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 121,
+          "like_count": 566,
+          "listed_count": 1,
+          "media_count": 4,
+          "tweet_count": 341
+        },
+        "url": "",
+        "username": "Wesley10032",
+        "verified": false
+      },
+      {
+        "created_at": "2015-06-07T20:37:58.000Z",
+        "description": "お絵描き🔰 雑多に描きます skeb募集中 https://t.co/USGMCk0Tq7",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@Mokomoko_syst…",
+                "end": 45,
+                "expanded_url": "http://skeb.jp/@Mokomoko_system",
+                "start": 22,
+                "url": "https://t.co/USGMCk0Tq7"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/13681634",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/13681634",
+                "start": 0,
+                "url": "https://t.co/GxIGvSsPTd"
+              }
+            ]
+          }
+        },
+        "id": "3239195144",
+        "name": "もここ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1533820989406347266/ddFsYLq3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1807,
+          "following_count": 865,
+          "like_count": 15754,
+          "listed_count": 4,
+          "media_count": 1098,
+          "tweet_count": 36446
+        },
+        "url": "https://t.co/GxIGvSsPTd",
+        "username": "Mokomoko_system",
+        "verified": true
+      }
+    ]
+  }
+}

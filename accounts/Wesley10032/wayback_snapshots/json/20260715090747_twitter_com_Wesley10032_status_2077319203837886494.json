@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077304826493636608"
+      ],
+      "media_source_tweet_id": [
+        "2077304834156577188"
+      ]
+    },
+    "author_id": "1880979169297022976",
+    "conversation_id": "2077319203837886494",
+    "created_at": "2026-07-15T09:07:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T10:07:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077319203837886494"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1699273459325390848",
+          "start": 3,
+          "username": "DurantRaym93677"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/pBaPZzfnCv",
+          "end": 120,
+          "expanded_url": "https://x.com/DurantRaym93677/status/2077304834156577188/photo/1",
+          "media_key": "3_2077304826493636608",
+          "start": 97,
+          "url": "https://t.co/pBaPZzfnCv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077319203837886494",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077304834156577188",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DurantRaym93677: 中国网信办发布7款提供手机端侧生成式人工智能服务已备案信息的公告，第一行是Apple智能！\n\n中国版本的Apple Intelligence要来了吗😝 https://t.co/pBaPZzfnCv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1756,
+        "media_key": "3_2077304826493636608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNQRu9FbkAAPXgO.jpg",
+        "width": 1884
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077304826493636608"
+          ],
+          "media_source_tweet_id": [
+            "2077304834156577188"
+          ]
+        },
+        "author_id": "1880979169297022976",
+        "conversation_id": "2077319203837886494",
+        "created_at": "2026-07-15T09:07:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T10:07:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077319203837886494"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1699273459325390848",
+              "start": 3,
+              "username": "DurantRaym93677"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pBaPZzfnCv",
+              "end": 120,
+              "expanded_url": "https://x.com/DurantRaym93677/status/2077304834156577188/photo/1",
+              "media_key": "3_2077304826493636608",
+              "start": 97,
+              "url": "https://t.co/pBaPZzfnCv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077319203837886494",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077304834156577188",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DurantRaym93677: 中国网信办发布7款提供手机端侧生成式人工智能服务已备案信息的公告，第一行是Apple智能！\n\n中国版本的Apple Intelligence要来了吗😝 https://t.co/pBaPZzfnCv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077304826493636608"
+          ]
+        },
+        "author_id": "1699273459325390848",
+        "conversation_id": "2077304834156577188",
+        "created_at": "2026-07-15T08:10:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T09:10:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077304834156577188"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pBaPZzfnCv",
+              "end": 99,
+              "expanded_url": "https://x.com/DurantRaym93677/status/2077304834156577188/photo/1",
+              "media_key": "3_2077304826493636608",
+              "start": 76,
+              "url": "https://t.co/pBaPZzfnCv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077304834156577188",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1602,
+          "like_count": 37,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "中国网信办发布7款提供手机端侧生成式人工智能服务已备案信息的公告，第一行是Apple智能！\n\n中国版本的Apple Intelligence要来了吗😝 https://t.co/pBaPZzfnCv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳/男/友跨🏳️‍⚧️/欢迎DM聊天(X/TG均可)\n魔裁(まのさば)/VRChat/Galgame/IT 兴趣相近互fo\n学生党 周末/节假日在线(暑假限时全天在线)\nCN/EN/JP(a little)\n防失联@Wesley10033\n和平友善交流 谢绝人身攻击",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 111,
+                "username": "Wesley10033"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://telegram.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/Q5wiGuqCLC"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "location": "People's Republic of China",
+        "name": "Wesley",
+        "pinned_tweet_id": "2075263019853238477",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 354,
+          "following_count": 619,
+          "like_count": 4712,
+          "listed_count": 0,
+          "media_count": 98,
+          "tweet_count": 971
+        },
+        "url": "https://t.co/Q5wiGuqCLC",
+        "username": "Wesley10032",
+        "verified": true
+      },
+      {
+        "created_at": "2023-09-06T04:09:04.000Z",
+        "description": "🍊 あぁ 闇はただ純粋で | \n🚼 🔑サブ: @AmmieColl84391 (フォロー歓迎) | 💼 Speaker of the Parliament of @enchenia | 💕 @chiyorin8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 23,
+                "username": "AmmieColl84391"
+              },
+              {
+                "end": 90,
+                "start": 81,
+                "username": "enchenia"
+              },
+              {
+                "end": 108,
+                "start": 95,
+                "username": "chiyorin8964"
+              }
+            ]
+          }
+        },
+        "id": "1699273459325390848",
+        "location": "Japan",
+        "name": "Luke 鈴木 さくらみ⛩️",
+        "pinned_tweet_id": "1991763708138397781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036740912668389376/LWPePSYk_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3455,
+          "following_count": 4034,
+          "like_count": 50628,
+          "listed_count": 16,
+          "media_count": 601,
+          "tweet_count": 12140
+        },
+        "url": "",
+        "username": "DurantRaym93677",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2071086915353485312"
+      ]
+    },
+    "author_id": "1880979169297022976",
+    "conversation_id": "2071087090935464327",
+    "created_at": "2026-06-28T04:23:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T05:23:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071087090935464327"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/DhM7ohU84R",
+          "end": 59,
+          "expanded_url": "https://x.com/Wesley10032/status/2071087090935464327/photo/1",
+          "media_key": "3_2071086915353485312",
+          "start": 36,
+          "url": "https://t.co/DhM7ohU84R"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071087090935464327",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我的X网页端出了个bug，一滑动就会跳到世界杯界面，返回还无限刷新…… https://t.co/DhM7ohU84R"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2071086915353485312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL36k5CaoAAwu64.jpg",
+        "width": 1758
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071086915353485312"
+          ]
+        },
+        "author_id": "1880979169297022976",
+        "conversation_id": "2071087090935464327",
+        "created_at": "2026-06-28T04:23:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T05:23:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071087090935464327"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DhM7ohU84R",
+              "end": 59,
+              "expanded_url": "https://x.com/Wesley10032/status/2071087090935464327/photo/1",
+              "media_key": "3_2071086915353485312",
+              "start": 36,
+              "url": "https://t.co/DhM7ohU84R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071087090935464327",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的X网页端出了个bug，一滑动就会跳到世界杯界面，返回还无限刷新…… https://t.co/DhM7ohU84R"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "description": "中国人🇨🇳 / 友跨🏳️‍⚧️ / 欢迎DM聊天 / 兴趣相近互fo\n魔裁（まのさば）/ 崩铁（HSR）/ Galgame\n头像来自@pale_noon\n学生党 周末 / 节假日在线\n中文 / English / 日本語（勉強中）\n防失联@Wesley10033\n和平友善交流 谢绝人身攻击",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 66,
+                "username": "pale_noon"
+              },
+              {
+                "end": 131,
+                "start": 119,
+                "username": "Wesley10033"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://t.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/HjVzyPDIuK"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "location": "China",
+        "name": "Wesley",
+        "pinned_tweet_id": "2068037933899407863",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070912735362387968/eccaKvtY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 232,
+          "like_count": 1065,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 488
+        },
+        "url": "https://t.co/HjVzyPDIuK",
+        "username": "Wesley10032",
+        "verified": false
+      }
+    ]
+  }
+}

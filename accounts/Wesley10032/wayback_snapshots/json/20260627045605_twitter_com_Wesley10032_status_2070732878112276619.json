@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880979169297022976",
+    "conversation_id": "2070732878112276619",
+    "created_at": "2026-06-27T04:56:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T05:56:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070732878112276619"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/nikkei/status/…",
+          "end": 65,
+          "expanded_url": "https://twitter.com/nikkei/status/2070086874362794355",
+          "start": 42,
+          "url": "https://t.co/gwvDXhHDaL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070732878112276619",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070086874362794355",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "抓捕的时候不就已经说“涉嫌走私稀土”吗？日经作为一家大媒体，还在犯明知故问的问题？ https://t.co/gwvDXhHDaL"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880979169297022976",
+        "conversation_id": "2070732878112276619",
+        "created_at": "2026-06-27T04:56:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T05:56:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070732878112276619"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nikkei/status/…",
+              "end": 65,
+              "expanded_url": "https://twitter.com/nikkei/status/2070086874362794355",
+              "start": 42,
+              "url": "https://t.co/gwvDXhHDaL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070732878112276619",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070086874362794355",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "抓捕的时候不就已经说“涉嫌走私稀土”吗？日经作为一家大媒体，还在犯明知故问的问题？ https://t.co/gwvDXhHDaL"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "169480493",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "News Categories like Entertainment or Technology",
+              "id": "69",
+              "name": "News Vertical"
+            },
+            "entity": {
+              "id": "1192881321577598977",
+              "name": "Japan national news"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1192881321577598977",
+              "name": "Japan national news"
+            }
+          }
+        ],
+        "conversation_id": "2070086874362794355",
+        "created_at": "2026-06-25T10:09:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T11:09:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070086874362794355"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "中国遼寧省の大連で、日本人2人が中国当局によって拘束された。中国側は詳細な理由を明らかにしていない。どんな法令違反があったのか。きちんとした説明がなければ、日本人や日本企業の間で不安が広がるばかりだ。関係者によると、2人は富士電機グループの社員。レアアース（希土類）製品の輸出に絡んで法令違反の疑いをかけられ、5月中下旬に相次いで拘束されたという。中国の習近平政権は2025年11月の高市早苗首",
+              "display_url": "nikkei.com/article/DGXZQO…",
+              "end": 41,
+              "expanded_url": "https://www.nikkei.com/article/DGXZQODK255DI0V20C26A6000000/?n_cid=SNSTW006&n_tw=1782382039",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2070086916880420864/Jhu5Ozos?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2070086916880420864/Jhu5Ozos?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 18,
+              "status": 200,
+              "title": "［社説］中国は邦人拘束の理由を示せ",
+              "unwound_url": "https://www.nikkei.com/article/DGXZQODK255DI0V20C26A6000000/?n_cid=SNSTW006&n_tw=1782382039",
+              "url": "https://t.co/R9Jkg9oQND"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070086874362794355",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 48,
+          "impression_count": 344991,
+          "like_count": 469,
+          "quote_count": 100,
+          "reply_count": 251,
+          "retweet_count": 129
+        },
+        "reply_settings": "everyone",
+        "text": "［社説］中国は邦人拘束の理由を示せ\nhttps://t.co/R9Jkg9oQND"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳 / 友跨🏳️‍⚧️ / 欢迎DM聊天 / 兴趣相近互fo\n魔裁（まのさば）/ 崩铁（HSR）/ Galgame\n学生党 周末 / 节假日在线\n中文 / English / 日本語（勉強中）\n防失联 @Wesley10033\n和平友善交流 谢绝人身攻击\n中华人民共和国万岁 世界人民大团结万岁",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 105,
+                "username": "Wesley10033"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "location": "China",
+        "name": "Wesley10032",
+        "pinned_tweet_id": "2068037933899407863",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068584583315283968/pGV4njxw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 217,
+          "like_count": 949,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 461
+        },
+        "url": "",
+        "username": "Wesley10032",
+        "verified": false
+      },
+      {
+        "created_at": "2010-07-22T12:58:30.000Z",
+        "description": "日経電子版の公式アカウントです。トップページで報じたニュースを中心に注目コンテンツを24時間発信。画像・映像・テキストの改変およびAIを用いた加工処理等は日経の著作権ポリシーで禁じています。\n\n▶「著作権に対する姿勢」https://t.co/KY97qzNECm",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "nikkei.co.jp/nikkeiinfo/cop…",
+                "end": 132,
+                "expanded_url": "https://www.nikkei.co.jp/nikkeiinfo/copyright/",
+                "start": 109,
+                "url": "https://t.co/KY97qzNECm"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nikkei.com",
+                "end": 23,
+                "expanded_url": "http://www.nikkei.com",
+                "start": 0,
+                "url": "https://t.co/Iajvc1grcc"
+              }
+            ]
+          }
+        },
+        "id": "169480493",
+        "name": "日本経済新聞 電子版（日経電子版）",
+        "pinned_tweet_id": "2049833653325172838",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1161879315933351936/CQbpby6s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3914269,
+          "following_count": 42,
+          "like_count": 1,
+          "listed_count": 46508,
+          "media_count": 18779,
+          "tweet_count": 520552
+        },
+        "url": "https://t.co/Iajvc1grcc",
+        "username": "nikkei",
+        "verified": true
+      }
+    ]
+  }
+}

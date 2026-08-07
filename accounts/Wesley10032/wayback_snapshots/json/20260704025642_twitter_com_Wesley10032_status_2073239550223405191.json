@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072931861136019456"
+      ],
+      "media_source_tweet_id": [
+        "2072931868199334348"
+      ]
+    },
+    "author_id": "1880979169297022976",
+    "conversation_id": "2073239550223405191",
+    "created_at": "2026-07-04T02:56:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T03:56:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073239550223405191"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1685499489493323776",
+          "start": 3,
+          "username": "GuiMengNya"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Hg1lf8N6UR",
+          "end": 39,
+          "expanded_url": "https://x.com/GuiMengNya/status/2072931868199334348/photo/1",
+          "media_key": "3_2072931861136019456",
+          "start": 16,
+          "url": "https://t.co/Hg1lf8N6UR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073239550223405191",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 20
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072931868199334348",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @GuiMengNya: https://t.co/Hg1lf8N6UR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1715,
+        "media_key": "3_2072931861136019456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMSIi3qaEAABG4w.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072931861136019456"
+          ],
+          "media_source_tweet_id": [
+            "2072931868199334348"
+          ]
+        },
+        "author_id": "1880979169297022976",
+        "conversation_id": "2073239550223405191",
+        "created_at": "2026-07-04T02:56:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T03:56:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073239550223405191"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1685499489493323776",
+              "start": 3,
+              "username": "GuiMengNya"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Hg1lf8N6UR",
+              "end": 39,
+              "expanded_url": "https://x.com/GuiMengNya/status/2072931868199334348/photo/1",
+              "media_key": "3_2072931861136019456",
+              "start": 16,
+              "url": "https://t.co/Hg1lf8N6UR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073239550223405191",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 20
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072931868199334348",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @GuiMengNya: https://t.co/Hg1lf8N6UR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072931861136019456"
+          ]
+        },
+        "author_id": "1685499489493323776",
+        "conversation_id": "2072931868199334348",
+        "created_at": "2026-07-03T06:34:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T07:34:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072931868199334348"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Hg1lf8N6UR",
+              "end": 23,
+              "expanded_url": "https://x.com/GuiMengNya/status/2072931868199334348/photo/1",
+              "media_key": "3_2072931861136019456",
+              "start": 0,
+              "url": "https://t.co/Hg1lf8N6UR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072931868199334348",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 44,
+          "impression_count": 45809,
+          "like_count": 809,
+          "quote_count": 2,
+          "reply_count": 39,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Hg1lf8N6UR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳 / 友跨🏳️‍⚧️ / 欢迎DM聊天 / 兴趣相近互fo\n魔裁（まのさば）/ 崩铁（HSR）/ Galgame\n头像来自@pale_noon\n学生党 周末 / 节假日在线\n中文 / English / 日本語（勉強中）\n防失联@Wesley10033\n和平友善交流 谢绝人身攻击",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 66,
+                "username": "pale_noon"
+              },
+              {
+                "end": 131,
+                "start": 119,
+                "username": "Wesley10033"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://t.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/HjVzyPDIuK"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "location": "China",
+        "name": "Wesley",
+        "pinned_tweet_id": "2068037933899407863",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070912735362387968/eccaKvtY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 254,
+          "like_count": 1139,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 501
+        },
+        "url": "https://t.co/HjVzyPDIuK",
+        "username": "Wesley10032",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "「查无此人」| /音游|机车|旅游|卡粉|啥也不会，是个废物/常年江浙沪皖随机tp/ 日常号@Revsoul_/ 见证人类多样性(但不键政)/愿你出游半生，归来仍是少年/幸福降临我身边",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 46,
+                "username": "Revsoul_"
+              }
+            ]
+          }
+        },
+        "id": "1685499489493323776",
+        "location": "就在你的心里(｡･ω･｡)ﾉ♡",
+        "name": "归梦",
+        "pinned_tweet_id": "2013963163507843479",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918058755155214339/2xDmLUwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10516,
+          "following_count": 691,
+          "like_count": 11502,
+          "listed_count": 29,
+          "media_count": 2435,
+          "tweet_count": 4828
+        },
+        "url": "",
+        "username": "GuiMengNya",
+        "verified": true
+      }
+    ]
+  }
+}

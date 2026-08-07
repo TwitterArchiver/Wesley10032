@@ -1,0 +1,208 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1525456751788969985",
+    "conversation_id": "1815403566628209137",
+    "created_at": "2024-07-24T01:50:39.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-24T02:50:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1815927544081965169"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1626962337252130816",
+          "start": 0,
+          "username": "XinHaoNing"
+        },
+        {
+          "end": 23,
+          "id": "1571663907307290625",
+          "start": 12,
+          "username": "tangcuyu01"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1815927544081965169",
+    "in_reply_to_user_id": "1626962337252130816",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1815425920414748725",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XinHaoNing @tangcuyu01 你猜为什么美国允许中华人民共和国加入联合国？\n恰恰是为了对抗北方的苏修（也就是你说的黄“俄”）威胁😅"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1525456751788969985",
+        "conversation_id": "1815403566628209137",
+        "created_at": "2024-07-24T01:50:39.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-24T02:50:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1815927544081965169"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1626962337252130816",
+              "start": 0,
+              "username": "XinHaoNing"
+            },
+            {
+              "end": 23,
+              "id": "1571663907307290625",
+              "start": 12,
+              "username": "tangcuyu01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1815927544081965169",
+        "in_reply_to_user_id": "1626962337252130816",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1815425920414748725",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XinHaoNing @tangcuyu01 你猜为什么美国允许中华人民共和国加入联合国？\n恰恰是为了对抗北方的苏修（也就是你说的黄“俄”）威胁😅"
+      },
+      {
+        "attachments": {},
+        "author_id": "1626962337252130816",
+        "conversation_id": "1815403566628209137",
+        "created_at": "2024-07-22T16:37:23.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-22T17:37:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1815425920414748725"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1571663907307290625",
+              "start": 0,
+              "username": "tangcuyu01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1815425920414748725",
+        "in_reply_to_user_id": "1571663907307290625",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 129,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1815422941745807380",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tangcuyu01 《黄俄鬼子的笑》"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-14T12:43:40.000Z",
+        "description": "Free Ukraine and Palestine 🇺🇦🇵🇸",
+        "id": "1525456751788969985",
+        "name": "Wesley",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811578387594649600/eQdjLvSa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 27,
+          "like_count": 35,
+          "listed_count": 0,
+          "tweet_count": 185
+        },
+        "username": "Wesley10032",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-18T15:13:08.000Z",
+        "description": "1945年，中国收复台湾，\n1949年，中国痛失大陆......",
+        "id": "1626962337252130816",
+        "name": "🇹🇼辛浩宁",
+        "pinned_tweet_id": "1812312477159571930",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1688927909967540225/_fAOAcG5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2497,
+          "following_count": 75,
+          "like_count": 7200,
+          "listed_count": 21,
+          "tweet_count": 7252
+        },
+        "username": "XinHaoNing",
+        "verified": true
+      },
+      {
+        "created_at": "2022-09-19T00:54:31.000Z",
+        "description": "上士闻道，勤而行之；中士闻道，若存若亡；下士闻道，大笑之。不笑，不足以为道。",
+        "id": "1571663907307290625",
+        "name": "唐簇羽",
+        "pinned_tweet_id": "1748947861172363762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1725221839163834370/dYDZrD4e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1106,
+          "following_count": 675,
+          "like_count": 1334,
+          "listed_count": 22,
+          "tweet_count": 6146
+        },
+        "username": "tangcuyu01",
+        "verified": false
+      }
+    ]
+  }
+}

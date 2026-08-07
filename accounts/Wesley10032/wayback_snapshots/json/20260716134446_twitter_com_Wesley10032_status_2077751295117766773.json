@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077575402932027392"
+      ],
+      "media_source_tweet_id": [
+        "2077575412792823908"
+      ]
+    },
+    "author_id": "1880979169297022976",
+    "conversation_id": "2077751295117766773",
+    "created_at": "2026-07-16T13:44:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T14:44:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077751295117766773"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1909290364328108032",
+          "start": 3,
+          "username": "Nailaocaijiao"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8elJeuARMY",
+          "end": 54,
+          "expanded_url": "https://x.com/Nailaocaijiao/status/2077575412792823908/photo/1",
+          "media_key": "3_2077575402932027392",
+          "start": 31,
+          "url": "https://t.co/8elJeuARMY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077751295117766773",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077575412792823908",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Nailaocaijiao: 鲨鲨当主播了，可爱捏～ https://t.co/8elJeuARMY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2077575402932027392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNUH0k3aQAA7wRV.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077575402932027392"
+          ],
+          "media_source_tweet_id": [
+            "2077575412792823908"
+          ]
+        },
+        "author_id": "1880979169297022976",
+        "conversation_id": "2077751295117766773",
+        "created_at": "2026-07-16T13:44:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T14:44:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077751295117766773"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1909290364328108032",
+              "start": 3,
+              "username": "Nailaocaijiao"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8elJeuARMY",
+              "end": 54,
+              "expanded_url": "https://x.com/Nailaocaijiao/status/2077575412792823908/photo/1",
+              "media_key": "3_2077575402932027392",
+              "start": 31,
+              "url": "https://t.co/8elJeuARMY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077751295117766773",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077575412792823908",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Nailaocaijiao: 鲨鲨当主播了，可爱捏～ https://t.co/8elJeuARMY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077575402932027392"
+          ]
+        },
+        "author_id": "1909290364328108032",
+        "conversation_id": "2077575412792823908",
+        "created_at": "2026-07-16T02:05:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T03:05:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077575412792823908"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8elJeuARMY",
+              "end": 35,
+              "expanded_url": "https://x.com/Nailaocaijiao/status/2077575412792823908/photo/1",
+              "media_key": "3_2077575402932027392",
+              "start": 12,
+              "url": "https://t.co/8elJeuARMY"
+            },
+            {
+              "display_url": "x.com/pqi39v5e2x1ebl…",
+              "end": 59,
+              "expanded_url": "https://twitter.com/pqi39v5e2x1ebl0/status/2077242995309690981",
+              "start": 36,
+              "url": "https://t.co/Ysi3UEAx2N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077575412792823908",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1588,
+          "like_count": 51,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077242995309690981",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "鲨鲨当主播了，可爱捏～ https://t.co/8elJeuARMY https://t.co/Ysi3UEAx2N"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳/男/友跨🏳️‍⚧️/欢迎DM聊天(X/TG均可)\n魔裁(まのさば)/VRChat/Galgame/IT 兴趣相近互fo\n学生党 周末/节假日在线(暑假限时全天在线)\nCN/EN/JP(a little)\n发帖内容不固定 想到什么发什么\n防失联@Wesley10033",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 139,
+                "start": 127,
+                "username": "Wesley10033"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://telegram.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/Q5wiGuqCLC"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "location": "People's Republic of China",
+        "name": "Wesley",
+        "pinned_tweet_id": "2075263019853238477",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 387,
+          "following_count": 649,
+          "like_count": 5295,
+          "listed_count": 0,
+          "media_count": 120,
+          "tweet_count": 1086
+        },
+        "url": "https://t.co/Q5wiGuqCLC",
+        "username": "Wesley10032",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-07T17:01:33.000Z",
+        "description": "跨性别女生（MTF）🏳️‍⚧️｜She/Her/她｜无证含糖🍥｜HRT since 2025.11.25｜目标：完成SRS⚧️｜162cm｜53kg｜天蝎座♏️｜INFP｜不od不割手｜繁體中文/简体中文/English/日本語｜坐标香港🇭🇰｜欢迎互fo",
+        "id": "1909290364328108032",
+        "location": "Hong Kong",
+        "name": "奶酪彩椒🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012853871421399040/D5Vrn0sm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1899,
+          "following_count": 4368,
+          "like_count": 7889,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 253
+        },
+        "url": "",
+        "username": "Nailaocaijiao",
+        "verified": false
+      }
+    ]
+  }
+}

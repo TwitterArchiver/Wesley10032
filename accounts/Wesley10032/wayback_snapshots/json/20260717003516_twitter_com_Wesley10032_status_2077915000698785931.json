@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077377591812788225"
+      ],
+      "media_source_tweet_id": [
+        "2077406130314342481"
+      ]
+    },
+    "author_id": "1880979169297022976",
+    "conversation_id": "2077915000698785931",
+    "created_at": "2026-07-17T00:35:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T01:35:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077915000698785931"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2055356059066466304",
+          "start": 3,
+          "username": "TransCircleOrg"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/pKzvx7fkvB",
+          "end": 117,
+          "expanded_url": "https://x.com/TransCircleOrg/status/2077406130314342481/photo/1",
+          "media_key": "3_2077377591812788225",
+          "start": 94,
+          "url": "https://t.co/pKzvx7fkvB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077915000698785931",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077406130314342481",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TransCircleOrg: 经过前期筹备，TransCircle 品牌 Logo 现已正式发布，各平台已同步更新。同时项目开发已基本进入收尾阶段，后续进展将适时发布，敬请关注 https://t.co/pKzvx7fkvB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 960,
+        "media_key": "3_2077377591812788225",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNRT6dBbkAE7y6u.jpg",
+        "width": 2880
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077377591812788225"
+          ]
+        },
+        "author_id": "2055356059066466304",
+        "conversation_id": "2077406130314342481",
+        "created_at": "2026-07-15T14:53:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T15:53:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077406130314342481"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pKzvx7fkvB",
+              "end": 97,
+              "expanded_url": "https://x.com/TransCircleOrg/status/2077406130314342481/photo/1",
+              "media_key": "3_2077377591812788225",
+              "start": 74,
+              "url": "https://t.co/pKzvx7fkvB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077406130314342481",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 6641,
+          "like_count": 35,
+          "quote_count": 6,
+          "reply_count": 8,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "经过前期筹备，TransCircle 品牌 Logo 现已正式发布，各平台已同步更新。同时项目开发已基本进入收尾阶段，后续进展将适时发布，敬请关注 https://t.co/pKzvx7fkvB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077377591812788225"
+          ],
+          "media_source_tweet_id": [
+            "2077406130314342481"
+          ]
+        },
+        "author_id": "1880979169297022976",
+        "conversation_id": "2077915000698785931",
+        "created_at": "2026-07-17T00:35:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T01:35:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077915000698785931"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2055356059066466304",
+              "start": 3,
+              "username": "TransCircleOrg"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pKzvx7fkvB",
+              "end": 117,
+              "expanded_url": "https://x.com/TransCircleOrg/status/2077406130314342481/photo/1",
+              "media_key": "3_2077377591812788225",
+              "start": 94,
+              "url": "https://t.co/pKzvx7fkvB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077915000698785931",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077406130314342481",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TransCircleOrg: 经过前期筹备，TransCircle 品牌 Logo 现已正式发布，各平台已同步更新。同时项目开发已基本进入收尾阶段，后续进展将适时发布，敬请关注 https://t.co/pKzvx7fkvB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳/男/友跨🏳️‍⚧️/欢迎DM聊天(X/TG均可)\n魔裁(まのさば)/VRChat/Galgame/IT 兴趣相近互fo\n学生党 周末/节假日在线(暑假限时全天在线)\nCN/EN/JP(a little)\n发帖内容不固定 想到什么发什么\n防失联@Wesley10033",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 139,
+                "start": 127,
+                "username": "Wesley10033"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://telegram.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/Q5wiGuqCLC"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "location": "People's Republic of China",
+        "name": "Wesley",
+        "pinned_tweet_id": "2075263019853238477",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 413,
+          "following_count": 672,
+          "like_count": 5409,
+          "listed_count": 1,
+          "media_count": 124,
+          "tweet_count": 1112
+        },
+        "url": "https://t.co/Q5wiGuqCLC",
+        "username": "Wesley10032",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-15T18:35:13.000Z",
+        "description": "中文推特女性倾向跨性别者社群史官项目\n我们深信历史终将向前。这份记录，就是我们走过长夜的铁证。\nGithub: https://t.co/8uXoPf6E7j",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/TransCircle",
+                "end": 79,
+                "expanded_url": "https://github.com/TransCircle",
+                "start": 56,
+                "url": "https://t.co/8uXoPf6E7j"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "transcircle.org",
+                "end": 23,
+                "expanded_url": "http://transcircle.org",
+                "start": 0,
+                "url": "https://t.co/r8ea82NCCb"
+              }
+            ]
+          }
+        },
+        "id": "2055356059066466304",
+        "name": "TransCircle 跨环",
+        "pinned_tweet_id": "2055975013145260489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076675773323464704/dWkZjC3w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 499,
+          "following_count": 32,
+          "like_count": 120,
+          "listed_count": 2,
+          "media_count": 6,
+          "tweet_count": 62
+        },
+        "url": "https://t.co/r8ea82NCCb",
+        "username": "TransCircleOrg",
+        "verified": true
+      }
+    ]
+  }
+}

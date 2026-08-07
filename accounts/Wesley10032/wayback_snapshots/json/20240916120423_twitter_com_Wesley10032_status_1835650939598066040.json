@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1833522078768893955"
+      ],
+      "media_source_tweet_id": [
+        "1833711571568316622"
+      ]
+    },
+    "author_id": "1525456751788969985",
+    "conversation_id": "1835650939598066040",
+    "created_at": "2024-09-16T12:04:23.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-16T13:04:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1835650939598066040"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "90302375",
+          "start": 3,
+          "username": "yuzusoft"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5twkr1ugnr",
+          "end": 88,
+          "expanded_url": "https://twitter.com/yuzusoft/status/1833711571568316622/photo/1",
+          "media_key": "3_1833522078768893955",
+          "start": 65,
+          "url": "https://t.co/5TwKr1ugnr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1835650939598066040",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1003
+    },
+    "referenced_tweets": [
+      {
+        "id": "1833711571568316622",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yuzusoft: bilibili動画様よりフォロワー数１０万人突破記念の盾をいただきました。ありがとうございます！！ https://t.co/5TwKr1ugnr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_1833522078768893955",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GXH6ncDbEAMjV9F.jpg",
+        "width": 3628
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1833522078768893955"
+          ],
+          "media_source_tweet_id": [
+            "1833711571568316622"
+          ]
+        },
+        "author_id": "1525456751788969985",
+        "conversation_id": "1835650939598066040",
+        "created_at": "2024-09-16T12:04:23.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-16T13:04:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1835650939598066040"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "90302375",
+              "start": 3,
+              "username": "yuzusoft"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5twkr1ugnr",
+              "end": 88,
+              "expanded_url": "https://twitter.com/yuzusoft/status/1833711571568316622/photo/1",
+              "media_key": "3_1833522078768893955",
+              "start": 65,
+              "url": "https://t.co/5TwKr1ugnr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1835650939598066040",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1003
+        },
+        "referenced_tweets": [
+          {
+            "id": "1833711571568316622",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yuzusoft: bilibili動画様よりフォロワー数１０万人突破記念の盾をいただきました。ありがとうございます！！ https://t.co/5TwKr1ugnr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1833522078768893955"
+          ]
+        },
+        "author_id": "90302375",
+        "conversation_id": "1833711571568316622",
+        "created_at": "2024-09-11T03:38:02.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-11T04:10:00.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1833704517910864028",
+          "1833711571568316622"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5twkr1ugnr",
+              "end": 74,
+              "expanded_url": "https://twitter.com/yuzusoft/status/1833711571568316622/photo/1",
+              "media_key": "3_1833522078768893955",
+              "start": 51,
+              "url": "https://t.co/5TwKr1ugnr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1833711571568316622",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 375,
+          "impression_count": 466348,
+          "like_count": 9006,
+          "quote_count": 51,
+          "reply_count": 216,
+          "retweet_count": 1003
+        },
+        "reply_settings": "everyone",
+        "text": "bilibili動画様よりフォロワー数１０万人突破記念の盾をいただきました。ありがとうございます！！ https://t.co/5TwKr1ugnr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-14T12:43:40.000Z",
+        "description": "Free Ukraine and Palestine / 反对中国修正主义 / 平反六四 / 高举马列毛旗帜",
+        "id": "1525456751788969985",
+        "name": "Wesley",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811578387594649600/eQdjLvSa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 37,
+          "like_count": 75,
+          "listed_count": 0,
+          "tweet_count": 317
+        },
+        "username": "Wesley10032",
+        "verified": false
+      },
+      {
+        "created_at": "2009-11-16T02:18:48.000Z",
+        "description": "美少女ゲームメーカーゆずソフトの公式アカウントです。こちらのアカウントでは質問は受け付けておりません。質問のある方は弊社WEBサイトのメールフォームよりお願い致します。 https://t.co/cTz4SpnUlh",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/c/yuzusoft2007",
+                "end": 108,
+                "expanded_url": "http://youtube.com/c/yuzusoft2007",
+                "start": 85,
+                "url": "https://t.co/cTz4SpnUlh"
+              }
+            ]
+          }
+        },
+        "id": "90302375",
+        "location": "大阪",
+        "name": "ゆずソフト【公式】",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/528772266/_______normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 191767,
+          "following_count": 22,
+          "like_count": 114,
+          "listed_count": 2181,
+          "tweet_count": 42904
+        },
+        "username": "yuzusoft",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2076566602846486528"
+      ],
+      "media_source_tweet_id": [
+        "2076879361219928393"
+      ]
+    },
+    "author_id": "1880979169297022976",
+    "conversation_id": "2077196584291652078",
+    "created_at": "2026-07-15T01:00:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T02:00:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077196584291652078"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1465701247021838341",
+          "start": 3,
+          "username": "show5560"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/qm4UMH6wRq",
+          "end": 58,
+          "expanded_url": "https://x.com/show5560/status/2076879361219928393/photo/1",
+          "media_key": "3_2076566602846486528",
+          "start": 35,
+          "url": "https://t.co/qm4UMH6wRq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077196584291652078",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076879361219928393",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @show5560: 我不理解为什么家长出来玩不能好好的玩😭😭 https://t.co/qm4UMH6wRq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2076566602846486528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNFyUrsawAAYqBp.jpg",
+        "width": 951
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076566602846486528"
+          ],
+          "media_source_tweet_id": [
+            "2076879361219928393"
+          ]
+        },
+        "author_id": "1880979169297022976",
+        "conversation_id": "2077196584291652078",
+        "created_at": "2026-07-15T01:00:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T02:00:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077196584291652078"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1465701247021838341",
+              "start": 3,
+              "username": "show5560"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qm4UMH6wRq",
+              "end": 58,
+              "expanded_url": "https://x.com/show5560/status/2076879361219928393/photo/1",
+              "media_key": "3_2076566602846486528",
+              "start": 35,
+              "url": "https://t.co/qm4UMH6wRq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077196584291652078",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076879361219928393",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @show5560: 我不理解为什么家长出来玩不能好好的玩😭😭 https://t.co/qm4UMH6wRq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076566602846486528"
+          ]
+        },
+        "author_id": "1465701247021838341",
+        "conversation_id": "2076879361219928393",
+        "created_at": "2026-07-14T04:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T05:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076879361219928393"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qm4UMH6wRq",
+              "end": 44,
+              "expanded_url": "https://x.com/show5560/status/2076879361219928393/photo/1",
+              "media_key": "3_2076566602846486528",
+              "start": 21,
+              "url": "https://t.co/qm4UMH6wRq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076879361219928393",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 26271,
+          "like_count": 338,
+          "quote_count": 1,
+          "reply_count": 21,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "我不理解为什么家长出来玩不能好好的玩😭😭 https://t.co/qm4UMH6wRq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳/男/友跨🏳️‍⚧️/欢迎DM聊天(X/TG均可)\n魔裁(まのさば)/VRChat/Galgame/IT 兴趣相近互fo\n学生党 周末/节假日在线(暑假限时全天在线)\nCN/EN/JP(a little)\n防失联@Wesley10033\n和平友善交流 谢绝人身攻击",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 111,
+                "username": "Wesley10033"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://telegram.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/Q5wiGuqCLC"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "location": "People's Republic of China",
+        "name": "Wesley",
+        "pinned_tweet_id": "2075263019853238477",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 333,
+          "following_count": 601,
+          "like_count": 4459,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 930
+        },
+        "url": "https://t.co/Q5wiGuqCLC",
+        "username": "Wesley10032",
+        "verified": true
+      },
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "男娘/162cm/58kg /普通人/目前这个账号主要是梗图meme，真假自行分辨/ 坐标:成都/蓝v关注必回",
+        "id": "1465701247021838341",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2074205000189005939",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4920,
+          "following_count": 1737,
+          "like_count": 31201,
+          "listed_count": 13,
+          "media_count": 2269,
+          "tweet_count": 10484
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true
+      }
+    ]
+  }
+}

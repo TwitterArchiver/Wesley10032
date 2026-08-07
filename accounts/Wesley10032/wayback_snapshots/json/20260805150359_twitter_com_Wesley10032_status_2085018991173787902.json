@@ -1,0 +1,392 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880979169297022976",
+    "conversation_id": "2085017923236860119",
+    "created_at": "2026-08-05T15:03:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T16:03:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085018991173787902"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2076319215338893312",
+          "start": 0,
+          "username": "shokubunka_jp"
+        },
+        {
+          "end": 23,
+          "id": "1957255021558730752",
+          "start": 15,
+          "username": "himinla"
+        },
+        {
+          "end": 31,
+          "id": "1682303195832360960",
+          "start": 24,
+          "username": "ffynya"
+        },
+        {
+          "end": 42,
+          "id": "1917261838485708802",
+          "start": 32,
+          "username": "qiujiudev"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085018991173787902",
+    "in_reply_to_user_id": "2076319215338893312",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085018061065838941",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shokubunka_jp @himinla @ffynya @qiujiudev ありがとう😘"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880979169297022976",
+        "conversation_id": "2085017923236860119",
+        "created_at": "2026-08-05T15:03:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T16:03:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085018991173787902"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2076319215338893312",
+              "start": 0,
+              "username": "shokubunka_jp"
+            },
+            {
+              "end": 23,
+              "id": "1957255021558730752",
+              "start": 15,
+              "username": "himinla"
+            },
+            {
+              "end": 31,
+              "id": "1682303195832360960",
+              "start": 24,
+              "username": "ffynya"
+            },
+            {
+              "end": 42,
+              "id": "1917261838485708802",
+              "start": 32,
+              "username": "qiujiudev"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085018991173787902",
+        "in_reply_to_user_id": "2076319215338893312",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085018061065838941",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shokubunka_jp @himinla @ffynya @qiujiudev ありがとう😘"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076319215338893312",
+        "conversation_id": "2085017923236860119",
+        "created_at": "2026-08-05T15:00:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T16:00:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085018061065838941"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1880979169297022976",
+              "start": 0,
+              "username": "Wesley10032"
+            },
+            {
+              "end": 21,
+              "id": "1957255021558730752",
+              "start": 13,
+              "username": "himinla"
+            },
+            {
+              "end": 29,
+              "id": "1682303195832360960",
+              "start": 22,
+              "username": "ffynya"
+            },
+            {
+              "end": 40,
+              "id": "1917261838485708802",
+              "start": 30,
+              "username": "qiujiudev"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085018061065838941",
+        "in_reply_to_user_id": "1880979169297022976",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085017923236860119",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wesley10032 @himinla @ffynya @qiujiudev おめでたい"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳/♂/08.11.3/友跨🏳️‍⚧️\n或许是温和粉红/欢迎DM聊天(TG优先)\n魔裁(まのさば)/CS2/三角洲/Galgame/IT \n兴趣相近互fo/想做心理委员\n好基友@lockloveovo\n学生党 周末/节假日在线(暑假限时全天在线)\nCN/EN/JP\n防失联@Wesley10033",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 104,
+                "start": 92,
+                "username": "lockloveovo"
+              },
+              {
+                "end": 152,
+                "start": 140,
+                "username": "Wesley10033"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://telegram.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/Q5wiGuq4W4"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "location": "People's Republic of China",
+        "name": "Wesley",
+        "pinned_tweet_id": "2083033063257420070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 836,
+          "following_count": 1172,
+          "like_count": 12089,
+          "listed_count": 1,
+          "media_count": 265,
+          "tweet_count": 2161
+        },
+        "url": "https://t.co/Q5wiGuq4W4",
+        "username": "Wesley10032",
+        "verified": true
+      },
+      {
+        "created_at": "2026-07-12T14:54:50.000Z",
+        "description": "ごはんが良くなれば、人生も良くなる！\nグルメの複数人アカウント。",
+        "id": "2076319215338893312",
+        "location": "Manhattan, NY",
+        "name": "FCRC",
+        "pinned_tweet_id": "2077065645678813567",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076999186382471168/v1Bm9PT3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 462,
+          "following_count": 646,
+          "like_count": 1458,
+          "listed_count": 1,
+          "media_count": 53,
+          "tweet_count": 667
+        },
+        "url": "",
+        "username": "shokubunka_jp",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-18T01:35:44.000Z",
+        "description": "風が心地いいですね",
+        "id": "1957255021558730752",
+        "location": "Singapore",
+        "name": "月が綺麗",
+        "pinned_tweet_id": "2084685984608985302",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058475385613123584/-f3yKGu9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 15,
+          "like_count": 109,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 105
+        },
+        "url": "",
+        "username": "himinla",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-21T08:15:33.000Z",
+        "description": "中国人🇨🇳｜CH/EN｜友跨｜游戏、二次元｜\n聊天：https://t.co/vy1vlfiftN｜\nsteam好友代码：1238560657｜\n不o不割心理正常，不鉴证，不参团｜互fo｜",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/ffynya",
+                "end": 49,
+                "expanded_url": "https://t.me/ffynya",
+                "start": 26,
+                "url": "https://t.co/vy1vlfiftN"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ffynya",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ffynya",
+                "start": 0,
+                "url": "https://t.co/q5hd5vC18p"
+              }
+            ]
+          }
+        },
+        "id": "1682303195832360960",
+        "location": "-20cm",
+        "name": "🫥ffy喵🫥",
+        "pinned_tweet_id": "2083960464967696407",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079042377906581504/glmoVp84_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1341,
+          "following_count": 797,
+          "like_count": 1725,
+          "listed_count": 2,
+          "media_count": 593,
+          "tweet_count": 1339
+        },
+        "url": "https://t.co/q5hd5vC18p",
+        "username": "ffynya",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-29T16:57:06.000Z",
+        "description": "你好啊，我是秋玖，一个普普通通的10后wmc，重度VOCALOID爱好者 音游痴 和杂食党 爱玩魔裁。爱好广泛，欢迎扩列～私信和TG随时欢迎随时骚扰！TG:https://t.co/v5O8gYnjm0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Qiujiudev",
+                "end": 101,
+                "expanded_url": "http://t.me/Qiujiudev",
+                "start": 78,
+                "url": "https://t.co/v5O8gYnjm0"
+              }
+            ]
+          }
+        },
+        "id": "1917261838485708802",
+        "name": "秋玖",
+        "pinned_tweet_id": "2083548515905753559",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077321726548193281/6_jw7mdP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 546,
+          "following_count": 481,
+          "like_count": 2581,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 579
+        },
+        "url": "",
+        "username": "qiujiudev",
+        "verified": false
+      }
+    ]
+  }
+}

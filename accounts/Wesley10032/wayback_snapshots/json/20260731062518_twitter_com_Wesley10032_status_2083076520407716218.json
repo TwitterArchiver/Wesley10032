@@ -1,0 +1,448 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082843687143538688"
+      ],
+      "media_source_tweet_id": [
+        "2082843693695086789"
+      ]
+    },
+    "author_id": "1880979169297022976",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1585790663575994368",
+          "name": "Magical girl"
+        }
+      }
+    ],
+    "conversation_id": "2083076520407716218",
+    "created_at": "2026-07-31T06:25:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T07:25:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083076520407716218"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 99,
+          "start": 94,
+          "tag": "まのさば"
+        },
+        {
+          "end": 107,
+          "start": 100,
+          "tag": "まのさば小説"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "149103254",
+          "start": 3,
+          "username": "kadokawasneaker"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/vbasVAcg5Y",
+          "end": 131,
+          "expanded_url": "https://x.com/kadokawasneaker/status/2082843693695086789/photo/1",
+          "media_key": "3_2082843687143538688",
+          "start": 108,
+          "url": "https://t.co/vbasVAcg5Y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083076520407716218",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 562
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082843693695086789",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kadokawasneaker: 小説『魔法少女ノ魔女裁判』\n【本日発売】となりました。\n\n「小説でも、共犯しましょう。」\n本の世界で始まる新たな【魔女裁判】を、ぜひお手元に。\n\n#まのさば #まのさば小説 https://t.co/vbasVAcg5Y"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1201,
+        "media_key": "3_2082843687143538688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOe_TE7bAAARg6j.jpg",
+        "width": 1201
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082843687143538688"
+          ]
+        },
+        "author_id": "149103254",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1585790663575994368",
+              "name": "Magical girl"
+            }
+          }
+        ],
+        "conversation_id": "2082843693695086789",
+        "created_at": "2026-07-30T15:00:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T16:00:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082843693695086789"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 78,
+              "start": 73,
+              "tag": "まのさば"
+            },
+            {
+              "end": 86,
+              "start": 79,
+              "tag": "まのさば小説"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vbasVAcg5Y",
+              "end": 110,
+              "expanded_url": "https://x.com/kadokawasneaker/status/2082843693695086789/photo/1",
+              "media_key": "3_2082843687143538688",
+              "start": 87,
+              "url": "https://t.co/vbasVAcg5Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082843693695086789",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 112,
+          "impression_count": 67838,
+          "like_count": 1825,
+          "quote_count": 31,
+          "reply_count": 1,
+          "retweet_count": 562
+        },
+        "reply_settings": "everyone",
+        "text": "小説『魔法少女ノ魔女裁判』\n【本日発売】となりました。\n\n「小説でも、共犯しましょう。」\n本の世界で始まる新たな【魔女裁判】を、ぜひお手元に。\n\n#まのさば #まのさば小説 https://t.co/vbasVAcg5Y"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082843687143538688"
+          ],
+          "media_source_tweet_id": [
+            "2082843693695086789"
+          ]
+        },
+        "author_id": "1880979169297022976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1585790663575994368",
+              "name": "Magical girl"
+            }
+          }
+        ],
+        "conversation_id": "2083076520407716218",
+        "created_at": "2026-07-31T06:25:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T07:25:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083076520407716218"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 99,
+              "start": 94,
+              "tag": "まのさば"
+            },
+            {
+              "end": 107,
+              "start": 100,
+              "tag": "まのさば小説"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "149103254",
+              "start": 3,
+              "username": "kadokawasneaker"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vbasVAcg5Y",
+              "end": 131,
+              "expanded_url": "https://x.com/kadokawasneaker/status/2082843693695086789/photo/1",
+              "media_key": "3_2082843687143538688",
+              "start": 108,
+              "url": "https://t.co/vbasVAcg5Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083076520407716218",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 562
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082843693695086789",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kadokawasneaker: 小説『魔法少女ノ魔女裁判』\n【本日発売】となりました。\n\n「小説でも、共犯しましょう。」\n本の世界で始まる新たな【魔女裁判】を、ぜひお手元に。\n\n#まのさば #まのさば小説 https://t.co/vbasVAcg5Y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳/♂/08.11.3/友跨🏳️‍⚧️\n或许是温和粉红/欢迎DM聊天(TG优先)\n魔裁(まのさば)/CS2/三角洲/Galgame/IT \n兴趣相近互fo\n好基友@lockloveovo\n学生党 周末/节假日在线(暑假限时全天在线)\nCN/EN/JP\nTG群见置顶\n防失联@Wesley10033",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 85,
+                "username": "lockloveovo"
+              },
+              {
+                "end": 152,
+                "start": 140,
+                "username": "Wesley10033"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://telegram.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/Q5wiGuqCLC"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "location": "People's Republic of China",
+        "name": "Wesley",
+        "pinned_tweet_id": "2083033063257420070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 694,
+          "following_count": 1051,
+          "like_count": 10139,
+          "listed_count": 1,
+          "media_count": 203,
+          "tweet_count": 1853
+        },
+        "url": "https://t.co/Q5wiGuqCLC",
+        "username": "Wesley10032",
+        "verified": true
+      },
+      {
+        "created_at": "2010-05-28T12:27:11.000Z",
+        "description": "角川スニーカー文庫編集部の公式アカウントです。 新刊情報を中心にニュースをお届け！ ★LINE@はじめました《毎月の人気作品壁紙など、ここだけのスペシャルコンテンツを配信中!!》https://t.co/Rpd03zkYdB…",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "line.me/R/ti/p/%40kxm1",
+                "end": 112,
+                "expanded_url": "http://line.me/R/ti/p/%40kxm1",
+                "start": 89,
+                "url": "https://t.co/Rpd03zkYdB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "sneakerbunko.jp",
+                "end": 23,
+                "expanded_url": "https://sneakerbunko.jp/",
+                "start": 0,
+                "url": "https://t.co/zoaDCSG9BC"
+              }
+            ]
+          }
+        },
+        "id": "149103254",
+        "location": "ザ・スニーカーＷＥＢ",
+        "name": "スニーカー文庫＠毎月1日発売!!",
+        "pinned_tweet_id": "2072259108976361564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1622827882803494912/6JN_Qu0T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 172087,
+          "following_count": 2322,
+          "like_count": 9760,
+          "listed_count": 1548,
+          "media_count": 14533,
+          "tweet_count": 41942
+        },
+        "url": "https://t.co/zoaDCSG9BC",
+        "username": "kadokawasneaker",
+        "verified": true
+      }
+    ]
+  }
+}

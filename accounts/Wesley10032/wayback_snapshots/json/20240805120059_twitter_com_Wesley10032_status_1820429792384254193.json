@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1525456751788969985",
+    "conversation_id": "1820257268895732157",
+    "created_at": "2024-08-05T12:00:59.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-05T13:00:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1820429792384254193"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "51904755",
+          "start": 0,
+          "username": "Morris_LT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1820429792384254193",
+    "in_reply_to_user_id": "51904755",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1820257268895732157",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Morris_LT 你是资本家吗，去参加奥运会不爱金牌爱什么？躺平啊？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1525456751788969985",
+        "conversation_id": "1820257268895732157",
+        "created_at": "2024-08-05T12:00:59.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-05T13:00:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1820429792384254193"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "51904755",
+              "start": 0,
+              "username": "Morris_LT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1820429792384254193",
+        "in_reply_to_user_id": "51904755",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1820257268895732157",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Morris_LT 你是资本家吗，去参加奥运会不爱金牌爱什么？躺平啊？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1820256564558827521"
+          ]
+        },
+        "author_id": "51904755",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1129067985451118593",
+              "name": "Physical Education"
+            }
+          }
+        ],
+        "conversation_id": "1820257268895732157",
+        "created_at": "2024-08-05T00:35:26.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-05T01:35:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1820257268895732157"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/MoYlVi23cO",
+              "end": 38,
+              "expanded_url": "https://twitter.com/Morris_LT/status/1820257268895732157/photo/1",
+              "media_key": "3_1820256564558827521",
+              "start": 15,
+              "url": "https://t.co/MoYlVi23cO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1820257268895732157",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 91,
+          "impression_count": 197288,
+          "like_count": 1644,
+          "quote_count": 14,
+          "reply_count": 121,
+          "retweet_count": 196
+        },
+        "reply_settings": "everyone",
+        "text": "他们从来不爱体育，只爱金牌。 https://t.co/MoYlVi23cO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-14T12:43:40.000Z",
+        "description": "Free Ukraine and Palestine 🇺🇦🇵🇸",
+        "id": "1525456751788969985",
+        "name": "Wesley",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811578387594649600/eQdjLvSa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 29,
+          "like_count": 37,
+          "listed_count": 0,
+          "tweet_count": 213
+        },
+        "username": "Wesley10032",
+        "verified": false
+      },
+      {
+        "created_at": "2009-06-29T01:07:03.000Z",
+        "description": "某不知名Web3.0创业公司 - 创始人&CEO&首席擦屁股执行官！ \n#Bitcoin #Đogecoin #币圈鸡汤达人",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 44,
+                "start": 36,
+                "tag": "Bitcoin"
+              },
+              {
+                "end": 54,
+                "start": 45,
+                "tag": "Đogecoin"
+              },
+              {
+                "end": 62,
+                "start": 55,
+                "tag": "币圈鸡汤达人"
+              }
+            ]
+          }
+        },
+        "id": "51904755",
+        "name": "Morris",
+        "pinned_tweet_id": "1820324196414844986",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1661240746018754560/8Shwdpaj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76107,
+          "following_count": 352,
+          "like_count": 36570,
+          "listed_count": 509,
+          "tweet_count": 61327
+        },
+        "username": "Morris_LT",
+        "verified": true
+      }
+    ]
+  }
+}

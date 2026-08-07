@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880979169297022976",
+    "conversation_id": "2067460570958426452",
+    "created_at": "2026-06-18T17:02:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T18:02:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067654275132768334"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "52622628",
+          "start": 0,
+          "username": "zhihuzheye_001"
+        },
+        {
+          "end": 23,
+          "id": "1534763803056803840",
+          "start": 16,
+          "username": "PKUCXK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067654275132768334",
+    "in_reply_to_user_id": "52622628",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067555161896304966",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhihuzheye_001 @PKUCXK 不是，这功能之前是灰度测试，现在才开放给全部用户，境内境外都一样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880979169297022976",
+        "conversation_id": "2067460570958426452",
+        "created_at": "2026-06-18T17:02:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T18:02:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067654275132768334"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "52622628",
+              "start": 0,
+              "username": "zhihuzheye_001"
+            },
+            {
+              "end": 23,
+              "id": "1534763803056803840",
+              "start": 16,
+              "username": "PKUCXK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067654275132768334",
+        "in_reply_to_user_id": "52622628",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067555161896304966",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhihuzheye_001 @PKUCXK 不是，这功能之前是灰度测试，现在才开放给全部用户，境内境外都一样"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "52622628",
+        "conversation_id": "2067460570958426452",
+        "created_at": "2026-06-18T10:28:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T11:28:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067555161896304966"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1534763803056803840",
+              "start": 0,
+              "username": "PKUCXK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067555161896304966",
+        "in_reply_to_user_id": "1534763803056803840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1808,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067460570958426452",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PKUCXK 这。。。。。。难道是因为IP限制的原因吗？\n国内使用这个识图模式已经是1，2个月前的事情了。\n请问，你们刚能使用吗？这个识图模式也只是2024年的版本，不是最新的哦。。。而且也大概是orc的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳 / 民主社会主义 / 反台独 / Free Ukraine 🇺🇦 / Free Palestine 🇵🇸\n魔裁（まのさば） / 崩铁（HSR）\n和平友善交流，谢绝人身攻击\n中华人民共和国万岁 世界人民大团结万岁",
+        "id": "1880979169297022976",
+        "location": "China",
+        "name": "Wesley10032",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021156330271039488/mAwe21JP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 123,
+          "like_count": 572,
+          "listed_count": 1,
+          "media_count": 4,
+          "tweet_count": 346
+        },
+        "username": "Wesley10032",
+        "verified": false
+      },
+      {
+        "created_at": "2009-07-01T03:41:27.000Z",
+        "description": "ChengDu",
+        "id": "52622628",
+        "name": "Legolas",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045140354446622720/ICz_Ny94_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 826,
+          "like_count": 202,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 570
+        },
+        "username": "zhihuzheye_001",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-09T05:06:34.000Z",
+        "description": "Researcher in Multimodal Team @deepseek_ai\nPreviously Bachelor & Ph.D at Peking University @PKU1898\nOpinions are my own.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 30,
+                "username": "deepseek_ai"
+              },
+              {
+                "end": 99,
+                "start": 91,
+                "username": "PKU1898"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "charlescxk.github.io",
+                "end": 23,
+                "expanded_url": "https://charlescxk.github.io/",
+                "start": 0,
+                "url": "https://t.co/ZbGAZ6EgYj"
+              }
+            ]
+          }
+        },
+        "id": "1534763803056803840",
+        "name": "Xiaokang Chen",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952029350251143168/k0NPgsGu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5749,
+          "following_count": 54,
+          "like_count": 72,
+          "listed_count": 92,
+          "media_count": 7,
+          "tweet_count": 67
+        },
+        "url": "https://t.co/ZbGAZ6EgYj",
+        "username": "PKUCXK",
+        "verified": false
+      }
+    ]
+  }
+}

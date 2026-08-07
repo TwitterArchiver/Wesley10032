@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1525456751788969985",
+    "conversation_id": "1826461886268977161",
+    "created_at": "2024-08-23T10:20:36.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-23T11:20:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1826927513760940502"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1068656803708207104",
+          "start": 0,
+          "username": "minho011450"
+        },
+        {
+          "end": 22,
+          "id": "1334199765093941250",
+          "start": 13,
+          "username": "SunSibei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1826927513760940502",
+    "in_reply_to_user_id": "1068656803708207104",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1826803270515654831",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@minho011450 @SunSibei 那叫“Taiwan”，名字都能拼错的绿娃，就不要像韩国人一样选择性宣称了好不好🤣"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1525456751788969985",
+        "conversation_id": "1826461886268977161",
+        "created_at": "2024-08-23T10:20:36.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-23T11:20:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1826927513760940502"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1068656803708207104",
+              "start": 0,
+              "username": "minho011450"
+            },
+            {
+              "end": 22,
+              "id": "1334199765093941250",
+              "start": 13,
+              "username": "SunSibei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1826927513760940502",
+        "in_reply_to_user_id": "1068656803708207104",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1826803270515654831",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@minho011450 @SunSibei 那叫“Taiwan”，名字都能拼错的绿娃，就不要像韩国人一样选择性宣称了好不好🤣"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1068656803708207104",
+        "conversation_id": "1826461886268977161",
+        "created_at": "2024-08-23T02:06:54.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-23T03:06:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1826803270515654831"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1334199765093941250",
+              "start": 0,
+              "username": "SunSibei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1826803270515654831",
+        "in_reply_to_user_id": "1334199765093941250",
+        "lang": "tl",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4135,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1826461886268977161",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SunSibei 🇹🇼Tawian lookin good! 😊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-14T12:43:40.000Z",
+        "description": "Free Ukraine and Palestine 🇺🇦🇵🇸",
+        "id": "1525456751788969985",
+        "name": "Wesley",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811578387594649600/eQdjLvSa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 34,
+          "like_count": 45,
+          "listed_count": 0,
+          "tweet_count": 235
+        },
+        "username": "Wesley10032",
+        "verified": false
+      },
+      {
+        "created_at": "2018-12-01T00:03:31.000Z",
+        "description": "Free Palestinian 🇵🇸| @DigiPenNews",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 21,
+                "username": "DigiPenNews"
+              }
+            ]
+          }
+        },
+        "id": "1068656803708207104",
+        "location": "South Korea",
+        "name": "Minho Hur ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1584035288078508033/9N6Kfc-K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 144,
+          "like_count": 1448,
+          "listed_count": 0,
+          "tweet_count": 1738
+        },
+        "username": "minho011450",
+        "verified": true
+      },
+      {
+        "created_at": "2020-12-02T18:16:40.000Z",
+        "description": "PhD-ing at the University of Macau. Researching narratives, rhetoric, ontological security, & the Anglosphere in IR (and yes, China by default).",
+        "id": "1334199765093941250",
+        "location": "🇨🇳🇲🇴/🇺🇲",
+        "name": "Sibei Sun 孫思備",
+        "pinned_tweet_id": "1757696625156518042",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1770781671127707648/54woWkso_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3293,
+          "following_count": 253,
+          "like_count": 3436,
+          "listed_count": 24,
+          "tweet_count": 2103
+        },
+        "username": "SunSibei",
+        "verified": false
+      }
+    ]
+  }
+}

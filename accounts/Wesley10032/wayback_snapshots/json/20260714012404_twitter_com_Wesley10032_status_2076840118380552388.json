@@ -1,0 +1,392 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2076840073899954176"
+      ]
+    },
+    "author_id": "1880979169297022976",
+    "conversation_id": "2076824176225288332",
+    "created_at": "2026-07-14T01:24:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T02:24:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076840118380552388"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "780324117316853760",
+          "start": 0,
+          "username": "MYuxAi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/gLMdYMCOVf",
+          "end": 51,
+          "expanded_url": "https://x.com/Wesley10032/status/2076840118380552388/photo/1",
+          "media_key": "3_2076840073899954176",
+          "start": 28,
+          "url": "https://t.co/gLMdYMCOVf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076840118380552388",
+    "in_reply_to_user_id": "780324117316853760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076824176225288332",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MYuxAi 国产的WorkBuddy，还算挺简洁的 https://t.co/gLMdYMCOVf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 798,
+        "media_key": "3_2076840073899954176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNJrCywaUAAbHHc.jpg",
+        "width": 1198
+      },
+      {
+        "height": 1179,
+        "media_key": "3_2076824163348889600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNJckrVbwAATa2C.jpg",
+        "width": 1731
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076840073899954176"
+          ]
+        },
+        "author_id": "1880979169297022976",
+        "conversation_id": "2076824176225288332",
+        "created_at": "2026-07-14T01:24:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T02:24:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076840118380552388"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "780324117316853760",
+              "start": 0,
+              "username": "MYuxAi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gLMdYMCOVf",
+              "end": 51,
+              "expanded_url": "https://x.com/Wesley10032/status/2076840118380552388/photo/1",
+              "media_key": "3_2076840073899954176",
+              "start": 28,
+              "url": "https://t.co/gLMdYMCOVf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076840118380552388",
+        "in_reply_to_user_id": "780324117316853760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076824176225288332",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MYuxAi 国产的WorkBuddy，还算挺简洁的 https://t.co/gLMdYMCOVf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076824163348889600"
+          ]
+        },
+        "author_id": "780324117316853760",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2076824176225288332",
+        "created_at": "2026-07-14T00:20:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T01:20:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076824176225288332"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 36,
+              "start": 28,
+              "tag": "ChatGPT"
+            },
+            {
+              "end": 43,
+              "start": 37,
+              "tag": "Codex"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cRhuv0hsvm",
+              "end": 67,
+              "expanded_url": "https://x.com/MYuxAi/status/2076824176225288332/photo/1",
+              "media_key": "3_2076824163348889600",
+              "start": 44,
+              "url": "https://t.co/cRhuv0hsvm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076824176225288332",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 39,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "假如ChatGPT codex是中国公司会变成...\n\n#ChatGPT #Codex https://t.co/cRhuv0hsvm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳/友跨🏳️‍⚧️/欢迎DM聊天(X/TG均可)/兴趣相近互fo\n魔裁(まのさば)/ 崩铁(HSR)/Galgame\n头像来自@pale_noon\n学生党 周末/节假日在线(暑假限时全天在线)\nCN/EN/JP(a little)\n防失联@Wesley10033\n和平友善交流 谢绝人身攻击",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 67,
+                "username": "pale_noon"
+              },
+              {
+                "end": 135,
+                "start": 123,
+                "username": "Wesley10033"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://t.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/HjVzyPDIuK"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "location": "People's Republic of China",
+        "name": "Wesley",
+        "pinned_tweet_id": "2075263019853238477",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070912735362387968/eccaKvtY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 280,
+          "following_count": 541,
+          "like_count": 3863,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 845
+        },
+        "url": "https://t.co/HjVzyPDIuK",
+        "username": "Wesley10032",
+        "verified": true
+      },
+      {
+        "created_at": "2016-09-26T08:32:22.000Z",
+        "description": "全栈开发者 |  Web3 |  AI\n重度AI使用者",
+        "id": "780324117316853760",
+        "location": "HK",
+        "name": "Yu",
+        "pinned_tweet_id": "2075147034588524932",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059301584241389568/Hxo20147_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1256,
+          "following_count": 910,
+          "like_count": 709,
+          "listed_count": 5,
+          "media_count": 57,
+          "tweet_count": 1349
+        },
+        "url": "",
+        "username": "MYuxAi",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082236215714037760"
+      ],
+      "media_source_tweet_id": [
+        "2082236223062761512"
+      ]
+    },
+    "author_id": "1880979169297022976",
+    "conversation_id": "2082357659962052729",
+    "created_at": "2026-07-29T06:48:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T07:48:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082357659962052729"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1843586969248641024",
+          "start": 3,
+          "username": "snoopyb047"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/KsvbfAzAmB",
+          "end": 51,
+          "expanded_url": "https://x.com/snoopyb047/status/2082236223062761512/photo/1",
+          "media_key": "3_2082236215714037760",
+          "start": 28,
+          "url": "https://t.co/KsvbfAzAmB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082357659962052729",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5845
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082236223062761512",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @snoopyb047: 祈りを、熊本へ。🤍🇯🇵 https://t.co/KsvbfAzAmB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1254,
+        "media_key": "3_2082236215714037760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOWWzlgWwAAkKqy.jpg",
+        "width": 1254
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082236215714037760"
+          ]
+        },
+        "author_id": "1843586969248641024",
+        "conversation_id": "2082236223062761512",
+        "created_at": "2026-07-28T22:46:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T23:46:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082236223062761512"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KsvbfAzAmB",
+              "end": 35,
+              "expanded_url": "https://x.com/snoopyb047/status/2082236223062761512/photo/1",
+              "media_key": "3_2082236215714037760",
+              "start": 12,
+              "url": "https://t.co/KsvbfAzAmB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082236223062761512",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 681,
+          "impression_count": 706659,
+          "like_count": 33810,
+          "quote_count": 96,
+          "reply_count": 78,
+          "retweet_count": 5849
+        },
+        "reply_settings": "everyone",
+        "text": "祈りを、熊本へ。🤍🇯🇵 https://t.co/KsvbfAzAmB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082236215714037760"
+          ],
+          "media_source_tweet_id": [
+            "2082236223062761512"
+          ]
+        },
+        "author_id": "1880979169297022976",
+        "conversation_id": "2082357659962052729",
+        "created_at": "2026-07-29T06:48:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T07:48:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082357659962052729"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1843586969248641024",
+              "start": 3,
+              "username": "snoopyb047"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KsvbfAzAmB",
+              "end": 51,
+              "expanded_url": "https://x.com/snoopyb047/status/2082236223062761512/photo/1",
+              "media_key": "3_2082236215714037760",
+              "start": 28,
+              "url": "https://t.co/KsvbfAzAmB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082357659962052729",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5845
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082236223062761512",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @snoopyb047: 祈りを、熊本へ。🤍🇯🇵 https://t.co/KsvbfAzAmB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳/♂/08.11.3/友跨🏳️‍⚧️\n或许是温和粉红/欢迎DM聊天(推荐使用TG)\n魔裁(まのさば)/CS2/三角洲/Galgame/IT \n兴趣相近互fo\n好基友@lockloveovo\n学生党 周末/节假日在线(暑假限时全天在线)\nCN/EN/JP\nTG群见置顶\n防失联@Wesley10033",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 87,
+                "username": "lockloveovo"
+              },
+              {
+                "end": 154,
+                "start": 142,
+                "username": "Wesley10033"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://telegram.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/Q5wiGuqCLC"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "location": "People's Republic of China",
+        "name": "Wesley",
+        "pinned_tweet_id": "2077761863937597659",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 671,
+          "following_count": 1007,
+          "like_count": 9593,
+          "listed_count": 1,
+          "media_count": 197,
+          "tweet_count": 1773
+        },
+        "url": "https://t.co/Q5wiGuqCLC",
+        "username": "Wesley10032",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-08T09:39:43.000Z",
+        "description": "account fan snoopy",
+        "id": "1843586969248641024",
+        "location": "United States",
+        "name": "Snoopy",
+        "pinned_tweet_id": "2074314609880616979",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885080373614292992/98ETxv92_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 185473,
+          "following_count": 1415,
+          "like_count": 3432,
+          "listed_count": 236,
+          "media_count": 3320,
+          "tweet_count": 5039
+        },
+        "url": "",
+        "username": "snoopyb047",
+        "verified": true
+      }
+    ]
+  }
+}

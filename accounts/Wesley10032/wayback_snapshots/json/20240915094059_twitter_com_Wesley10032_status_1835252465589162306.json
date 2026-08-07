@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1833679371087007744"
+      ],
+      "media_source_tweet_id": [
+        "1834970368362070166"
+      ]
+    },
+    "author_id": "1525456751788969985",
+    "conversation_id": "1835252465589162306",
+    "created_at": "2024-09-15T09:40:59.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-15T10:40:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1835252465589162306"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1657210736706486272",
+          "start": 3,
+          "username": "mizuirocyan1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/sufv1y8hht",
+          "end": 58,
+          "expanded_url": "https://twitter.com/mizuirocyan1/status/1834970368362070166/photo/1",
+          "media_key": "3_1833679371087007744",
+          "start": 35,
+          "url": "https://t.co/SuFV1Y8hhT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1835252465589162306",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 49
+    },
+    "referenced_tweets": [
+      {
+        "id": "1834970368362070166",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mizuirocyan1: セレクトオブリージュ\n夜刀くくる https://t.co/SuFV1Y8hhT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_1833679371087007744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GXKJrDmaUAAptnj.jpg",
+        "width": 933
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1833679371087007744"
+          ],
+          "media_source_tweet_id": [
+            "1834970368362070166"
+          ]
+        },
+        "author_id": "1525456751788969985",
+        "conversation_id": "1835252465589162306",
+        "created_at": "2024-09-15T09:40:59.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-15T10:40:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1835252465589162306"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1657210736706486272",
+              "start": 3,
+              "username": "mizuirocyan1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sufv1y8hht",
+              "end": 58,
+              "expanded_url": "https://twitter.com/mizuirocyan1/status/1834970368362070166/photo/1",
+              "media_key": "3_1833679371087007744",
+              "start": 35,
+              "url": "https://t.co/SuFV1Y8hhT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1835252465589162306",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 49
+        },
+        "referenced_tweets": [
+          {
+            "id": "1834970368362070166",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mizuirocyan1: セレクトオブリージュ\n夜刀くくる https://t.co/SuFV1Y8hhT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1833679371087007744"
+          ]
+        },
+        "author_id": "1657210736706486272",
+        "conversation_id": "1834970368362070166",
+        "created_at": "2024-09-14T15:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-14T16:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1834970368362070166"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sufv1y8hht",
+              "end": 40,
+              "expanded_url": "https://twitter.com/mizuirocyan1/status/1834970368362070166/photo/1",
+              "media_key": "3_1833679371087007744",
+              "start": 17,
+              "url": "https://t.co/SuFV1Y8hhT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1834970368362070166",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 37,
+          "impression_count": 9596,
+          "like_count": 311,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 49
+        },
+        "reply_settings": "everyone",
+        "text": "セレクトオブリージュ\n夜刀くくる https://t.co/SuFV1Y8hhT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-14T12:43:40.000Z",
+        "description": "Free Ukraine and Palestine 🇺🇦🇵🇸",
+        "id": "1525456751788969985",
+        "name": "Wesley",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811578387594649600/eQdjLvSa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 36,
+          "like_count": 69,
+          "listed_count": 0,
+          "tweet_count": 308
+        },
+        "username": "Wesley10032",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-13T02:26:59.000Z",
+        "description": "AIイラストの研究をしています。AI関係の人はフォロバします。twitterにはnsfwな画像は上げないけどpixivにはあるよ。\nお題箱停止中です",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/8759130",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/8759130",
+                "start": 0,
+                "url": "https://t.co/fdOYwY3sx5"
+              }
+            ]
+          }
+        },
+        "id": "1657210736706486272",
+        "name": "みずいろシアン",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1657400945461071872/SxYWZou3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3630,
+          "following_count": 677,
+          "like_count": 4314,
+          "listed_count": 37,
+          "tweet_count": 2109
+        },
+        "url": "https://t.co/fdOYwY3sx5",
+        "username": "mizuirocyan1",
+        "verified": true
+      }
+    ]
+  }
+}

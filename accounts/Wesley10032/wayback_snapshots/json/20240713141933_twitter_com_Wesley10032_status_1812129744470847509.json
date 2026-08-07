@@ -1,0 +1,177 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1525456751788969985",
+    "conversation_id": "1811975398340624648",
+    "created_at": "2024-07-13T14:19:33.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-13T15:19:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1812129744470847509"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1134682515099095041",
+          "start": 0,
+          "username": "alinaworld1122"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1812129744470847509",
+    "in_reply_to_user_id": "1134682515099095041",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1811975398340624648",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@alinaworld1122 拍的很好，很像是今年拍的。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1525456751788969985",
+        "conversation_id": "1811975398340624648",
+        "created_at": "2024-07-13T14:19:33.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-13T15:19:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1812129744470847509"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1134682515099095041",
+              "start": 0,
+              "username": "alinaworld1122"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1812129744470847509",
+        "in_reply_to_user_id": "1134682515099095041",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1811975398340624648",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@alinaworld1122 拍的很好，很像是今年拍的。"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "13_1811975336306909185"
+          ]
+        },
+        "author_id": "1134682515099095041",
+        "conversation_id": "1811975398340624648",
+        "created_at": "2024-07-13T04:06:14.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-13T05:06:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1811975398340624648"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/49UP1mGdnd",
+              "end": 124,
+              "expanded_url": "https://twitter.com/alinaworld1122/status/1811975398340624648/video/1",
+              "media_key": "13_1811975336306909185",
+              "start": 101,
+              "url": "https://t.co/49UP1mGdnd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1811975398340624648",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 50,
+          "impression_count": 40086,
+          "like_count": 376,
+          "quote_count": 13,
+          "reply_count": 65,
+          "retweet_count": 89
+        },
+        "reply_settings": "everyone",
+        "text": "今年夏天Chinese被逼玩水上樂園，初步估計已經玩死了超過5萬人。但是Chinese非常興奮的關注吸糞車裝食用油事件而不關心水中條條人屍。Chinese！Chinese是這個世界最不一樣的人頭豬種！ https://t.co/49UP1mGdnd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-14T12:43:40.000Z",
+        "description": "Free Ukraine and Palestine",
+        "id": "1525456751788969985",
+        "name": "Wesley",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811578387594649600/eQdjLvSa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 25,
+          "like_count": 30,
+          "listed_count": 0,
+          "tweet_count": 138
+        },
+        "username": "Wesley10032",
+        "verified": false
+      },
+      {
+        "created_at": "2019-06-01T04:46:07.000Z",
+        "description": "人類說明書，就是「聖經」。",
+        "id": "1134682515099095041",
+        "name": "鏟蛇人",
+        "pinned_tweet_id": "1773945635588436007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806939518710484993/TfT1sK13_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21797,
+          "following_count": 2358,
+          "like_count": 31696,
+          "listed_count": 96,
+          "tweet_count": 37592
+        },
+        "username": "alinaworld1122",
+        "verified": false
+      }
+    ]
+  }
+}

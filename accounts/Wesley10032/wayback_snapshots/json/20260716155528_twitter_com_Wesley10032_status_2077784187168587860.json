@@ -1,0 +1,360 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077784086035529728"
+      ]
+    },
+    "author_id": "1880979169297022976",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1555192269799428096",
+          "name": "China politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1555192841529200640",
+          "name": "China political issues"
+        }
+      }
+    ],
+    "conversation_id": "2077784187168587860",
+    "created_at": "2026-07-16T15:55:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T16:55:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077784187168587860"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/SAOOdeIIgM",
+          "end": 38,
+          "expanded_url": "https://x.com/Wesley10032/status/2077784187168587860/photo/1",
+          "media_key": "3_2077784086035529728",
+          "start": 15,
+          "url": "https://t.co/SAOOdeIIgM"
+        },
+        {
+          "display_url": "x.com/auspiceshirley…",
+          "end": 62,
+          "expanded_url": "https://twitter.com/auspiceshirley/status/2077752138885726489",
+          "start": 39,
+          "url": "https://t.co/waaQY9MlNT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077784187168587860",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077752138885726489",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我的CN比Taiwan还多（ https://t.co/SAOOdeIIgM https://t.co/waaQY9MlNT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 548,
+        "media_key": "3_2077784086035529728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNXFniAbgAAzj2Z.png",
+        "width": 506
+      },
+      {
+        "height": 787,
+        "media_key": "3_2077752115246551040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNWoiliWUAAElep.jpg",
+        "width": 710
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077784086035529728"
+          ]
+        },
+        "author_id": "1880979169297022976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1555192269799428096",
+              "name": "China politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1555192841529200640",
+              "name": "China political issues"
+            }
+          }
+        ],
+        "conversation_id": "2077784187168587860",
+        "created_at": "2026-07-16T15:55:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T16:55:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077784187168587860"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SAOOdeIIgM",
+              "end": 38,
+              "expanded_url": "https://x.com/Wesley10032/status/2077784187168587860/photo/1",
+              "media_key": "3_2077784086035529728",
+              "start": 15,
+              "url": "https://t.co/SAOOdeIIgM"
+            },
+            {
+              "display_url": "x.com/auspiceshirley…",
+              "end": 62,
+              "expanded_url": "https://twitter.com/auspiceshirley/status/2077752138885726489",
+              "start": 39,
+              "url": "https://t.co/waaQY9MlNT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077784187168587860",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077752138885726489",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我的CN比Taiwan还多（ https://t.co/SAOOdeIIgM https://t.co/waaQY9MlNT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077752115246551040"
+          ]
+        },
+        "author_id": "2050253104935997440",
+        "conversation_id": "2077752138885726489",
+        "created_at": "2026-07-16T13:48:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T14:48:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077752138885726489"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oIucoJwZaV",
+              "end": 155,
+              "expanded_url": "https://x.com/auspiceshirley/status/2077752138885726489/photo/1",
+              "media_key": "3_2077752115246551040",
+              "start": 132,
+              "url": "https://t.co/oIucoJwZaV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077752138885726489",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 233,
+          "like_count": 9,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "当看到其他地区的流量时，大家都会觉得没什么，还挺有意思的🥰\n\n然而这个「🇨🇳CN」是个啥玩意儿？😰你最好只是用的「Cloudflare WARP」这类给你分配「中国大陆IP」的代理软件或者IP段被送中了，而不是其他什么东西🙏\n\n嗯？难道我真的掉到🇯🇵日语区了？🤨 https://t.co/oIucoJwZaV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳/男/友跨🏳️‍⚧️/欢迎DM聊天(X/TG均可)\n魔裁(まのさば)/VRChat/Galgame/IT 兴趣相近互fo\n学生党 周末/节假日在线(暑假限时全天在线)\nCN/EN/JP(a little)\n发帖内容不固定 想到什么发什么\n防失联@Wesley10033",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 139,
+                "start": 127,
+                "username": "Wesley10033"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://telegram.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/Q5wiGuqCLC"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "location": "People's Republic of China",
+        "name": "Wesley",
+        "pinned_tweet_id": "2075263019853238477",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 390,
+          "following_count": 654,
+          "like_count": 5332,
+          "listed_count": 0,
+          "media_count": 122,
+          "tweet_count": 1096
+        },
+        "url": "https://t.co/Q5wiGuqCLC",
+        "username": "Wesley10032",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-01T16:38:27.000Z",
+        "description": "ENG/中文 | Daily life & Technology &「魔法少女ノ魔女裁判」🍎",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "me.auspiceshirley.dev",
+                "end": 23,
+                "expanded_url": "https://me.auspiceshirley.dev",
+                "start": 0,
+                "url": "https://t.co/1qfE6dIPvx"
+              }
+            ]
+          }
+        },
+        "id": "2050253104935997440",
+        "location": "Hong Kong",
+        "name": "Shirley Auspice",
+        "pinned_tweet_id": "2065781030783472110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050253824372412417/h-oCtpG6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1004,
+          "following_count": 573,
+          "like_count": 1828,
+          "listed_count": 1,
+          "media_count": 360,
+          "tweet_count": 2556
+        },
+        "url": "https://t.co/1qfE6dIPvx",
+        "username": "auspiceshirley",
+        "verified": true
+      }
+    ]
+  }
+}

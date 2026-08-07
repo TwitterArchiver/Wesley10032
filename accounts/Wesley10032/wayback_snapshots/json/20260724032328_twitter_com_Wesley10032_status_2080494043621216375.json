@@ -1,0 +1,328 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080414690153562112",
+        "3_2080414706175705088"
+      ],
+      "media_source_tweet_id": [
+        "2080414728246186062",
+        "2080414728246186062"
+      ]
+    },
+    "author_id": "1880979169297022976",
+    "conversation_id": "2080494043621216375",
+    "created_at": "2026-07-24T03:23:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T04:23:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080494043621216375"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1433678976564662273",
+          "start": 3,
+          "username": "hsn8086"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/vQePR8H6ws",
+          "end": 70,
+          "expanded_url": "https://x.com/hsn8086/status/2080414728246186062/photo/1",
+          "media_key": "3_2080414690153562112",
+          "start": 47,
+          "url": "https://t.co/vQePR8H6ws"
+        },
+        {
+          "display_url": "pic.x.com/vQePR8H6ws",
+          "end": 70,
+          "expanded_url": "https://x.com/hsn8086/status/2080414728246186062/photo/1",
+          "media_key": "3_2080414706175705088",
+          "start": 47,
+          "url": "https://t.co/vQePR8H6ws"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080494043621216375",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080414728246186062",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hsn8086: 我大哥还是牛逼，什么时候我也能像大哥一样这么牛逼 怼天 怼地就好了 https://t.co/vQePR8H6ws"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1270,
+        "media_key": "3_2080414690153562112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN8eI2AbgAASyS9.jpg",
+        "width": 1080
+      },
+      {
+        "height": 613,
+        "media_key": "3_2080414706175705088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN8eJxsaAAAHwB0.jpg",
+        "width": 800
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080414690153562112",
+            "3_2080414706175705088"
+          ]
+        },
+        "author_id": "1433678976564662273",
+        "conversation_id": "2080414728246186062",
+        "created_at": "2026-07-23T22:08:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T23:08:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080414728246186062"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vQePR8H6ws",
+              "end": 57,
+              "expanded_url": "https://x.com/hsn8086/status/2080414728246186062/photo/1",
+              "media_key": "3_2080414690153562112",
+              "start": 34,
+              "url": "https://t.co/vQePR8H6ws"
+            },
+            {
+              "display_url": "pic.x.com/vQePR8H6ws",
+              "end": 57,
+              "expanded_url": "https://x.com/hsn8086/status/2080414728246186062/photo/1",
+              "media_key": "3_2080414706175705088",
+              "start": 34,
+              "url": "https://t.co/vQePR8H6ws"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080414728246186062",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 8110,
+          "like_count": 69,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我大哥还是牛逼，什么时候我也能像大哥一样这么牛逼 怼天 怼地就好了 https://t.co/vQePR8H6ws"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080414690153562112",
+            "3_2080414706175705088"
+          ],
+          "media_source_tweet_id": [
+            "2080414728246186062",
+            "2080414728246186062"
+          ]
+        },
+        "author_id": "1880979169297022976",
+        "conversation_id": "2080494043621216375",
+        "created_at": "2026-07-24T03:23:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T04:23:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080494043621216375"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1433678976564662273",
+              "start": 3,
+              "username": "hsn8086"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vQePR8H6ws",
+              "end": 70,
+              "expanded_url": "https://x.com/hsn8086/status/2080414728246186062/photo/1",
+              "media_key": "3_2080414690153562112",
+              "start": 47,
+              "url": "https://t.co/vQePR8H6ws"
+            },
+            {
+              "display_url": "pic.x.com/vQePR8H6ws",
+              "end": 70,
+              "expanded_url": "https://x.com/hsn8086/status/2080414728246186062/photo/1",
+              "media_key": "3_2080414706175705088",
+              "start": 47,
+              "url": "https://t.co/vQePR8H6ws"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080494043621216375",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080414728246186062",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hsn8086: 我大哥还是牛逼，什么时候我也能像大哥一样这么牛逼 怼天 怼地就好了 https://t.co/vQePR8H6ws"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳/♂/友跨🏳️‍⚧️\n或许是温和粉红/欢迎DM聊天(推荐使用TG)\n魔裁(まのさば)/CS2/三角洲/Galgame/IT \n兴趣相近互fo\n好基友@lockloveovo\n学生党 周末/节假日在线(暑假限时全天在线)\nCN/EN/JP\nTG群见置顶\n防失联@Wesley10033",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 79,
+                "username": "lockloveovo"
+              },
+              {
+                "end": 146,
+                "start": 134,
+                "username": "Wesley10033"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://telegram.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/Q5wiGuqCLC"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "location": "People's Republic of China",
+        "name": "Wesley",
+        "pinned_tweet_id": "2077761863937597659",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 572,
+          "following_count": 862,
+          "like_count": 7868,
+          "listed_count": 1,
+          "media_count": 179,
+          "tweet_count": 1511
+        },
+        "url": "https://t.co/Q5wiGuqCLC",
+        "username": "Wesley10032",
+        "verified": true
+      },
+      {
+        "created_at": "2021-09-03T06:31:41.000Z",
+        "description": "你好, 我是hsn! 老图: @hsn8086xe | 注: 推文内容仅供娱乐, 真假自辨!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "hsn8086xe"
+              }
+            ]
+          }
+        },
+        "id": "1433678976564662273",
+        "location": "Internet",
+        "name": "hsn",
+        "pinned_tweet_id": "2056395915003650409",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039156167285538816/Ica6XIlY_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121728,
+          "following_count": 1117,
+          "like_count": 52138,
+          "listed_count": 300,
+          "media_count": 23623,
+          "tweet_count": 34170
+        },
+        "url": "",
+        "username": "hsn8086",
+        "verified": true
+      }
+    ]
+  }
+}

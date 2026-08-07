@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880979169297022976",
+    "conversation_id": "2067645641120165950",
+    "created_at": "2026-06-19T09:57:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T10:57:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067909712272884022"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1550476584",
+          "start": 0,
+          "username": "_sunuu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067909712272884022",
+    "in_reply_to_user_id": "1550476584",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067645641120165950",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_sunuu 西藏怎么样，和印度半毛钱关系都没有"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 667,
+        "media_key": "3_2067645632236634112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLHAv2baQAAnNIX.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880979169297022976",
+        "conversation_id": "2067645641120165950",
+        "created_at": "2026-06-19T09:57:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T10:57:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067909712272884022"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1550476584",
+              "start": 0,
+              "username": "_sunuu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067909712272884022",
+        "in_reply_to_user_id": "1550476584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067645641120165950",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_sunuu 西藏怎么样，和印度半毛钱关系都没有"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067645632236634112"
+          ]
+        },
+        "author_id": "1550476584",
+        "conversation_id": "2067645641120165950",
+        "created_at": "2026-06-18T16:28:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T17:28:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067645641120165950"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 46,
+              "start": 40,
+              "tag": "China"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RSQxd6WF3b",
+              "end": 70,
+              "expanded_url": "https://x.com/_sunuu/status/2067645641120165950/photo/1",
+              "media_key": "3_2067645632236634112",
+              "start": 47,
+              "url": "https://t.co/RSQxd6WF3b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067645641120165950",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 6569,
+          "like_count": 427,
+          "quote_count": 4,
+          "reply_count": 181,
+          "retweet_count": 89
+        },
+        "reply_settings": "everyone",
+        "text": "Remember that...\nTIBET is not Chima...\n\n#China https://t.co/RSQxd6WF3b"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳 / 民主社会主义 / 反台独 / 友跨🏳️‍⚧️ / Free Ukraine 🇺🇦 / Free Palestine 🇵🇸\n中文 / English / 日本語（勉強中）\n偶尔转帖插画等内容\n和平友善交流，谢绝人身攻击\n中华人民共和国万岁 世界人民大团结万岁",
+        "id": "1880979169297022976",
+        "location": "China",
+        "name": "Wesley10032",
+        "pinned_tweet_id": "2067905508191990010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021156330271039488/mAwe21JP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 129,
+          "like_count": 586,
+          "listed_count": 1,
+          "media_count": 5,
+          "tweet_count": 356
+        },
+        "url": "",
+        "username": "Wesley10032",
+        "verified": false
+      },
+      {
+        "created_at": "2013-06-27T12:23:06.000Z",
+        "description": "भारत प्रथम 🇮🇳\n\n My proud @adgpi @isro                                \n\nfan of @imvkohli @narendramodi @RCBTweets",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 25,
+                "username": "adgpi"
+              },
+              {
+                "end": 37,
+                "start": 32,
+                "username": "isro"
+              },
+              {
+                "end": 87,
+                "start": 78,
+                "username": "imvkohli"
+              },
+              {
+                "end": 101,
+                "start": 88,
+                "username": "narendramodi"
+              },
+              {
+                "end": 112,
+                "start": 102,
+                "username": "RCBTweets"
+              }
+            ]
+          }
+        },
+        "id": "1550476584",
+        "location": "Rajasthan ",
+        "name": "Sunu 🇮🇳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064905834946285568/U2e9_UAc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 415,
+          "following_count": 1539,
+          "like_count": 4855,
+          "listed_count": 14,
+          "media_count": 714,
+          "tweet_count": 52882
+        },
+        "url": "",
+        "username": "_sunuu",
+        "verified": false
+      }
+    ]
+  }
+}

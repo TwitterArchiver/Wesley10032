@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880979169297022976",
+    "conversation_id": "2066882820581036200",
+    "created_at": "2026-06-16T17:13:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T18:13:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066932210939363642"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1889508338226094080",
+          "start": 0,
+          "username": "SpicyMarshal"
+        },
+        {
+          "end": 28,
+          "id": "2045017079665844224",
+          "start": 14,
+          "username": "Fellow_Ashley"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066932210939363642",
+    "in_reply_to_user_id": "1889508338226094080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066883576227062115",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SpicyMarshal @Fellow_Ashley 我是武装直升机"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880979169297022976",
+        "conversation_id": "2066882820581036200",
+        "created_at": "2026-06-16T17:13:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T18:13:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066932210939363642"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1889508338226094080",
+              "start": 0,
+              "username": "SpicyMarshal"
+            },
+            {
+              "end": 28,
+              "id": "2045017079665844224",
+              "start": 14,
+              "username": "Fellow_Ashley"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066932210939363642",
+        "in_reply_to_user_id": "1889508338226094080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066883576227062115",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SpicyMarshal @Fellow_Ashley 我是武装直升机"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1889508338226094080",
+        "conversation_id": "2066882820581036200",
+        "created_at": "2026-06-16T14:00:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T15:00:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066883576227062115"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2045017079665844224",
+              "start": 0,
+              "username": "Fellow_Ashley"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066883576227062115",
+        "in_reply_to_user_id": "2045017079665844224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 219,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066882820581036200",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Fellow_Ashley 谢谢你的宣传。你是商还是农？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳 / 民主社会主义 / 反台独 / Free Ukraine 🇺🇦 / Free Palestine 🇵🇸\n魔裁（まのさば） / 崩铁（HSR）\n和平友善交流，谢绝人身攻击\n中华人民共和国万岁 世界人民大团结万岁",
+        "id": "1880979169297022976",
+        "location": "China",
+        "name": "Wesley10032",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021156330271039488/mAwe21JP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 115,
+          "like_count": 528,
+          "listed_count": 1,
+          "media_count": 2,
+          "tweet_count": 311
+        },
+        "username": "Wesley10032",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-12T02:54:37.000Z",
+        "description": "Part time traveller, full time ranter. Believer in civil rights, but reckon free speech comes with a lot of responsibility.",
+        "id": "1889508338226094080",
+        "name": "Spicy Marshmallow",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889510331417837568/v4VAPqo6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 35,
+          "like_count": 5644,
+          "listed_count": 2,
+          "media_count": 180,
+          "tweet_count": 1992
+        },
+        "username": "SpicyMarshal",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-17T06:04:26.000Z",
+        "description": "MainlandChinese|19|She/Her|Transgender Queer🏳️‍⚧️🏳️‍🌈|IntersubjectivityPostExistentialist-Marxism🚩Mao-spontex🏴|AnCom|Anti-Soviet elements|Agnostics|DM open",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ashlilith.straw.page",
+                "end": 23,
+                "expanded_url": "https://ashlilith.straw.page",
+                "start": 0,
+                "url": "https://t.co/rNpvyYZ0rn"
+              }
+            ]
+          }
+        },
+        "id": "2045017079665844224",
+        "location": "Gensokyo",
+        "name": "FellowⒶshley红🏳️‍⚧️",
+        "pinned_tweet_id": "2054936008991600661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062567571266908160/ytHEZF-2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 227,
+          "following_count": 362,
+          "like_count": 11111,
+          "listed_count": 3,
+          "media_count": 154,
+          "tweet_count": 3444
+        },
+        "url": "https://t.co/rNpvyYZ0rn",
+        "username": "Fellow_Ashley",
+        "verified": false
+      }
+    ]
+  }
+}

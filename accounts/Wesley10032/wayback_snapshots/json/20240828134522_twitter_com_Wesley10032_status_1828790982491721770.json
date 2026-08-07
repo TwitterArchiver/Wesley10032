@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1525456751788969985",
+    "conversation_id": "1828188613588496777",
+    "created_at": "2024-08-28T13:45:22.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-28T14:45:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1828790982491721770"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1018399986323582977",
+          "start": 0,
+          "username": "kuunya27612"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1828790982491721770",
+    "in_reply_to_user_id": "1018399986323582977",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1828188613588496777",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kuunya27612 中国人民的杰作"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1525456751788969985",
+        "conversation_id": "1828188613588496777",
+        "created_at": "2024-08-28T13:45:22.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-28T14:45:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1828790982491721770"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1018399986323582977",
+              "start": 0,
+              "username": "kuunya27612"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1828790982491721770",
+        "in_reply_to_user_id": "1018399986323582977",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1828188613588496777",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kuunya27612 中国人民的杰作"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1828188597037461504"
+          ]
+        },
+        "author_id": "1018399986323582977",
+        "conversation_id": "1828188613588496777",
+        "created_at": "2024-08-26T21:51:46.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-26T22:51:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1828188613588496777"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wxos5djcou",
+              "end": 50,
+              "expanded_url": "https://twitter.com/kuunya27612/status/1828188613588496777/photo/1",
+              "media_key": "16_1828188597037461504",
+              "start": 27,
+              "url": "https://t.co/WxOs5djcOu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1828188613588496777",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 289,
+          "impression_count": 50054,
+          "like_count": 2064,
+          "quote_count": 4,
+          "reply_count": 6,
+          "retweet_count": 344
+        },
+        "reply_settings": "everyone",
+        "text": "海外の人はすごい\n今まで見たGIF画像の中で一番好き https://t.co/WxOs5djcOu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-14T12:43:40.000Z",
+        "description": "Free Ukraine and Palestine 🇺🇦🇵🇸",
+        "id": "1525456751788969985",
+        "name": "Wesley",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811578387594649600/eQdjLvSa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 36,
+          "like_count": 60,
+          "listed_count": 0,
+          "tweet_count": 290
+        },
+        "username": "Wesley10032",
+        "verified": false
+      },
+      {
+        "created_at": "2018-07-15T07:40:52.000Z",
+        "description": "ネトゲorゲーム ＃ソウルワーカー/＃鳴潮/＃崩壊スターレイル/＃ゼンゼロ/＃花騎士/＃ソラコイ/＃ATRI\nソラ(ソラコイ)、アトリが好き\n好きなイラストレーター様 宮坂みゆ先生\n\n主にプレイしてるネトゲ、ATRIの事などを呟いてます\nリプ歓迎します\n関心のある呟きにはリプを付ける事があります\nその際はご了承下さい",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 17,
+                "start": 9,
+                "tag": "ソウルワーカー"
+              },
+              {
+                "end": 21,
+                "start": 18,
+                "tag": "鳴潮"
+              },
+              {
+                "end": 31,
+                "start": 22,
+                "tag": "崩壊スターレイル"
+              },
+              {
+                "end": 37,
+                "start": 32,
+                "tag": "ゼンゼロ"
+              },
+              {
+                "end": 42,
+                "start": 38,
+                "tag": "花騎士"
+              },
+              {
+                "end": 48,
+                "start": 43,
+                "tag": "ソラコイ"
+              },
+              {
+                "end": 54,
+                "start": 49,
+                "tag": "ATRI"
+              }
+            ]
+          }
+        },
+        "id": "1018399986323582977",
+        "location": "日本",
+        "name": "くーにゃ",
+        "pinned_tweet_id": "1018624123721932801",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826522633481191428/cfZaqgNh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 52,
+          "like_count": 689,
+          "listed_count": 0,
+          "tweet_count": 4206
+        },
+        "username": "kuunya27612",
+        "verified": false
+      }
+    ]
+  }
+}

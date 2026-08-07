@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880979169297022976",
+    "conversation_id": "2068423471466697132",
+    "created_at": "2026-06-21T02:04:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T03:04:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068515306939855146"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1900754238570893313",
+          "start": 0,
+          "username": "patchouli608"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068515306939855146",
+    "in_reply_to_user_id": "1900754238570893313",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068423471466697132",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@patchouli608 日本字体，日本曾经对「门」字推行简化，但是后来取消了，而这个「门」字与大陆简化字的「门」字共用一个Unicode编码，在某些默认字体为日本字体的场合就会这么显示。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2068423459890458625",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLSELYPa8AEBmYI.jpg",
+        "width": 943
+      },
+      {
+        "height": 989,
+        "media_key": "3_2068423459915681792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLSELYVb0AA6oDB.jpg",
+        "width": 1204
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880979169297022976",
+        "conversation_id": "2068423471466697132",
+        "created_at": "2026-06-21T02:04:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T03:04:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068515306939855146"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1900754238570893313",
+              "start": 0,
+              "username": "patchouli608"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068515306939855146",
+        "in_reply_to_user_id": "1900754238570893313",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068423471466697132",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@patchouli608 日本字体，日本曾经对「门」字推行简化，但是后来取消了，而这个「门」字与大陆简化字的「门」字共用一个Unicode编码，在某些默认字体为日本字体的场合就会这么显示。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068423459890458625",
+            "3_2068423459915681792"
+          ]
+        },
+        "author_id": "1900754238570893313",
+        "conversation_id": "2068423471466697132",
+        "created_at": "2026-06-20T19:59:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T20:59:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068423471466697132"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IwEReUVc6b",
+              "end": 55,
+              "expanded_url": "https://x.com/patchouli608/status/2068423471466697132/photo/1",
+              "media_key": "3_2068423459890458625",
+              "start": 32,
+              "url": "https://t.co/IwEReUVc6b"
+            },
+            {
+              "display_url": "pic.x.com/IwEReUVc6b",
+              "end": 55,
+              "expanded_url": "https://x.com/patchouli608/status/2068423471466697132/photo/1",
+              "media_key": "3_2068423459915681792",
+              "start": 32,
+              "url": "https://t.co/IwEReUVc6b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068423471466697132",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 144,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不是這什麼情況 我的門字怎麼長這樣？？？\n第一次見這樣的字體。 https://t.co/IwEReUVc6b"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳 / 友跨🏳️‍⚧️ / Free Ukraine 🇺🇦 / Free Palestine 🇵🇸 / 欢迎DM聊天 / 兴趣相近互fo\n中文 / English / 日本語（勉強中）\n防失联 @Wesley10033\n和平友善交流，谢绝人身攻击\n中华人民共和国万岁 世界人民大团结万岁",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 113,
+                "start": 101,
+                "username": "Wesley10033"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "location": "China",
+        "name": "Wesley10032",
+        "pinned_tweet_id": "2068037933899407863",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021156330271039488/mAwe21JP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 190,
+          "like_count": 774,
+          "listed_count": 1,
+          "media_count": 9,
+          "tweet_count": 433
+        },
+        "url": "",
+        "username": "Wesley10032",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-15T03:42:13.000Z",
+        "description": "➡️以虛\n你好，我是大陸北方網友｜ 生活不易推上賣藝｜ 臨川一中初中部名譽畢業生｜松江一中高中部榮譽校友。",
+        "id": "1900754238570893313",
+        "location": "南昌市新建縣望城崗1號｜上海市楊浦區楊樹浦路2866號",
+        "name": "佩觿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066496605013118976/fWu1PwoZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 548,
+          "following_count": 150,
+          "like_count": 31691,
+          "listed_count": 8,
+          "media_count": 988,
+          "tweet_count": 12438
+        },
+        "url": "",
+        "username": "patchouli608",
+        "verified": true
+      }
+    ]
+  }
+}

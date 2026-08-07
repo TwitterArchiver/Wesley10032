@@ -1,0 +1,465 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067200413942820864"
+      ],
+      "media_source_tweet_id": [
+        "2067200420766941585"
+      ]
+    },
+    "author_id": "1880979169297022976",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      }
+    ],
+    "conversation_id": "2067519403927982167",
+    "created_at": "2026-06-18T08:06:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T09:06:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067519403927982167"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 23,
+          "start": 18,
+          "tag": "まのさば"
+        },
+        {
+          "end": 33,
+          "start": 24,
+          "tag": "まのさば二次創作"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1158744633041534976",
+          "start": 3,
+          "username": "82ynkr_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/I01ITBbADE",
+          "end": 57,
+          "expanded_url": "https://x.com/82ynkr_/status/2067200420766941585/photo/1",
+          "media_key": "3_2067200413942820864",
+          "start": 34,
+          "url": "https://t.co/I01ITBbADE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067519403927982167",
+    "lang": "de",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 130
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067200420766941585",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @82ynkr_: rkgk\n#まのさば\n#まのさば二次創作 https://t.co/I01ITBbADE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2067200413942820864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLAr0vCaMAAHVPu.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067200413942820864"
+          ],
+          "media_source_tweet_id": [
+            "2067200420766941585"
+          ]
+        },
+        "author_id": "1880979169297022976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2067519403927982167",
+        "created_at": "2026-06-18T08:06:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T09:06:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067519403927982167"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 23,
+              "start": 18,
+              "tag": "まのさば"
+            },
+            {
+              "end": 33,
+              "start": 24,
+              "tag": "まのさば二次創作"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1158744633041534976",
+              "start": 3,
+              "username": "82ynkr_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/I01ITBbADE",
+              "end": 57,
+              "expanded_url": "https://x.com/82ynkr_/status/2067200420766941585/photo/1",
+              "media_key": "3_2067200413942820864",
+              "start": 34,
+              "url": "https://t.co/I01ITBbADE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067519403927982167",
+        "lang": "de",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 130
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067200420766941585",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @82ynkr_: rkgk\n#まのさば\n#まのさば二次創作 https://t.co/I01ITBbADE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067200413942820864"
+          ]
+        },
+        "author_id": "1158744633041534976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2067200420766941585",
+        "created_at": "2026-06-17T10:59:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T11:59:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067200420766941585"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 10,
+              "start": 5,
+              "tag": "まのさば"
+            },
+            {
+              "end": 20,
+              "start": 11,
+              "tag": "まのさば二次創作"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/I01ITBbADE",
+              "end": 44,
+              "expanded_url": "https://x.com/82ynkr_/status/2067200420766941585/photo/1",
+              "media_key": "3_2067200413942820864",
+              "start": 21,
+              "url": "https://t.co/I01ITBbADE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067200420766941585",
+        "lang": "de",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 87,
+          "impression_count": 11770,
+          "like_count": 1149,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 130
+        },
+        "reply_settings": "everyone",
+        "text": "rkgk\n#まのさば\n#まのさば二次創作 https://t.co/I01ITBbADE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳 / 民主社会主义 / 反台独 / Free Ukraine 🇺🇦 / Free Palestine 🇵🇸\n魔裁（まのさば） / 崩铁（HSR）\n和平友善交流，谢绝人身攻击\n中华人民共和国万岁 世界人民大团结万岁",
+        "id": "1880979169297022976",
+        "location": "China",
+        "name": "Wesley10032",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021156330271039488/mAwe21JP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 120,
+          "like_count": 549,
+          "listed_count": 1,
+          "media_count": 2,
+          "tweet_count": 324
+        },
+        "username": "Wesley10032",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-06T14:20:23.000Z",
+        "description": "￤描きたいものを描いています￤🎨￤20↑￤sub @82sub_0￤お題箱 https://t.co/VQVtafsOEt￤",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 25,
+                "username": "82sub_0"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "odaibako.net/u/82ynkr_",
+                "end": 61,
+                "expanded_url": "https://odaibako.net/u/82ynkr_",
+                "start": 38,
+                "url": "https://t.co/VQVtafsOEt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@82ynkr_",
+                "end": 23,
+                "expanded_url": "https://skeb.jp/@82ynkr_",
+                "start": 0,
+                "url": "https://t.co/XILBK9ZKXS"
+              }
+            ]
+          }
+        },
+        "id": "1158744633041534976",
+        "location": "無断転載 AI学習 自作発言❌",
+        "name": "82(やに)@異ノ祭002 あ-2",
+        "pinned_tweet_id": "1969654236695970075",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067233655047749632/a6IBEI4d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 365,
+          "following_count": 90,
+          "like_count": 19692,
+          "listed_count": 1,
+          "media_count": 51,
+          "tweet_count": 2154
+        },
+        "url": "https://t.co/XILBK9ZKXS",
+        "username": "82ynkr_",
+        "verified": false
+      }
+    ]
+  }
+}

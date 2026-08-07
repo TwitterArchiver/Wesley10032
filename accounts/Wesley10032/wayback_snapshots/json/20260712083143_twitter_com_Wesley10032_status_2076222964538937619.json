@@ -1,0 +1,340 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880979169297022976",
+    "conversation_id": "2076219241506738301",
+    "created_at": "2026-07-12T08:31:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T09:31:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076222964538937619"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1885529810942009344",
+          "start": 0,
+          "username": "NEO_NA45"
+        },
+        {
+          "end": 21,
+          "id": "2043741432914292739",
+          "start": 10,
+          "username": "Tudouni213"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076222964538937619",
+    "in_reply_to_user_id": "1885529810942009344",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076219241506738301",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NEO_NA45 @Tudouni213 好看(✧∀✧)"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3024,
+        "media_key": "3_2076219140353007616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNA2TtCboAAJr44.jpg",
+        "width": 4032
+      },
+      {
+        "height": 4032,
+        "media_key": "3_2076219167490162688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNA2VSIbwAACVtt.jpg",
+        "width": 3024
+      },
+      {
+        "height": 4032,
+        "media_key": "3_2076219194442711040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNA2W2ibAAApFLZ.jpg",
+        "width": 3024
+      },
+      {
+        "height": 3024,
+        "media_key": "3_2076219215489773568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNA2YE8bsAAV3Be.jpg",
+        "width": 4032
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880979169297022976",
+        "conversation_id": "2076219241506738301",
+        "created_at": "2026-07-12T08:31:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T09:31:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076222964538937619"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1885529810942009344",
+              "start": 0,
+              "username": "NEO_NA45"
+            },
+            {
+              "end": 21,
+              "id": "2043741432914292739",
+              "start": 10,
+              "username": "Tudouni213"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076222964538937619",
+        "in_reply_to_user_id": "1885529810942009344",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076219241506738301",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NEO_NA45 @Tudouni213 好看(✧∀✧)"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076219140353007616",
+            "3_2076219167490162688",
+            "3_2076219194442711040",
+            "3_2076219215489773568"
+          ]
+        },
+        "author_id": "1885529810942009344",
+        "conversation_id": "2076219241506738301",
+        "created_at": "2026-07-12T08:16:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T09:16:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076219241506738301"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lCsHoNa4h5",
+              "end": 32,
+              "expanded_url": "https://x.com/NEO_NA45/status/2076219241506738301/photo/1",
+              "media_key": "3_2076219140353007616",
+              "start": 9,
+              "url": "https://t.co/lCsHoNa4h5"
+            },
+            {
+              "display_url": "pic.x.com/lCsHoNa4h5",
+              "end": 32,
+              "expanded_url": "https://x.com/NEO_NA45/status/2076219241506738301/photo/1",
+              "media_key": "3_2076219167490162688",
+              "start": 9,
+              "url": "https://t.co/lCsHoNa4h5"
+            },
+            {
+              "display_url": "pic.x.com/lCsHoNa4h5",
+              "end": 32,
+              "expanded_url": "https://x.com/NEO_NA45/status/2076219241506738301/photo/1",
+              "media_key": "3_2076219194442711040",
+              "start": 9,
+              "url": "https://t.co/lCsHoNa4h5"
+            },
+            {
+              "display_url": "pic.x.com/lCsHoNa4h5",
+              "end": 32,
+              "expanded_url": "https://x.com/NEO_NA45/status/2076219241506738301/photo/1",
+              "media_key": "3_2076219215489773568",
+              "start": 9,
+              "url": "https://t.co/lCsHoNa4h5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076219241506738301",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今日份掃街成果！ https://t.co/lCsHoNa4h5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳/友跨🏳️‍⚧️/欢迎DM聊天(X/TG均可)/兴趣相近互fo\n魔裁(まのさば)/ 崩铁(HSR)/Galgame\n头像来自@pale_noon\n学生党 周末/节假日在线(暑假限时全天在线)\n中文/English/日本語(勉強中)\n防失联@Wesley10033\n和平友善交流 谢绝人身攻击",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 67,
+                "username": "pale_noon"
+              },
+              {
+                "end": 136,
+                "start": 124,
+                "username": "Wesley10033"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://t.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/HjVzyPDIuK"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "location": "People's Republic of China",
+        "name": "Wesley",
+        "pinned_tweet_id": "2075263019853238477",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070912735362387968/eccaKvtY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 209,
+          "following_count": 439,
+          "like_count": 2788,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 691
+        },
+        "url": "https://t.co/HjVzyPDIuK",
+        "username": "Wesley10032",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-01T03:25:23.000Z",
+        "description": "感謝關注喵：\n🏎️ F1｜📱 Android｜📷 Photography｜分享生活碎片與一些想法\n👑GOAT:@LewisHamilton",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 55,
+                "username": "LewisHamilton"
+              }
+            ]
+          }
+        },
+        "id": "1885529810942009344",
+        "name": "NEO_NA45",
+        "pinned_tweet_id": "2076014787893547323",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075981609870991360/TQWSYK8d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 246,
+          "like_count": 1651,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 532
+        },
+        "url": "",
+        "username": "NEO_NA45",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-13T17:23:16.000Z",
+        "description": "07\n碎碎念小号\n别骚扰我行不。",
+        "id": "2043741432914292739",
+        "name": "OwO",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051359561806958592/87d8P4MV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 10,
+          "like_count": 90,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 35
+        },
+        "url": "",
+        "username": "Tudouni213",
+        "verified": false
+      }
+    ]
+  }
+}

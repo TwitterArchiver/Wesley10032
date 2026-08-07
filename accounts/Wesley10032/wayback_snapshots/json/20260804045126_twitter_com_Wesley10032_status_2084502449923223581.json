@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084300605435346944"
+      ],
+      "media_source_tweet_id": [
+        "2084308312846115302"
+      ]
+    },
+    "author_id": "1880979169297022976",
+    "conversation_id": "2084502449923223581",
+    "created_at": "2026-08-04T04:51:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T05:51:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084502449923223581"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1303335410609790976",
+          "start": 3,
+          "username": "Rococo90933671"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0CjD4HIR1n",
+          "end": 127,
+          "expanded_url": "https://x.com/Rococo90933671/status/2084308312846115302/photo/1",
+          "media_key": "3_2084300605435346944",
+          "start": 104,
+          "url": "https://t.co/0CjD4HIR1n"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084502449923223581",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084308312846115302",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Rococo90933671: 在了解了互联网真正的物理架构之后，我才发现自己从小到大的感觉都是错的。\n\n我觉得很完美的、就是互联网本质的无线电波，原来只占据了整个互联网信号传播的“最后一公里”。… https://t.co/0CjD4HIR1n"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 805,
+        "media_key": "3_2084300605435346944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOzsW4gbAAA9MkK.jpg",
+        "width": 1291
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084300605435346944"
+          ]
+        },
+        "author_id": "1303335410609790976",
+        "conversation_id": "2084308312846115302",
+        "created_at": "2026-08-03T16:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T17:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084308312846115302"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0CjD4HIR1n",
+              "end": 106,
+              "expanded_url": "https://x.com/Rococo90933671/status/2084308312846115302/photo/1",
+              "media_key": "3_2084300605435346944",
+              "start": 83,
+              "url": "https://t.co/0CjD4HIR1n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084308312846115302",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "在了解了互联网真正的物理架构之后，我才发现自己从小到大的感觉都是错的。\n\n我觉得很完美的、就是互联网本质的无线电波，原来只占据了整个互联网信号传播的“最后一公里”。\n\n实际上，互联网依然高度依赖物理连接：基站需要网线连接，家庭宽带和WiFi需要网线连接，联通世界各地的也是海底光缆，而不是无线电波。\n\n这让我有些幻灭"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 3229,
+          "like_count": 50,
+          "quote_count": 2,
+          "reply_count": 20,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "在了解了互联网真正的物理架构之后，我才发现自己从小到大的感觉都是错的。\n\n我觉得很完美的、就是互联网本质的无线电波，原来只占据了整个互联网信号传播的“最后一公里”。 https://t.co/0CjD4HIR1n"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084300605435346944"
+          ],
+          "media_source_tweet_id": [
+            "2084308312846115302"
+          ]
+        },
+        "author_id": "1880979169297022976",
+        "conversation_id": "2084502449923223581",
+        "created_at": "2026-08-04T04:51:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T05:51:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084502449923223581"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1303335410609790976",
+              "start": 3,
+              "username": "Rococo90933671"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0CjD4HIR1n",
+              "end": 127,
+              "expanded_url": "https://x.com/Rococo90933671/status/2084308312846115302/photo/1",
+              "media_key": "3_2084300605435346944",
+              "start": 104,
+              "url": "https://t.co/0CjD4HIR1n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084502449923223581",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084308312846115302",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Rococo90933671: 在了解了互联网真正的物理架构之后，我才发现自己从小到大的感觉都是错的。\n\n我觉得很完美的、就是互联网本质的无线电波，原来只占据了整个互联网信号传播的“最后一公里”。… https://t.co/0CjD4HIR1n"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳/♂/08.11.3/友跨🏳️‍⚧️\n或许是温和粉红/欢迎DM聊天(TG优先)\n魔裁(まのさば)/CS2/三角洲/Galgame/IT \n兴趣相近互fo/想做心理委员\n好基友@lockloveovo\n学生党 周末/节假日在线(暑假限时全天在线)\nCN/EN/JP\n防失联@Wesley10033",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 104,
+                "start": 92,
+                "username": "lockloveovo"
+              },
+              {
+                "end": 152,
+                "start": 140,
+                "username": "Wesley10033"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://telegram.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/Q5wiGuq4W4"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "location": "People's Republic of China",
+        "name": "Wesley",
+        "pinned_tweet_id": "2083033063257420070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 794,
+          "following_count": 1133,
+          "like_count": 11713,
+          "listed_count": 1,
+          "media_count": 246,
+          "tweet_count": 2108
+        },
+        "url": "https://t.co/Q5wiGuq4W4",
+        "username": "Wesley10032",
+        "verified": true
+      },
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "24岁，但不是学生，因为本科已退学。十七年war3玩家、语言爱好者，梦想是成为polyglot。椎名林檎を愛する。互fo可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，因为没有这种习惯。Langues: 🇬🇧🇯🇵🇫🇷。大狐帝国为十多年前的初中时代作为历史爱好者的自创设定",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrsXJh"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1896091552017236177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960243028746280960/c3BZrJmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13534,
+          "following_count": 3226,
+          "like_count": 46328,
+          "listed_count": 42,
+          "media_count": 4948,
+          "tweet_count": 24984
+        },
+        "url": "https://t.co/FNHXVrsXJh",
+        "username": "Rococo90933671",
+        "verified": true
+      }
+    ]
+  }
+}

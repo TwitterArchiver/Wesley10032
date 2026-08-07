@@ -1,0 +1,442 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1525456751788969985",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A section of a government, like The Supreme Court",
+          "id": "88",
+          "name": "Political Body"
+        },
+        "entity": {
+          "description": "North Atlantic Treaty Organization",
+          "id": "1016738021939351558",
+          "name": "North Atlantic Treaty Organization"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "North Atlantic Treaty Organization",
+          "id": "1016738021939351558",
+          "name": "North Atlantic Treaty Organization"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Political Body",
+          "id": "1068583660914266113",
+          "name": "Government institutions"
+        }
+      }
+    ],
+    "conversation_id": "1811445562614644934",
+    "created_at": "2024-07-13T13:35:43.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-13T14:35:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1812118712213966863"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 9,
+          "normalized_text": "NATO",
+          "probability": 0.9868,
+          "start": 6,
+          "type": "Organization"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 5,
+          "id": "83795099",
+          "start": 0,
+          "username": "NATO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1812118712213966863",
+    "in_reply_to_user_id": "83795099",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1811445562614644934",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NATO NATO only played up the threat of war, but never thought of itself as the one who started it."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1525456751788969985",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A section of a government, like The Supreme Court",
+              "id": "88",
+              "name": "Political Body"
+            },
+            "entity": {
+              "description": "North Atlantic Treaty Organization",
+              "id": "1016738021939351558",
+              "name": "North Atlantic Treaty Organization"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "North Atlantic Treaty Organization",
+              "id": "1016738021939351558",
+              "name": "North Atlantic Treaty Organization"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political Body",
+              "id": "1068583660914266113",
+              "name": "Government institutions"
+            }
+          }
+        ],
+        "conversation_id": "1811445562614644934",
+        "created_at": "2024-07-13T13:35:43.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-13T14:35:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1812118712213966863"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 9,
+              "normalized_text": "NATO",
+              "probability": 0.9868,
+              "start": 6,
+              "type": "Organization"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 5,
+              "id": "83795099",
+              "start": 0,
+              "username": "NATO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1812118712213966863",
+        "in_reply_to_user_id": "83795099",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1811445562614644934",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NATO NATO only played up the threat of war, but never thought of itself as the one who started it."
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "13_1811444298040082432"
+          ]
+        },
+        "author_id": "83795099",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A section of a government, like The Supreme Court",
+              "id": "88",
+              "name": "Political Body"
+            },
+            "entity": {
+              "description": "North Atlantic Treaty Organization",
+              "id": "1016738021939351558",
+              "name": "North Atlantic Treaty Organization"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "North Atlantic Treaty Organization",
+              "id": "1016738021939351558",
+              "name": "North Atlantic Treaty Organization"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political Body",
+              "id": "1068583660914266113",
+              "name": "Government institutions"
+            }
+          }
+        ],
+        "conversation_id": "1811445562614644934",
+        "created_at": "2024-07-11T17:00:51.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-11T18:00:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1811445562614644934"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 3,
+              "normalized_text": "NATO",
+              "probability": 0.9887,
+              "start": 0,
+              "type": "Organization"
+            },
+            {
+              "end": 180,
+              "normalized_text": "Russia",
+              "probability": 0.9767,
+              "start": 175,
+              "type": "Place"
+            },
+            {
+              "end": 187,
+              "normalized_text": "China",
+              "probability": 0.9764,
+              "start": 183,
+              "type": "Place"
+            },
+            {
+              "end": 193,
+              "normalized_text": "Iran",
+              "probability": 0.9654,
+              "start": 190,
+              "type": "Place"
+            },
+            {
+              "end": 209,
+              "normalized_text": "North Korea",
+              "probability": 0.9472,
+              "start": 199,
+              "type": "Place"
+            },
+            {
+              "end": 222,
+              "normalized_text": "NATOSummit",
+              "probability": 0.9401,
+              "start": 213,
+              "type": "Organization"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 223,
+              "start": 212,
+              "tag": "NATOSummit"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/SDIixfskrr",
+              "end": 247,
+              "expanded_url": "https://twitter.com/NATO/status/1811445562614644934/video/1",
+              "media_key": "13_1811444298040082432",
+              "start": 224,
+              "url": "https://t.co/SDIixfskrr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1811445562614644934",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 82,
+          "impression_count": 129194,
+          "like_count": 1818,
+          "quote_count": 85,
+          "reply_count": 526,
+          "retweet_count": 563
+        },
+        "reply_settings": "everyone",
+        "text": "NATO is stronger and safer when it stands with like-minded partners. \n\nWe are deepening our ties with 🇦🇺 🇯🇵 🇳🇿 🇰🇷 to stand up to authoritarianism and the growing alignment of Russia, China, Iran and North Korea\n\n#NATOSummit https://t.co/SDIixfskrr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-14T12:43:40.000Z",
+        "description": "Free Ukraine and Palestine",
+        "id": "1525456751788969985",
+        "name": "Wesley",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811578387594649600/eQdjLvSa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 25,
+          "like_count": 30,
+          "listed_count": 0,
+          "tweet_count": 136
+        },
+        "username": "Wesley10032",
+        "verified": false
+      },
+      {
+        "created_at": "2009-10-20T07:56:40.000Z",
+        "description": "Working for peace, security & freedom for one billion people. Official Twitter account of the North Atlantic Treaty Organization #NATOSummit #1NATO75years #NATO",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 140,
+                "start": 129,
+                "tag": "NATOSummit"
+              },
+              {
+                "end": 154,
+                "start": 141,
+                "tag": "1NATO75years"
+              },
+              {
+                "end": 160,
+                "start": 155,
+                "tag": "NATO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nato.int",
+                "end": 23,
+                "expanded_url": "http://www.nato.int",
+                "start": 0,
+                "url": "https://t.co/NVv64gf7tX"
+              }
+            ]
+          }
+        },
+        "id": "83795099",
+        "location": "Brussels, Belgium",
+        "name": "NATO",
+        "pinned_tweet_id": "1811722314175905918",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/875661200784330754/cXTSJeMm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1934525,
+          "following_count": 1002,
+          "like_count": 8115,
+          "listed_count": 10941,
+          "tweet_count": 17575
+        },
+        "url": "https://t.co/NVv64gf7tX",
+        "username": "NATO",
+        "verified": true
+      }
+    ]
+  }
+}

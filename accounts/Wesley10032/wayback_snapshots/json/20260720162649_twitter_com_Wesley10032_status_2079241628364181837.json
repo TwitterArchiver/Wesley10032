@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2079235768816734208"
+      ],
+      "media_source_tweet_id": [
+        "2079235800856957157"
+      ]
+    },
+    "author_id": "1880979169297022976",
+    "conversation_id": "2079241628364181837",
+    "created_at": "2026-07-20T16:26:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T17:26:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079241628364181837"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1917261838485708802",
+          "start": 3,
+          "username": "qiujiudev"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/HKTxqkfrMj",
+          "end": 137,
+          "expanded_url": "https://x.com/qiujiudev/status/2079235800856957157/photo/1",
+          "media_key": "3_2079235768816734208",
+          "start": 114,
+          "url": "https://t.co/HKTxqkfrMj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079241628364181837",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079235800856957157",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @qiujiudev: 今天是7月21日，世界才十二一日。转发这条消息给10位推u们，绫地宁宁就会出现在图书馆，带领大家一起在图书馆搭角、寻找魔女的真相。我试过了，是假的，还会被人骂柚子厨真恶心。但是今天确实是7月21日 https://t.co/HKTxqkfrMj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2987,
+        "media_key": "3_2079235768816734208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNrt6lybkAAoXr0.jpg",
+        "width": 3259
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079235768816734208"
+          ]
+        },
+        "author_id": "1917261838485708802",
+        "conversation_id": "2079235800856957157",
+        "created_at": "2026-07-20T16:03:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T17:03:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079235800856957157"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HKTxqkfrMj",
+              "end": 122,
+              "expanded_url": "https://x.com/qiujiudev/status/2079235800856957157/photo/1",
+              "media_key": "3_2079235768816734208",
+              "start": 99,
+              "url": "https://t.co/HKTxqkfrMj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079235800856957157",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "今天是7月21日，世界才十二一日。转发这条消息给10位推u们，绫地宁宁就会出现在图书馆，带领大家一起在图书馆搭角、寻找魔女的真相。我试过了，是假的，还会被人骂柚子厨真恶心。但是今天确实是7月21日 https://t.co/HKTxqkfrMj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079235768816734208"
+          ],
+          "media_source_tweet_id": [
+            "2079235800856957157"
+          ]
+        },
+        "author_id": "1880979169297022976",
+        "conversation_id": "2079241628364181837",
+        "created_at": "2026-07-20T16:26:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T17:26:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079241628364181837"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1917261838485708802",
+              "start": 3,
+              "username": "qiujiudev"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HKTxqkfrMj",
+              "end": 137,
+              "expanded_url": "https://x.com/qiujiudev/status/2079235800856957157/photo/1",
+              "media_key": "3_2079235768816734208",
+              "start": 114,
+              "url": "https://t.co/HKTxqkfrMj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079241628364181837",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079235800856957157",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @qiujiudev: 今天是7月21日，世界才十二一日。转发这条消息给10位推u们，绫地宁宁就会出现在图书馆，带领大家一起在图书馆搭角、寻找魔女的真相。我试过了，是假的，还会被人骂柚子厨真恶心。但是今天确实是7月21日 https://t.co/HKTxqkfrMj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳/男/友跨🏳️‍⚧️/欢迎DM聊天(推荐使用TG)\n魔裁(まのさば)/VRChat/Galgame/IT 兴趣相近互fo\n好基友@lockloveovo\n学生党 周末/节假日在线(暑假限时全天在线)\nCN/EN/JP\nTG群见置顶\n防失联@Wesley10033",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 69,
+                "username": "lockloveovo"
+              },
+              {
+                "end": 136,
+                "start": 124,
+                "username": "Wesley10033"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://telegram.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/Q5wiGuqCLC"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "location": "People's Republic of China",
+        "name": "Wesley",
+        "pinned_tweet_id": "2075263019853238477",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 515,
+          "following_count": 791,
+          "like_count": 6778,
+          "listed_count": 1,
+          "media_count": 164,
+          "tweet_count": 1346
+        },
+        "url": "https://t.co/Q5wiGuqCLC",
+        "username": "Wesley10032",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-29T16:57:06.000Z",
+        "description": "你好啊，我是秋玖，一个普普通通的10后wmc，重度VOCALOID爱好者 音游痴 和杂食党 爱玩魔裁。爱好广泛，欢迎扩列～私信和TG随时欢迎随时骚扰！TG:https://t.co/v5O8gYnjm0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Qiujiudev",
+                "end": 101,
+                "expanded_url": "http://t.me/Qiujiudev",
+                "start": 78,
+                "url": "https://t.co/v5O8gYnjm0"
+              }
+            ]
+          }
+        },
+        "id": "1917261838485708802",
+        "name": "秋玖",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077321726548193281/6_jw7mdP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 194,
+          "like_count": 1444,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 184
+        },
+        "url": "",
+        "username": "qiujiudev",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,483 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880979169297022976",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1585790663575994368",
+          "name": "Magical girl"
+        }
+      }
+    ],
+    "conversation_id": "2070702013520970016",
+    "created_at": "2026-06-27T02:53:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T03:53:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070702013520970016"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1761599169066893312",
+          "start": 3,
+          "username": "13witch_Trials"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070702013520970016",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1660
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070489789716119813",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @13witch_Trials: ◆MVプロジェクト第2弾◆\n\n共犯の皆様。\n\n『魔法少女ノ魔女裁判』MVプロジェクト\n『ココロノクライ』Episode 2 夏目アンアン\nの楽曲タイトルが\n「みんなでずっと幸せに、家族で一緒に、楽しいパーティを。」\nであることをお報せしま…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 900,
+        "media_key": "3_2070489784016064512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLvbfRdaUAAYcWq.jpg",
+        "width": 1600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880979169297022976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1585790663575994368",
+              "name": "Magical girl"
+            }
+          }
+        ],
+        "conversation_id": "2070702013520970016",
+        "created_at": "2026-06-27T02:53:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T03:53:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070702013520970016"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1761599169066893312",
+              "start": 3,
+              "username": "13witch_Trials"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070702013520970016",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1660
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070489789716119813",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @13witch_Trials: ◆MVプロジェクト第2弾◆\n\n共犯の皆様。\n\n『魔法少女ノ魔女裁判』MVプロジェクト\n『ココロノクライ』Episode 2 夏目アンアン\nの楽曲タイトルが\n「みんなでずっと幸せに、家族で一緒に、楽しいパーティを。」\nであることをお報せしま…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070489784016064512"
+          ]
+        },
+        "author_id": "1761599169066893312",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "Enka, Japanese folk music",
+              "id": "1138509191763546112",
+              "name": "Enka & Japanese folk music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Enka, Japanese folk music",
+              "id": "1138509191763546112",
+              "name": "Enka & Japanese folk music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1286017614041329665",
+              "name": "Folk & acoustic"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1585790663575994368",
+              "name": "Magical girl"
+            }
+          }
+        ],
+        "conversation_id": "2070489789716119813",
+        "created_at": "2026-06-26T12:50:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T13:50:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070489789716119813"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "私達の名前は、アメリカ民謡研究会。",
+              "display_url": "youtube.com/@AMK_Haniwa",
+              "end": 161,
+              "expanded_url": "http://youtube.com/@AMK_Haniwa",
+              "images": [
+                {
+                  "height": 900,
+                  "url": "https://pbs.twimg.com/news_img/2070489791955902464/6y3Rptmw?format=jpg&name=orig",
+                  "width": 900
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2070489791955902464/6y3Rptmw?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 138,
+              "status": 200,
+              "title": "アメリカ民謡研究会",
+              "unwound_url": "https://www.youtube.com/@AMK_Haniwa",
+              "url": "https://t.co/rkbmvZLrmb"
+            },
+            {
+              "display_url": "pic.x.com/Ke9pw1bq8a",
+              "end": 186,
+              "expanded_url": "https://x.com/13witch_Trials/status/2070489789716119813/photo/1",
+              "media_key": "3_2070489784016064512",
+              "start": 163,
+              "url": "https://t.co/Ke9pw1bq8a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070489789716119813",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 183,
+                "start": 178,
+                "tag": "まのさば"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "youtube.com/@AMK_Haniwa",
+                "end": 161,
+                "expanded_url": "http://youtube.com/@AMK_Haniwa",
+                "start": 138,
+                "url": "https://t.co/6VPbbzxgSX"
+              }
+            ]
+          },
+          "text": "◆MVプロジェクト第2弾◆\n\n共犯の皆様。\n\n『魔法少女ノ魔女裁判』MVプロジェクト\n『ココロノクライ』Episode 2 夏目アンアン\nの楽曲タイトルが\n「みんなでずっと幸せに、家族で一緒に、楽しいパーティを。」\nであることをお報せします。\n\n楽曲制作:アメリカ民謡研究会（https://t.co/6VPbbzxgSX）\n\n続報をお待ちください。 \n\n#まのさば"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 305,
+          "impression_count": 183023,
+          "like_count": 5567,
+          "quote_count": 215,
+          "reply_count": 17,
+          "retweet_count": 1660
+        },
+        "reply_settings": "everyone",
+        "text": "◆MVプロジェクト第2弾◆\n\n共犯の皆様。\n\n『魔法少女ノ魔女裁判』MVプロジェクト\n『ココロノクライ』Episode 2 夏目アンアン\nの楽曲タイトルが\n「みんなでずっと幸せに、家族で一緒に、楽しいパーティを。」\nであることをお報せします。\n\n楽曲制作:アメリカ民謡研究会（https://t.co/rkbmvZLrmb） https://t.co/Ke9pw1bq8a"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳 / 友跨🏳️‍⚧️ / 欢迎DM聊天 / 兴趣相近互fo\n魔裁（まのさば）/ 崩铁（HSR）/ Galgame\n学生党 周末 / 节假日在线\n中文 / English / 日本語（勉強中）\n防失联 @Wesley10033\n和平友善交流 谢绝人身攻击\n中华人民共和国万岁 世界人民大团结万岁",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 105,
+                "username": "Wesley10033"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "location": "China",
+        "name": "Wesley10032",
+        "pinned_tweet_id": "2068037933899407863",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068584583315283968/pGV4njxw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 217,
+          "like_count": 926,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 459
+        },
+        "url": "",
+        "username": "Wesley10032",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-25T03:49:14.000Z",
+        "description": "「Acacia」がお届けする魔法議論ミステリゲーム「魔法少女ノ魔女裁判」公式です。Steam版発売中。Switch版 2026年7月9日（木）発売予定　#まのさば\n\nYoutube：https://t.co/2vD4itw83M\n公式ショップ：https://t.co/3ZvBm16ybz\n運営：@Acacia_offical_",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 81,
+                "start": 76,
+                "tag": "まのさば"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 165,
+                "start": 149,
+                "username": "Acacia_offical_"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "x.gd/uAqSn",
+                "end": 114,
+                "expanded_url": "https://x.gd/uAqSn",
+                "start": 91,
+                "url": "https://t.co/2vD4itw83M"
+              },
+              {
+                "display_url": "x.gd/XHFVjQ",
+                "end": 145,
+                "expanded_url": "https://x.gd/XHFVjQ",
+                "start": 122,
+                "url": "https://t.co/3ZvBm16ybz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "manosaba.com",
+                "end": 23,
+                "expanded_url": "https://manosaba.com",
+                "start": 0,
+                "url": "https://t.co/3ri3J0EKXa"
+              }
+            ]
+          }
+        },
+        "id": "1761599169066893312",
+        "location": "シナリオ制作会社Re,AER",
+        "name": "魔法少女ノ魔女裁判 公式",
+        "pinned_tweet_id": "2028837238327644658",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774974247125106688/8mB9zMiW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 253676,
+          "following_count": 53,
+          "like_count": 3618,
+          "listed_count": 401,
+          "media_count": 703,
+          "tweet_count": 1294
+        },
+        "url": "https://t.co/3ri3J0EKXa",
+        "username": "13witch_Trials",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,367 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880979169297022976",
+    "conversation_id": "2076457615224356939",
+    "created_at": "2026-07-13T00:42:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T01:42:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076467359829905769"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1885529810942009344",
+          "start": 0,
+          "username": "NEO_NA45"
+        },
+        {
+          "end": 21,
+          "id": "2043741432914292739",
+          "start": 10,
+          "username": "Tudouni213"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076467359829905769",
+    "in_reply_to_user_id": "1885529810942009344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076457615224356939",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NEO_NA45 @Tudouni213 广州天河的？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2076457544382550016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNEPIpQaEAAqPGD.jpg",
+        "width": 4096
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2076457563269517313",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNEPJvnaUAE2zEi.jpg",
+        "width": 4096
+      },
+      {
+        "height": 3024,
+        "media_key": "3_2076457580038402048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNEPKuFbMAA8qPc.jpg",
+        "width": 4032
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2076457598770192384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNEPLz3boAAcXQ6.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880979169297022976",
+        "conversation_id": "2076457615224356939",
+        "created_at": "2026-07-13T00:42:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T01:42:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076467359829905769"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1885529810942009344",
+              "start": 0,
+              "username": "NEO_NA45"
+            },
+            {
+              "end": 21,
+              "id": "2043741432914292739",
+              "start": 10,
+              "username": "Tudouni213"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076467359829905769",
+        "in_reply_to_user_id": "1885529810942009344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076457615224356939",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NEO_NA45 @Tudouni213 广州天河的？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076457544382550016",
+            "3_2076457563269517313",
+            "3_2076457580038402048",
+            "3_2076457598770192384"
+          ]
+        },
+        "author_id": "1885529810942009344",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          }
+        ],
+        "conversation_id": "2076457615224356939",
+        "created_at": "2026-07-13T00:04:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T01:03:38.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076457489491779930",
+          "2076457615224356939"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KFvMcK82HF",
+              "end": 37,
+              "expanded_url": "https://x.com/NEO_NA45/status/2076457615224356939/photo/1",
+              "media_key": "3_2076457544382550016",
+              "start": 14,
+              "url": "https://t.co/KFvMcK82HF"
+            },
+            {
+              "display_url": "pic.x.com/KFvMcK82HF",
+              "end": 37,
+              "expanded_url": "https://x.com/NEO_NA45/status/2076457615224356939/photo/1",
+              "media_key": "3_2076457563269517313",
+              "start": 14,
+              "url": "https://t.co/KFvMcK82HF"
+            },
+            {
+              "display_url": "pic.x.com/KFvMcK82HF",
+              "end": 37,
+              "expanded_url": "https://x.com/NEO_NA45/status/2076457615224356939/photo/1",
+              "media_key": "3_2076457580038402048",
+              "start": 14,
+              "url": "https://t.co/KFvMcK82HF"
+            },
+            {
+              "display_url": "pic.x.com/KFvMcK82HF",
+              "end": 37,
+              "expanded_url": "https://x.com/NEO_NA45/status/2076457615224356939/photo/1",
+              "media_key": "3_2076457598770192384",
+              "start": 14,
+              "url": "https://t.co/KFvMcK82HF"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "d029ddcdc4fc44b6"
+        },
+        "id": "2076457615224356939",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "是Apple Store! https://t.co/KFvMcK82HF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳/友跨🏳️‍⚧️/欢迎DM聊天(X/TG均可)/兴趣相近互fo\n魔裁(まのさば)/ 崩铁(HSR)/Galgame\n头像来自@pale_noon\n学生党 周末/节假日在线(暑假限时全天在线)\nCN/EN/JP(a little)\n防失联@Wesley10033\n和平友善交流 谢绝人身攻击",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 67,
+                "username": "pale_noon"
+              },
+              {
+                "end": 135,
+                "start": 123,
+                "username": "Wesley10033"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://t.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/HjVzyPDIuK"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "location": "People's Republic of China",
+        "name": "Wesley",
+        "pinned_tweet_id": "2075263019853238477",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070912735362387968/eccaKvtY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 242,
+          "following_count": 492,
+          "like_count": 3343,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 781
+        },
+        "url": "https://t.co/HjVzyPDIuK",
+        "username": "Wesley10032",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-01T03:25:23.000Z",
+        "description": "感謝關注喵：\n🏎️ F1｜📱 Android｜📷 Photography｜分享生活碎片與一些想法\n👑GOAT:@LewisHamilton",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 55,
+                "username": "LewisHamilton"
+              }
+            ]
+          }
+        },
+        "id": "1885529810942009344",
+        "name": "NEO_NA45",
+        "pinned_tweet_id": "2076014787893547323",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075981609870991360/TQWSYK8d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 271,
+          "like_count": 2001,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 667
+        },
+        "url": "",
+        "username": "NEO_NA45",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-13T17:23:16.000Z",
+        "description": "07\n碎碎念小号\n别骚扰我行不。",
+        "id": "2043741432914292739",
+        "name": "OwO",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051359561806958592/87d8P4MV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 14,
+          "like_count": 93,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 38
+        },
+        "url": "",
+        "username": "Tudouni213",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,323 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880979169297022976",
+    "conversation_id": "2068035548858683455",
+    "created_at": "2026-06-19T18:17:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T19:17:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068035548858683455"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 65,
+          "start": 56,
+          "tag": "联合国教科文组织"
+        },
+        {
+          "end": 81,
+          "start": 73,
+          "tag": "媒体与信息素养"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "303806284",
+          "start": 3,
+          "username": "UNESCO_chinese"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068035548858683455",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067941716942856642",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @UNESCO_chinese: 举世皆浊我独清，众人皆醉我独醒。\n屈原曾经面临的困局，如何避免重演？\n\n#联合国教科文组织 支持发展全民 #媒体与信息素养 和数字能力，使人们有能力进行批判性思考，以安全、负责地的方式参与网络传播，并且确保我们的信息生态系统和数字技术值得…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2067915643496570882",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLK2UkwWIAIb8HE.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880979169297022976",
+        "conversation_id": "2068035548858683455",
+        "created_at": "2026-06-19T18:17:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T19:17:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068035548858683455"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 65,
+              "start": 56,
+              "tag": "联合国教科文组织"
+            },
+            {
+              "end": 81,
+              "start": 73,
+              "tag": "媒体与信息素养"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "303806284",
+              "start": 3,
+              "username": "UNESCO_chinese"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068035548858683455",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067941716942856642",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @UNESCO_chinese: 举世皆浊我独清，众人皆醉我独醒。\n屈原曾经面临的困局，如何避免重演？\n\n#联合国教科文组织 支持发展全民 #媒体与信息素养 和数字能力，使人们有能力进行批判性思考，以安全、负责地的方式参与网络传播，并且确保我们的信息生态系统和数字技术值得…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067915643496570882"
+          ]
+        },
+        "author_id": "303806284",
+        "conversation_id": "2067941716942856642",
+        "created_at": "2026-06-19T12:05:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T13:05:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067941716942856642"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 45,
+              "start": 36,
+              "tag": "联合国教科文组织"
+            },
+            {
+              "end": 61,
+              "start": 53,
+              "tag": "媒体与信息素养"
+            },
+            {
+              "end": 152,
+              "start": 148,
+              "tag": "端午节"
+            }
+          ],
+          "urls": [
+            {
+              "description": "探索联合国教科文组织如何支持发展全民媒体与信息素养和数字能力，使人们有能力进行批判性思考，安全、负责地上网，并应对错误信息和仇恨言论。",
+              "display_url": "unesco.org/zh/media-infor…",
+              "end": 146,
+              "expanded_url": "https://www.unesco.org/zh/media-information-literacy",
+              "start": 123,
+              "status": 200,
+              "title": "媒体与信息素养",
+              "unwound_url": "https://www.unesco.org/zh/media-information-literacy",
+              "url": "https://t.co/s2Wz6dNavR"
+            },
+            {
+              "display_url": "pic.x.com/aVgFU42SUX",
+              "end": 176,
+              "expanded_url": "https://x.com/UNESCO_chinese/status/2067941716942856642/photo/1",
+              "media_key": "3_2067915643496570882",
+              "start": 153,
+              "url": "https://t.co/aVgFU42SUX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067941716942856642",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 301,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "举世皆浊我独清，众人皆醉我独醒。\n屈原曾经面临的困局，如何避免重演？\n\n#联合国教科文组织 支持发展全民 #媒体与信息素养 和数字能力，使人们有能力进行批判性思考，以安全、负责地的方式参与网络传播，并且确保我们的信息生态系统和数字技术值得信任➡️https://t.co/s2Wz6dNavR\n\n#端午节 https://t.co/aVgFU42SUX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳 / 民主社会主义（详见置顶）/ 友跨🏳️‍⚧️ / Free Ukraine 🇺🇦 / Free Palestine 🇵🇸 / DM可\n中文 / English / 日本語（勉強中）\n防失联 @Wesley10033\n和平友善交流，谢绝人身攻击\n中华人民共和国万岁 世界人民大团结万岁",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 114,
+                "start": 102,
+                "username": "Wesley10033"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "location": "China",
+        "name": "Wesley10032",
+        "pinned_tweet_id": "2067905508191990010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021156330271039488/mAwe21JP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 147,
+          "like_count": 618,
+          "listed_count": 1,
+          "media_count": 7,
+          "tweet_count": 377
+        },
+        "url": "",
+        "username": "Wesley10032",
+        "verified": false
+      },
+      {
+        "created_at": "2011-05-23T13:10:38.000Z",
+        "description": "战争起源于人之思想，故务需于人之思想中筑起保卫和平之屏障。\n#教育 #科学 #文化 #传播 #信息",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 33,
+                "start": 30,
+                "tag": "教育"
+              },
+              {
+                "end": 37,
+                "start": 34,
+                "tag": "科学"
+              },
+              {
+                "end": 41,
+                "start": 38,
+                "tag": "文化"
+              },
+              {
+                "end": 45,
+                "start": 42,
+                "tag": "传播"
+              },
+              {
+                "end": 49,
+                "start": 46,
+                "tag": "信息"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "unesco.org/zh",
+                "end": 23,
+                "expanded_url": "https://www.unesco.org/zh",
+                "start": 0,
+                "url": "https://t.co/udyfiQ0Rz2"
+              }
+            ]
+          }
+        },
+        "id": "303806284",
+        "location": "联合国教科文组织总部 法国•巴黎",
+        "name": "联合国教科文组织",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1193847119481835527/6sD9IUQJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37356,
+          "following_count": 41,
+          "like_count": 492,
+          "listed_count": 120,
+          "media_count": 10929,
+          "tweet_count": 11471
+        },
+        "url": "https://t.co/udyfiQ0Rz2",
+        "username": "UNESCO_chinese",
+        "verified": true
+      }
+    ]
+  }
+}

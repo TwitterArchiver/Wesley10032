@@ -1,0 +1,343 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880979169297022976",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1585790663575994368",
+          "name": "Magical girl"
+        }
+      }
+    ],
+    "conversation_id": "2077043421295100277",
+    "created_at": "2026-07-14T14:51:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T15:51:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077043421295100277"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2050253104935997440",
+          "start": 3,
+          "username": "auspiceshirley"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077043421295100277",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077043155124285871",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @auspiceshirley: 「魔法少女ノ魔女裁判」\n\n👩🏻×13，🏝️\n🦉💬👩🏻🔪👩🏻，🏛️⚖️，👤👉🏻😱👈🏻👤，☠️\n🌺👩🏻💢，🦯，☠️\n🌸👩🏻😭，✋🏻🖋️\n👥♥️👩🏻🎨，🤹🏻💢，🧹🗡🎯，💀\n🌸👉🏻🤹🏻，🪆\n🌸💬🏃🏻，🎈\n🗒️👩🏻💢，👉🏻🧔🏻🔨🎈，💭🔪🌸\n🧔🏻💭…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880979169297022976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1585790663575994368",
+              "name": "Magical girl"
+            }
+          }
+        ],
+        "conversation_id": "2077043421295100277",
+        "created_at": "2026-07-14T14:51:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T15:51:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077043421295100277"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2050253104935997440",
+              "start": 3,
+              "username": "auspiceshirley"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077043421295100277",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077043155124285871",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @auspiceshirley: 「魔法少女ノ魔女裁判」\n\n👩🏻×13，🏝️\n🦉💬👩🏻🔪👩🏻，🏛️⚖️，👤👉🏻😱👈🏻👤，☠️\n🌺👩🏻💢，🦯，☠️\n🌸👩🏻😭，✋🏻🖋️\n👥♥️👩🏻🎨，🤹🏻💢，🧹🗡🎯，💀\n🌸👉🏻🤹🏻，🪆\n🌸💬🏃🏻，🎈\n🗒️👩🏻💢，👉🏻🧔🏻🔨🎈，💭🔪🌸\n🧔🏻💭…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2050253104935997440",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1585790663575994368",
+              "name": "Magical girl"
+            }
+          }
+        ],
+        "conversation_id": "2077043155124285871",
+        "created_at": "2026-07-14T14:50:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T15:50:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077043155124285871"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2077043155124285871",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {},
+          "text": "「魔法少女ノ魔女裁判」\n\n👩🏻×13，🏝️\n🦉💬👩🏻🔪👩🏻，🏛️⚖️，👤👉🏻😱👈🏻👤，☠️\n🌺👩🏻💢，🦯，☠️\n🌸👩🏻😭，✋🏻🖋️\n👥♥️👩🏻🎨，🤹🏻💢，🧹🗡🎯，💀\n🌸👉🏻🤹🏻，🪆\n🌸💬🏃🏻，🎈\n🗒️👩🏻💢，👉🏻🧔🏻🔨🎈，💭🔪🌸\n🧔🏻💭☮️，💬👻🔄，👅🔑\n🗒️😡，🔪，📱🔄\n🌸👉🏻🗒️，⛓️😭⛓️\n🟢💬☠️，🔵❗❗，⬆️🟢\n🔵🏠🔄🏠，🤜🦵\n🌸👉🏻🔵，🔥\n🔥👩🏻💊，☠️\n🔫👩🏻🧊，🧩\n🌸💡🟠，👉🏻⚪\n⚪💢，⚔️\n👩🏻👩🏻👩🏻🏃🏻，👩🏻→👹，🦋☠️\n❄️🧙🏻，💬🌸👿，🔪👥👥\n🌺👩🏻☠️，⏮️\n🦋🧤🌺，🦶🌺，🗡️⚪\n🌺👉🏻🦋🔇，🎯🟣\n🟠💬13💊☠️🤖，🔫💢，💥\n🌺👉🏻🔫，👩🏻🤖💥💥💥💥💥\n👩🏻🎨🖼️💩，🗒️👀\n👩🏻🎨🔪🗒️，🌧️\n🌺👉🏻⛲，💧👩🏻🎨\n🟢💢🟡，🔪\n🌸👀‼️，🟢🗡️🌸🛗\n🌺👉🏻👗，⏳🟢🔵\n🌺😭，⬆️，⏮️\n🌺💬#*，👩🏻→👿x13\n🖋️→❄️，🌺🌸🈯，🌸💬♥️\n❄️😭，🗡️，👿❌\n🚁，🌺🌸，🥰"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "「魔法少女ノ魔女裁判」\n\n👩🏻×13，🏝️\n🦉💬👩🏻🔪👩🏻，🏛️⚖️，👤👉🏻😱👈🏻👤，☠️\n🌺👩🏻💢，🦯，☠️\n🌸👩🏻😭，✋🏻🖋️\n👥♥️👩🏻🎨，🤹🏻💢，🧹🗡🎯，💀\n🌸👉🏻🤹🏻，🪆\n🌸💬🏃🏻，🎈\n🗒️👩🏻💢，👉🏻🧔🏻🔨🎈，💭🔪🌸\n🧔🏻💭☮️，💬👻🔄，👅🔑\n🗒️😡，🔪，📱🔄\n🌸👉🏻🗒️，⛓️😭⛓️\n🟢💬☠️，🔵❗❗，⬆️🟢\n🔵🏠🔄🏠，🤜🦵\n🌸👉🏻🔵，🔥\n🔥👩🏻💊，☠️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳/友跨🏳️‍⚧️/欢迎DM聊天(X/TG均可)/兴趣相近互fo\n魔裁(まのさば)/ 崩铁(HSR)/Galgame\n头像来自@pale_noon\n学生党 周末/节假日在线(暑假限时全天在线)\nCN/EN/JP(a little)\n防失联@Wesley10033\n和平友善交流 谢绝人身攻击",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 67,
+                "username": "pale_noon"
+              },
+              {
+                "end": 135,
+                "start": 123,
+                "username": "Wesley10033"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://telegram.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/Q5wiGuqCLC"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "location": "People's Republic of China",
+        "name": "Wesley",
+        "pinned_tweet_id": "2075263019853238477",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070912735362387968/eccaKvtY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 310,
+          "following_count": 569,
+          "like_count": 4183,
+          "listed_count": 0,
+          "media_count": 83,
+          "tweet_count": 883
+        },
+        "url": "https://t.co/Q5wiGuqCLC",
+        "username": "Wesley10032",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-01T16:38:27.000Z",
+        "description": "ENG/中文 | Daily life & Technology &「魔法少女ノ魔女裁判」🍎",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "me.auspiceshirley.dev",
+                "end": 23,
+                "expanded_url": "https://me.auspiceshirley.dev",
+                "start": 0,
+                "url": "https://t.co/1qfE6dIPvx"
+              }
+            ]
+          }
+        },
+        "id": "2050253104935997440",
+        "location": "Hong Kong",
+        "name": "Shirley Auspice",
+        "pinned_tweet_id": "2065781030783472110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050253824372412417/h-oCtpG6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 965,
+          "following_count": 569,
+          "like_count": 1798,
+          "listed_count": 1,
+          "media_count": 347,
+          "tweet_count": 2509
+        },
+        "url": "https://t.co/1qfE6dIPvx",
+        "username": "auspiceshirley",
+        "verified": true
+      }
+    ]
+  }
+}

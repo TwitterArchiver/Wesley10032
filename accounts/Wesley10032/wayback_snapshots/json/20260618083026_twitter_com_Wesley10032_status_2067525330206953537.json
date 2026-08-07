@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880979169297022976",
+    "conversation_id": "2067236823232131368",
+    "created_at": "2026-06-18T08:30:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T09:30:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067525330206953537"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2043680486342508544",
+          "start": 0,
+          "username": "WatetsuDE10"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067525330206953537",
+    "in_reply_to_user_id": "2043680486342508544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067236823232131368",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WatetsuDE10 都是用VPN，不能直接访问X"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 617,
+        "media_key": "3_2067236608987009024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLBMvkFakAAgFix.png",
+        "width": 749
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880979169297022976",
+        "conversation_id": "2067236823232131368",
+        "created_at": "2026-06-18T08:30:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T09:30:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067525330206953537"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2043680486342508544",
+              "start": 0,
+              "username": "WatetsuDE10"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067525330206953537",
+        "in_reply_to_user_id": "2043680486342508544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067236823232131368",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WatetsuDE10 都是用VPN，不能直接访问X"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067236608987009024"
+          ]
+        },
+        "author_id": "2043680486342508544",
+        "conversation_id": "2067236823232131368",
+        "created_at": "2026-06-17T13:24:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T14:24:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067236823232131368"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/egH7GuORfG",
+              "end": 66,
+              "expanded_url": "https://x.com/WatetsuDE10/status/2067236823232131368/photo/1",
+              "media_key": "3_2067236608987009024",
+              "start": 43,
+              "url": "https://t.co/egH7GuORfG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067236823232131368",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1803,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "中国ってX使えったっけ？？最近中国からの接続アカウントからのフォローが多すぎる... https://t.co/egH7GuORfG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳 / 民主社会主义 / 反台独 / Free Ukraine 🇺🇦 / Free Palestine 🇵🇸\n魔裁（まのさば） / 崩铁（HSR）\n和平友善交流，谢绝人身攻击\n中华人民共和国万岁 世界人民大团结万岁",
+        "id": "1880979169297022976",
+        "location": "China",
+        "name": "Wesley10032",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021156330271039488/mAwe21JP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 120,
+          "like_count": 556,
+          "listed_count": 1,
+          "media_count": 2,
+          "tweet_count": 330
+        },
+        "username": "Wesley10032",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-13T13:19:43.000Z",
+        "description": "無言フォロー失礼します。どっかの鉄オタです。ぼちぼちやりますのでよろしくお願いします。保守派　フォロバ99%　スパム滅亡熱烈希望　DM歓迎（イタズラDM即ブロ）　ため口OK\n愛車：わたらせ渓谷鐵道 WKT-511形\n推し球団：読売ジャイアン",
+        "id": "2043680486342508544",
+        "name": "雪見だいふく",
+        "pinned_tweet_id": "2066514687857221807",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064710601939787776/wtq-UVTt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 257,
+          "following_count": 581,
+          "like_count": 5441,
+          "listed_count": 0,
+          "media_count": 93,
+          "tweet_count": 2170
+        },
+        "username": "WatetsuDE10",
+        "verified": false
+      }
+    ]
+  }
+}

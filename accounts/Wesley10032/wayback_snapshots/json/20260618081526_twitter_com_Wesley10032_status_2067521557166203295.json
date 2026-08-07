@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067187011006726144"
+      ],
+      "media_source_tweet_id": [
+        "2067187015372972348"
+      ]
+    },
+    "author_id": "1880979169297022976",
+    "conversation_id": "2067521557166203295",
+    "created_at": "2026-06-18T08:15:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T09:15:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067521557166203295"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1947995880038203393",
+          "start": 3,
+          "username": "sco_villes2"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NPYppmmuPD",
+          "end": 48,
+          "expanded_url": "https://x.com/sco_villes2/status/2067187015372972348/photo/1",
+          "media_key": "3_2067187011006726144",
+          "start": 25,
+          "url": "https://t.co/NPYppmmuPD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067521557166203295",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 412
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067187015372972348",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sco_villes2: ①マダムヘルタ https://t.co/NPYppmmuPD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2067187011006726144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLAfolNbgAAT2ZP.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067187011006726144"
+          ],
+          "media_source_tweet_id": [
+            "2067187015372972348"
+          ]
+        },
+        "author_id": "1880979169297022976",
+        "conversation_id": "2067521557166203295",
+        "created_at": "2026-06-18T08:15:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T09:15:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067521557166203295"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1947995880038203393",
+              "start": 3,
+              "username": "sco_villes2"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NPYppmmuPD",
+              "end": 48,
+              "expanded_url": "https://x.com/sco_villes2/status/2067187015372972348/photo/1",
+              "media_key": "3_2067187011006726144",
+              "start": 25,
+              "url": "https://t.co/NPYppmmuPD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067521557166203295",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 412
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067187015372972348",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sco_villes2: ①マダムヘルタ https://t.co/NPYppmmuPD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067187011006726144"
+          ]
+        },
+        "author_id": "1947995880038203393",
+        "conversation_id": "2067187015372972348",
+        "created_at": "2026-06-17T10:06:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T11:06:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067187015372972348"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NPYppmmuPD",
+              "end": 31,
+              "expanded_url": "https://x.com/sco_villes2/status/2067187015372972348/photo/1",
+              "media_key": "3_2067187011006726144",
+              "start": 8,
+              "url": "https://t.co/NPYppmmuPD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067187015372972348",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 415,
+          "impression_count": 27315,
+          "like_count": 4537,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 412
+        },
+        "reply_settings": "everyone",
+        "text": "①マダムヘルタ https://t.co/NPYppmmuPD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳 / 民主社会主义 / 反台独 / Free Ukraine 🇺🇦 / Free Palestine 🇵🇸\n魔裁（まのさば） / 崩铁（HSR）\n和平友善交流，谢绝人身攻击\n中华人民共和国万岁 世界人民大团结万岁",
+        "id": "1880979169297022976",
+        "location": "China",
+        "name": "Wesley10032",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021156330271039488/mAwe21JP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 120,
+          "like_count": 552,
+          "listed_count": 1,
+          "media_count": 2,
+          "tweet_count": 327
+        },
+        "url": "",
+        "username": "Wesley10032",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-23T12:23:33.000Z",
+        "description": "18↑￤illustration ￤主にホヨバ￤🗝@sco___vi \n💕@0ninj1n",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 25,
+                "username": "sco___vi"
+              },
+              {
+                "end": 45,
+                "start": 37,
+                "username": "0ninj1n"
+              }
+            ]
+          }
+        },
+        "id": "1947995880038203393",
+        "location": "無断転載・無断使用、AI学習❌",
+        "name": "すこゔぃる",
+        "pinned_tweet_id": "2067131766041968656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059922138560417792/ENqQ5KCe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2715,
+          "following_count": 318,
+          "like_count": 2881,
+          "listed_count": 12,
+          "media_count": 247,
+          "tweet_count": 1456
+        },
+        "url": "",
+        "username": "sco_villes2",
+        "verified": false
+      }
+    ]
+  }
+}

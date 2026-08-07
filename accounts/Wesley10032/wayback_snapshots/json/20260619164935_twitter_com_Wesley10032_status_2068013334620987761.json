@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880979169297022976",
+    "conversation_id": "2067907046985392502",
+    "created_at": "2026-06-19T16:49:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T17:49:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068013334620987761"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1737275736501653504",
+          "start": 0,
+          "username": "seyirnotlari"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068013334620987761",
+    "in_reply_to_user_id": "1737275736501653504",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067907046985392502",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@seyirnotlari 3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2067901924632911872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLKp2CAXYAAnzMl.jpg",
+        "width": 1584
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2067902112688750592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLKqA-kXwAAM5GV.jpg",
+        "width": 1579
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2067902122977280000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLKqBk5WQAAHuO5.jpg",
+        "width": 1584
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2067902322613616640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLKqNMmXAAASFUj.jpg",
+        "width": 1582
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880979169297022976",
+        "conversation_id": "2067907046985392502",
+        "created_at": "2026-06-19T16:49:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T17:49:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068013334620987761"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1737275736501653504",
+              "start": 0,
+              "username": "seyirnotlari"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068013334620987761",
+        "in_reply_to_user_id": "1737275736501653504",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067907046985392502",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@seyirnotlari 3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067901924632911872",
+            "3_2067902112688750592",
+            "3_2067902122977280000",
+            "3_2067902322613616640"
+          ]
+        },
+        "author_id": "1737275736501653504",
+        "conversation_id": "2067907046985392502",
+        "created_at": "2026-06-19T09:47:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T10:47:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067907046985392502"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gtoUwa15oZ",
+              "end": 73,
+              "expanded_url": "https://x.com/seyirnotlari/status/2067907046985392502/photo/1",
+              "media_key": "3_2067901924632911872",
+              "start": 50,
+              "url": "https://t.co/gtoUwa15oZ"
+            },
+            {
+              "display_url": "pic.x.com/gtoUwa15oZ",
+              "end": 73,
+              "expanded_url": "https://x.com/seyirnotlari/status/2067907046985392502/photo/1",
+              "media_key": "3_2067902112688750592",
+              "start": 50,
+              "url": "https://t.co/gtoUwa15oZ"
+            },
+            {
+              "display_url": "pic.x.com/gtoUwa15oZ",
+              "end": 73,
+              "expanded_url": "https://x.com/seyirnotlari/status/2067907046985392502/photo/1",
+              "media_key": "3_2067902122977280000",
+              "start": 50,
+              "url": "https://t.co/gtoUwa15oZ"
+            },
+            {
+              "display_url": "pic.x.com/gtoUwa15oZ",
+              "end": 73,
+              "expanded_url": "https://x.com/seyirnotlari/status/2067907046985392502/photo/1",
+              "media_key": "3_2067902322613616640",
+              "start": 50,
+              "url": "https://t.co/gtoUwa15oZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067907046985392502",
+        "lang": "tr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1739,
+          "impression_count": 1550034,
+          "like_count": 2956,
+          "quote_count": 732,
+          "reply_count": 614,
+          "retweet_count": 249
+        },
+        "reply_settings": "everyone",
+        "text": "Psikolojik test ⁉️\nHangi odayı tercih ederdiniz?? https://t.co/gtoUwa15oZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳 / 民主社会主义（详见置顶）/ 友跨🏳️‍⚧️ / Free Ukraine 🇺🇦 / Free Palestine 🇵🇸 / DM可\n中文 / English / 日本語（勉強中）\n防失联 @Wesley10033\n和平友善交流，谢绝人身攻击\n中华人民共和国万岁 世界人民大团结万岁",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 114,
+                "start": 102,
+                "username": "Wesley10033"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "location": "China",
+        "name": "Wesley10032",
+        "pinned_tweet_id": "2067905508191990010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021156330271039488/mAwe21JP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 145,
+          "like_count": 606,
+          "listed_count": 1,
+          "media_count": 7,
+          "tweet_count": 370
+        },
+        "url": "",
+        "username": "Wesley10032",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-20T00:56:29.000Z",
+        "description": "Keyfime göre her şeyi paylaşıyorum..\nNe aklıma gelirse. \nDM ❌",
+        "id": "1737275736501653504",
+        "location": "SYR 🎉",
+        "name": "Seyir.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066949379265601536/JD0Kfuxz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5701,
+          "following_count": 3387,
+          "like_count": 3040,
+          "listed_count": 5,
+          "media_count": 231,
+          "tweet_count": 2229
+        },
+        "url": "",
+        "username": "seyirnotlari",
+        "verified": true
+      }
+    ]
+  }
+}

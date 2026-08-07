@@ -1,0 +1,447 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1525456751788969985",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A section of a government, like The Supreme Court",
+          "id": "88",
+          "name": "Political Body"
+        },
+        "entity": {
+          "description": "North Atlantic Treaty Organization",
+          "id": "1016738021939351558",
+          "name": "North Atlantic Treaty Organization"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "North Atlantic Treaty Organization",
+          "id": "1016738021939351558",
+          "name": "North Atlantic Treaty Organization"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Political Body",
+          "id": "1068583660914266113",
+          "name": "Government institutions"
+        }
+      }
+    ],
+    "conversation_id": "1811644329187750392",
+    "created_at": "2024-07-13T10:57:27.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-13T11:57:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1812078883698811089"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1496321911218917383",
+          "start": 0,
+          "username": "USAmbChina"
+        },
+        {
+          "end": 17,
+          "id": "83795099",
+          "start": 12,
+          "username": "NATO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1812078883698811089",
+    "in_reply_to_user_id": "1496321911218917383",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1811644329187750392",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@USAmbChina @NATO 自己在全世界到处激起战争威胁，却对一个已经40年没打仗的国家指责，希望你们说出这话的时候照照镜子，看看自己是不是小丑🤡。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1525456751788969985",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A section of a government, like The Supreme Court",
+              "id": "88",
+              "name": "Political Body"
+            },
+            "entity": {
+              "description": "North Atlantic Treaty Organization",
+              "id": "1016738021939351558",
+              "name": "North Atlantic Treaty Organization"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "North Atlantic Treaty Organization",
+              "id": "1016738021939351558",
+              "name": "North Atlantic Treaty Organization"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political Body",
+              "id": "1068583660914266113",
+              "name": "Government institutions"
+            }
+          }
+        ],
+        "conversation_id": "1811644329187750392",
+        "created_at": "2024-07-13T10:57:27.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-13T11:57:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1812078883698811089"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1496321911218917383",
+              "start": 0,
+              "username": "USAmbChina"
+            },
+            {
+              "end": 17,
+              "id": "83795099",
+              "start": 12,
+              "username": "NATO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1812078883698811089",
+        "in_reply_to_user_id": "1496321911218917383",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1811644329187750392",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@USAmbChina @NATO 自己在全世界到处激起战争威胁，却对一个已经40年没打仗的国家指责，希望你们说出这话的时候照照镜子，看看自己是不是小丑🤡。"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1811641365207379968"
+          ]
+        },
+        "author_id": "1496321911218917383",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A section of a government, like The Supreme Court",
+              "id": "88",
+              "name": "Political Body"
+            },
+            "entity": {
+              "description": "North Atlantic Treaty Organization",
+              "id": "1016738021939351558",
+              "name": "North Atlantic Treaty Organization"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "North Atlantic Treaty Organization",
+              "id": "1016738021939351558",
+              "name": "North Atlantic Treaty Organization"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political Body",
+              "id": "1068583660914266113",
+              "name": "Government institutions"
+            }
+          }
+        ],
+        "conversation_id": "1811644329187750392",
+        "created_at": "2024-07-12T06:10:41.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-12T07:10:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1811644329187750392"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "83795099",
+              "start": 4,
+              "username": "NATO"
+            }
+          ],
+          "urls": [
+            {
+              "description": "10 Jul. 2024 - | Press Release 2024 001 Issued on 10 Jul. 2024 | Last updated: 10 Jul. 2024 22:07 We, the Heads of State and Government of the North Atlantic Alliance, have gathered in Washington to celebrate the 75th anniversary of our Alliance. Forged to preserve peace, NATO remains the strongest Alliance in history. We stand in unity and solidarity in the face of a brutal war of aggression on the European continent and at a critical time for our security. We reaffirm the enduring transatlantic bond",
+              "display_url": "nato.int/cps/en/natohq/…",
+              "end": 50,
+              "expanded_url": "https://nato.int/cps/en/natohq/official_texts_227678.htm",
+              "start": 27,
+              "status": 200,
+              "title": "Washington Summit Declaration issued by the Heads of State and Government participating in the meeting of the North Atlantic Council in Washington, D.C. 10 July 2024",
+              "unwound_url": "https://www.nato.int/cps/en/natohq/official_texts_227678.htm",
+              "url": "https://t.co/1CAWNAQ86r"
+            },
+            {
+              "display_url": "pic.twitter.com/NnYsHgOMdl",
+              "end": 74,
+              "expanded_url": "https://twitter.com/USAmbChina/status/1811644329187750392/photo/1",
+              "media_key": "3_1811641365207379968",
+              "start": 51,
+              "url": "https://t.co/NnYsHgOMdl"
+            },
+            {
+              "display_url": "x.com/USAmbChina/sta…",
+              "end": 98,
+              "expanded_url": "https://twitter.com/USAmbChina/status/1811287101909938358",
+              "start": 75,
+              "url": "https://t.co/HHsQcvJEhj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1811644329187750392",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 149,
+          "impression_count": 706256,
+          "like_count": 2297,
+          "quote_count": 60,
+          "reply_count": 557,
+          "retweet_count": 508
+        },
+        "referenced_tweets": [
+          {
+            "id": "1811287101909938358",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "北约领袖@NATO就中国给与俄罗斯的支持传达强烈讯息：https://t.co/1CAWNAQ86r https://t.co/NnYsHgOMdl https://t.co/HHsQcvJEhj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-14T12:43:40.000Z",
+        "description": "Free Ukraine and Palestine",
+        "id": "1525456751788969985",
+        "name": "Wesley",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811578387594649600/eQdjLvSa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 24,
+          "like_count": 30,
+          "listed_count": 0,
+          "tweet_count": 126
+        },
+        "username": "Wesley10032",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-23T03:12:31.000Z",
+        "description": "Official account of 🇺🇸 Ambassador to 🇨🇳 Nicholas Burns. 美国驻华大使伯恩斯官方账号. For more on the U.S. Mission to China, visit us at https://t.co/ToMSLAY4t4",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/usmissionchina",
+                "end": 145,
+                "expanded_url": "http://linktr.ee/usmissionchina",
+                "start": 122,
+                "url": "https://t.co/ToMSLAY4t4"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "china.usembassy-china.org.cn/ambassador-nic…",
+                "end": 23,
+                "expanded_url": "https://china.usembassy-china.org.cn/ambassador-nicholas-burns/",
+                "start": 0,
+                "url": "https://t.co/iRqmZh5bEF"
+              }
+            ]
+          }
+        },
+        "id": "1496321911218917383",
+        "name": "Ambassador Nicholas Burns",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1505831276233822208/zMMneCTV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130105,
+          "following_count": 691,
+          "like_count": 10,
+          "listed_count": 508,
+          "tweet_count": 3412
+        },
+        "url": "https://t.co/iRqmZh5bEF",
+        "username": "USAmbChina",
+        "verified": true
+      },
+      {
+        "created_at": "2009-10-20T07:56:40.000Z",
+        "description": "Working for peace, security & freedom for one billion people. Official Twitter account of the North Atlantic Treaty Organization #NATOSummit #1NATO75years #NATO",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 140,
+                "start": 129,
+                "tag": "NATOSummit"
+              },
+              {
+                "end": 154,
+                "start": 141,
+                "tag": "1NATO75years"
+              },
+              {
+                "end": 160,
+                "start": 155,
+                "tag": "NATO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nato.int",
+                "end": 23,
+                "expanded_url": "http://www.nato.int",
+                "start": 0,
+                "url": "https://t.co/NVv64gf7tX"
+              }
+            ]
+          }
+        },
+        "id": "83795099",
+        "location": "Brussels, Belgium",
+        "name": "NATO",
+        "pinned_tweet_id": "1811722314175905918",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/875661200784330754/cXTSJeMm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1934427,
+          "following_count": 1002,
+          "like_count": 8115,
+          "listed_count": 10943,
+          "tweet_count": 17575
+        },
+        "url": "https://t.co/NVv64gf7tX",
+        "username": "NATO",
+        "verified": true
+      }
+    ]
+  }
+}

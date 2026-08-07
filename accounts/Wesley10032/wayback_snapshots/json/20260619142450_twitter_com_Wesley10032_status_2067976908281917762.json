@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067966741385482240"
+      ],
+      "media_source_tweet_id": [
+        "2067966828035584463"
+      ]
+    },
+    "author_id": "1880979169297022976",
+    "conversation_id": "2067976908281917762",
+    "created_at": "2026-06-19T14:24:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T15:24:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067976908281917762"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 37,
+          "start": 28,
+          "tag": "まのさば二次創作"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "808312747964252160",
+          "start": 3,
+          "username": "Gamel_120"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/JLB9DucdnZ",
+          "end": 61,
+          "expanded_url": "https://x.com/Gamel_120/status/2067966828035584463/photo/1",
+          "media_key": "3_2067966741385482240",
+          "start": 38,
+          "url": "https://t.co/JLB9DucdnZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067976908281917762",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067966828035584463",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Gamel_120: 1人絵チャ って言われた\n#まのさば二次創作 https://t.co/JLB9DucdnZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3373,
+        "media_key": "3_2067966741385482240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLLky3OakAAdp3s.jpg",
+        "width": 2601
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067966741385482240"
+          ],
+          "media_source_tweet_id": [
+            "2067966828035584463"
+          ]
+        },
+        "author_id": "1880979169297022976",
+        "conversation_id": "2067976908281917762",
+        "created_at": "2026-06-19T14:24:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T15:24:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067976908281917762"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 37,
+              "start": 28,
+              "tag": "まのさば二次創作"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "808312747964252160",
+              "start": 3,
+              "username": "Gamel_120"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JLB9DucdnZ",
+              "end": 61,
+              "expanded_url": "https://x.com/Gamel_120/status/2067966828035584463/photo/1",
+              "media_key": "3_2067966741385482240",
+              "start": 38,
+              "url": "https://t.co/JLB9DucdnZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067976908281917762",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067966828035584463",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Gamel_120: 1人絵チャ って言われた\n#まのさば二次創作 https://t.co/JLB9DucdnZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067966741385482240"
+          ]
+        },
+        "author_id": "808312747964252160",
+        "conversation_id": "2067966828035584463",
+        "created_at": "2026-06-19T13:44:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T14:44:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067966828035584463"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 22,
+              "start": 13,
+              "tag": "まのさば二次創作"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JLB9DucdnZ",
+              "end": 46,
+              "expanded_url": "https://x.com/Gamel_120/status/2067966828035584463/photo/1",
+              "media_key": "3_2067966741385482240",
+              "start": 23,
+              "url": "https://t.co/JLB9DucdnZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067966828035584463",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 712,
+          "like_count": 89,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "1人絵チャ って言われた\n#まのさば二次創作 https://t.co/JLB9DucdnZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳 / 民主社会主义 / 反台独 / 友跨🏳️‍⚧️ / Free Ukraine 🇺🇦 / Free Palestine 🇵🇸\n中文 / English / 日本語（勉強中）\n偶尔转帖插画等内容\n和平友善交流，谢绝人身攻击\n中华人民共和国万岁 世界人民大团结万岁",
+        "id": "1880979169297022976",
+        "location": "China",
+        "name": "Wesley10032",
+        "pinned_tweet_id": "2067905508191990010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021156330271039488/mAwe21JP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 131,
+          "like_count": 589,
+          "listed_count": 1,
+          "media_count": 5,
+          "tweet_count": 359
+        },
+        "url": "",
+        "username": "Wesley10032",
+        "verified": false
+      },
+      {
+        "created_at": "2016-12-12T14:09:11.000Z",
+        "description": "好きなものを描きます\n自作発言・無断転載やめてね\nメディア欄整理してます\nSkeb→https://t.co/GcGxzJ9KqL\nご連絡の際はDMか gamel120illust@gmail.comにお願いします",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@Gamel_120",
+                "end": 65,
+                "expanded_url": "http://skeb.jp/@Gamel_120",
+                "start": 42,
+                "url": "https://t.co/GcGxzJ9KqL"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/42753968",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/42753968",
+                "start": 0,
+                "url": "https://t.co/zYW26STVgU"
+              }
+            ]
+          }
+        },
+        "id": "808312747964252160",
+        "location": "牢屋敷",
+        "name": "がめる🐍C108 土曜日 西へ10a",
+        "pinned_tweet_id": "2064288393262145924",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1787455052946558976/7zCuu1dx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10657,
+          "following_count": 591,
+          "like_count": 43664,
+          "listed_count": 96,
+          "media_count": 3282,
+          "tweet_count": 50712
+        },
+        "url": "https://t.co/zYW26STVgU",
+        "username": "Gamel_120",
+        "verified": false
+      }
+    ]
+  }
+}

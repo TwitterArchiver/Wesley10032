@@ -1,0 +1,313 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080907740051079168",
+        "3_2080907740067803136"
+      ]
+    },
+    "author_id": "1880979169297022976",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2080907750536818752",
+    "created_at": "2026-07-25T06:47:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T07:47:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080907750536818752"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ej5IoBiAYu",
+          "end": 36,
+          "expanded_url": "https://x.com/Wesley10032/status/2080907750536818752/photo/1",
+          "media_key": "3_2080907740051079168",
+          "start": 13,
+          "url": "https://t.co/Ej5IoBiAYu"
+        },
+        {
+          "display_url": "pic.x.com/Ej5IoBiAYu",
+          "end": 36,
+          "expanded_url": "https://x.com/Wesley10032/status/2080907750536818752/photo/1",
+          "media_key": "3_2080907740067803136",
+          "start": 13,
+          "url": "https://t.co/Ej5IoBiAYu"
+        },
+        {
+          "display_url": "x.com/wesley10032/st…",
+          "end": 60,
+          "expanded_url": "https://twitter.com/wesley10032/status/2080878012913107422",
+          "start": 37,
+          "url": "https://t.co/pQPGAXdYP4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080907750536818752",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080878012913107422",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "来回两趟给我干成张雪峰了 https://t.co/Ej5IoBiAYu https://t.co/pQPGAXdYP4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2080907740051079168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HODekIAbAAAbduy.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2080907740067803136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HODekIEaMAAohzR.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2080877998883147776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HODDg9hbEAAJUAE.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080907740051079168",
+            "3_2080907740067803136"
+          ]
+        },
+        "author_id": "1880979169297022976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2080907750536818752",
+        "created_at": "2026-07-25T06:47:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T07:47:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080907750536818752"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ej5IoBiAYu",
+              "end": 36,
+              "expanded_url": "https://x.com/Wesley10032/status/2080907750536818752/photo/1",
+              "media_key": "3_2080907740051079168",
+              "start": 13,
+              "url": "https://t.co/Ej5IoBiAYu"
+            },
+            {
+              "display_url": "pic.x.com/Ej5IoBiAYu",
+              "end": 36,
+              "expanded_url": "https://x.com/Wesley10032/status/2080907750536818752/photo/1",
+              "media_key": "3_2080907740067803136",
+              "start": 13,
+              "url": "https://t.co/Ej5IoBiAYu"
+            },
+            {
+              "display_url": "x.com/wesley10032/st…",
+              "end": 60,
+              "expanded_url": "https://twitter.com/wesley10032/status/2080878012913107422",
+              "start": 37,
+              "url": "https://t.co/pQPGAXdYP4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080907750536818752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080878012913107422",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "来回两趟给我干成张雪峰了 https://t.co/Ej5IoBiAYu https://t.co/pQPGAXdYP4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080877998883147776"
+          ]
+        },
+        "author_id": "1880979169297022976",
+        "conversation_id": "2080878012913107422",
+        "created_at": "2026-07-25T04:49:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T05:49:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080878012913107422"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ishdwu9DHF",
+              "end": 29,
+              "expanded_url": "https://x.com/Wesley10032/status/2080878012913107422/photo/1",
+              "media_key": "3_2080877998883147776",
+              "start": 6,
+              "url": "https://t.co/Ishdwu9DHF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080878012913107422",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 317,
+          "like_count": 22,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "骑车ing https://t.co/Ishdwu9DHF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳/♂/友跨🏳️‍⚧️\n或许是温和粉红/欢迎DM聊天(推荐使用TG)\n魔裁(まのさば)/CS2/三角洲/Galgame/IT \n兴趣相近互fo\n好基友@lockloveovo\n学生党 周末/节假日在线(暑假限时全天在线)\nCN/EN/JP\nTG群见置顶\n防失联@Wesley10033",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 79,
+                "username": "lockloveovo"
+              },
+              {
+                "end": 146,
+                "start": 134,
+                "username": "Wesley10033"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://telegram.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/Q5wiGuqCLC"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "location": "People's Republic of China",
+        "name": "Wesley",
+        "pinned_tweet_id": "2077761863937597659",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 598,
+          "following_count": 892,
+          "like_count": 8386,
+          "listed_count": 1,
+          "media_count": 185,
+          "tweet_count": 1590
+        },
+        "url": "https://t.co/Q5wiGuqCLC",
+        "username": "Wesley10032",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2076132573647093760"
+      ],
+      "media_source_tweet_id": [
+        "2076132580576141746"
+      ]
+    },
+    "author_id": "1880979169297022976",
+    "conversation_id": "2076139101443813824",
+    "created_at": "2026-07-12T02:58:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T03:58:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076139101443813824"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1852686868846092288",
+          "start": 3,
+          "username": "TL_Xingyi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/YH7CN9yJKk",
+          "end": 57,
+          "expanded_url": "https://x.com/TL_Xingyi/status/2076132580576141746/photo/1",
+          "media_key": "3_2076132573647093760",
+          "start": 34,
+          "url": "https://t.co/YH7CN9yJKk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076139101443813824",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076132580576141746",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TL_Xingyi: 你知道的，我很少用做题区这个词😹😹😹 https://t.co/YH7CN9yJKk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1592,
+        "media_key": "3_2076132573647093760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM_nk27aQAAAh7x.jpg",
+        "width": 1220
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076132573647093760"
+          ],
+          "media_source_tweet_id": [
+            "2076132580576141746"
+          ]
+        },
+        "author_id": "1880979169297022976",
+        "conversation_id": "2076139101443813824",
+        "created_at": "2026-07-12T02:58:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T03:58:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076139101443813824"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1852686868846092288",
+              "start": 3,
+              "username": "TL_Xingyi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YH7CN9yJKk",
+              "end": 57,
+              "expanded_url": "https://x.com/TL_Xingyi/status/2076132580576141746/photo/1",
+              "media_key": "3_2076132573647093760",
+              "start": 34,
+              "url": "https://t.co/YH7CN9yJKk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076139101443813824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076132580576141746",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TL_Xingyi: 你知道的，我很少用做题区这个词😹😹😹 https://t.co/YH7CN9yJKk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076132573647093760"
+          ]
+        },
+        "author_id": "1852686868846092288",
+        "conversation_id": "2076132580576141746",
+        "created_at": "2026-07-12T02:32:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T03:32:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076132580576141746"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YH7CN9yJKk",
+              "end": 42,
+              "expanded_url": "https://x.com/TL_Xingyi/status/2076132580576141746/photo/1",
+              "media_key": "3_2076132573647093760",
+              "start": 19,
+              "url": "https://t.co/YH7CN9yJKk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076132580576141746",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "你知道的，我很少用做题区这个词😹😹😹 https://t.co/YH7CN9yJKk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳/友跨🏳️‍⚧️/欢迎DM聊天(X/TG均可)/兴趣相近互fo\n魔裁(まのさば)/ 崩铁(HSR)/Galgame\n头像来自@pale_noon\n学生党 周末/节假日在线\n中文/English/日本語(勉強中)\n防失联@Wesley10033\n和平友善交流 谢绝人身攻击",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 67,
+                "username": "pale_noon"
+              },
+              {
+                "end": 126,
+                "start": 114,
+                "username": "Wesley10033"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://t.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/HjVzyPDIuK"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "location": "People's Republic of China",
+        "name": "Wesley",
+        "pinned_tweet_id": "2075263019853238477",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070912735362387968/eccaKvtY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 196,
+          "following_count": 419,
+          "like_count": 2519,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 658
+        },
+        "url": "https://t.co/HjVzyPDIuK",
+        "username": "Wesley10032",
+        "verified": true
+      },
+      {
+        "created_at": "2024-11-02T12:25:58.000Z",
+        "description": "5:30the car missin'  MTF：2025.1.9\n马列毛主义/从马列角度支持LGBT权益/偏新左？/现代毛派/反修正主义/反资反帝。广脑给我扣了个重抑中焦的帽子🤔🤔🤔。脱产学生（高中生）努力学习理论克服小资性。 友跨🏳️‍⚧️同类互fo喵。互fo都会回的喵😺",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xqzxmarxismclub.com",
+                "end": 23,
+                "expanded_url": "http://xqzxmarxismclub.com",
+                "start": 0,
+                "url": "https://t.co/slB5soX612"
+              }
+            ]
+          }
+        },
+        "id": "1852686868846092288",
+        "location": "Roermond, Nederland",
+        "name": "Physic530🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021662006047338496/LzTR6pRS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 152,
+          "following_count": 419,
+          "like_count": 5332,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 509
+        },
+        "url": "https://t.co/slB5soX612",
+        "username": "TL_Xingyi",
+        "verified": true
+      }
+    ]
+  }
+}

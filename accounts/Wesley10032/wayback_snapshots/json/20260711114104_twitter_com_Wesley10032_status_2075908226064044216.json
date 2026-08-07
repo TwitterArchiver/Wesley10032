@@ -1,0 +1,369 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075883895997026304"
+      ],
+      "media_source_tweet_id": [
+        "2075884042835378350"
+      ]
+    },
+    "author_id": "1880979169297022976",
+    "conversation_id": "2075908226064044216",
+    "created_at": "2026-07-11T11:41:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T12:41:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075908226064044216"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 24,
+          "start": 19,
+          "tag": "まのさば"
+        },
+        {
+          "end": 35,
+          "start": 25,
+          "tag": "魔法少女ノ魔女裁判"
+        },
+        {
+          "end": 43,
+          "start": 36,
+          "tag": "夏目アンアン"
+        },
+        {
+          "end": 51,
+          "start": 44,
+          "tag": "Acacia"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1620426810554220545",
+          "start": 3,
+          "username": "Sumishake1687"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/MXjt9AS9JE",
+          "end": 95,
+          "expanded_url": "https://x.com/Sumishake1687/status/2075884042835378350/photo/1",
+          "media_key": "3_2075883895997026304",
+          "start": 72,
+          "url": "https://t.co/MXjt9AS9JE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075908226064044216",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 193
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075884042835378350",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Sumishake1687: #まのさば #魔法少女ノ魔女裁判 #夏目アンアン #Acacia \n個人的ビジュNo.1のアンアンちゃん https://t.co/MXjt9AS9JE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1577,
+        "media_key": "3_2075883895997026304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM8FZ6fbUAA3v7n.jpg",
+        "width": 1347
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075883895997026304"
+          ],
+          "media_source_tweet_id": [
+            "2075884042835378350"
+          ]
+        },
+        "author_id": "1880979169297022976",
+        "conversation_id": "2075908226064044216",
+        "created_at": "2026-07-11T11:41:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T12:41:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075908226064044216"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 24,
+              "start": 19,
+              "tag": "まのさば"
+            },
+            {
+              "end": 35,
+              "start": 25,
+              "tag": "魔法少女ノ魔女裁判"
+            },
+            {
+              "end": 43,
+              "start": 36,
+              "tag": "夏目アンアン"
+            },
+            {
+              "end": 51,
+              "start": 44,
+              "tag": "Acacia"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1620426810554220545",
+              "start": 3,
+              "username": "Sumishake1687"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MXjt9AS9JE",
+              "end": 95,
+              "expanded_url": "https://x.com/Sumishake1687/status/2075884042835378350/photo/1",
+              "media_key": "3_2075883895997026304",
+              "start": 72,
+              "url": "https://t.co/MXjt9AS9JE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075908226064044216",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 193
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075884042835378350",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Sumishake1687: #まのさば #魔法少女ノ魔女裁判 #夏目アンアン #Acacia \n個人的ビジュNo.1のアンアンちゃん https://t.co/MXjt9AS9JE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075883895997026304"
+          ]
+        },
+        "author_id": "1620426810554220545",
+        "conversation_id": "2075884042835378350",
+        "created_at": "2026-07-11T10:04:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T11:04:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075884042835378350"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "まのさば"
+            },
+            {
+              "end": 16,
+              "start": 6,
+              "tag": "魔法少女ノ魔女裁判"
+            },
+            {
+              "end": 24,
+              "start": 17,
+              "tag": "夏目アンアン"
+            },
+            {
+              "end": 32,
+              "start": 25,
+              "tag": "Acacia"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MXjt9AS9JE",
+              "end": 76,
+              "expanded_url": "https://x.com/Sumishake1687/status/2075884042835378350/photo/1",
+              "media_key": "3_2075883895997026304",
+              "start": 53,
+              "url": "https://t.co/MXjt9AS9JE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075884042835378350",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 131,
+          "impression_count": 9180,
+          "like_count": 1210,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 193
+        },
+        "reply_settings": "everyone",
+        "text": "#まのさば #魔法少女ノ魔女裁判 #夏目アンアン #Acacia \n個人的ビジュNo.1のアンアンちゃん https://t.co/MXjt9AS9JE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳 / 友跨🏳️‍⚧️ / 欢迎DM聊天 / 兴趣相近互fo\n魔裁（まのさば）/ 崩铁（HSR）/ Galgame\n头像来自@pale_noon\n学生党 周末 / 节假日在线\n中文 / English / 日本語（勉強中）\n防失联@Wesley10033\n和平友善交流 谢绝人身攻击",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 66,
+                "username": "pale_noon"
+              },
+              {
+                "end": 131,
+                "start": 119,
+                "username": "Wesley10033"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://t.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/HjVzyPDIuK"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "location": "People's Republic of China",
+        "name": "Wesley",
+        "pinned_tweet_id": "2075263019853238477",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070912735362387968/eccaKvtY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 181,
+          "following_count": 399,
+          "like_count": 2100,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 614
+        },
+        "url": "https://t.co/HjVzyPDIuK",
+        "username": "Wesley10032",
+        "verified": true
+      },
+      {
+        "created_at": "2023-01-31T14:20:52.000Z",
+        "description": "描くイラストは基本版権。見たアニメとかゲームだったり結構雑多。Pixivの方に差分とかもあったりします（イラスト投稿用に作成23/1/31）\n\nskebも細々稼働。完全趣味かつ遅筆なので100％リクエスト受諾ではないです\nhttps://t.co/lYvjuyZzya",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@Sumishake1687",
+                "end": 134,
+                "expanded_url": "http://skeb.jp/@Sumishake1687",
+                "start": 111,
+                "url": "https://t.co/lYvjuyZzya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/18371653…",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/18371653/artworks",
+                "start": 0,
+                "url": "https://t.co/e112cBOSUJ"
+              }
+            ]
+          }
+        },
+        "id": "1620426810554220545",
+        "location": "み",
+        "name": "すみしの助",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1705512204186050561/A6XU29XE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1390,
+          "following_count": 131,
+          "like_count": 1125,
+          "listed_count": 20,
+          "media_count": 94,
+          "tweet_count": 99
+        },
+        "url": "https://t.co/e112cBOSUJ",
+        "username": "Sumishake1687",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082624450667945984"
+      ],
+      "media_source_tweet_id": [
+        "2082624457416597828"
+      ]
+    },
+    "author_id": "1880979169297022976",
+    "conversation_id": "2082677746808058261",
+    "created_at": "2026-07-30T04:00:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T05:00:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082677746808058261"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1916817753635426304",
+          "start": 3,
+          "username": "Goldwater8964"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Lr2mtIrl5m",
+          "end": 126,
+          "expanded_url": "https://x.com/Goldwater8964/status/2082624457416597828/photo/1",
+          "media_key": "3_2082624450667945984",
+          "start": 103,
+          "url": "https://t.co/Lr2mtIrl5m"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082677746808058261",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082624457416597828",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Goldwater8964: 马上两千粉丝了，我要开个抽奖，评论转发参与\n一等奖：挑战者2OES/公羊 坚定信念的cdk\n二等奖：10u红包/一个月高账\n三等奖：一本书，肯定好看\n参与奖：2u红包 https://t.co/Lr2mtIrl5m"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 270,
+        "media_key": "3_2082624450667945984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOb351abIAAUWfv.jpg",
+        "width": 185
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082624450667945984"
+          ]
+        },
+        "author_id": "1916817753635426304",
+        "conversation_id": "2082624457416597828",
+        "created_at": "2026-07-30T00:28:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T01:28:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082624457416597828"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Lr2mtIrl5m",
+              "end": 107,
+              "expanded_url": "https://x.com/Goldwater8964/status/2082624457416597828/photo/1",
+              "media_key": "3_2082624450667945984",
+              "start": 84,
+              "url": "https://t.co/Lr2mtIrl5m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082624457416597828",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 413,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 17,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "马上两千粉丝了，我要开个抽奖，评论转发参与\n一等奖：挑战者2OES/公羊 坚定信念的cdk\n二等奖：10u红包/一个月高账\n三等奖：一本书，肯定好看\n参与奖：2u红包 https://t.co/Lr2mtIrl5m"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082624450667945984"
+          ],
+          "media_source_tweet_id": [
+            "2082624457416597828"
+          ]
+        },
+        "author_id": "1880979169297022976",
+        "conversation_id": "2082677746808058261",
+        "created_at": "2026-07-30T04:00:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T05:00:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082677746808058261"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1916817753635426304",
+              "start": 3,
+              "username": "Goldwater8964"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Lr2mtIrl5m",
+              "end": 126,
+              "expanded_url": "https://x.com/Goldwater8964/status/2082624457416597828/photo/1",
+              "media_key": "3_2082624450667945984",
+              "start": 103,
+              "url": "https://t.co/Lr2mtIrl5m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082677746808058261",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082624457416597828",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Goldwater8964: 马上两千粉丝了，我要开个抽奖，评论转发参与\n一等奖：挑战者2OES/公羊 坚定信念的cdk\n二等奖：10u红包/一个月高账\n三等奖：一本书，肯定好看\n参与奖：2u红包 https://t.co/Lr2mtIrl5m"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳/♂/08.11.3/友跨🏳️‍⚧️\n或许是温和粉红/欢迎DM聊天(TG优先)\n魔裁(まのさば)/CS2/三角洲/Galgame/IT \n兴趣相近互fo\n好基友@lockloveovo\n学生党 周末/节假日在线(暑假限时全天在线)\nCN/EN/JP\nTG群见置顶\n防失联@Wesley10033",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 85,
+                "username": "lockloveovo"
+              },
+              {
+                "end": 152,
+                "start": 140,
+                "username": "Wesley10033"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://telegram.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/Q5wiGuqCLC"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "location": "People's Republic of China",
+        "name": "Wesley",
+        "pinned_tweet_id": "2077761863937597659",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 680,
+          "following_count": 1023,
+          "like_count": 9783,
+          "listed_count": 1,
+          "media_count": 198,
+          "tweet_count": 1793
+        },
+        "url": "https://t.co/Q5wiGuqCLC",
+        "username": "Wesley10032",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-28T11:32:29.000Z",
+        "description": "成和败努力尝试\n人若有志应该不怕迟\n谁人在我未为意\n成就靠真本事\n做个真的汉子\n承担起苦痛跟失意",
+        "id": "1916817753635426304",
+        "location": "Auckland Region, New Zealand",
+        "name": "Friedrich🇳🇿🇦🇺",
+        "pinned_tweet_id": "2072446798132883670",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065133243230265344/6BqOTcEn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1930,
+          "following_count": 1054,
+          "like_count": 8768,
+          "listed_count": 5,
+          "media_count": 404,
+          "tweet_count": 1629
+        },
+        "url": "",
+        "username": "Goldwater8964",
+        "verified": true
+      }
+    ]
+  }
+}

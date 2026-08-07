@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2079849571149119488"
+      ],
+      "media_source_tweet_id": [
+        "2079849583396454601"
+      ]
+    },
+    "author_id": "1880979169297022976",
+    "conversation_id": "2079982343599866038",
+    "created_at": "2026-07-22T17:30:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T18:30:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079982343599866038"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1510700589730177024",
+          "start": 3,
+          "username": "Lamineyamalapx"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/oBair0OWtG",
+          "end": 43,
+          "expanded_url": "https://x.com/Lamineyamalapx/status/2079849583396454601/photo/1",
+          "media_key": "3_2079849571149119488",
+          "start": 20,
+          "url": "https://t.co/oBair0OWtG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079982343599866038",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1364
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079849583396454601",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Lamineyamalapx: https://t.co/oBair0OWtG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1447,
+        "media_key": "3_2079849571149119488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN0cKlqXgAAYdrZ.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079849571149119488"
+          ]
+        },
+        "author_id": "1510700589730177024",
+        "conversation_id": "2079849583396454601",
+        "created_at": "2026-07-22T08:42:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T09:42:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079849583396454601"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oBair0OWtG",
+              "end": 23,
+              "expanded_url": "https://x.com/Lamineyamalapx/status/2079849583396454601/photo/1",
+              "media_key": "3_2079849571149119488",
+              "start": 0,
+              "url": "https://t.co/oBair0OWtG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079849583396454601",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 325,
+          "impression_count": 362616,
+          "like_count": 30687,
+          "quote_count": 61,
+          "reply_count": 332,
+          "retweet_count": 1366
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/oBair0OWtG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079849571149119488"
+          ],
+          "media_source_tweet_id": [
+            "2079849583396454601"
+          ]
+        },
+        "author_id": "1880979169297022976",
+        "conversation_id": "2079982343599866038",
+        "created_at": "2026-07-22T17:30:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T18:30:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079982343599866038"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1510700589730177024",
+              "start": 3,
+              "username": "Lamineyamalapx"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oBair0OWtG",
+              "end": 43,
+              "expanded_url": "https://x.com/Lamineyamalapx/status/2079849583396454601/photo/1",
+              "media_key": "3_2079849571149119488",
+              "start": 20,
+              "url": "https://t.co/oBair0OWtG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079982343599866038",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1364
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079849583396454601",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Lamineyamalapx: https://t.co/oBair0OWtG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳/男/友跨🏳️‍⚧️/或许是温和粉红/欢迎DM聊天(推荐使用TG)\n魔裁(まのさば)/VRChat/Galgame/IT 兴趣相近互fo\n好基友@lockloveovo\n学生党 周末/节假日在线(暑假限时全天在线)\nCN/EN/JP\nTG群见置顶\n防失联@Wesley10033",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 77,
+                "username": "lockloveovo"
+              },
+              {
+                "end": 144,
+                "start": 132,
+                "username": "Wesley10033"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://telegram.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/Q5wiGuqCLC"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "location": "People's Republic of China",
+        "name": "Wesley",
+        "pinned_tweet_id": "2075263019853238477",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 554,
+          "following_count": 840,
+          "like_count": 7450,
+          "listed_count": 1,
+          "media_count": 172,
+          "tweet_count": 1452
+        },
+        "url": "https://t.co/Q5wiGuqCLC",
+        "username": "Wesley10032",
+        "verified": true
+      },
+      {
+        "created_at": "2022-04-03T19:29:34.000Z",
+        "description": "Professional footballer.  Barcelona/Spain",
+        "id": "1510700589730177024",
+        "name": "Lamine Yamal",
+        "pinned_tweet_id": "2078045592660389988",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079134825869410304/nl2ti6_I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4192,
+          "following_count": 98,
+          "like_count": 40129,
+          "listed_count": 2,
+          "media_count": 420,
+          "tweet_count": 3177
+        },
+        "url": "",
+        "username": "Lamineyamalapx",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,433 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880979169297022976",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1299365067415154689",
+          "name": "Animation news"
+        }
+      }
+    ],
+    "conversation_id": "2082269174299279653",
+    "created_at": "2026-07-29T00:57:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T01:57:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082269174299279653"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "90302375",
+          "start": 3,
+          "username": "yuzusoft"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082269174299279653",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1686
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082118892516790740",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yuzusoft: 本日7月29日は『千恋＊万花』が発売されてちょうど10周年記念日です。おかげさまで全世界のミリオンセールスを達成し、そしてなんと先日のゆずソフトSongFes2026にて作品のアニメ化が発表されました！詳しくは公式発表をお待ちください。皆様の作品の思…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 719,
+        "media_key": "3_2079786192065998848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNzihcLbMAAygel.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880979169297022976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1299365067415154689",
+              "name": "Animation news"
+            }
+          }
+        ],
+        "conversation_id": "2082269174299279653",
+        "created_at": "2026-07-29T00:57:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T01:57:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082269174299279653"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "90302375",
+              "start": 3,
+              "username": "yuzusoft"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082269174299279653",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1686
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082118892516790740",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yuzusoft: 本日7月29日は『千恋＊万花』が発売されてちょうど10周年記念日です。おかげさまで全世界のミリオンセールスを達成し、そしてなんと先日のゆずソフトSongFes2026にて作品のアニメ化が発表されました！詳しくは公式発表をお待ちください。皆様の作品の思…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079786192065998848"
+          ]
+        },
+        "author_id": "90302375",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1299365067415154689",
+              "name": "Animation news"
+            }
+          }
+        ],
+        "conversation_id": "2082118892516790740",
+        "created_at": "2026-07-28T15:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T16:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082118892516790740"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cZzY37qGR7",
+              "end": 170,
+              "expanded_url": "https://x.com/yuzusoft/status/2082118892516790740/photo/1",
+              "media_key": "3_2079786192065998848",
+              "start": 147,
+              "url": "https://t.co/cZzY37qGR7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082118892516790740",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 235,
+          "impression_count": 128838,
+          "like_count": 4354,
+          "quote_count": 89,
+          "reply_count": 55,
+          "retweet_count": 1686
+        },
+        "reply_settings": "everyone",
+        "text": "本日7月29日は『千恋＊万花』が発売されてちょうど10周年記念日です。おかげさまで全世界のミリオンセールスを達成し、そしてなんと先日のゆずソフトSongFes2026にて作品のアニメ化が発表されました！詳しくは公式発表をお待ちください。皆様の作品の思い出などもぜひリプいただければ嬉しいです！ https://t.co/cZzY37qGR7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳/♂/08.11.3/友跨🏳️‍⚧️\n或许是温和粉红/欢迎DM聊天(推荐使用TG)\n魔裁(まのさば)/CS2/三角洲/Galgame/IT \n兴趣相近互fo\n好基友@lockloveovo\n学生党 周末/节假日在线(暑假限时全天在线)\nCN/EN/JP\nTG群见置顶\n防失联@Wesley10033",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 87,
+                "username": "lockloveovo"
+              },
+              {
+                "end": 154,
+                "start": 142,
+                "username": "Wesley10033"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://telegram.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/Q5wiGuqCLC"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "location": "People's Republic of China",
+        "name": "Wesley",
+        "pinned_tweet_id": "2077761863937597659",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 666,
+          "following_count": 1002,
+          "like_count": 9470,
+          "listed_count": 1,
+          "media_count": 197,
+          "tweet_count": 1756
+        },
+        "url": "https://t.co/Q5wiGuqCLC",
+        "username": "Wesley10032",
+        "verified": true
+      },
+      {
+        "created_at": "2009-11-16T02:18:48.000Z",
+        "description": "美少女ゲームメーカーゆずソフトの公式アカウントです。こちらのアカウントでは質問は受け付けておりません。質問のある方は弊社WEBサイトのメールフォームよりお願い致します。 https://t.co/cTz4SpnUlh",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/c/yuzusoft2007",
+                "end": 108,
+                "expanded_url": "http://youtube.com/c/yuzusoft2007",
+                "start": 85,
+                "url": "https://t.co/cTz4SpnUlh"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "project-3lj.com",
+                "end": 23,
+                "expanded_url": "https://www.project-3lj.com/",
+                "start": 0,
+                "url": "https://t.co/cKH4U2KJOO"
+              }
+            ]
+          }
+        },
+        "id": "90302375",
+        "location": "大阪",
+        "name": "ゆずソフト【公式】",
+        "pinned_tweet_id": "2080602683816456632",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/528772266/_______normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 242228,
+          "following_count": 33,
+          "like_count": 238,
+          "listed_count": 2182,
+          "media_count": 23363,
+          "tweet_count": 44054
+        },
+        "url": "https://t.co/cKH4U2KJOO",
+        "username": "yuzusoft",
+        "verified": true
+      }
+    ]
+  }
+}

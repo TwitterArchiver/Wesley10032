@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1525456751788969985",
+    "conversation_id": "1833711571568316622",
+    "created_at": "2024-09-16T12:14:53.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-16T13:14:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1835653581011288262"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1510585080443707393",
+          "start": 0,
+          "username": "JKurohaOfficial"
+        },
+        {
+          "end": 26,
+          "id": "90302375",
+          "start": 17,
+          "username": "yuzusoft"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1835653581011288262",
+    "in_reply_to_user_id": "1510585080443707393",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1833829242842280375",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JKurohaOfficial @yuzusoft 中国人口14亿，日本加上美国也就4亿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1525456751788969985",
+        "conversation_id": "1833711571568316622",
+        "created_at": "2024-09-16T12:14:53.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-16T13:14:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1835653581011288262"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1510585080443707393",
+              "start": 0,
+              "username": "JKurohaOfficial"
+            },
+            {
+              "end": 26,
+              "id": "90302375",
+              "start": 17,
+              "username": "yuzusoft"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1835653581011288262",
+        "in_reply_to_user_id": "1510585080443707393",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1833829242842280375",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JKurohaOfficial @yuzusoft 中国人口14亿，日本加上美国也就4亿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510585080443707393",
+        "conversation_id": "1833711571568316622",
+        "created_at": "2024-09-11T11:25:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-11T12:25:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1833829242842280375"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 14,
+              "normalized_text": "中国",
+              "probability": 0.7858,
+              "start": 13,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 9,
+              "id": "90302375",
+              "start": 0,
+              "username": "yuzusoft"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1833829242842280375",
+        "in_reply_to_user_id": "90302375",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1024,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1833711571568316622",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuzusoft なんで中国のゆずソフトのフォロワーは全世界(ほかの国)の全計より多いだよw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-14T12:43:40.000Z",
+        "description": "Free Ukraine and Palestine / 反对中国修正主义 / 平反六四 / 高举马列毛旗帜",
+        "id": "1525456751788969985",
+        "name": "Wesley",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811578387594649600/eQdjLvSa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 37,
+          "like_count": 75,
+          "listed_count": 0,
+          "tweet_count": 318
+        },
+        "username": "Wesley10032",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-03T11:48:59.000Z",
+        "description": "🇺🇸 アニメ•音楽•鉄道•ゲーム等色々が趣味。\nFanatic by anime, music, railroads, games, etc.\nHigh Commissioner in North America of @enchenia",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 119,
+                "start": 110,
+                "username": "enchenia"
+              }
+            ]
+          }
+        },
+        "id": "1510585080443707393",
+        "location": "Virginia, USA",
+        "name": "𝓚𝓾𝓻𝓸𝓱𝓪",
+        "pinned_tweet_id": "1806473959728443428",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1824305823306203136/L7EZBuzw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1607,
+          "following_count": 5986,
+          "like_count": 65674,
+          "listed_count": 3,
+          "tweet_count": 5197
+        },
+        "username": "JKurohaOfficial",
+        "verified": false
+      },
+      {
+        "created_at": "2009-11-16T02:18:48.000Z",
+        "description": "美少女ゲームメーカーゆずソフトの公式アカウントです。こちらのアカウントでは質問は受け付けておりません。質問のある方は弊社WEBサイトのメールフォームよりお願い致します。 https://t.co/cTz4SpnUlh",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/c/yuzusoft2007",
+                "end": 108,
+                "expanded_url": "http://youtube.com/c/yuzusoft2007",
+                "start": 85,
+                "url": "https://t.co/cTz4SpnUlh"
+              }
+            ]
+          }
+        },
+        "id": "90302375",
+        "location": "大阪",
+        "name": "ゆずソフト【公式】",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/528772266/_______normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 191764,
+          "following_count": 22,
+          "like_count": 114,
+          "listed_count": 2181,
+          "tweet_count": 42904
+        },
+        "username": "yuzusoft",
+        "verified": true
+      }
+    ]
+  }
+}

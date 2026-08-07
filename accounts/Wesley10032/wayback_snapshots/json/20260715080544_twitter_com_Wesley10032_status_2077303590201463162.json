@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880979169297022976",
+    "conversation_id": "2077303590201463162",
+    "created_at": "2026-07-15T08:05:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T09:05:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077303590201463162"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/bochichan250hh…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/bochichan250hh/status/2077292836051959846",
+          "start": 12,
+          "url": "https://t.co/8k3Lv0AN5X"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077303590201463162",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077292836051959846",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我对推特的迷恋程度：👇 https://t.co/8k3Lv0AN5X"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 435,
+        "media_key": "3_2077292722465939456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNQGuaEWIAA05mg.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880979169297022976",
+        "conversation_id": "2077303590201463162",
+        "created_at": "2026-07-15T08:05:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T09:05:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077303590201463162"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bochichan250hh…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/bochichan250hh/status/2077292836051959846",
+              "start": 12,
+              "url": "https://t.co/8k3Lv0AN5X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077303590201463162",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077292836051959846",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我对推特的迷恋程度：👇 https://t.co/8k3Lv0AN5X"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077292722465939456"
+          ]
+        },
+        "author_id": "2063159075572158465",
+        "conversation_id": "2077292836051959846",
+        "created_at": "2026-07-15T07:23:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T08:23:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077292836051959846"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EaAJNgLj91",
+              "end": 35,
+              "expanded_url": "https://x.com/Bochichan250hh/status/2077292836051959846/photo/1",
+              "media_key": "3_2077292722465939456",
+              "start": 12,
+              "url": "https://t.co/EaAJNgLj91"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077292836051959846",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 70,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我对抖音的迷恋程度：👇 https://t.co/EaAJNgLj91"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳/男/友跨🏳️‍⚧️/欢迎DM聊天(X/TG均可)\n魔裁(まのさば)/VRChat/Galgame/IT 兴趣相近互fo\n学生党 周末/节假日在线(暑假限时全天在线)\nCN/EN/JP(a little)\n防失联@Wesley10033\n和平友善交流 谢绝人身攻击",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 111,
+                "username": "Wesley10033"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://telegram.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/Q5wiGuqCLC"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "location": "People's Republic of China",
+        "name": "Wesley",
+        "pinned_tweet_id": "2075263019853238477",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 352,
+          "following_count": 617,
+          "like_count": 4648,
+          "listed_count": 0,
+          "media_count": 96,
+          "tweet_count": 962
+        },
+        "url": "https://t.co/Q5wiGuqCLC",
+        "username": "Wesley10032",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-06T07:21:34.000Z",
+        "description": "it is too late…. \n@Yokuso_desu的小账户\n苦练electric guitar 🎸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 18,
+                "username": "Yokuso_desu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/BochiChan250",
+                "end": 23,
+                "expanded_url": "http://t.me/BochiChan250",
+                "start": 0,
+                "url": "https://t.co/dkFNyeybig"
+              }
+            ]
+          }
+        },
+        "id": "2063159075572158465",
+        "name": "防尘迷呀awa🇰🇵🎸（互关）",
+        "pinned_tweet_id": "2077086358259081675",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068608809841696768/DCfkJfRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 61,
+          "like_count": 157,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 96
+        },
+        "url": "https://t.co/dkFNyeybig",
+        "username": "Bochichan250hh",
+        "verified": false
+      }
+    ]
+  }
+}

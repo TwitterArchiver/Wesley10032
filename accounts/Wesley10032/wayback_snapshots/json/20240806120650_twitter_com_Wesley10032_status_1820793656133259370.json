@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1525456751788969985",
+    "conversation_id": "1820137786420420890",
+    "created_at": "2024-08-06T12:06:50.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-06T13:06:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1820793656133259370"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1132301557129666562",
+          "start": 0,
+          "username": "meelonmuskusa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1820793656133259370",
+    "in_reply_to_user_id": "1132301557129666562",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1820137786420420890",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@meelonmuskusa “从来就没有什么救世主，也不靠神仙皇帝，要创造人类的幸福，全靠我们自己。”——《国际歌》"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1525456751788969985",
+        "conversation_id": "1820137786420420890",
+        "created_at": "2024-08-06T12:06:50.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-06T13:06:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1820793656133259370"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1132301557129666562",
+              "start": 0,
+              "username": "meelonmuskusa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1820793656133259370",
+        "in_reply_to_user_id": "1132301557129666562",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1820137786420420890",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meelonmuskusa “从来就没有什么救世主，也不靠神仙皇帝，要创造人类的幸福，全靠我们自己。”——《国际歌》"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1820137779906433024"
+          ]
+        },
+        "author_id": "1132301557129666562",
+        "conversation_id": "1820137786420420890",
+        "created_at": "2024-08-04T16:40:39.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-04T17:40:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1820137786420420890"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/zHGIIwRqVn",
+              "end": 76,
+              "expanded_url": "https://twitter.com/meelonmuskusa/status/1820137786420420890/photo/1",
+              "media_key": "3_1820137779906433024",
+              "start": 53,
+              "url": "https://t.co/zHGIIwRqVn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1820137786420420890",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1726,
+          "impression_count": 7175629,
+          "like_count": 174159,
+          "quote_count": 2182,
+          "reply_count": 37545,
+          "retweet_count": 13708
+        },
+        "reply_settings": "everyone",
+        "text": "Do you believe in the power of prayer?\n\nA. Yes\nB. No https://t.co/zHGIIwRqVn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-14T12:43:40.000Z",
+        "description": "Free Ukraine and Palestine 🇺🇦🇵🇸",
+        "id": "1525456751788969985",
+        "name": "Wesley",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811578387594649600/eQdjLvSa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 30,
+          "like_count": 37,
+          "listed_count": 0,
+          "tweet_count": 217
+        },
+        "username": "Wesley10032",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-25T15:05:03.000Z",
+        "description": "I'm Not Elon Musk. This is a PARODY Account. This Account is Not Affiliated with Elonmusk. Daily Questions /Quiz. Freedom Of Speech. MAGA 🇺🇸2024. I Love 𝕏 ♥",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "heylink.me/xprofit",
+                "end": 23,
+                "expanded_url": "https://heylink.me/xprofit",
+                "start": 0,
+                "url": "https://t.co/UCHdZEAZzh"
+              }
+            ]
+          }
+        },
+        "id": "1132301557129666562",
+        "location": "TELEGRAM",
+        "name": "Elon Musk - Parody",
+        "pinned_tweet_id": "1820137786420420890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791828897950265344/rzLkaJF-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111233,
+          "following_count": 8735,
+          "like_count": 1819,
+          "listed_count": 93,
+          "tweet_count": 12350
+        },
+        "url": "https://t.co/UCHdZEAZzh",
+        "username": "meelonmuskusa",
+        "verified": true
+      }
+    ]
+  }
+}

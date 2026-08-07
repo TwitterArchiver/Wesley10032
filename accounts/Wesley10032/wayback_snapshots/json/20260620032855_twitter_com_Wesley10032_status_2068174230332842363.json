@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880979169297022976",
+    "conversation_id": "2067926278070784207",
+    "created_at": "2026-06-20T03:28:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T04:28:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068174230332842363"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1990706954998595584",
+          "start": 0,
+          "username": "cutiieepie6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068174230332842363",
+    "in_reply_to_user_id": "1990706954998595584",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067926278070784207",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cutiieepie6 做作"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2067926274836684800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLK__ZlWYAAAwRk.jpg",
+        "width": 678
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880979169297022976",
+        "conversation_id": "2067926278070784207",
+        "created_at": "2026-06-20T03:28:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T04:28:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068174230332842363"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1990706954998595584",
+              "start": 0,
+              "username": "cutiieepie6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068174230332842363",
+        "in_reply_to_user_id": "1990706954998595584",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067926278070784207",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cutiieepie6 做作"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067926274836684800"
+          ]
+        },
+        "author_id": "1990706954998595584",
+        "conversation_id": "2067926278070784207",
+        "created_at": "2026-06-19T11:03:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T12:03:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067926278070784207"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lMcbTjTol7",
+              "end": 91,
+              "expanded_url": "https://x.com/cutiieepie6/status/2067926278070784207/photo/1",
+              "media_key": "3_2067926274836684800",
+              "start": 68,
+              "url": "https://t.co/lMcbTjTol7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067926278070784207",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 133,
+          "impression_count": 81933,
+          "like_count": 1399,
+          "quote_count": 143,
+          "reply_count": 1199,
+          "retweet_count": 92
+        },
+        "reply_settings": "everyone",
+        "text": "What's the first thing that comes to your mind, when you see this?? https://t.co/lMcbTjTol7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳 / 友跨🏳️‍⚧️ / Free Ukraine 🇺🇦 / Free Palestine 🇵🇸 / DM可\n中文 / English / 日本語（勉強中）\n防失联 @Wesley10033\n和平友善交流，谢绝人身攻击\n中华人民共和国万岁 世界人民大团结万岁",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 88,
+                "username": "Wesley10033"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "location": "China",
+        "name": "Wesley10032",
+        "pinned_tweet_id": "2068037933899407863",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021156330271039488/mAwe21JP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 149,
+          "like_count": 625,
+          "listed_count": 1,
+          "media_count": 7,
+          "tweet_count": 386
+        },
+        "url": "",
+        "username": "Wesley10032",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-18T09:03:10.000Z",
+        "description": "🎨 Content Creator & Creative Mind\n🔥 Daily Posts • Viral Content • Trends\n💯 Follow Me, I Always Follow Back\n✨ Let’s Grow Together",
+        "id": "1990706954998595584",
+        "location": "Your Support ❤️ Alot for me",
+        "name": "Mary 🕊️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052845650426093568/EDedaKzD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8926,
+          "following_count": 2042,
+          "like_count": 11027,
+          "listed_count": 39,
+          "media_count": 5793,
+          "tweet_count": 23699
+        },
+        "url": "",
+        "username": "cutiieepie6",
+        "verified": true
+      }
+    ]
+  }
+}

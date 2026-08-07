@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1525456751788969985",
+    "conversation_id": "1826949254524334119",
+    "created_at": "2024-08-23T14:54:47.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-23T15:54:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1826996515229053401"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1520221854249611265",
+          "start": 0,
+          "username": "TylerBeThyName"
+        },
+        {
+          "end": 28,
+          "id": "1382209054999646212",
+          "start": 16,
+          "username": "ElonMuskAOC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1826996515229053401",
+    "in_reply_to_user_id": "1520221854249611265",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1826951877654913196",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TylerBeThyName @ElonMuskAOC 怎么，你想和中国人一样被东方纳粹屠杀吗？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1525456751788969985",
+        "conversation_id": "1826949254524334119",
+        "created_at": "2024-08-23T14:54:47.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-23T15:54:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1826996515229053401"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1520221854249611265",
+              "start": 0,
+              "username": "TylerBeThyName"
+            },
+            {
+              "end": 28,
+              "id": "1382209054999646212",
+              "start": 16,
+              "username": "ElonMuskAOC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1826996515229053401",
+        "in_reply_to_user_id": "1520221854249611265",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1826951877654913196",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TylerBeThyName @ElonMuskAOC 怎么，你想和中国人一样被东方纳粹屠杀吗？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1826951873783349248"
+          ]
+        },
+        "author_id": "1520221854249611265",
+        "conversation_id": "1826949254524334119",
+        "created_at": "2024-08-23T11:57:25.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-23T12:57:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1826951877654913196"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 32,
+              "normalized_text": "Japan",
+              "probability": 0.972,
+              "start": 28,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1382209054999646212",
+              "start": 0,
+              "username": "ElonMuskAOC"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/eryhephwhw",
+              "end": 59,
+              "expanded_url": "https://twitter.com/TylerBeThyName/status/1826951877654913196/photo/1",
+              "media_key": "3_1826951873783349248",
+              "start": 36,
+              "url": "https://t.co/eRyhEPhwhW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1826951877654913196",
+        "in_reply_to_user_id": "1382209054999646212",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 31607,
+          "like_count": 696,
+          "quote_count": 3,
+          "reply_count": 35,
+          "retweet_count": 30
+        },
+        "referenced_tweets": [
+          {
+            "id": "1826949254524334119",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ElonMuskAOC I miss the old Japan 😔 https://t.co/eRyhEPhwhW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-14T12:43:40.000Z",
+        "description": "Free Ukraine and Palestine 🇺🇦🇵🇸",
+        "id": "1525456751788969985",
+        "name": "Wesley",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811578387594649600/eQdjLvSa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 34,
+          "like_count": 45,
+          "listed_count": 0,
+          "tweet_count": 237
+        },
+        "username": "Wesley10032",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-30T02:02:02.000Z",
+        "description": "Patriot 🇺🇸 Christian ✝️ Libertarian 🦔 Raiders ☠️",
+        "id": "1520221854249611265",
+        "name": "Tyler Durden’s Toxic Masculinity",
+        "pinned_tweet_id": "1791984293679641022",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1526140491963592705/5tHcfcmH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 392,
+          "following_count": 354,
+          "like_count": 13236,
+          "listed_count": 3,
+          "tweet_count": 10564
+        },
+        "username": "TylerBeThyName",
+        "verified": true
+      },
+      {
+        "created_at": "2021-04-14T05:48:23.000Z",
+        "description": "I’m on a quest to bang AOC on Mars. (Parody Account)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "elon-musk-news.beehiiv.com",
+                "end": 23,
+                "expanded_url": "http://elon-musk-news.beehiiv.com",
+                "start": 0,
+                "url": "https://t.co/PhPWxIZuoa"
+              }
+            ]
+          }
+        },
+        "id": "1382209054999646212",
+        "location": "Mars",
+        "name": "Elon Musk (Parody)",
+        "pinned_tweet_id": "1824519872241656267",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1785089965619118080/NATKmh45_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1492766,
+          "following_count": 705,
+          "like_count": 66709,
+          "listed_count": 2045,
+          "tweet_count": 26370
+        },
+        "url": "https://t.co/PhPWxIZuoa",
+        "username": "ElonMuskAOC",
+        "verified": true
+      }
+    ]
+  }
+}

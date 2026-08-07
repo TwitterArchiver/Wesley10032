@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880979169297022976",
+    "conversation_id": "2066590113757352273",
+    "created_at": "2026-06-16T15:20:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T16:20:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066903818969985471"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "4775210080",
+          "start": 0,
+          "username": "lazydjay"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066903818969985471",
+    "in_reply_to_user_id": "4775210080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066590113757352273",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lazydjay 第三张是阅兵啊，纪念抗战胜利80周年"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 657,
+        "media_key": "3_2066588945652031488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK3_smJWoAAabPf.png",
+        "width": 530
+      },
+      {
+        "height": 720,
+        "media_key": "3_2066588984512249856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK3_u26WgAAC__t.jpg",
+        "width": 1093
+      },
+      {
+        "height": 626,
+        "media_key": "3_2066589096407867393",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK3_1XwWIAEXCCf.jpg",
+        "width": 1106
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880979169297022976",
+        "conversation_id": "2066590113757352273",
+        "created_at": "2026-06-16T15:20:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T16:20:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066903818969985471"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "4775210080",
+              "start": 0,
+              "username": "lazydjay"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066903818969985471",
+        "in_reply_to_user_id": "4775210080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066590113757352273",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lazydjay 第三张是阅兵啊，纪念抗战胜利80周年"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066588945652031488",
+            "3_2066588984512249856",
+            "3_2066589096407867393"
+          ]
+        },
+        "author_id": "4775210080",
+        "conversation_id": "2066590113757352273",
+        "created_at": "2026-06-15T18:34:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T19:34:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066590113757352273"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/07r8Tt7CUH",
+              "end": 64,
+              "expanded_url": "https://x.com/lazydjay/status/2066590113757352273/photo/1",
+              "media_key": "3_2066588945652031488",
+              "start": 41,
+              "url": "https://t.co/07r8Tt7CUH"
+            },
+            {
+              "display_url": "pic.x.com/07r8Tt7CUH",
+              "end": 64,
+              "expanded_url": "https://x.com/lazydjay/status/2066590113757352273/photo/1",
+              "media_key": "3_2066588984512249856",
+              "start": 41,
+              "url": "https://t.co/07r8Tt7CUH"
+            },
+            {
+              "display_url": "pic.x.com/07r8Tt7CUH",
+              "end": 64,
+              "expanded_url": "https://x.com/lazydjay/status/2066590113757352273/photo/1",
+              "media_key": "3_2066589096407867393",
+              "start": 41,
+              "url": "https://t.co/07r8Tt7CUH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066590113757352273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 11027,
+          "like_count": 108,
+          "quote_count": 0,
+          "reply_count": 42,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "瞧见了吧\n川普的生日\n朝鲜党的生日\n共产党的生日\n\n共同特征：显摆，洗脑，烧钱！ https://t.co/07r8Tt7CUH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳 / 民主社会主义 / 反台独 / Free Ukraine 🇺🇦 / Free Palestine 🇵🇸\n魔裁（まのさば） / 崩铁（HSR）\n和平友善交流，谢绝人身攻击\n中华人民共和国万岁 世界人民大团结万岁",
+        "id": "1880979169297022976",
+        "location": "China",
+        "name": "Wesley10032",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021156330271039488/mAwe21JP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 110,
+          "like_count": 526,
+          "listed_count": 1,
+          "media_count": 2,
+          "tweet_count": 306
+        },
+        "username": "Wesley10032",
+        "verified": false
+      },
+      {
+        "created_at": "2016-01-11T14:56:13.000Z",
+        "description": "叫俺\"小外宣\"好了，早期毕业中国XX美术学院，现为职业画家，定居英国，爱好自由，对独裁深恶痛绝，有朋自远方来 聊感兴趣的话题 不亦乐乎！💕",
+        "id": "4775210080",
+        "name": "Jay Yates",
+        "pinned_tweet_id": "1468233775490478080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026910219251388417/J8FomQsH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80992,
+          "following_count": 329,
+          "like_count": 62356,
+          "listed_count": 347,
+          "media_count": 18923,
+          "tweet_count": 39047
+        },
+        "username": "lazydjay",
+        "verified": false
+      }
+    ]
+  }
+}

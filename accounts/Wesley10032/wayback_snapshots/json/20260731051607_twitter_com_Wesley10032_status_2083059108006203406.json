@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880979169297022976",
+    "conversation_id": "2083021441193443427",
+    "created_at": "2026-07-31T05:16:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T06:16:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083059108006203406"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1976239993464242176",
+          "start": 0,
+          "username": "Star_Furry_mtf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083059108006203406",
+    "in_reply_to_user_id": "1976239993464242176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083058997964288202",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Star_Furry_mtf 咱的脑子很差，玩不懂（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880979169297022976",
+        "conversation_id": "2083021441193443427",
+        "created_at": "2026-07-31T05:16:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T06:16:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083059108006203406"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1976239993464242176",
+              "start": 0,
+              "username": "Star_Furry_mtf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083059108006203406",
+        "in_reply_to_user_id": "1976239993464242176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083058997964288202",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Star_Furry_mtf 咱的脑子很差，玩不懂（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976239993464242176",
+        "conversation_id": "2083021441193443427",
+        "created_at": "2026-07-31T05:15:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T06:15:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083058997964288202"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1880979169297022976",
+              "start": 0,
+              "username": "Wesley10032"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083058997964288202",
+        "in_reply_to_user_id": "1880979169297022976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083058886823837696",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wesley10032 可我不玩cs，我是工厂类玩家爱好者"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳/♂/08.11.3/友跨🏳️‍⚧️\n或许是温和粉红/欢迎DM聊天(TG优先)\n魔裁(まのさば)/CS2/三角洲/Galgame/IT \n兴趣相近互fo\n好基友@lockloveovo\n学生党 周末/节假日在线(暑假限时全天在线)\nCN/EN/JP\nTG群见置顶\n防失联@Wesley10033",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 85,
+                "username": "lockloveovo"
+              },
+              {
+                "end": 152,
+                "start": 140,
+                "username": "Wesley10033"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://telegram.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/Q5wiGuqCLC"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "location": "People's Republic of China",
+        "name": "Wesley",
+        "pinned_tweet_id": "2083033063257420070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 693,
+          "following_count": 1051,
+          "like_count": 10134,
+          "listed_count": 1,
+          "media_count": 203,
+          "tweet_count": 1852
+        },
+        "url": "https://t.co/Q5wiGuqCLC",
+        "username": "Wesley10032",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-09T10:55:34.000Z",
+        "description": "|中文🔴|English⭕|无证含糖|2026.6.18|同类互fo|欢迎私信骚扰|",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Furry_Stars",
+                "end": 23,
+                "expanded_url": "https://t.me/Furry_Stars",
+                "start": 0,
+                "url": "https://t.co/pkA9bMAClM"
+              }
+            ]
+          }
+        },
+        "id": "1976239993464242176",
+        "location": "湖南省 长沙市 距你0.9178km",
+        "name": "星曦🏳️‍⚧️Star🍥",
+        "pinned_tweet_id": "2082401641307713682",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064571861527339008/UcsIEUIm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 124,
+          "like_count": 422,
+          "listed_count": 1,
+          "media_count": 35,
+          "tweet_count": 533
+        },
+        "url": "https://t.co/pkA9bMAClM",
+        "username": "Star_Furry_mtf",
+        "verified": false
+      }
+    ]
+  }
+}

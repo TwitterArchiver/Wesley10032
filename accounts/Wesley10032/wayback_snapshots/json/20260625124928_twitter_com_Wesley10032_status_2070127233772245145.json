@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880979169297022976",
+    "conversation_id": "2069840599209873429",
+    "created_at": "2026-06-25T12:49:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T13:49:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070127233772245145"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1964224152405233668",
+          "start": 0,
+          "username": "vamp1bella"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070127233772245145",
+    "in_reply_to_user_id": "1964224152405233668",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069840599209873429",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@vamp1bella 日本我有三不喷，音乐动画片"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 490,
+        "media_key": "3_2069816764897153024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLl3YZ3X0AAyqjI.jpg",
+        "width": 736
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880979169297022976",
+        "conversation_id": "2069840599209873429",
+        "created_at": "2026-06-25T12:49:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T13:49:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070127233772245145"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1964224152405233668",
+              "start": 0,
+              "username": "vamp1bella"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070127233772245145",
+        "in_reply_to_user_id": "1964224152405233668",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069840599209873429",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@vamp1bella 日本我有三不喷，音乐动画片"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069816764897153024"
+          ]
+        },
+        "author_id": "1964224152405233668",
+        "conversation_id": "2069840599209873429",
+        "created_at": "2026-06-24T17:50:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T18:50:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069840599209873429"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TQDuoEYPmG",
+              "end": 62,
+              "expanded_url": "https://x.com/vamp1bella/status/2069840599209873429/photo/1",
+              "media_key": "3_2069816764897153024",
+              "start": 39,
+              "url": "https://t.co/TQDuoEYPmG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069840599209873429",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 5841,
+          "like_count": 109,
+          "quote_count": 19,
+          "reply_count": 191,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "mention one thing you love about Japan https://t.co/TQDuoEYPmG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳 / 友跨🏳️‍⚧️ / 欢迎DM聊天 / 兴趣相近互fo\n魔裁（まのさば）/ 崩铁（HSR）/ Galgame\n学生党 周末 / 节假日在线\n中文 / English / 日本語（勉強中）\n防失联 @Wesley10033\n和平友善交流 谢绝人身攻击\n中华人民共和国万岁 世界人民大团结万岁",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 105,
+                "username": "Wesley10033"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "location": "China",
+        "name": "Wesley10032",
+        "pinned_tweet_id": "2068037933899407863",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068584583315283968/pGV4njxw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 206,
+          "like_count": 839,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 451
+        },
+        "url": "",
+        "username": "Wesley10032",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-06T07:08:53.000Z",
+        "description": "ILoveUIHateU\n\n#aesthetic #diary",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 24,
+                "start": 14,
+                "tag": "aesthetic"
+              },
+              {
+                "end": 31,
+                "start": 25,
+                "tag": "diary"
+              }
+            ]
+          }
+        },
+        "id": "1964224152405233668",
+        "location": "🍦",
+        "name": "bella🍒",
+        "pinned_tweet_id": "2069901390525206869",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062629525989597184/n29k9EaT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1291,
+          "following_count": 990,
+          "like_count": 16508,
+          "listed_count": 6,
+          "media_count": 529,
+          "tweet_count": 3699
+        },
+        "url": "",
+        "username": "vamp1bella",
+        "verified": false
+      }
+    ]
+  }
+}

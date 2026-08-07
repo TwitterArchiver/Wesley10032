@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1525456751788969985",
+    "conversation_id": "1819970049777565869",
+    "created_at": "2024-08-05T12:05:04.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-05T13:05:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1820430821704204372"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "3429950987",
+          "start": 0,
+          "username": "engineers_feed"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1820430821704204372",
+    "in_reply_to_user_id": "3429950987",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1819970049777565869",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@engineers_feed 二元一次方程组，中国初中生都会"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1525456751788969985",
+        "conversation_id": "1819970049777565869",
+        "created_at": "2024-08-05T12:05:04.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-05T13:05:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1820430821704204372"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "3429950987",
+              "start": 0,
+              "username": "engineers_feed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1820430821704204372",
+        "in_reply_to_user_id": "3429950987",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1819970049777565869",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@engineers_feed 二元一次方程组，中国初中生都会"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1819970044341723136"
+          ]
+        },
+        "author_id": "3429950987",
+        "conversation_id": "1819970049777565869",
+        "created_at": "2024-08-04T05:34:07.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-04T06:34:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1819970049777565869"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/pk2U4EcZLt",
+              "end": 48,
+              "expanded_url": "https://twitter.com/engineers_feed/status/1819970049777565869/photo/1",
+              "media_key": "3_1819970044341723136",
+              "start": 25,
+              "url": "https://t.co/pk2U4EcZLt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1819970049777565869",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13216,
+          "impression_count": 14591657,
+          "like_count": 51431,
+          "quote_count": 1532,
+          "reply_count": 7497,
+          "retweet_count": 3243
+        },
+        "reply_settings": "everyone",
+        "text": "World's toughest problem https://t.co/pk2U4EcZLt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-14T12:43:40.000Z",
+        "description": "Free Ukraine and Palestine 🇺🇦🇵🇸",
+        "id": "1525456751788969985",
+        "name": "Wesley",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811578387594649600/eQdjLvSa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 29,
+          "like_count": 37,
+          "listed_count": 0,
+          "tweet_count": 214
+        },
+        "username": "Wesley10032",
+        "verified": false
+      },
+      {
+        "created_at": "2015-08-18T14:38:54.000Z",
+        "description": "The most fun way to learn something new everyday. Brother page of @stats_feed YouTube https://t.co/rAUIl0V1xC",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 66,
+                "username": "stats_feed"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "youtube.com/@world_of_engi…",
+                "end": 109,
+                "expanded_url": "https://youtube.com/@world_of_engineering",
+                "start": 86,
+                "url": "https://t.co/rAUIl0V1xC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "worldofengineering.com",
+                "end": 23,
+                "expanded_url": "https://worldofengineering.com",
+                "start": 0,
+                "url": "https://t.co/knwRB43cRF"
+              }
+            ]
+          }
+        },
+        "id": "3429950987",
+        "name": "World of Engineering",
+        "pinned_tweet_id": "1818733555524211184",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1509808420030844929/ifEhyqHM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3377761,
+          "following_count": 65,
+          "like_count": 3115,
+          "listed_count": 6959,
+          "tweet_count": 19609
+        },
+        "url": "https://t.co/knwRB43cRF",
+        "username": "engineers_feed",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880979169297022976",
+    "conversation_id": "2078111913112981793",
+    "created_at": "2026-07-17T14:33:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T15:33:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078125851594695075"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1927736766662156288",
+          "start": 0,
+          "username": "GLANT796970"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078125851594695075",
+    "in_reply_to_user_id": "1927736766662156288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078125612212892076",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GLANT796970 想到什么聊什么，没有规律可言（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880979169297022976",
+        "conversation_id": "2078111913112981793",
+        "created_at": "2026-07-17T14:33:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T15:33:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078125851594695075"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1927736766662156288",
+              "start": 0,
+              "username": "GLANT796970"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078125851594695075",
+        "in_reply_to_user_id": "1927736766662156288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078125612212892076",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GLANT796970 想到什么聊什么，没有规律可言（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1927736766662156288",
+        "conversation_id": "2078111913112981793",
+        "created_at": "2026-07-17T14:32:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T15:32:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078125612212892076"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1880979169297022976",
+              "start": 0,
+              "username": "Wesley10032"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078125612212892076",
+        "in_reply_to_user_id": "1880979169297022976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078111913112981793",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wesley10032 很好奇你们在Telegram上都聊什么？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳/男/友跨🏳️‍⚧️/欢迎DM聊天(X/TG均可)\n魔裁(まのさば)/VRChat/Galgame/IT 兴趣相近互fo\n学生党 周末/节假日在线(暑假限时全天在线)\nCN/EN/JP(a little)\n好基友@lockloveovo\nTG群见置顶\n防失联@Wesley10033",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 111,
+                "username": "lockloveovo"
+              },
+              {
+                "end": 146,
+                "start": 134,
+                "username": "Wesley10033"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://telegram.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/Q5wiGuqCLC"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "location": "People's Republic of China",
+        "name": "Wesley",
+        "pinned_tweet_id": "2075263019853238477",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 438,
+          "following_count": 688,
+          "like_count": 5579,
+          "listed_count": 0,
+          "media_count": 131,
+          "tweet_count": 1142
+        },
+        "url": "https://t.co/Q5wiGuqCLC",
+        "username": "Wesley10032",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-28T14:41:26.000Z",
+        "description": "Китайская молодежь, пользователи сети в Telegram, общаются. 俄语帖子发布\n特长：照片拍摄，科技小论文。学习无人机操作与维修。喜欢的花是紫罗兰，最喜欢的书《耶路撒冷三千年》政治立场：资本主义，中国人权，民主国家复兴。少数民族文化维护、支持🇺🇦🇯🇵🇮🇱",
+        "id": "1927736766662156288",
+        "location": "柏林德国",
+        "name": "GLANT.EARTH🇨🇳🇭🇰🇺🇦（1220 IRAN revolution)",
+        "pinned_tweet_id": "2071689743239111025",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071688574823768064/VF-H31SX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 1186,
+          "like_count": 1089,
+          "listed_count": 0,
+          "media_count": 80,
+          "tweet_count": 660
+        },
+        "url": "",
+        "username": "GLANT796970",
+        "verified": false
+      }
+    ]
+  }
+}

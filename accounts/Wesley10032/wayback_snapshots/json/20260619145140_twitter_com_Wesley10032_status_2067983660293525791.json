@@ -1,0 +1,150 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067983652731187200"
+      ]
+    },
+    "author_id": "1880979169297022976",
+    "conversation_id": "2067983660293525791",
+    "created_at": "2026-06-19T14:51:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T15:51:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067983660293525791"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/9Ro9dROSbF",
+          "end": 38,
+          "expanded_url": "https://x.com/Wesley10032/status/2067983660293525791/photo/1",
+          "media_key": "3_2067983652731187200",
+          "start": 15,
+          "url": "https://t.co/9Ro9dROSbF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067983660293525791",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "看看发一下我家蓝猫有没有流量 https://t.co/9Ro9dROSbF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2067983652731187200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLL0LO5bcAADRUY.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067983652731187200"
+          ]
+        },
+        "author_id": "1880979169297022976",
+        "conversation_id": "2067983660293525791",
+        "created_at": "2026-06-19T14:51:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T15:51:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067983660293525791"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9Ro9dROSbF",
+              "end": 38,
+              "expanded_url": "https://x.com/Wesley10032/status/2067983660293525791/photo/1",
+              "media_key": "3_2067983652731187200",
+              "start": 15,
+              "url": "https://t.co/9Ro9dROSbF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067983660293525791",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看看发一下我家蓝猫有没有流量 https://t.co/9Ro9dROSbF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳 / 民主社会主义 / 反台独 / 友跨🏳️‍⚧️ / Free Ukraine 🇺🇦 / Free Palestine 🇵🇸\n中文 / English / 日本語（勉強中）\n偶尔转帖插画等内容\n和平友善交流，谢绝人身攻击\n中华人民共和国万岁 世界人民大团结万岁",
+        "id": "1880979169297022976",
+        "location": "China",
+        "name": "Wesley10032",
+        "pinned_tweet_id": "2067905508191990010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021156330271039488/mAwe21JP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 133,
+          "like_count": 593,
+          "listed_count": 1,
+          "media_count": 6,
+          "tweet_count": 363
+        },
+        "url": "",
+        "username": "Wesley10032",
+        "verified": false
+      }
+    ]
+  }
+}

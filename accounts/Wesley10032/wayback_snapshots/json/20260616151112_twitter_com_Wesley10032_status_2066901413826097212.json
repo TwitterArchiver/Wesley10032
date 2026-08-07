@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880979169297022976",
+    "conversation_id": "2066641902129082524",
+    "created_at": "2026-06-16T15:11:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T16:11:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066901413826097212"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "143810986",
+          "start": 0,
+          "username": "dw_chinese"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066901413826097212",
+    "in_reply_to_user_id": "143810986",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066641902129082524",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dw_chinese 何意味，中国央媒上个月就批评了这个玩具了，早就下架了，DW又捞出来，没新闻了？"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 166080,
+        "height": 1920,
+        "media_key": "13_2066511130533490688",
+        "preview_image_url": "https://pbs.twimg.com/media/HK25qehWYAACo6C.jpg",
+        "public_metrics": {
+          "view_count": 26468
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2066511130533490688/vid/avc1/320x568/Q25AOO7YMgDD3lVB.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2066511130533490688/vid/avc1/480x852/7VqPu2zCvMYV_Ury.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2066511130533490688/vid/avc1/1080x1920/FgW8FmpMa_ZEvrPc.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2066511130533490688/pl/uHJ3-5T8p_Apoc8h.m3u8"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2066511130533490688/vid/avc1/720x1280/6-sUpj_ykPAWh3bA.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880979169297022976",
+        "conversation_id": "2066641902129082524",
+        "created_at": "2026-06-16T15:11:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T16:11:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066901413826097212"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "143810986",
+              "start": 0,
+              "username": "dw_chinese"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066901413826097212",
+        "in_reply_to_user_id": "143810986",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066641902129082524",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dw_chinese 何意味，中国央媒上个月就批评了这个玩具了，早就下架了，DW又捞出来，没新闻了？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2066511130533490688"
+          ]
+        },
+        "author_id": "143810986",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2066641902129082524",
+        "created_at": "2026-06-15T22:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T23:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066641902129082524"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NGWJGirFn2",
+              "end": 109,
+              "expanded_url": "https://x.com/dw_chinese/status/2066641902129082524/video/1",
+              "media_key": "13_2066511130533490688",
+              "start": 86,
+              "url": "https://t.co/NGWJGirFn2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066641902129082524",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 41,
+          "impression_count": 55356,
+          "like_count": 198,
+          "quote_count": 10,
+          "reply_count": 134,
+          "retweet_count": 25
+        },
+        "reply_settings": "everyone",
+        "text": "中国纾压玩偶“娜塔莎”遭批种族歧视\n近日，多段显示类似黑人婴儿的纾压玩具遭到粗暴对待的影片，在中国的社群媒体上引发热议。批评者指出其带有种族歧视色彩，并将黑人“非人化”。 https://t.co/NGWJGirFn2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳 / 民主社会主义 / 反台独 / Free Ukraine 🇺🇦 / Free Palestine 🇵🇸\n魔裁（まのさば） / 崩铁（HSR）\n和平友善交流，谢绝人身攻击\n中华人民共和国万岁 世界人民大团结万岁",
+        "id": "1880979169297022976",
+        "location": "China",
+        "name": "Wesley10032",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021156330271039488/mAwe21JP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 110,
+          "like_count": 526,
+          "listed_count": 1,
+          "media_count": 2,
+          "tweet_count": 304
+        },
+        "username": "Wesley10032",
+        "verified": false
+      },
+      {
+        "created_at": "2010-05-14T13:16:33.000Z",
+        "description": "德国之声中文官方推特：德国国际广播电台中文资讯服务，来自德国，介绍德国，聚焦华语区时政、经济、社会新闻，为您提供多媒体信息服务、背景报道、观点评论。欢迎积极参与互动!https://t.co/sd6bL3bDrv",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bit.ly/dwlegalnotice",
+                "end": 106,
+                "expanded_url": "http://bit.ly/dwlegalnotice",
+                "start": 83,
+                "url": "https://t.co/sd6bL3bDrv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "dw.com/chinese",
+                "end": 23,
+                "expanded_url": "http://www.dw.com/chinese",
+                "start": 0,
+                "url": "https://t.co/MJXQ2XoxI2"
+              }
+            ]
+          }
+        },
+        "id": "143810986",
+        "location": "德国 波恩",
+        "name": "DW 中文- 德国之声",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1799009694549413888/a4GIoJOh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1383026,
+          "following_count": 11,
+          "like_count": 422,
+          "listed_count": 5540,
+          "media_count": 16460,
+          "tweet_count": 85234
+        },
+        "url": "https://t.co/MJXQ2XoxI2",
+        "username": "dw_chinese",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,229 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1525456751788969985",
+    "conversation_id": "1813195222530043930",
+    "created_at": "2024-07-17T02:04:10.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-17T03:04:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1813394230481650092"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "4899873493",
+          "start": 0,
+          "username": "jdikae"
+        },
+        {
+          "end": 23,
+          "id": "722848046321508352",
+          "start": 8,
+          "username": "woyongdehuawei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1813394230481650092",
+    "in_reply_to_user_id": "4899873493",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1813255498327859516",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jdikae @woyongdehuawei 香港护照全称为“中华人民共和国香港特别行政区护照”。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1525456751788969985",
+        "conversation_id": "1813195222530043930",
+        "created_at": "2024-07-17T02:04:10.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-17T03:04:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1813394230481650092"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "4899873493",
+              "start": 0,
+              "username": "jdikae"
+            },
+            {
+              "end": 23,
+              "id": "722848046321508352",
+              "start": 8,
+              "username": "woyongdehuawei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1813394230481650092",
+        "in_reply_to_user_id": "4899873493",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1813255498327859516",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jdikae @woyongdehuawei 香港护照全称为“中华人民共和国香港特别行政区护照”。"
+      },
+      {
+        "attachments": {},
+        "author_id": "4899873493",
+        "conversation_id": "1813195222530043930",
+        "created_at": "2024-07-16T16:52:54.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-16T17:52:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1813255498327859516"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "722848046321508352",
+              "start": 0,
+              "username": "woyongdehuawei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1813255498327859516",
+        "in_reply_to_user_id": "722848046321508352",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6019,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1813195222530043930",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@woyongdehuawei 司机说的没错，司机拿护照是香港护照，不是中国护照"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-14T12:43:40.000Z",
+        "description": "Free Ukraine and Palestine 🇺🇦🇵🇸",
+        "id": "1525456751788969985",
+        "name": "Wesley",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811578387594649600/eQdjLvSa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 26,
+          "like_count": 34,
+          "listed_count": 0,
+          "tweet_count": 166
+        },
+        "username": "Wesley10032",
+        "verified": false
+      },
+      {
+        "created_at": "2016-02-13T02:10:31.000Z",
+        "description": "Nice",
+        "id": "4899873493",
+        "location": "Chiyoda-ku, Tokyo",
+        "name": "Allen Elroy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1479376179228385283/W6Zo4Fh7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 116,
+          "like_count": 3588,
+          "listed_count": 0,
+          "tweet_count": 124
+        },
+        "username": "jdikae",
+        "verified": false
+      },
+      {
+        "created_at": "2016-04-20T18:02:58.000Z",
+        "description": "Christian/British Patriot/Conservatives/中国叛逃公职人员/ 理性中立客观/讲好中国故事/包哥克星/YouTube：https://t.co/GrFL00gP7a Discord群：https://t.co/f0Zs060Gmm",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@woyongdehuawei",
+                "end": 100,
+                "expanded_url": "http://www.youtube.com/@woyongdehuawei",
+                "start": 77,
+                "url": "https://t.co/GrFL00gP7a"
+              },
+              {
+                "display_url": "discord.gg/GKP2WG7ABx",
+                "end": 133,
+                "expanded_url": "https://discord.gg/GKP2WG7ABx",
+                "start": 110,
+                "url": "https://t.co/f0Zs060Gmm"
+              }
+            ]
+          }
+        },
+        "id": "722848046321508352",
+        "location": "乌鲁木齐中路，伦敦",
+        "name": "清丝老师谈治国理政",
+        "pinned_tweet_id": "1744308099131871366",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1788666781915127808/r3JtCUuy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44309,
+          "following_count": 810,
+          "like_count": 16755,
+          "listed_count": 211,
+          "tweet_count": 16991
+        },
+        "username": "woyongdehuawei",
+        "verified": true
+      }
+    ]
+  }
+}

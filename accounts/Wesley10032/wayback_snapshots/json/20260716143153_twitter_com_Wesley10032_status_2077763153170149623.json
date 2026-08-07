@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880979169297022976",
+    "conversation_id": "2077742916450357760",
+    "created_at": "2026-07-16T14:31:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T15:31:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077763153170149623"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1497275380239314944",
+          "start": 0,
+          "username": "jamesdream95"
+        },
+        {
+          "end": 23,
+          "id": "1913225245378686976",
+          "start": 14,
+          "username": "cuizhe80"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077763153170149623",
+    "in_reply_to_user_id": "1497275380239314944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077762098113962246",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jamesdream95 @cuizhe80 我还是那句话\n你这种逻辑就好像是\n「我是白种人，黄种人可以在自己的小圈子玩，但是我们也有平等不想看到黄种人的自由」"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880979169297022976",
+        "conversation_id": "2077742916450357760",
+        "created_at": "2026-07-16T14:31:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T15:31:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077763153170149623"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1497275380239314944",
+              "start": 0,
+              "username": "jamesdream95"
+            },
+            {
+              "end": 23,
+              "id": "1913225245378686976",
+              "start": 14,
+              "username": "cuizhe80"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077763153170149623",
+        "in_reply_to_user_id": "1497275380239314944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077762098113962246",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jamesdream95 @cuizhe80 我还是那句话\n你这种逻辑就好像是\n「我是白种人，黄种人可以在自己的小圈子玩，但是我们也有平等不想看到黄种人的自由」"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1497275380239314944",
+        "conversation_id": "2077742916450357760",
+        "created_at": "2026-07-16T14:27:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T15:27:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077762098113962246"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1880979169297022976",
+              "start": 0,
+              "username": "Wesley10032"
+            },
+            {
+              "end": 22,
+              "id": "1913225245378686976",
+              "start": 13,
+              "username": "cuizhe80"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077762098113962246",
+        "in_reply_to_user_id": "1880979169297022976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077753691701203159",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wesley10032 @cuizhe80 人人平等是你可以平等拥有你的喜好，你在你自己的小圈子玩就行，没人说你。你非要拿出放台面我们也有平等不想看到的自由。你喜欢是你的自由，我也有不喜欢的自由。本来对此类不反感，但是DEI，SBI严重影响到我的游戏体验，可以吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳/男/友跨🏳️‍⚧️/欢迎DM聊天(X/TG均可)\n魔裁(まのさば)/VRChat/Galgame/IT 兴趣相近互fo\n学生党 周末/节假日在线(暑假限时全天在线)\nCN/EN/JP(a little)\n发帖内容不固定 想到什么发什么\n防失联@Wesley10033",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 139,
+                "start": 127,
+                "username": "Wesley10033"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://telegram.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/Q5wiGuqCLC"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "location": "People's Republic of China",
+        "name": "Wesley",
+        "pinned_tweet_id": "2075263019853238477",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 389,
+          "following_count": 651,
+          "like_count": 5320,
+          "listed_count": 0,
+          "media_count": 121,
+          "tweet_count": 1091
+        },
+        "url": "https://t.co/Q5wiGuqCLC",
+        "username": "Wesley10032",
+        "verified": true
+      },
+      {
+        "created_at": "2022-02-25T18:21:08.000Z",
+        "description": "不喜喷人，奈何你非要撞枪口",
+        "id": "1497275380239314944",
+        "name": "99A坦克送温暖来了",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075573313171279872/zq08z4nU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 7,
+          "like_count": 57,
+          "listed_count": 1,
+          "media_count": 55,
+          "tweet_count": 817
+        },
+        "url": "",
+        "username": "jamesdream95",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-18T13:37:16.000Z",
+        "description": "国家统一，社会民主，人民团结",
+        "id": "1913225245378686976",
+        "location": "中华人民共和国 贵州省",
+        "name": "NPA",
+        "pinned_tweet_id": "2012488660005040343",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913226276044734464/DEFiOQYK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 20,
+          "like_count": 54,
+          "listed_count": 3,
+          "media_count": 115,
+          "tweet_count": 3744
+        },
+        "url": "",
+        "username": "cuizhe80",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,289 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1525456751788969985",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to automobile, spacecraft, aircraft and boat manufacturing",
+          "id": "1557696420500541440",
+          "name": "Automotive, Aircraft & Boat Business"
+        }
+      }
+    ],
+    "conversation_id": "1816847258094117151",
+    "created_at": "2024-07-26T14:45:16.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-26T15:45:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1816847258094117151"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ishowspeedsui/…",
+          "end": 44,
+          "expanded_url": "https://twitter.com/ishowspeedsui/status/1816522599603798402",
+          "start": 21,
+          "url": "https://t.co/1USSSqLZHh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1816847258094117151",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1816522599603798402",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "STRONG AND SCARY MAN https://t.co/1USSSqLZHh"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1525456751788969985",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to automobile, spacecraft, aircraft and boat manufacturing",
+              "id": "1557696420500541440",
+              "name": "Automotive, Aircraft & Boat Business"
+            }
+          }
+        ],
+        "conversation_id": "1816847258094117151",
+        "created_at": "2024-07-26T14:45:16.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-26T15:45:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1816847258094117151"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ishowspeedsui/…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/ishowspeedsui/status/1816522599603798402",
+              "start": 21,
+              "url": "https://t.co/1USSSqLZHh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1816847258094117151",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1816522599603798402",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "STRONG AND SCARY MAN https://t.co/1USSSqLZHh"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "13_1816522474487488512"
+          ]
+        },
+        "author_id": "1040214455525797888",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1560343340867932160",
+              "name": "IShowSpeed"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to automobile, spacecraft, aircraft and boat manufacturing",
+              "id": "1557696420500541440",
+              "name": "Automotive, Aircraft & Boat Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Influencers who create content on digital platforms",
+              "id": "120",
+              "name": "Digital Creator"
+            },
+            "entity": {
+              "id": "1560343340867932160",
+              "name": "IShowSpeed"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543456678596608",
+              "name": "Digital creators"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1293615037932646400",
+              "name": "YouTubers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1560343340867932160",
+              "name": "IShowSpeed"
+            }
+          }
+        ],
+        "conversation_id": "1816522599603798402",
+        "created_at": "2024-07-25T17:15:11.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-25T18:15:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1816522599603798402"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/MNchIaUg2W",
+              "end": 66,
+              "expanded_url": "https://twitter.com/ishowspeedsui/status/1816522599603798402/video/1",
+              "media_key": "13_1816522474487488512",
+              "start": 43,
+              "url": "https://t.co/MNchIaUg2W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1816522599603798402",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23259,
+          "impression_count": 43142799,
+          "like_count": 516791,
+          "quote_count": 9416,
+          "reply_count": 8001,
+          "retweet_count": 34247
+        },
+        "reply_settings": "everyone",
+        "text": "i just jumped over a car it was so scary 😆 https://t.co/MNchIaUg2W"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-14T12:43:40.000Z",
+        "description": "Free Ukraine and Palestine 🇺🇦🇵🇸",
+        "id": "1525456751788969985",
+        "name": "Wesley",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811578387594649600/eQdjLvSa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 28,
+          "like_count": 35,
+          "listed_count": 0,
+          "tweet_count": 195
+        },
+        "username": "Wesley10032",
+        "verified": false
+      },
+      {
+        "created_at": "2018-09-13T12:23:47.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@IShowSpeed?si…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@IShowSpeed?si=IeG64CdHu85oTEYG",
+                "start": 0,
+                "url": "https://t.co/GaDsGMHLlz"
+              }
+            ]
+          }
+        },
+        "id": "1040214455525797888",
+        "location": "Tokyo ",
+        "name": "Speed⭐️",
+        "pinned_tweet_id": "1410059307454959618",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1362579425804644353/8L3BctZn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2996281,
+          "following_count": 167,
+          "like_count": 520,
+          "listed_count": 497,
+          "tweet_count": 489
+        },
+        "url": "https://t.co/GaDsGMHLlz",
+        "username": "ishowspeedsui",
+        "verified": true
+      }
+    ]
+  }
+}

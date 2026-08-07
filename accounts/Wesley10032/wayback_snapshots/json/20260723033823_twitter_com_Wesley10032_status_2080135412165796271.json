@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880979169297022976",
+    "conversation_id": "2080135412165796271",
+    "created_at": "2026-07-23T03:38:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T04:38:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080135412165796271"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hsn8086xe/stat…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/hsn8086xe/status/2080102909182894280",
+          "start": 10,
+          "url": "https://t.co/5CutSwOYCG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080135412165796271",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080102909182894280",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "赵家辉爸爸是个人物 https://t.co/5CutSwOYCG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2080102890891620352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN4CjvPbsAAQOlX.jpg",
+        "width": 778
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880979169297022976",
+        "conversation_id": "2080135412165796271",
+        "created_at": "2026-07-23T03:38:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T04:38:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080135412165796271"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hsn8086xe/stat…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/hsn8086xe/status/2080102909182894280",
+              "start": 10,
+              "url": "https://t.co/5CutSwOYCG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080135412165796271",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080102909182894280",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "赵家辉爸爸是个人物 https://t.co/5CutSwOYCG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080102890891620352"
+          ]
+        },
+        "author_id": "1863439189909618688",
+        "conversation_id": "2080102909182894280",
+        "created_at": "2026-07-23T01:29:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T02:29:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080102909182894280"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sFNOc7E5TG",
+              "end": 23,
+              "expanded_url": "https://x.com/hsn8086xe/status/2080102909182894280/photo/1",
+              "media_key": "3_2080102890891620352",
+              "start": 0,
+              "url": "https://t.co/sFNOc7E5TG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080102909182894280",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 635,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/sFNOc7E5TG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳/男/友跨🏳️‍⚧️/或许是温和粉红/欢迎DM聊天(推荐使用TG)\n魔裁(まのさば)/VRChat/Galgame/IT 兴趣相近互fo\n好基友@lockloveovo\n学生党 周末/节假日在线(暑假限时全天在线)\nCN/EN/JP\nTG群见置顶\n防失联@Wesley10033",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 77,
+                "username": "lockloveovo"
+              },
+              {
+                "end": 144,
+                "start": 132,
+                "username": "Wesley10033"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://telegram.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/Q5wiGuqCLC"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "location": "People's Republic of China",
+        "name": "Wesley",
+        "pinned_tweet_id": "2075263019853238477",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 557,
+          "following_count": 851,
+          "like_count": 7567,
+          "listed_count": 1,
+          "media_count": 176,
+          "tweet_count": 1468
+        },
+        "url": "https://t.co/Q5wiGuqCLC",
+        "username": "Wesley10032",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-02T04:25:11.000Z",
+        "description": "都是老图 | 头像来自: @PetitPoissonXY",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 13,
+                "username": "PetitPoissonXY"
+              }
+            ]
+          }
+        },
+        "id": "1863439189909618688",
+        "location": "Internet",
+        "name": "hsn.bot",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897601834170404864/XYWOnn7f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36796,
+          "following_count": 368,
+          "like_count": 264,
+          "listed_count": 110,
+          "media_count": 18142,
+          "tweet_count": 18244
+        },
+        "url": "",
+        "username": "hsn8086xe",
+        "verified": true
+      }
+    ]
+  }
+}

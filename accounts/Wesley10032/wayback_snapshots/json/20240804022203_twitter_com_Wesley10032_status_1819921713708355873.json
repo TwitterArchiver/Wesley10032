@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1525456751788969985",
+    "conversation_id": "1819600123250545028",
+    "created_at": "2024-08-04T02:22:03.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-04T03:22:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1819921713708355873"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1770444225290862592",
+          "start": 0,
+          "username": "Luiso_Hakayev2"
+        },
+        {
+          "end": 31,
+          "id": "2498099330",
+          "start": 16,
+          "username": "foreignersinTW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1819921713708355873",
+    "in_reply_to_user_id": "1770444225290862592",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1819647819504144870",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Luiso_Hakayev2 @foreignersinTW 绿娃只会意淫大陆🤣国家认同感混乱成灾的地区建议还是被大陆占领好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1525456751788969985",
+        "conversation_id": "1819600123250545028",
+        "created_at": "2024-08-04T02:22:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-04T03:22:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1819921713708355873"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1770444225290862592",
+              "start": 0,
+              "username": "Luiso_Hakayev2"
+            },
+            {
+              "end": 31,
+              "id": "2498099330",
+              "start": 16,
+              "username": "foreignersinTW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1819921713708355873",
+        "in_reply_to_user_id": "1770444225290862592",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1819647819504144870",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Luiso_Hakayev2 @foreignersinTW 绿娃只会意淫大陆🤣国家认同感混乱成灾的地区建议还是被大陆占领好"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1819647816798818305"
+          ]
+        },
+        "author_id": "1770444225290862592",
+        "conversation_id": "1819600123250545028",
+        "created_at": "2024-08-03T08:13:42.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-03T09:13:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1819647819504144870"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2498099330",
+              "start": 0,
+              "username": "foreignersinTW"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/EswzosgLOr",
+              "end": 39,
+              "expanded_url": "https://twitter.com/Luiso_Hakayev2/status/1819647819504144870/photo/1",
+              "media_key": "3_1819647816798818305",
+              "start": 16,
+              "url": "https://t.co/EswzosgLOr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1819647819504144870",
+        "in_reply_to_user_id": "2498099330",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 19706,
+          "like_count": 45,
+          "quote_count": 0,
+          "reply_count": 25,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1819600123250545028",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@foreignersinTW https://t.co/EswzosgLOr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-14T12:43:40.000Z",
+        "description": "Free Ukraine and Palestine 🇺🇦🇵🇸",
+        "id": "1525456751788969985",
+        "name": "Wesley",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811578387594649600/eQdjLvSa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 28,
+          "like_count": 36,
+          "listed_count": 0,
+          "tweet_count": 204
+        },
+        "username": "Wesley10032",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-20T13:36:21.000Z",
+        "description": "Луїсо Хакаєв ลุยโซ่ ฮาคาเยฟ\nชาติ บุพการี เสรีนิยม",
+        "id": "1770444225290862592",
+        "name": "🇹🇭 ลุยโซ่ ฮาคาเยฟ SEAFO 🇺🇦🇹🇼🇯🇵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1770446382958346240/PkRJNYPd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 84,
+          "like_count": 34,
+          "listed_count": 0,
+          "tweet_count": 549
+        },
+        "username": "Luiso_Hakayev2",
+        "verified": false
+      },
+      {
+        "created_at": "2014-05-16T08:53:40.000Z",
+        "description": "We blog to help convince foreigners to come to Taiwan and teach them how to survive here. Run by US expats. 我們是台灣的外國人！我們透過部落格幫助外國人了解怎麽在台灣生存及旅遊！（美國人管理）Tks to Ken",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "taiwantravelblog.com",
+                "end": 23,
+                "expanded_url": "https://taiwantravelblog.com/",
+                "start": 0,
+                "url": "https://t.co/a0ECvgOVOB"
+              }
+            ]
+          }
+        },
+        "id": "2498099330",
+        "location": "台灣",
+        "name": "Foreigners in Taiwan 🇹🇼 外國人在台灣",
+        "pinned_tweet_id": "1819193355341111389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1605079850821517312/fcQd5ZNj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25554,
+          "following_count": 1837,
+          "like_count": 54288,
+          "listed_count": 208,
+          "tweet_count": 27962
+        },
+        "url": "https://t.co/a0ECvgOVOB",
+        "username": "foreignersinTW",
+        "verified": false
+      }
+    ]
+  }
+}
