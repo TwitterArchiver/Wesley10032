@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-08-07T17:02:00",
+  "last_updated": "2026-08-07T17:02:31",
   "html": {
     "https://web.archive.org/web/20240705094254if_/https://twitter.com/Wesley10032/status/1809161020075864253": {
       "status": "done",
@@ -16641,9 +16641,9 @@
       "referenced_by": [
         "20260620093754_twitter_com_Wesley10032_status_2068267087869751731.json"
       ],
-      "last_updated": "2026-08-07T16:28:58",
+      "last_updated": "2026-08-07T17:02:27",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260620093754/https://video.twimg.com/amplify_video/2068140213952749568/vid/avc1/720x720/APwVyqovAMibMvbh.mp4",
-      "miss_count": 1
+      "miss_count": 2
     },
     "https://video.twimg.com/amplify_video/2070114347226198017/vid/avc1/1920x1080/QQiHa2nZJZlBTAM7.mp4": {
       "status": "done",
@@ -16764,9 +16764,9 @@
         "20260726162557_twitter_com_Wesley10032_status_2081415736480940426.json",
         "20260726171120_twitter_com_Wesley10032_status_2081427159747555686.json"
       ],
-      "last_updated": "2026-08-07T16:28:58",
+      "last_updated": "2026-08-07T17:02:28",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260726162557/https://video.twimg.com/amplify_video/2081379352743419905/vid/avc1/720x1280/TxWv22qoDxcISGyK.mp4",
-      "miss_count": 2
+      "miss_count": 3
     },
     "https://video.twimg.com/amplify_video/2081379352743477248/vid/avc1/720x1280/pgSPXJSAnKJCGvl_.mp4": {
       "status": "failed_all",
@@ -16774,9 +16774,9 @@
         "20260726162557_twitter_com_Wesley10032_status_2081415736480940426.json",
         "20260726171120_twitter_com_Wesley10032_status_2081427159747555686.json"
       ],
-      "last_updated": "2026-08-07T16:29:00",
+      "last_updated": "2026-08-07T17:02:31",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260726162557/https://video.twimg.com/amplify_video/2081379352743477248/vid/avc1/720x1280/pgSPXJSAnKJCGvl_.mp4",
-      "miss_count": 2
+      "miss_count": 3
     },
     "https://video.twimg.com/tweet_video/HONfERHaYAAoFlH.mp4": {
       "status": "done",
