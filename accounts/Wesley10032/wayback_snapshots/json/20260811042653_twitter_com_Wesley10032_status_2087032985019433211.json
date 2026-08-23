@@ -1,0 +1,333 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880979169297022976",
+    "conversation_id": "2087028743743443272",
+    "created_at": "2026-08-11T04:26:53.000Z",
+    "display_text_range": [
+      10,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T05:26:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087032985019433211"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2075277404361347072",
+          "start": 0,
+          "username": "Aurvsnow"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087032985019433211",
+    "in_reply_to_user_id": "2075277404361347072",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087032022816690435",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Aurvsnow 那很可怕了喵😨\n抱抱你喵😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2087032009084600320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPagjgBbgAA4OJn.jpg",
+        "width": 947
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2087032009130684416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPagjgMasAAXiJ2.jpg",
+        "width": 947
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880979169297022976",
+        "conversation_id": "2087028743743443272",
+        "created_at": "2026-08-11T04:26:53.000Z",
+        "display_text_range": [
+          10,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T05:26:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087032985019433211"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2075277404361347072",
+              "start": 0,
+              "username": "Aurvsnow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087032985019433211",
+        "in_reply_to_user_id": "2075277404361347072",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087032022816690435",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aurvsnow 那很可怕了喵😨\n抱抱你喵😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087032009084600320",
+            "3_2087032009130684416"
+          ]
+        },
+        "author_id": "2075277404361347072",
+        "conversation_id": "2087028743743443272",
+        "created_at": "2026-08-11T04:23:04.000Z",
+        "display_text_range": [
+          13,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T05:23:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087032022816690435"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1880979169297022976",
+              "start": 0,
+              "username": "Wesley10032"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EFSsk6hOmw",
+              "end": 46,
+              "expanded_url": "https://x.com/Aurvsnow/status/2087032022816690435/photo/1",
+              "media_key": "3_2087032009084600320",
+              "start": 23,
+              "url": "https://t.co/EFSsk6hOmw"
+            },
+            {
+              "display_url": "pic.x.com/EFSsk6hOmw",
+              "end": 46,
+              "expanded_url": "https://x.com/Aurvsnow/status/2087032022816690435/photo/1",
+              "media_key": "3_2087032009130684416",
+              "start": 23,
+              "url": "https://t.co/EFSsk6hOmw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087032022816690435",
+        "in_reply_to_user_id": "1880979169297022976",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087032009084600320"
+          },
+          {
+            "media_key": "3_2087032009130684416"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087028743743443272",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wesley10032 16这样还有办法吗 https://t.co/EFSsk6hOmw"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳/♂/08.11.3/友跨🏳️‍⚧️\n或许是温和粉红/欢迎DM聊天(TG优先)\n魔裁(まのさば)/CS2/三角洲/Galgame/IT \n兴趣相近互fo/想做心理委员\n好基友@lockloveovo\n学生党 周末/节假日在线(暑假限时全天在线)\nCN/EN/JP\n防失联@Wesley10033",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 104,
+                "start": 92,
+                "username": "lockloveovo"
+              },
+              {
+                "end": 152,
+                "start": 140,
+                "username": "Wesley10033"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://telegram.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/Q5wiGuq4W4"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "is_identity_verified": false,
+        "location": "People's Republic of China",
+        "most_recent_tweet_id": "2087032985019433211",
+        "name": "Wesley",
+        "pinned_tweet_id": "2083033063257420070",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1880979169297022976/1785740152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1095,
+          "following_count": 1402,
+          "like_count": 14637,
+          "listed_count": 1,
+          "media_count": 363,
+          "tweet_count": 2555
+        },
+        "url": "https://t.co/Q5wiGuq4W4",
+        "username": "Wesley10032",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-09T17:55:26.000Z",
+        "description": "一個很了解自己但又愛沉溺在幻想的人\n輕微抑郁/互of\n可以倾听你的所有烦恼和伤心事\n问问题→ https://t.co/XcUpR0N7Z9\n小号@Luminbkrv",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 73,
+                "username": "Luminbkrv"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aurvsnow",
+                "end": 70,
+                "expanded_url": "https://ngl.link/aurvsnow",
+                "start": 47,
+                "url": "https://t.co/XcUpR0N7Z9"
+              }
+            ]
+          }
+        },
+        "id": "2075277404361347072",
+        "is_identity_verified": false,
+        "location": "广东伦敦",
+        "most_recent_tweet_id": "2087032495900635418",
+        "name": "雪还会落下",
+        "pinned_tweet_id": "2083958421850857887",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2075277404361347072/1786372304",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084238571700154369/tRDd4k3l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 81,
+          "like_count": 1621,
+          "listed_count": 0,
+          "media_count": 135,
+          "tweet_count": 745
+        },
+        "url": "",
+        "username": "Aurvsnow",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,333 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088779487781740544"
+      ],
+      "media_source_tweet_id": [
+        "2088779496132636996"
+      ]
+    },
+    "author_id": "1880979169297022976",
+    "conversation_id": "2088971678265299289",
+    "created_at": "2026-08-16T12:50:33.000Z",
+    "display_text_range": [
+      0,
+      45
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T13:50:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088971678265299289"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "3009617401",
+          "start": 3,
+          "username": "Nagato_KKO"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/yVE7gyiski",
+          "end": 45,
+          "expanded_url": "https://x.com/Nagato_KKO/status/2088779496132636996/photo/1",
+          "media_key": "3_2088779487781740544",
+          "start": 22,
+          "url": "https://t.co/yVE7gyiski"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088971678265299289",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2088779487781740544"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 75
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088779496132636996",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Nagato_KKO: 設営完了！ https://t.co/yVE7gyiski"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2088779487781740544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPzV4JdaYAASGu8.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088779487781740544"
+          ],
+          "media_source_tweet_id": [
+            "2088779496132636996"
+          ]
+        },
+        "author_id": "1880979169297022976",
+        "conversation_id": "2088971678265299289",
+        "created_at": "2026-08-16T12:50:33.000Z",
+        "display_text_range": [
+          0,
+          45
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T13:50:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088971678265299289"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "3009617401",
+              "start": 3,
+              "username": "Nagato_KKO"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yVE7gyiski",
+              "end": 45,
+              "expanded_url": "https://x.com/Nagato_KKO/status/2088779496132636996/photo/1",
+              "media_key": "3_2088779487781740544",
+              "start": 22,
+              "url": "https://t.co/yVE7gyiski"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088971678265299289",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2088779487781740544"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 75
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088779496132636996",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Nagato_KKO: 設営完了！ https://t.co/yVE7gyiski"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088779487781740544"
+          ]
+        },
+        "author_id": "3009617401",
+        "conversation_id": "2088779496132636996",
+        "created_at": "2026-08-16T00:06:54.000Z",
+        "display_text_range": [
+          0,
+          5
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T01:06:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088779496132636996"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yVE7gyiski",
+              "end": 29,
+              "expanded_url": "https://x.com/Nagato_KKO/status/2088779496132636996/photo/1",
+              "media_key": "3_2088779487781740544",
+              "start": 6,
+              "url": "https://t.co/yVE7gyiski"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088779496132636996",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2088779487781740544"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 171,
+          "impression_count": 102270,
+          "like_count": 1514,
+          "quote_count": 15,
+          "reply_count": 49,
+          "retweet_count": 75
+        },
+        "reply_settings": "everyone",
+        "text": "設営完了！ https://t.co/yVE7gyiski"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳/♂/08.11.3/友跨🏳️‍⚧️\n政治立场未知/欢迎DM聊天(TG优先)\n魔裁(まのさば)/CS2/三角洲/Galgame/IT \n兴趣相近互fo/想做心理委员\n好基友@lockloveovo\n学生党 周末/节假日在线\nCN/EN/JP\n防失联@Wesley10033",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 103,
+                "start": 91,
+                "username": "lockloveovo"
+              },
+              {
+                "end": 141,
+                "start": 129,
+                "username": "Wesley10033"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://telegram.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/Q5wiGuq4W4"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "is_identity_verified": false,
+        "location": "People's Republic of China",
+        "most_recent_tweet_id": "2088971678265299289",
+        "name": "Wesley",
+        "pinned_tweet_id": "2083033063257420070",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1880979169297022976/1785740152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1217,
+          "following_count": 1519,
+          "like_count": 16720,
+          "listed_count": 1,
+          "media_count": 407,
+          "tweet_count": 2882
+        },
+        "url": "https://t.co/Q5wiGuq4W4",
+        "username": "Wesley10032",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2015-02-05T01:16:58.000Z",
+        "description": "🕯敬愛的領袖江澤民主席永垂不朽！/🌊江学家/🚉都市鉄道愛好者/🇨🇳中國江学会所属🀄️/🇦🇪アラブ首長國聯邦常駐/✒️研究成果『江主席語録』『北京地下鉄列車時刻表』等/🇯🇵日本語/🇬🇧English🇺🇸/🇷🇺Русский/🇰🇵조선어🇰🇷/⛔️政治過激者一切拒否！🈲",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "portal.circle.ms/Circle/Index/1…",
+                "end": 23,
+                "expanded_url": "https://portal.circle.ms/Circle/Index/10497847",
+                "start": 0,
+                "url": "https://t.co/9jnBlZEUKN"
+              }
+            ]
+          }
+        },
+        "id": "3009617401",
+        "is_identity_verified": false,
+        "location": "الإمارات",
+        "most_recent_tweet_id": "2088943004132528614",
+        "name": "中江学会長門@C108日曜東2ツ40a",
+        "pinned_tweet_id": "2085382041848443046",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3009617401/1764547523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995283050423521280/hHNcV4TC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11634,
+          "following_count": 164,
+          "like_count": 3083,
+          "listed_count": 37,
+          "media_count": 2423,
+          "tweet_count": 6997
+        },
+        "url": "https://t.co/9jnBlZEUKN",
+        "username": "Nagato_KKO",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

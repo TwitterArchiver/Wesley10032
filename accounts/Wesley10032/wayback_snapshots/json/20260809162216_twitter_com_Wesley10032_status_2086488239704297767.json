@@ -1,0 +1,344 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059252095140995073"
+      ],
+      "media_source_tweet_id": [
+        "2086437341938511921"
+      ]
+    },
+    "author_id": "1880979169297022976",
+    "conversation_id": "2086488239704297767",
+    "created_at": "2026-08-09T16:22:16.000Z",
+    "display_text_range": [
+      0,
+      64
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T17:22:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086488239704297767"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "267179783",
+          "start": 3,
+          "username": "PhotoAkiba"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bD9HDwKXdY",
+          "end": 64,
+          "expanded_url": "https://x.com/PhotoAkiba/status/2086437341938511921/photo/1",
+          "media_key": "3_2059252095140995073",
+          "start": 41,
+          "url": "https://t.co/bD9HDwKXdY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086488239704297767",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2059252095140995073"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 221
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086437341938511921",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @PhotoAkiba: 10年前の秋葉原風景\n(2016年8月1日撮影) https://t.co/bD9HDwKXdY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1366,
+        "media_key": "3_2059252095140995073",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJPu3sHboAE7hwq.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059252095140995073"
+          ]
+        },
+        "author_id": "267179783",
+        "conversation_id": "2086437341938511921",
+        "created_at": "2026-08-09T13:00:01.000Z",
+        "display_text_range": [
+          0,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T14:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086437341938511921"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bD9HDwKXdY",
+              "end": 48,
+              "expanded_url": "https://x.com/PhotoAkiba/status/2086437341938511921/photo/1",
+              "media_key": "3_2059252095140995073",
+              "start": 25,
+              "url": "https://t.co/bD9HDwKXdY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086437341938511921",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2059252095140995073"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 133,
+          "impression_count": 63152,
+          "like_count": 1467,
+          "quote_count": 20,
+          "reply_count": 7,
+          "retweet_count": 221
+        },
+        "reply_settings": "everyone",
+        "text": "10年前の秋葉原風景\n(2016年8月1日撮影) https://t.co/bD9HDwKXdY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059252095140995073"
+          ],
+          "media_source_tweet_id": [
+            "2086437341938511921"
+          ]
+        },
+        "author_id": "1880979169297022976",
+        "conversation_id": "2086488239704297767",
+        "created_at": "2026-08-09T16:22:16.000Z",
+        "display_text_range": [
+          0,
+          64
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T17:22:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086488239704297767"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "267179783",
+              "start": 3,
+              "username": "PhotoAkiba"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bD9HDwKXdY",
+              "end": 64,
+              "expanded_url": "https://x.com/PhotoAkiba/status/2086437341938511921/photo/1",
+              "media_key": "3_2059252095140995073",
+              "start": 41,
+              "url": "https://t.co/bD9HDwKXdY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086488239704297767",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2059252095140995073"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 221
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086437341938511921",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @PhotoAkiba: 10年前の秋葉原風景\n(2016年8月1日撮影) https://t.co/bD9HDwKXdY"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳/♂/08.11.3/友跨🏳️‍⚧️\n或许是温和粉红/欢迎DM聊天(TG优先)\n魔裁(まのさば)/CS2/三角洲/Galgame/IT \n兴趣相近互fo/想做心理委员\n好基友@lockloveovo\n学生党 周末/节假日在线(暑假限时全天在线)\nCN/EN/JP\n防失联@Wesley10033",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 104,
+                "start": 92,
+                "username": "lockloveovo"
+              },
+              {
+                "end": 152,
+                "start": 140,
+                "username": "Wesley10033"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://telegram.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/Q5wiGuq4W4"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "is_identity_verified": false,
+        "location": "People's Republic of China",
+        "most_recent_tweet_id": "2086488239704297767",
+        "name": "Wesley",
+        "pinned_tweet_id": "2083033063257420070",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1880979169297022976/1785740152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1034,
+          "following_count": 1332,
+          "like_count": 13887,
+          "listed_count": 1,
+          "media_count": 340,
+          "tweet_count": 2448
+        },
+        "url": "https://t.co/Q5wiGuq4W4",
+        "username": "Wesley10032",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2011-03-16T13:23:59.000Z",
+        "description": "「電気街と言えば秋葉原、秋葉原と言えば電気街。」　フォロー等はご自由に。仕事が多忙につき、つぶやきも返信も時々。秋葉原の写真サイト→ https://t.co/HjqSHubqMV",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "photoakiba.jp",
+                "end": 90,
+                "expanded_url": "http://photoakiba.jp/",
+                "start": 67,
+                "url": "https://t.co/HjqSHubqMV"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "flickr.com/photos/photoak…",
+                "end": 23,
+                "expanded_url": "http://www.flickr.com/photos/photoakiba/",
+                "start": 0,
+                "url": "https://t.co/8wghdPwAl4"
+              }
+            ]
+          }
+        },
+        "id": "267179783",
+        "is_identity_verified": false,
+        "location": "晴れときどき秋葉原",
+        "most_recent_tweet_id": "2086437341938511921",
+        "name": "フォト秋葉原",
+        "pinned_tweet_id": "2084391356642759036",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/267179783/1402536451",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/875732172769959936/It8smGvw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63452,
+          "following_count": 160,
+          "like_count": 6336,
+          "listed_count": 836,
+          "media_count": 9749,
+          "tweet_count": 16283
+        },
+        "url": "https://t.co/8wghdPwAl4",
+        "username": "PhotoAkiba",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

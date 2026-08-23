@@ -1,0 +1,364 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2087747467203018752"
+      ],
+      "media_source_tweet_id": [
+        "2087747617677812192"
+      ]
+    },
+    "author_id": "1880979169297022976",
+    "conversation_id": "2087873123945484469",
+    "created_at": "2026-08-13T12:05:18.000Z",
+    "display_text_range": [
+      0,
+      72
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T13:05:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087873123945484469"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 48,
+          "start": 40,
+          "tag": "朱镕基同志逝世"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1608051288817938437",
+          "start": 3,
+          "username": "Japan_Emb_inCN"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zfgFYcATEm",
+          "end": 72,
+          "expanded_url": "https://x.com/Japan_Emb_inCN/status/2087747617677812192/photo/1",
+          "media_key": "3_2087747467203018752",
+          "start": 49,
+          "url": "https://t.co/zfgFYcATEm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087873123945484469",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2087747467203018752"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 216
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087747617677812192",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Japan_Emb_inCN: 悼念中华人民共和国前总理朱镕基阁下。\n\n#朱镕基同志逝世 https://t.co/zfgFYcATEm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 912,
+        "media_key": "3_2087747467203018752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPkrQpNbgAAplZw.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087747467203018752"
+          ]
+        },
+        "author_id": "1608051288817938437",
+        "conversation_id": "2087747617677812192",
+        "created_at": "2026-08-13T03:46:35.000Z",
+        "display_text_range": [
+          0,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T04:46:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087747617677812192"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 28,
+              "start": 20,
+              "tag": "朱镕基同志逝世"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zfgFYcATEm",
+              "end": 52,
+              "expanded_url": "https://x.com/Japan_Emb_inCN/status/2087747617677812192/photo/1",
+              "media_key": "3_2087747467203018752",
+              "start": 29,
+              "url": "https://t.co/zfgFYcATEm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087747617677812192",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087747467203018752"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 191,
+          "impression_count": 379626,
+          "like_count": 4286,
+          "quote_count": 29,
+          "reply_count": 223,
+          "retweet_count": 216
+        },
+        "reply_settings": "everyone",
+        "text": "悼念中华人民共和国前总理朱镕基阁下。\n\n#朱镕基同志逝世 https://t.co/zfgFYcATEm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087747467203018752"
+          ],
+          "media_source_tweet_id": [
+            "2087747617677812192"
+          ]
+        },
+        "author_id": "1880979169297022976",
+        "conversation_id": "2087873123945484469",
+        "created_at": "2026-08-13T12:05:18.000Z",
+        "display_text_range": [
+          0,
+          72
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T13:05:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087873123945484469"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 48,
+              "start": 40,
+              "tag": "朱镕基同志逝世"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1608051288817938437",
+              "start": 3,
+              "username": "Japan_Emb_inCN"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zfgFYcATEm",
+              "end": 72,
+              "expanded_url": "https://x.com/Japan_Emb_inCN/status/2087747617677812192/photo/1",
+              "media_key": "3_2087747467203018752",
+              "start": 49,
+              "url": "https://t.co/zfgFYcATEm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087873123945484469",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087747467203018752"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 216
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087747617677812192",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Japan_Emb_inCN: 悼念中华人民共和国前总理朱镕基阁下。\n\n#朱镕基同志逝世 https://t.co/zfgFYcATEm"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳/♂/08.11.3/友跨🏳️‍⚧️\n政治立场未知/欢迎DM聊天(TG优先)\n魔裁(まのさば)/CS2/三角洲/Galgame/IT \n兴趣相近互fo/想做心理委员\n好基友@lockloveovo\n学生党 周末/节假日在线(暑假限时全天在线)\nCN/EN/JP\n防失联@Wesley10033",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 103,
+                "start": 91,
+                "username": "lockloveovo"
+              },
+              {
+                "end": 151,
+                "start": 139,
+                "username": "Wesley10033"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://telegram.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/Q5wiGuq4W4"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "is_identity_verified": false,
+        "location": "People's Republic of China",
+        "most_recent_tweet_id": "2087873123945484469",
+        "name": "Wesley",
+        "pinned_tweet_id": "2083033063257420070",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1880979169297022976/1785740152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1176,
+          "following_count": 1475,
+          "like_count": 15678,
+          "listed_count": 1,
+          "media_count": 382,
+          "tweet_count": 2699
+        },
+        "url": "https://t.co/Q5wiGuq4W4",
+        "username": "Wesley10032",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-12-28T10:45:05.000Z",
+        "description": "这是日本国驻华大使馆的官方账号。今后会为大家提供关于日本方方面面的信息，欢迎关注！\n网站：https://t.co/nfziaClTk4",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "cn.emb-japan.go.jp/itprtop_zh/ind…",
+                "end": 68,
+                "expanded_url": "https://www.cn.emb-japan.go.jp/itprtop_zh/index.html",
+                "start": 45,
+                "url": "https://t.co/nfziaClTk4"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mofa.go.jp/mofaj/",
+                "end": 23,
+                "expanded_url": "https://www.mofa.go.jp/mofaj/",
+                "start": 0,
+                "url": "https://t.co/qgXJQWUncj"
+              }
+            ]
+          }
+        },
+        "id": "1608051288817938437",
+        "is_identity_verified": false,
+        "location": "Beijing",
+        "most_recent_tweet_id": "2087747617677812192",
+        "name": "日本国驻华大使馆（Embassy of Japan in China）",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1608051288817938437/1672251645",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1608166024125485056/Y1cMBMcE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99866,
+          "following_count": 12,
+          "like_count": 0,
+          "listed_count": 207,
+          "media_count": 153,
+          "tweet_count": 1511
+        },
+        "url": "https://t.co/qgXJQWUncj",
+        "username": "Japan_Emb_inCN",
+        "verified": true,
+        "verified_type": "government"
+      }
+    ]
+  }
+}

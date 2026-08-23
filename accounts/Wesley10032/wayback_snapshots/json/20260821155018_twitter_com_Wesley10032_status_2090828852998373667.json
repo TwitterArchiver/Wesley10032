@@ -1,0 +1,459 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880979169297022976",
+    "conversation_id": "2090828852998373667",
+    "created_at": "2026-08-21T15:50:18.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T16:50:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090828852998373667"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 24,
+          "start": 17,
+          "tag": "推友情況通報"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1663066129923981312",
+          "start": 3,
+          "username": "Ak1raQ_love"
+        },
+        {
+          "end": 94,
+          "id": "1917261838485708802",
+          "start": 84,
+          "username": "qiujiudev"
+        },
+        {
+          "end": 105,
+          "id": "2090793924382396416",
+          "start": 95,
+          "username": "devqiujiu"
+        },
+        {
+          "end": 123,
+          "id": "2060050991370891265",
+          "start": 110,
+          "username": "Shioochicqwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090828852998373667",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090820061049336168",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "RT @Ak1raQ_love: #推友情況通報\n1.现在除了格蕾修和波奇酱还没找到，其它推u都已经找回\n2.猪宝宝原号复活\n3.以下是其余推u的新账号或小号：\n秋玖 @qiujiudev @devqiujiu \n汐落 @Shioochicqwq \n翅膀喵 @axzameyze…"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [qiujiudev].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "qiujiudev",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.x.com/2/problems/resource-not-found",
+      "value": "qiujiudev"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880979169297022976",
+        "conversation_id": "2090828852998373667",
+        "created_at": "2026-08-21T15:50:18.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T16:50:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090828852998373667"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 24,
+              "start": 17,
+              "tag": "推友情況通報"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1663066129923981312",
+              "start": 3,
+              "username": "Ak1raQ_love"
+            },
+            {
+              "end": 94,
+              "id": "1917261838485708802",
+              "start": 84,
+              "username": "qiujiudev"
+            },
+            {
+              "end": 105,
+              "id": "2090793924382396416",
+              "start": 95,
+              "username": "devqiujiu"
+            },
+            {
+              "end": 123,
+              "id": "2060050991370891265",
+              "start": 110,
+              "username": "Shioochicqwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090828852998373667",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090820061049336168",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "RT @Ak1raQ_love: #推友情況通報\n1.现在除了格蕾修和波奇酱还没找到，其它推u都已经找回\n2.猪宝宝原号复活\n3.以下是其余推u的新账号或小号：\n秋玖 @qiujiudev @devqiujiu \n汐落 @Shioochicqwq \n翅膀喵 @axzameyze…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "conversation_id": "2090820061049336168",
+        "created_at": "2026-08-21T15:15:22.000Z",
+        "display_text_range": [
+          0,
+          194
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T16:15:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090820061049336168"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 0,
+              "tag": "推友情況通報"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 77,
+              "id": "1917261838485708802",
+              "start": 67,
+              "username": "qiujiudev"
+            },
+            {
+              "end": 88,
+              "id": "2090793924382396416",
+              "start": 78,
+              "username": "devqiujiu"
+            },
+            {
+              "end": 106,
+              "id": "2060050991370891265",
+              "start": 93,
+              "username": "Shioochicqwq"
+            },
+            {
+              "end": 123,
+              "id": "2053360211948109826",
+              "start": 112,
+              "username": "axzameyzed"
+            },
+            {
+              "end": 136,
+              "id": "2090003775838932992",
+              "start": 129,
+              "username": "hjynya"
+            },
+            {
+              "end": 153,
+              "id": "2088610517720158208",
+              "start": 143,
+              "username": "LinQi_AWA"
+            },
+            {
+              "end": 174,
+              "id": "1922267012702871552",
+              "start": 165,
+              "username": "45_206io"
+            },
+            {
+              "end": 194,
+              "id": "2085707237155053568",
+              "start": 180,
+              "username": "LingJiaXin520"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/Ak1raQ_love/st…",
+              "end": 218,
+              "expanded_url": "https://twitter.com/Ak1raQ_love/status/2089997662540157152",
+              "start": 195,
+              "url": "https://t.co/gcbAZ74zJg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090820061049336168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 308,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089997662540157152",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "#推友情況通報\n1.现在除了格蕾修和波奇酱还没找到，其它推u都已经找回\n2.猪宝宝原号复活\n3.以下是其余推u的新账号或小号：\n秋玖 @qiujiudev @devqiujiu \n汐落 @Shioochicqwq \n翅膀喵 @axzameyzed\nffy喵 @hjynya\nLinQi @LinQi_AWA \n45.206MHz @45_206io \n凌嘉欣 @LingJiaXin520 https://t.co/gcbAZ74zJg"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳/♂/08.11.3/友跨🏳️‍⚧️\n政治立场未知/欢迎DM聊天(TG优先)\n魔裁(まのさば)/CS2/三角洲/Galgame/IT \n好基友@lockloveovo\n学生党 周末/节假日在线\nCN/EN/JP\n防失联@Wesley10033",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 76,
+                "username": "lockloveovo"
+              },
+              {
+                "end": 126,
+                "start": 114,
+                "username": "Wesley10033"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://telegram.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/15Y9XbDc22"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "is_identity_verified": false,
+        "location": "People's Republic of China",
+        "most_recent_tweet_id": "2090828852998373667",
+        "name": "Wesley",
+        "pinned_tweet_id": "2083033063257420070",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1880979169297022976/1785740152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1283,
+          "following_count": 1563,
+          "like_count": 17631,
+          "listed_count": 1,
+          "media_count": 426,
+          "tweet_count": 3010
+        },
+        "url": "https://t.co/15Y9XbDc22",
+        "username": "Wesley10032",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/🩵🩷🤍🩷🩵/hrt 26.7.31/什么都不会/向往自由/#推友情況通報/原创meme/顺直女 @zhwevea/秋月喵 @qiuylove/日常 @Akirameru_QAQ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 41,
+                "start": 34,
+                "tag": "推友情況通報"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 61,
+                "start": 53,
+                "username": "zhwevea"
+              },
+              {
+                "end": 75,
+                "start": 66,
+                "username": "qiuylove"
+              },
+              {
+                "end": 93,
+                "start": 79,
+                "username": "Akirameru_QAQ"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "is_identity_verified": true,
+        "location": "鹭岛",
+        "most_recent_tweet_id": "2090824798465343493",
+        "name": "🩷Akiramenai💫",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1663066129923981312/1783771654",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069374801127567360/Cuj2bNTF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8822,
+          "following_count": 1265,
+          "like_count": 217404,
+          "listed_count": 6,
+          "media_count": 1215,
+          "tweet_count": 9032
+        },
+        "url": "",
+        "username": "Ak1raQ_love",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-21T13:33:22.000Z",
+        "description": "",
+        "id": "2090793924382396416",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090795538174382474",
+        "name": "秋玖",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090794548704444416/5qrDhl7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 16,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 4
+        },
+        "url": "",
+        "username": "devqiujiu",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-28T17:32:35.000Z",
+        "description": "09｜小证含糖半家长党｜小证260117｜hrt250720🍥｜我草我怎么是爱德华多啊",
+        "id": "2060050991370891265",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090825673887924605",
+        "name": "汐落",
+        "pinned_tweet_id": "2078739157397205454",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060051875358261249/Bpop1uMR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 457,
+          "following_count": 348,
+          "like_count": 488,
+          "listed_count": 2,
+          "media_count": 37,
+          "tweet_count": 397
+        },
+        "url": "",
+        "username": "Shioochicqwq",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

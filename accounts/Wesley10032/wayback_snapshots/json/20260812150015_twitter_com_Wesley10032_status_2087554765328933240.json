@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880979169297022976",
+    "card_uri": "https://t.co/7YOBH2sXfY",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1168499224297656321",
+          "name": "Discord"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1168499224297656321",
+          "name": "Discord"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      }
+    ],
+    "conversation_id": "2087554765328933240",
+    "created_at": "2026-08-12T15:00:15.000Z",
+    "display_text_range": [
+      0,
+      66
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T16:00:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2087554765328933240"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "来 Discord Wesley の Discord Server 社区瞧瞧——结交近 22 名成员，畅享免费语音与文字聊天。",
+          "display_url": "discord.gg/h7a6vbNKx",
+          "end": 55,
+          "expanded_url": "https://discord.gg/h7a6vbNKx",
+          "start": 32,
+          "status": 200,
+          "title": "加入 Discord 服务器 Wesley の Discord Server！",
+          "unwound_url": "https://discord.com/invite/h7a6vbNKx",
+          "url": "https://t.co/7YOBH2sXfY"
+        },
+        {
+          "display_url": "x.com/Wesley10032/st…",
+          "end": 90,
+          "expanded_url": "https://twitter.com/Wesley10032/status/2087547651617423600",
+          "start": 67,
+          "url": "https://t.co/vGXYBG8kR6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087554765328933240",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087547651617423600",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "之后我决定转战 Discord 了\n想语音聊天的可以来这个频道：https://t.co/7YOBH2sXfY\n每天晚上我基本都会在 https://t.co/vGXYBG8kR6"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880979169297022976",
+        "card_uri": "https://t.co/7YOBH2sXfY",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1168499224297656321",
+              "name": "Discord"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1168499224297656321",
+              "name": "Discord"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          }
+        ],
+        "conversation_id": "2087554765328933240",
+        "created_at": "2026-08-12T15:00:15.000Z",
+        "display_text_range": [
+          0,
+          66
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T16:00:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087554765328933240"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "来 Discord Wesley の Discord Server 社区瞧瞧——结交近 22 名成员，畅享免费语音与文字聊天。",
+              "display_url": "discord.gg/h7a6vbNKx",
+              "end": 55,
+              "expanded_url": "https://discord.gg/h7a6vbNKx",
+              "start": 32,
+              "status": 200,
+              "title": "加入 Discord 服务器 Wesley の Discord Server！",
+              "unwound_url": "https://discord.com/invite/h7a6vbNKx",
+              "url": "https://t.co/7YOBH2sXfY"
+            },
+            {
+              "display_url": "x.com/Wesley10032/st…",
+              "end": 90,
+              "expanded_url": "https://twitter.com/Wesley10032/status/2087547651617423600",
+              "start": 67,
+              "url": "https://t.co/vGXYBG8kR6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087554765328933240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087547651617423600",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "之后我决定转战 Discord 了\n想语音聊天的可以来这个频道：https://t.co/7YOBH2sXfY\n每天晚上我基本都会在 https://t.co/vGXYBG8kR6"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880979169297022976",
+        "conversation_id": "2087547651617423600",
+        "created_at": "2026-08-12T14:31:59.000Z",
+        "display_text_range": [
+          0,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T15:31:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087547651617423600"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2087547651617423600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 96,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这两天暂时不开 Space\n我要排查一下我 Space 的问题"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳/♂/08.11.3/友跨🏳️‍⚧️\n政治立场未知/欢迎DM聊天(TG优先)\n魔裁(まのさば)/CS2/三角洲/Galgame/IT \n兴趣相近互fo/想做心理委员\n好基友@lockloveovo\n学生党 周末/节假日在线(暑假限时全天在线)\nCN/EN/JP\n防失联@Wesley10033",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 103,
+                "start": 91,
+                "username": "lockloveovo"
+              },
+              {
+                "end": 151,
+                "start": 139,
+                "username": "Wesley10033"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://telegram.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/Q5wiGuq4W4"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "is_identity_verified": false,
+        "location": "People's Republic of China",
+        "most_recent_tweet_id": "2087554765328933240",
+        "name": "Wesley",
+        "pinned_tweet_id": "2083033063257420070",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1880979169297022976/1785740152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1160,
+          "following_count": 1463,
+          "like_count": 15457,
+          "listed_count": 1,
+          "media_count": 379,
+          "tweet_count": 2669
+        },
+        "url": "https://t.co/Q5wiGuq4W4",
+        "username": "Wesley10032",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2087825945394900992"
+      ]
+    },
+    "author_id": "1880979169297022976",
+    "conversation_id": "2087825066021228745",
+    "created_at": "2026-08-13T08:57:51.000Z",
+    "display_text_range": [
+      0,
+      1
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T09:57:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087825951686312317"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/qRqH6d9Fxu",
+          "end": 25,
+          "expanded_url": "https://x.com/Wesley10032/status/2087825951686312317/photo/1",
+          "media_key": "3_2087825945394900992",
+          "start": 2,
+          "url": "https://t.co/qRqH6d9Fxu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087825951686312317",
+    "in_reply_to_user_id": "1880979169297022976",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2087825945394900992"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087825066021228745",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "喵 https://t.co/qRqH6d9Fxu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2402,
+        "media_key": "3_2087825945394900992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPlyorQbcAARKE6.jpg",
+        "width": 1040
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087825945394900992"
+          ]
+        },
+        "author_id": "1880979169297022976",
+        "conversation_id": "2087825066021228745",
+        "created_at": "2026-08-13T08:57:51.000Z",
+        "display_text_range": [
+          0,
+          1
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T09:57:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087825951686312317"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qRqH6d9Fxu",
+              "end": 25,
+              "expanded_url": "https://x.com/Wesley10032/status/2087825951686312317/photo/1",
+              "media_key": "3_2087825945394900992",
+              "start": 2,
+              "url": "https://t.co/qRqH6d9Fxu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087825951686312317",
+        "in_reply_to_user_id": "1880979169297022976",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2087825945394900992"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087825066021228745",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "喵 https://t.co/qRqH6d9Fxu"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880979169297022976",
+        "card_uri": "https://t.co/xSzlpPfX8e",
+        "conversation_id": "2087825066021228745",
+        "created_at": "2026-08-13T08:54:20.000Z",
+        "display_text_range": [
+          0,
+          76
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T09:54:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087825066021228745"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "害怕被讨厌而拼命微笑的寂寞少女",
+              "display_url": "manosaba-test.asachiri.com/r/ema/",
+              "end": 76,
+              "expanded_url": "https://manosaba-test.asachiri.com/r/ema/",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2087825068969885697/ubfi_cp3?format=png&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2087825068969885697/ubfi_cp3?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 53,
+              "status": 200,
+              "title": "樱羽艾玛 · 魔女审判人格测试",
+              "unwound_url": "https://manosaba-test.asachiri.com/r/ema/",
+              "url": "https://t.co/xSzlpPfX8e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087825066021228745",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我在魔女审判人格测试中被判决为「樱羽艾玛」—— 害怕被讨厌而拼命微笑的寂寞少女\n\n▸ 戳这里开始你的审判：https://t.co/xSzlpPfX8e"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳/♂/08.11.3/友跨🏳️‍⚧️\n政治立场未知/欢迎DM聊天(TG优先)\n魔裁(まのさば)/CS2/三角洲/Galgame/IT \n兴趣相近互fo/想做心理委员\n好基友@lockloveovo\n学生党 周末/节假日在线(暑假限时全天在线)\nCN/EN/JP\n防失联@Wesley10033",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 103,
+                "start": 91,
+                "username": "lockloveovo"
+              },
+              {
+                "end": 151,
+                "start": 139,
+                "username": "Wesley10033"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://telegram.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/Q5wiGuq4W4"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "is_identity_verified": false,
+        "location": "People's Republic of China",
+        "most_recent_tweet_id": "2087825951686312317",
+        "name": "Wesley",
+        "pinned_tweet_id": "2083033063257420070",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1880979169297022976/1785740152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1173,
+          "following_count": 1471,
+          "like_count": 15642,
+          "listed_count": 1,
+          "media_count": 381,
+          "tweet_count": 2691
+        },
+        "url": "https://t.co/Q5wiGuq4W4",
+        "username": "Wesley10032",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

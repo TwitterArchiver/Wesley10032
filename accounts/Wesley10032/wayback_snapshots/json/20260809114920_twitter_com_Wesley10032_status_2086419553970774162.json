@@ -1,0 +1,331 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2085990168398540800"
+      ],
+      "media_source_tweet_id": [
+        "2085990176921362783"
+      ]
+    },
+    "author_id": "1880979169297022976",
+    "conversation_id": "2086419553970774162",
+    "created_at": "2026-08-09T11:49:20.000Z",
+    "display_text_range": [
+      0,
+      44
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T12:49:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086419553970774162"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2070513982599987201",
+          "start": 3,
+          "username": "emoemo088"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7by7dEAk8Q",
+          "end": 44,
+          "expanded_url": "https://x.com/emoemo088/status/2085990176921362783/photo/1",
+          "media_key": "3_2085990168398540800",
+          "start": 21,
+          "url": "https://t.co/7by7dEAk8Q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086419553970774162",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2085990168398540800"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 209
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085990176921362783",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @emoemo088: 推特现状: https://t.co/7by7dEAk8Q"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 752,
+        "media_key": "3_2085990168398540800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPLtAZBaMAAsh5x.jpg",
+        "width": 1081
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085990168398540800"
+          ]
+        },
+        "author_id": "2070513982599987201",
+        "conversation_id": "2085990176921362783",
+        "created_at": "2026-08-08T07:23:08.000Z",
+        "display_text_range": [
+          0,
+          5
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-08T08:23:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085990176921362783"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7by7dEAk8Q",
+              "end": 29,
+              "expanded_url": "https://x.com/emoemo088/status/2085990176921362783/photo/1",
+              "media_key": "3_2085990168398540800",
+              "start": 6,
+              "url": "https://t.co/7by7dEAk8Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085990176921362783",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2085990168398540800"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 67,
+          "impression_count": 337527,
+          "like_count": 4368,
+          "quote_count": 16,
+          "reply_count": 1175,
+          "retweet_count": 209
+        },
+        "reply_settings": "everyone",
+        "text": "推特现状: https://t.co/7by7dEAk8Q"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085990168398540800"
+          ],
+          "media_source_tweet_id": [
+            "2085990176921362783"
+          ]
+        },
+        "author_id": "1880979169297022976",
+        "conversation_id": "2086419553970774162",
+        "created_at": "2026-08-09T11:49:20.000Z",
+        "display_text_range": [
+          0,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T12:49:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086419553970774162"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2070513982599987201",
+              "start": 3,
+              "username": "emoemo088"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7by7dEAk8Q",
+              "end": 44,
+              "expanded_url": "https://x.com/emoemo088/status/2085990176921362783/photo/1",
+              "media_key": "3_2085990168398540800",
+              "start": 21,
+              "url": "https://t.co/7by7dEAk8Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086419553970774162",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2085990168398540800"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 209
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085990176921362783",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @emoemo088: 推特现状: https://t.co/7by7dEAk8Q"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳/♂/08.11.3/友跨🏳️‍⚧️\n或许是温和粉红/欢迎DM聊天(TG优先)\n魔裁(まのさば)/CS2/三角洲/Galgame/IT \n兴趣相近互fo/想做心理委员\n好基友@lockloveovo\n学生党 周末/节假日在线(暑假限时全天在线)\nCN/EN/JP\n防失联@Wesley10033",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 104,
+                "start": 92,
+                "username": "lockloveovo"
+              },
+              {
+                "end": 152,
+                "start": 140,
+                "username": "Wesley10033"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://telegram.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/Q5wiGuq4W4"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "is_identity_verified": false,
+        "location": "People's Republic of China",
+        "most_recent_tweet_id": "2086419553970774162",
+        "name": "Wesley",
+        "pinned_tweet_id": "2083033063257420070",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1880979169297022976/1785740152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1011,
+          "following_count": 1305,
+          "like_count": 13662,
+          "listed_count": 1,
+          "media_count": 337,
+          "tweet_count": 2402
+        },
+        "url": "https://t.co/Q5wiGuq4W4",
+        "username": "Wesley10032",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-26T14:27:23.000Z",
+        "description": "当朋友圈发了 小号@ckyoa3",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 9,
+                "username": "ckyoa3"
+              }
+            ]
+          }
+        },
+        "id": "2070513982599987201",
+        "is_identity_verified": false,
+        "location": "你心里",
+        "most_recent_tweet_id": "2086416807733465105",
+        "name": "ck",
+        "pinned_tweet_id": "2086409917171388539",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084532315032899585/cCnFudyk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4346,
+          "following_count": 3,
+          "like_count": 93,
+          "listed_count": 5,
+          "media_count": 37,
+          "tweet_count": 157
+        },
+        "url": "",
+        "username": "emoemo088",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

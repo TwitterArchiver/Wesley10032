@@ -1,0 +1,310 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880979169297022976",
+    "conversation_id": "2088584389311766580",
+    "created_at": "2026-08-15T11:11:37.000Z",
+    "display_text_range": [
+      0,
+      27
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T12:11:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088584389311766580"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kiss486/status…",
+          "end": 51,
+          "expanded_url": "https://twitter.com/kiss486/status/2088467938861080933",
+          "start": 28,
+          "url": "https://t.co/xZaVouWU2U"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088584389311766580",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088467938861080933",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "篡改基本事实 混淆是非……\n批评不能用这种下三滥的手段 https://t.co/xZaVouWU2U"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 57300,
+        "height": 848,
+        "media_key": "13_2088467370436374528",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2088467370436374528/img/0ufPCnLxkdKCkta9.jpg",
+        "public_metrics": {
+          "view_count": 42612
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088467370436374528/vid/avc1/320x584/r--QJ4x-4LedoBSW.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088467370436374528/vid/avc1/464x848/kpZxzQ9x5cOKlp5B.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2088467370436374528/pl/0HVlKc2nRbOEUqiy.m3u8?v=84f"
+          }
+        ],
+        "width": 464
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880979169297022976",
+        "conversation_id": "2088584389311766580",
+        "created_at": "2026-08-15T11:11:37.000Z",
+        "display_text_range": [
+          0,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T12:11:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088584389311766580"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kiss486/status…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/kiss486/status/2088467938861080933",
+              "start": 28,
+              "url": "https://t.co/xZaVouWU2U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088584389311766580",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088467938861080933",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "篡改基本事实 混淆是非……\n批评不能用这种下三滥的手段 https://t.co/xZaVouWU2U"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2088467370436374528"
+          ]
+        },
+        "author_id": "97209551",
+        "conversation_id": "2088467938861080933",
+        "created_at": "2026-08-15T03:28:53.000Z",
+        "display_text_range": [
+          0,
+          197
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T04:28:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088467938861080933"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gd4OMo6bAO",
+              "end": 221,
+              "expanded_url": "https://x.com/kiss486/status/2088467938861080933/video/1",
+              "media_key": "13_2088467370436374528",
+              "start": 198,
+              "url": "https://t.co/gd4OMo6bAO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088467938861080933",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2088467370436374528"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "8月12日，中國上海新世界城發生一起鬥毆，其中一人拿出小刀猛刺對方數刀。最後被警方逮捕帶走。\n8/14被刺的傷者大量內出血死亡。\n許多中國網民說寧願帶刀捅死人也別當那個死人。\n你怎麼說？\n\nOn August 12th, a fight broke out at the New World City shopping mall in Shanghai, China, during which one person pulled out a knife and stabbed the other multiple times. He was eventually arrested and taken into custody by police.\n\nOn August 14th, the stabbed victim died from massive internal bleeding.\n\nMany Chinese netizens commented that they would rather carry a knife and kill someone than be the one who dies.\n\nWhat do you think?"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 90,
+          "impression_count": 49347,
+          "like_count": 331,
+          "quote_count": 7,
+          "reply_count": 40,
+          "retweet_count": 29
+        },
+        "reply_settings": "everyone",
+        "text": "8月12日，中國上海新世界城發生一起鬥毆，其中一人拿出小刀猛刺對方數刀。最後被警方逮捕帶走。\n8/14被刺的傷者大量內出血死亡。\n許多中國網民說寧願帶刀捅死人也別當那個死人。\n你怎麼說？\n\nOn August 12th, a fight broke out at the New World City shopping mall in Shanghai, China, during which https://t.co/gd4OMo6bAO"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳/♂/08.11.3/友跨🏳️‍⚧️\n政治立场未知/欢迎DM聊天(TG优先)\n魔裁(まのさば)/CS2/三角洲/Galgame/IT \n兴趣相近互fo/想做心理委员\n好基友@lockloveovo\n学生党 周末/节假日在线(暑假限时全天在线)\nCN/EN/JP\n防失联@Wesley10033",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 103,
+                "start": 91,
+                "username": "lockloveovo"
+              },
+              {
+                "end": 151,
+                "start": 139,
+                "username": "Wesley10033"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://telegram.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/Q5wiGuq4W4"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "is_identity_verified": false,
+        "location": "People's Republic of China",
+        "most_recent_tweet_id": "2088584389311766580",
+        "name": "Wesley",
+        "pinned_tweet_id": "2083033063257420070",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1880979169297022976/1785740152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1207,
+          "following_count": 1504,
+          "like_count": 16324,
+          "listed_count": 1,
+          "media_count": 401,
+          "tweet_count": 2816
+        },
+        "url": "https://t.co/Q5wiGuq4W4",
+        "username": "Wesley10032",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2009-12-16T13:35:03.000Z",
+        "description": "歡迎追蹤我的推特，掌握全球最新動態！\nFollow my Twitter for the latest global updates!\n世界の最新情報は私のTwitterでチェックしてください！\n日台友善関係が永遠に続きますように",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UC8jYJ…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/channel/UC8jYJr7i4I9BJ3tsv2f8kgw",
+                "start": 0,
+                "url": "https://t.co/JDF4Fk0wC9"
+              }
+            ]
+          }
+        },
+        "id": "97209551",
+        "is_identity_verified": false,
+        "location": "台北",
+        "most_recent_tweet_id": "2088484442100973900",
+        "name": "MR.486",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/97209551/1523226724",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1223396348466102272/qjVxXs8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 152646,
+          "following_count": 3617,
+          "like_count": 49562,
+          "listed_count": 418,
+          "media_count": 11499,
+          "tweet_count": 53609
+        },
+        "url": "https://t.co/JDF4Fk0wC9",
+        "username": "kiss486",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

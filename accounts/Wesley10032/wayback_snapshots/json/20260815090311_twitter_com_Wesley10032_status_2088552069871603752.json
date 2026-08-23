@@ -1,0 +1,417 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880979169297022976",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Global conversation about threats of terrorism, response of governments, and national security  ",
+          "id": "847543836330958848",
+          "name": "Global security & terrorism"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Political issues",
+          "id": "900740740468191232",
+          "name": "Political issues"
+        }
+      }
+    ],
+    "conversation_id": "2088552069871603752",
+    "created_at": "2026-08-15T09:03:11.000Z",
+    "display_text_range": [
+      0,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T10:03:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088552069871603752"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/mnd_china/stat…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/mnd_china/status/2088236365309980837",
+          "start": 16,
+          "url": "https://t.co/adbQGaZzM7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088552069871603752",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088236365309980837",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "请用日语字体，不要用简中字体。 https://t.co/adbQGaZzM7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2088235011359289344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPrmrcuasAAfyAS.jpg",
+        "width": 900
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880979169297022976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Global conversation about threats of terrorism, response of governments, and national security  ",
+              "id": "847543836330958848",
+              "name": "Global security & terrorism"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political issues",
+              "id": "900740740468191232",
+              "name": "Political issues"
+            }
+          }
+        ],
+        "conversation_id": "2088552069871603752",
+        "created_at": "2026-08-15T09:03:11.000Z",
+        "display_text_range": [
+          0,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T10:03:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088552069871603752"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mnd_china/stat…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/mnd_china/status/2088236365309980837",
+              "start": 16,
+              "url": "https://t.co/adbQGaZzM7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088552069871603752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088236365309980837",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "请用日语字体，不要用简中字体。 https://t.co/adbQGaZzM7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088235011359289344"
+          ]
+        },
+        "author_id": "1997946138083926016",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Global conversation about threats of terrorism, response of governments, and national security  ",
+              "id": "847543836330958848",
+              "name": "Global security & terrorism"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political issues",
+              "id": "900740740468191232",
+              "name": "Political issues"
+            }
+          }
+        ],
+        "conversation_id": "2088236365309980837",
+        "created_at": "2026-08-14T12:08:41.000Z",
+        "display_text_range": [
+          0,
+          51
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T13:08:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088236365309980837"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cA4gjhk5Nv",
+              "end": 75,
+              "expanded_url": "https://x.com/MND_China/status/2088236365309980837/photo/1",
+              "media_key": "3_2088235011359289344",
+              "start": 52,
+              "url": "https://t.co/cA4gjhk5Nv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088236365309980837",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2088235011359289344"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "８月１４日午後、中国国防部の陳曦報道官（大校）は、昨今の軍関連問題について発表した。\n詳細は下記参照：\n\n記者：明日8月15日は、81年前に日本が無条件降伏した日です。しかし現在、日本の右翼勢力は歴史を改ざんしつつ、軍備拡張を進めており、防衛省は政府の2027年度予算編成に向けた概算要求で、過去最大となる約8.9兆円を求めています。これについてどうお考えですか。\n\n陳曦報道官：81年前、中国と世界の反ファシズム人民戦線の厳しい打撃の下、日本は無条件降伏しました。当時、日本の軍国主義はアジア全体を血と火の深淵に陥れ、南京大虐殺、バターン死の行進、泰緬鉄道などの残虐行為はアジアおよび世界の人々に深刻な被害をもたらし、日本国民も多くの苦しみを味わいました。しかし、戦争に負けた日本は歴史の教訓を真に汲み取ることなく、長年にわたり右翼勢力による侵略歴史の歪曲、否定を放置しています。「平和憲法」と「専守防衛」の原則を突破するためには手段を選ばず、戦後の国際秩序に挑もうとすることで、地域平和と安定を損なうものとなってしまっています。近頃、日本は「外部脅威」を口実に防衛予算を大幅に増額し、軍事能力を大きく発展させ、軍備拡張を続けています。日本の「新型軍国主義」はその本質を露わにしており、その禍を警戒せねばなりません。歴史の真実は忘れられるべきではなく、正義と平和は冒涜されるべきではありません。我々は日本政府に対し、深く反省し、罪を認めて償うよう促します。戦後国際秩序を厳しく守り、「再軍事化」という危険な行為を止めるよう求めます。過ちの道を再び歩めば、より惨憺たる敗北と、より徹底的な清算を招くだけです。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 49067,
+          "like_count": 331,
+          "quote_count": 6,
+          "reply_count": 41,
+          "retweet_count": 34
+        },
+        "reply_settings": "everyone",
+        "text": "８月１４日午後、中国国防部の陳曦報道官（大校）は、昨今の軍関連問題について発表した。\n詳細は下記参照： https://t.co/cA4gjhk5Nv"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳/♂/08.11.3/友跨🏳️‍⚧️\n政治立场未知/欢迎DM聊天(TG优先)\n魔裁(まのさば)/CS2/三角洲/Galgame/IT \n兴趣相近互fo/想做心理委员\n好基友@lockloveovo\n学生党 周末/节假日在线(暑假限时全天在线)\nCN/EN/JP\n防失联@Wesley10033",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 103,
+                "start": 91,
+                "username": "lockloveovo"
+              },
+              {
+                "end": 151,
+                "start": 139,
+                "username": "Wesley10033"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://telegram.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/Q5wiGuq4W4"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "is_identity_verified": false,
+        "location": "People's Republic of China",
+        "most_recent_tweet_id": "2088552069871603752",
+        "name": "Wesley",
+        "pinned_tweet_id": "2083033063257420070",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1880979169297022976/1785740152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1205,
+          "following_count": 1497,
+          "like_count": 16181,
+          "listed_count": 1,
+          "media_count": 401,
+          "tweet_count": 2791
+        },
+        "url": "https://t.co/Q5wiGuq4W4",
+        "username": "Wesley10032",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-12-08T08:27:55.000Z",
+        "description": "Follow us to know about China's national defense in the new era.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "eng.mod.gov.cn",
+                "end": 23,
+                "expanded_url": "http://eng.mod.gov.cn/",
+                "start": 0,
+                "url": "https://t.co/CWpY8zE0AC"
+              }
+            ]
+          }
+        },
+        "id": "1997946138083926016",
+        "is_identity_verified": false,
+        "location": "Beijing, China",
+        "most_recent_tweet_id": "2088445571027935596",
+        "name": "Ministry of National Defense of China",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1997946138083926016/1765182606",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997946300550217728/w3JcRFTc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 375552,
+          "following_count": 11,
+          "like_count": 10,
+          "listed_count": 240,
+          "media_count": 204,
+          "tweet_count": 248
+        },
+        "url": "https://t.co/CWpY8zE0AC",
+        "username": "MND_China",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

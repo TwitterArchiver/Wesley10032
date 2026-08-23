@@ -1,0 +1,441 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2087904939368726529"
+      ],
+      "media_source_tweet_id": [
+        "2087904986990805046"
+      ]
+    },
+    "author_id": "1880979169297022976",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2087913726079119751",
+    "created_at": "2026-08-13T14:46:38.000Z",
+    "display_text_range": [
+      0,
+      133
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T15:46:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087913726079119751"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2078430419587153920",
+          "start": 3,
+          "username": "StrawMono_"
+        },
+        {
+          "end": 40,
+          "id": "2057816167025160194",
+          "start": 30,
+          "username": "yutr72467"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9kX1ANhXxh",
+          "end": 133,
+          "expanded_url": "https://x.com/StrawMono_/status/2087904986990805046/photo/1",
+          "media_key": "3_2087904939368726529",
+          "start": 110,
+          "url": "https://t.co/9kX1ANhXxh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087913726079119751",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2087904939368726529"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087904986990805046",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @StrawMono_: 紧急求助！看到请互转！！！\n@yutr72467 正面临自杀风险，目前其正在试图坐车去野外服盐自杀！\n有关车次仅有以下信息，其他情况目前均未知！\n请大家帮帮忙，救救她\n（评论有信息补充） https://t.co/9kX1ANhXxh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2087904939368726529",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPm6euvbQAEsYrz.jpg",
+        "width": 864
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087904939368726529"
+          ]
+        },
+        "author_id": "2078430419587153920",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2087904986990805046",
+        "created_at": "2026-08-13T14:11:54.000Z",
+        "display_text_range": [
+          0,
+          93
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T15:11:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087904986990805046"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 24,
+              "id": "2057816167025160194",
+              "start": 14,
+              "username": "yutr72467"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9kX1ANhXxh",
+              "end": 117,
+              "expanded_url": "https://x.com/StrawMono_/status/2087904986990805046/photo/1",
+              "media_key": "3_2087904939368726529",
+              "start": 94,
+              "url": "https://t.co/9kX1ANhXxh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087904986990805046",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087904939368726529"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 147,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "紧急求助！看到请互转！！！\n@yutr72467 正面临自杀风险，目前其正在试图坐车去野外服盐自杀！\n有关车次仅有以下信息，其他情况目前均未知！\n请大家帮帮忙，救救她\n（评论有信息补充） https://t.co/9kX1ANhXxh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087904939368726529"
+          ],
+          "media_source_tweet_id": [
+            "2087904986990805046"
+          ]
+        },
+        "author_id": "1880979169297022976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2087913726079119751",
+        "created_at": "2026-08-13T14:46:38.000Z",
+        "display_text_range": [
+          0,
+          133
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T15:46:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087913726079119751"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2078430419587153920",
+              "start": 3,
+              "username": "StrawMono_"
+            },
+            {
+              "end": 40,
+              "id": "2057816167025160194",
+              "start": 30,
+              "username": "yutr72467"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9kX1ANhXxh",
+              "end": 133,
+              "expanded_url": "https://x.com/StrawMono_/status/2087904986990805046/photo/1",
+              "media_key": "3_2087904939368726529",
+              "start": 110,
+              "url": "https://t.co/9kX1ANhXxh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087913726079119751",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087904939368726529"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087904986990805046",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @StrawMono_: 紧急求助！看到请互转！！！\n@yutr72467 正面临自杀风险，目前其正在试图坐车去野外服盐自杀！\n有关车次仅有以下信息，其他情况目前均未知！\n请大家帮帮忙，救救她\n（评论有信息补充） https://t.co/9kX1ANhXxh"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳/♂/08.11.3/友跨🏳️‍⚧️\n政治立场未知/欢迎DM聊天(TG优先)\n魔裁(まのさば)/CS2/三角洲/Galgame/IT \n兴趣相近互fo/想做心理委员\n好基友@lockloveovo\n学生党 周末/节假日在线(暑假限时全天在线)\nCN/EN/JP\n防失联@Wesley10033",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 103,
+                "start": 91,
+                "username": "lockloveovo"
+              },
+              {
+                "end": 151,
+                "start": 139,
+                "username": "Wesley10033"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://telegram.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/Q5wiGuq4W4"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "is_identity_verified": false,
+        "location": "People's Republic of China",
+        "most_recent_tweet_id": "2087913726079119751",
+        "name": "Wesley",
+        "pinned_tweet_id": "2083033063257420070",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1880979169297022976/1785740152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1178,
+          "following_count": 1476,
+          "like_count": 15716,
+          "listed_count": 1,
+          "media_count": 382,
+          "tweet_count": 2704
+        },
+        "url": "https://t.co/Q5wiGuq4W4",
+        "username": "Wesley10032",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-18T10:43:54.000Z",
+        "description": "生产日期 2010.05 / hrt 2026.08.04 / 无证含糖 / 未出柜 / 不od不割手 / 是会编程的小猫 / 想找人聊聊天喵 / 玩原神、三角洲 / 同类互fo（如果没回关就是忘了…可以私信提醒喵）\n最爱的老公&主人：@h1kar1_chan喵！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 118,
+                "username": "h1kar1_chan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/StrawMono",
+                "end": 23,
+                "expanded_url": "http://t.me/StrawMono",
+                "start": 0,
+                "url": "https://t.co/kwnn4le920"
+              }
+            ]
+          }
+        },
+        "id": "2078430419587153920",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087912776782295206",
+        "name": "草莓味精StrawMono🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2085952739306275266",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2078430419587153920/1784377399",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080509254012907521/dKV3LIpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 254,
+          "following_count": 296,
+          "like_count": 1037,
+          "listed_count": 2,
+          "media_count": 25,
+          "tweet_count": 127
+        },
+        "url": "https://t.co/kwnn4le920",
+        "username": "StrawMono_",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-22T13:30:11.000Z",
+        "description": "喜欢交朋友可以叫我炭炭/笨蛋心理委员/中立/无证/双向/随机礼物/糖糖好甜/喜欢猫猫/互关/\n初次见面喵喵！请多多关照喵喵！\n知道有些事不对，但也是要尊重他人的选择呀",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Zlicnce",
+                "end": 23,
+                "expanded_url": "http://t.me/Zlicnce",
+                "start": 0,
+                "url": "https://t.co/Qn0oFmL3hm"
+              }
+            ]
+          }
+        },
+        "id": "2057816167025160194",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2081763781961728030",
+        "name": "Slicnce ⁧ ~喵⁧🍥",
+        "pinned_tweet_id": "2081763781961728030",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2057816167025160194/1784370549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063858388182949888/mG8gyKy2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 374,
+          "following_count": 411,
+          "like_count": 1830,
+          "listed_count": 2,
+          "media_count": 12,
+          "tweet_count": 616
+        },
+        "url": "https://t.co/Qn0oFmL3hm",
+        "username": "yutr72467",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

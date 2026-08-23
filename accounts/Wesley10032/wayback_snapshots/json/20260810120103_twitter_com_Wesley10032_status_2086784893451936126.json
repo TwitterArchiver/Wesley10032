@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880979169297022976",
+    "conversation_id": "2086720934162174361",
+    "created_at": "2026-08-10T12:01:03.000Z",
+    "display_text_range": [
+      16,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T13:01:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086784893451936126"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1989984988566347777",
+          "start": 0,
+          "username": "moriyama197071"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086784893451936126",
+    "in_reply_to_user_id": "1989984988566347777",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086720934162174361",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@moriyama197071 頑張れ！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880979169297022976",
+        "conversation_id": "2086720934162174361",
+        "created_at": "2026-08-10T12:01:03.000Z",
+        "display_text_range": [
+          16,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T13:01:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086784893451936126"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1989984988566347777",
+              "start": 0,
+              "username": "moriyama197071"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086784893451936126",
+        "in_reply_to_user_id": "1989984988566347777",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086720934162174361",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@moriyama197071 頑張れ！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989984988566347777",
+        "conversation_id": "2086720934162174361",
+        "created_at": "2026-08-10T07:46:54.000Z",
+        "display_text_range": [
+          0,
+          6
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T08:46:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086720934162174361"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2086720934162174361",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2604,
+          "like_count": 77,
+          "quote_count": 0,
+          "reply_count": 39,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "中国語やるよ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳/♂/08.11.3/友跨🏳️‍⚧️\n或许是温和粉红/欢迎DM聊天(TG优先)\n魔裁(まのさば)/CS2/三角洲/Galgame/IT \n兴趣相近互fo/想做心理委员\n好基友@lockloveovo\n学生党 周末/节假日在线(暑假限时全天在线)\nCN/EN/JP\n防失联@Wesley10033",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 104,
+                "start": 92,
+                "username": "lockloveovo"
+              },
+              {
+                "end": 152,
+                "start": 140,
+                "username": "Wesley10033"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://telegram.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/Q5wiGuq4W4"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "is_identity_verified": false,
+        "location": "People's Republic of China",
+        "most_recent_tweet_id": "2086784893451936126",
+        "name": "Wesley",
+        "pinned_tweet_id": "2083033063257420070",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1880979169297022976/1785740152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1071,
+          "following_count": 1375,
+          "like_count": 14290,
+          "listed_count": 1,
+          "media_count": 355,
+          "tweet_count": 2508
+        },
+        "url": "https://t.co/Q5wiGuq4W4",
+        "username": "Wesley10032",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-16T09:13:03.000Z",
+        "description": "🚹 💕→🇯🇵🇰🇷🇨🇳| Learning history and language |Drawing illustrations | I often use a translator.🙇 在学习中文|저는 한반도 역사의 초학자입니다.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/moriyama71",
+                "end": 23,
+                "expanded_url": "https://lit.link/moriyama71",
+                "start": 0,
+                "url": "https://t.co/8lMRIyxDYb"
+              }
+            ]
+          }
+        },
+        "id": "1989984988566347777",
+        "is_identity_verified": false,
+        "location": "🇯🇵",
+        "most_recent_tweet_id": "2086721354209108212",
+        "name": "moriyama(守山)",
+        "pinned_tweet_id": "2072151761356529693",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1989984988566347777/1784896729",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072480811769810944/61X5XC1w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2948,
+          "following_count": 148,
+          "like_count": 6546,
+          "listed_count": 1,
+          "media_count": 136,
+          "tweet_count": 3263
+        },
+        "url": "https://t.co/8lMRIyxDYb",
+        "username": "moriyama197071",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

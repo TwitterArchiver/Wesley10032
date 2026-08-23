@@ -1,0 +1,417 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088154520241233920"
+      ],
+      "media_source_tweet_id": [
+        "2088154528260772299"
+      ]
+    },
+    "author_id": "1880979169297022976",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      }
+    ],
+    "conversation_id": "2088476850951778671",
+    "created_at": "2026-08-15T04:04:17.000Z",
+    "display_text_range": [
+      0,
+      83
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T05:04:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088476850951778671"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1686323740093861889",
+          "start": 3,
+          "username": "hi_me127"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Iyb7j6kKK9",
+          "end": 83,
+          "expanded_url": "https://x.com/hi_me127/status/2088154528260772299/photo/1",
+          "media_key": "3_2088154520241233920",
+          "start": 60,
+          "url": "https://t.co/Iyb7j6kKK9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088476850951778671",
+    "lang": "ko",
+    "media_metadata": [
+      {
+        "media_key": "3_2088154520241233920"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1717
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088154528260772299",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hi_me127: 하얼빈 731부대 기념관임\n이런 기개는 배워야대\n심지어 한국어 도슨트 기계 공짜임 https://t.co/Iyb7j6kKK9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2088154520241233920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPqdeP8a4AAXQSI.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088154520241233920"
+          ],
+          "media_source_tweet_id": [
+            "2088154528260772299"
+          ]
+        },
+        "author_id": "1880979169297022976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          }
+        ],
+        "conversation_id": "2088476850951778671",
+        "created_at": "2026-08-15T04:04:17.000Z",
+        "display_text_range": [
+          0,
+          83
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T05:04:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088476850951778671"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1686323740093861889",
+              "start": 3,
+              "username": "hi_me127"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Iyb7j6kKK9",
+              "end": 83,
+              "expanded_url": "https://x.com/hi_me127/status/2088154528260772299/photo/1",
+              "media_key": "3_2088154520241233920",
+              "start": 60,
+              "url": "https://t.co/Iyb7j6kKK9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088476850951778671",
+        "lang": "ko",
+        "media_metadata": [
+          {
+            "media_key": "3_2088154520241233920"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1717
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088154528260772299",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hi_me127: 하얼빈 731부대 기념관임\n이런 기개는 배워야대\n심지어 한국어 도슨트 기계 공짜임 https://t.co/Iyb7j6kKK9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088154520241233920"
+          ]
+        },
+        "author_id": "1686323740093861889",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          }
+        ],
+        "conversation_id": "2088154528260772299",
+        "created_at": "2026-08-14T06:43:30.000Z",
+        "display_text_range": [
+          0,
+          45
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T07:43:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088154528260772299"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Iyb7j6kKK9",
+              "end": 69,
+              "expanded_url": "https://x.com/hi_me127/status/2088154528260772299/photo/1",
+              "media_key": "3_2088154520241233920",
+              "start": 46,
+              "url": "https://t.co/Iyb7j6kKK9"
+            },
+            {
+              "display_url": "x.com/zzinmandu_/sta…",
+              "end": 93,
+              "expanded_url": "https://twitter.com/zzinmandu_/status/2088119391347265714",
+              "start": 70,
+              "url": "https://t.co/ek8M5t3StE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088154528260772299",
+        "lang": "ko",
+        "media_metadata": [
+          {
+            "media_key": "3_2088154520241233920"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 309,
+          "impression_count": 228269,
+          "like_count": 5608,
+          "quote_count": 53,
+          "reply_count": 21,
+          "retweet_count": 1717
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088119391347265714",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "하얼빈 731부대 기념관임\n이런 기개는 배워야대\n심지어 한국어 도슨트 기계 공짜임 https://t.co/Iyb7j6kKK9 https://t.co/ek8M5t3StE"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳/♂/08.11.3/友跨🏳️‍⚧️\n政治立场未知/欢迎DM聊天(TG优先)\n魔裁(まのさば)/CS2/三角洲/Galgame/IT \n兴趣相近互fo/想做心理委员\n好基友@lockloveovo\n学生党 周末/节假日在线(暑假限时全天在线)\nCN/EN/JP\n防失联@Wesley10033",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 103,
+                "start": 91,
+                "username": "lockloveovo"
+              },
+              {
+                "end": 151,
+                "start": 139,
+                "username": "Wesley10033"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://telegram.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/Q5wiGuq4W4"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "is_identity_verified": false,
+        "location": "People's Republic of China",
+        "most_recent_tweet_id": "2088476850951778671",
+        "name": "Wesley",
+        "pinned_tweet_id": "2083033063257420070",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1880979169297022976/1785740152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1203,
+          "following_count": 1494,
+          "like_count": 16126,
+          "listed_count": 1,
+          "media_count": 399,
+          "tweet_count": 2780
+        },
+        "url": "https://t.co/Q5wiGuq4W4",
+        "username": "Wesley10032",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-08-01T10:31:36.000Z",
+        "description": "계정이 잠겻어요 억울하다 억울해",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pushoong.com/4029809322?c=3",
+                "end": 23,
+                "expanded_url": "http://pushoong.com/4029809322?c=3",
+                "start": 0,
+                "url": "https://t.co/RdBHs29xN1"
+              }
+            ]
+          }
+        },
+        "id": "1686323740093861889",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088439825016009061",
+        "name": "진아",
+        "pinned_tweet_id": "1773562266354327973",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1773558336660914176/FQnJzmXM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 14,
+          "like_count": 60,
+          "listed_count": 1,
+          "media_count": 170,
+          "tweet_count": 3603
+        },
+        "url": "https://t.co/RdBHs29xN1",
+        "username": "hi_me127",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

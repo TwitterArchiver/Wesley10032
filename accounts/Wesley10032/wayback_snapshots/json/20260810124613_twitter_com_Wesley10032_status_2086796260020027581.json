@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880979169297022976",
+    "conversation_id": "2086789571753521460",
+    "created_at": "2026-08-10T12:46:13.000Z",
+    "display_text_range": [
+      16,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T13:46:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086796260020027581"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2074472140976599040",
+          "start": 0,
+          "username": "_XanderXander_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086796260020027581",
+    "in_reply_to_user_id": "2074472140976599040",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086789571753521460",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_XanderXander_ 喵？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880979169297022976",
+        "conversation_id": "2086789571753521460",
+        "created_at": "2026-08-10T12:46:13.000Z",
+        "display_text_range": [
+          16,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T13:46:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086796260020027581"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2074472140976599040",
+              "start": 0,
+              "username": "_XanderXander_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086796260020027581",
+        "in_reply_to_user_id": "2074472140976599040",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086789571753521460",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_XanderXander_ 喵？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2074472140976599040",
+        "card_uri": "https://t.co/AKabiOy1Gi",
+        "conversation_id": "2086789571753521460",
+        "created_at": "2026-08-10T12:19:39.000Z",
+        "display_text_range": [
+          0,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T13:19:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086789571753521460"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Xander’s Space · 0 listening · Where live audio conversations happen",
+              "display_url": "x.com/i/spaces/1qKVm…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/spaces/1qKVmyQOrzLxB",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2086789573078835200/xEwM7it8?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2086789573078835200/xEwM7it8?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "Happening now: 第一次直播，我也不知道播啥纯聊天",
+              "unwound_url": "https://twitter.com/i/spaces/1qKVmyQOrzLxB/peek",
+              "url": "https://t.co/AKabiOy1Gi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086789571753521460",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 134,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 17,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/AKabiOy1Gi"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳/♂/08.11.3/友跨🏳️‍⚧️\n或许是温和粉红/欢迎DM聊天(TG优先)\n魔裁(まのさば)/CS2/三角洲/Galgame/IT \n兴趣相近互fo/想做心理委员\n好基友@lockloveovo\n学生党 周末/节假日在线(暑假限时全天在线)\nCN/EN/JP\n防失联@Wesley10033",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 104,
+                "start": 92,
+                "username": "lockloveovo"
+              },
+              {
+                "end": 152,
+                "start": 140,
+                "username": "Wesley10033"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://telegram.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/Q5wiGuq4W4"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "is_identity_verified": false,
+        "location": "People's Republic of China",
+        "most_recent_tweet_id": "2086796260020027581",
+        "name": "Wesley",
+        "pinned_tweet_id": "2083033063257420070",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1880979169297022976/1785740152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1071,
+          "following_count": 1378,
+          "like_count": 14319,
+          "listed_count": 1,
+          "media_count": 360,
+          "tweet_count": 2519
+        },
+        "url": "https://t.co/Q5wiGuq4W4",
+        "username": "Wesley10032",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-07T12:35:53.000Z",
+        "description": "16岁，男，好相处， 有什么想问的尽管投NGL，日常在刷推，互fo\n NGL：https://t.co/zQXp62NDGZ\n telegram：https://t.co/5Vrs7C3r98\n\n(｡•̀ᴗ-)✧\n\n不要再把我的信息标记成垃圾信息了！！！TOT",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sunkakucs",
+                "end": 62,
+                "expanded_url": "https://ngl.link/sunkakucs",
+                "start": 39,
+                "url": "https://t.co/zQXp62NDGZ"
+              },
+              {
+                "display_url": "t.me/XanderMiao",
+                "end": 96,
+                "expanded_url": "http://t.me/XanderMiao",
+                "start": 73,
+                "url": "https://t.co/5Vrs7C3r98"
+              }
+            ]
+          }
+        },
+        "id": "2074472140976599040",
+        "is_identity_verified": false,
+        "location": "不告诉你，诶嘿嘿～",
+        "most_recent_tweet_id": "2086789993973022849",
+        "name": "Xander",
+        "pinned_tweet_id": "2084919523023749460",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2074472140976599040/1785839576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084920491727572992/HeTGp6mj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 47,
+          "like_count": 179,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 273
+        },
+        "url": "",
+        "username": "_XanderXander_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

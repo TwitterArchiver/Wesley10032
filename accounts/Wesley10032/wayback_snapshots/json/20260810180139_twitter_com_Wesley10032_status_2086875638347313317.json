@@ -1,0 +1,392 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880979169297022976",
+    "conversation_id": "2086875638347313317",
+    "created_at": "2026-08-10T18:01:39.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T19:01:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086875638347313317"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1885529810942009344",
+          "start": 3,
+          "username": "NEO_NA45"
+        },
+        {
+          "end": 31,
+          "id": "1519649212736049152",
+          "start": 18,
+          "username": "Mark67358226"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086875638347313317",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086841897415504157",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NEO_NA45: To [@Mark67358226 ]：\n其實收到你寫給我的信時，我真的愣了好一會。\n我沒有想到，會有人願意特意寫下這麼多話送給我。\n可能對你來說，它只是一句祝福；但對現在的我而言，它其實比你想像中重要得多。\n我其實也有過很多懷疑自己的時候。… ht…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2086841883704360960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPXzovybAAAeOSc.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880979169297022976",
+        "conversation_id": "2086875638347313317",
+        "created_at": "2026-08-10T18:01:39.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T19:01:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086875638347313317"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1885529810942009344",
+              "start": 3,
+              "username": "NEO_NA45"
+            },
+            {
+              "end": 31,
+              "id": "1519649212736049152",
+              "start": 18,
+              "username": "Mark67358226"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086875638347313317",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086841897415504157",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @NEO_NA45: To [@Mark67358226 ]：\n其實收到你寫給我的信時，我真的愣了好一會。\n我沒有想到，會有人願意特意寫下這麼多話送給我。\n可能對你來說，它只是一句祝福；但對現在的我而言，它其實比你想像中重要得多。\n我其實也有過很多懷疑自己的時候。… ht…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086841883704360960"
+          ]
+        },
+        "author_id": "1885529810942009344",
+        "conversation_id": "2086841897415504157",
+        "created_at": "2026-08-10T15:47:34.000Z",
+        "display_text_range": [
+          0,
+          121
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T16:47:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086841897415504157"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1519649212736049152",
+              "start": 4,
+              "username": "Mark67358226"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Z3QbTwY5UZ",
+              "end": 145,
+              "expanded_url": "https://x.com/NEO_NA45/status/2086841897415504157/photo/1",
+              "media_key": "3_2086841883704360960",
+              "start": 122,
+              "url": "https://t.co/Z3QbTwY5UZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086841897415504157",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2086841883704360960"
+          }
+        ],
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 17,
+                "id": "1519649212736049152",
+                "start": 4,
+                "username": "Mark67358226"
+              }
+            ]
+          },
+          "text": "To [@Mark67358226 ]：\n其實收到你寫給我的信時，我真的愣了好一會。\n我沒有想到，會有人願意特意寫下這麼多話送給我。\n可能對你來說，它只是一句祝福；但對現在的我而言，它其實比你想像中重要得多。\n我其實也有過很多懷疑自己的時候。\n會想自己的作品是不是沒有人在意，會想自己是不是做得還不夠好，也會有不知道該不該繼續的時候。\n但你把這些話寫給我的那一刻，我突然覺得\n原來真的有人看見我。\n看見我在做什麼，也看見我一路走到現在。\n所以，謝謝你。\n謝謝你願意花時間寫下這封信，謝謝你願意支持我的創作，也謝謝你成為我在這條路上遇見的人之一。\n我不知道以後的我會走到哪裡，也不知道這個帳號最後會變成什麼樣子。\n也希望有一天，當你再回頭看見NEO的時候，會發現其實那個收到你這封信的人，真的一直都在努力發光。\n真的很謝謝你。\n也很高興能在茫茫人海裡，遇見你。\nThank you for being part of my journey."
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 191,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "To [@Mark67358226 ]：\n其實收到你寫給我的信時，我真的愣了好一會。\n我沒有想到，會有人願意特意寫下這麼多話送給我。\n可能對你來說，它只是一句祝福；但對現在的我而言，它其實比你想像中重要得多。\n我其實也有過很多懷疑自己的時候。 https://t.co/Z3QbTwY5UZ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳/♂/08.11.3/友跨🏳️‍⚧️\n或许是温和粉红/欢迎DM聊天(TG优先)\n魔裁(まのさば)/CS2/三角洲/Galgame/IT \n兴趣相近互fo/想做心理委员\n好基友@lockloveovo\n学生党 周末/节假日在线(暑假限时全天在线)\nCN/EN/JP\n防失联@Wesley10033",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 104,
+                "start": 92,
+                "username": "lockloveovo"
+              },
+              {
+                "end": 152,
+                "start": 140,
+                "username": "Wesley10033"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://telegram.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/Q5wiGuq4W4"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "is_identity_verified": false,
+        "location": "People's Republic of China",
+        "most_recent_tweet_id": "2086875638347313317",
+        "name": "Wesley",
+        "pinned_tweet_id": "2083033063257420070",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1880979169297022976/1785740152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1083,
+          "following_count": 1386,
+          "like_count": 14461,
+          "listed_count": 1,
+          "media_count": 362,
+          "tweet_count": 2530
+        },
+        "url": "https://t.co/Q5wiGuq4W4",
+        "username": "Wesley10032",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-02-01T03:25:23.000Z",
+        "description": "互fo喵 | 主要產出：🏎️ F1｜📱 Android｜📷 Photography｜⛏️Minecraft  | 分享生活碎片與一些想法 | F1相關長文 | 夜間出沒 | 日常小號@NEO_Lris45 | ❤️ @Lingfor0620\n👑GOAT:@LewisHamilton #WeRaceAsOne",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 154,
+                "start": 142,
+                "tag": "WeRaceAsOne"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 102,
+                "start": 91,
+                "username": "NEO_Lris45"
+              },
+              {
+                "end": 120,
+                "start": 108,
+                "username": "Lingfor0620"
+              },
+              {
+                "end": 141,
+                "start": 127,
+                "username": "LewisHamilton"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/NEO_NA45s_Chan…",
+                "end": 23,
+                "expanded_url": "https://t.me/NEO_NA45s_Channel",
+                "start": 0,
+                "url": "https://t.co/rS411XNlcO"
+              }
+            ]
+          }
+        },
+        "id": "1885529810942009344",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2086854166476095499",
+        "name": "NEO_NA45",
+        "pinned_tweet_id": "2085738633450094827",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1885529810942009344/1786380453",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075981609870991360/TQWSYK8d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 624,
+          "following_count": 715,
+          "like_count": 5624,
+          "listed_count": 0,
+          "media_count": 118,
+          "tweet_count": 1761
+        },
+        "url": "https://t.co/rS411XNlcO",
+        "username": "NEO_NA45",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-04-28T12:06:42.000Z",
+        "description": "生產日期：2010.9.6 | 181cm 54kg |北京昌平🇨🇳| 主要繁體🇹🇼 簡體🉑 |是mtx喵|日語🇯🇵 朝鮮語🇰🇷也會一點 | LGBT友好 |留長髮中| 喜歡漢服、東亞文化和可愛的男孩子（小南梁），歡迎諸君找我聊天口牙！永遠最好的哥哥/戀人：@Mak1287267 永遠愛你喵🥹",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 140,
+                "start": 129,
+                "username": "Mak1287267"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "dreamail.cn/send?dm=2225cc…",
+                "end": 23,
+                "expanded_url": "https://dreamail.cn/send?dm=2225ccc1-e4e4-4a1f-98a3-24d13a1d0999",
+                "start": 0,
+                "url": "https://t.co/0zMrtG5vDE"
+              }
+            ]
+          }
+        },
+        "id": "1519649212736049152",
+        "is_identity_verified": false,
+        "location": "琉球國首里城",
+        "most_recent_tweet_id": "2086857646347259984",
+        "name": "Lhn002",
+        "pinned_tweet_id": "2070101728381591818",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1519649212736049152/1784974138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020892688674103296/MTlilAxM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1564,
+          "following_count": 1864,
+          "like_count": 40400,
+          "listed_count": 5,
+          "media_count": 561,
+          "tweet_count": 9061
+        },
+        "url": "https://t.co/0zMrtG5vDE",
+        "username": "Mark67358226",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

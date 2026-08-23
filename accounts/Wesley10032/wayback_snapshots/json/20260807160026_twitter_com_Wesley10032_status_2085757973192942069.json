@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880979169297022976",
+    "conversation_id": "2085643188673671183",
+    "created_at": "2026-08-07T16:00:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T17:00:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085757973192942069"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "967668314095853570",
+          "start": 0,
+          "username": "_Malinorne"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085757973192942069",
+    "in_reply_to_user_id": "967668314095853570",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085757881652240493",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_Malinorne 这上升到哲学层面了，咱不懂（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880979169297022976",
+        "conversation_id": "2085643188673671183",
+        "created_at": "2026-08-07T16:00:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T17:00:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085757973192942069"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "967668314095853570",
+              "start": 0,
+              "username": "_Malinorne"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085757973192942069",
+        "in_reply_to_user_id": "967668314095853570",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085757881652240493",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_Malinorne 这上升到哲学层面了，咱不懂（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "967668314095853570",
+        "conversation_id": "2085643188673671183",
+        "created_at": "2026-08-07T16:00:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T17:00:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085757881652240493"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1880979169297022976",
+              "start": 0,
+              "username": "Wesley10032"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085757881652240493",
+        "in_reply_to_user_id": "1880979169297022976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085643188673671183",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wesley10032 所以“自我”是什么？\n“我”是这一整个人？“我”仅仅只是那个大脑？🤔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳/♂/08.11.3/友跨🏳️‍⚧️\n或许是温和粉红/欢迎DM聊天(TG优先)\n魔裁(まのさば)/CS2/三角洲/Galgame/IT \n兴趣相近互fo/想做心理委员\n好基友@lockloveovo\n学生党 周末/节假日在线(暑假限时全天在线)\nCN/EN/JP\n防失联@Wesley10033",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 104,
+                "start": 92,
+                "username": "lockloveovo"
+              },
+              {
+                "end": 152,
+                "start": 140,
+                "username": "Wesley10033"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://telegram.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/Q5wiGuq4W4"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "location": "People's Republic of China",
+        "name": "Wesley",
+        "pinned_tweet_id": "2083033063257420070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 923,
+          "following_count": 1245,
+          "like_count": 12830,
+          "listed_count": 1,
+          "media_count": 318,
+          "tweet_count": 2298
+        },
+        "url": "https://t.co/Q5wiGuq4W4",
+        "username": "Wesley10032",
+        "verified": true
+      },
+      {
+        "created_at": "2018-02-25T07:51:19.000Z",
+        "description": "MtF || 泛性恋 || INFP-A || 无证含糖🍥 HRT：7. 10. 2026 || 精神状况良好（？）|| 180cm 65kg || 应该是只兔子 ||  xp是正太和美少年 || 重度网瘾少女 || 饥荒 原神 Minecraft 希望有人一起玩 || 欢迎同类互fo",
+        "id": "967668314095853570",
+        "location": "Tasarinan",
+        "name": "一凣 🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083748323606032384/KvWnJQhL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 341,
+          "following_count": 180,
+          "like_count": 7805,
+          "listed_count": 2,
+          "media_count": 28,
+          "tweet_count": 1089
+        },
+        "url": "",
+        "username": "_Malinorne",
+        "verified": false
+      }
+    ]
+  }
+}

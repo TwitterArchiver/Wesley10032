@@ -1,0 +1,576 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880979169297022976",
+    "conversation_id": "2087118682346627392",
+    "created_at": "2026-08-11T10:14:18.000Z",
+    "display_text_range": [
+      63,
+      65
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T11:14:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087120416381063395"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2081489262982377472",
+          "start": 0,
+          "username": "kamizakajuukou"
+        },
+        {
+          "end": 26,
+          "id": "1589235830731997188",
+          "start": 16,
+          "username": "PWaterawa"
+        },
+        {
+          "end": 36,
+          "id": "1740162061639004160",
+          "start": 27,
+          "username": "Ariyairs"
+        },
+        {
+          "end": 48,
+          "id": "1738207674616217600",
+          "start": 37,
+          "username": "AnoYo_1028"
+        },
+        {
+          "end": 62,
+          "id": "1751672682733875200",
+          "start": 49,
+          "username": "jdvddh_58736"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087120416381063395",
+    "in_reply_to_user_id": "2081489262982377472",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087118682346627392",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kamizakajuukou @PWaterawa @Ariyairs @AnoYo_1028 @jdvddh_58736 好喵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2340,
+        "media_key": "3_2087118674742378496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPbvYGwagAAlBJM.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880979169297022976",
+        "conversation_id": "2087118682346627392",
+        "created_at": "2026-08-11T10:14:18.000Z",
+        "display_text_range": [
+          63,
+          65
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T11:14:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087120416381063395"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2081489262982377472",
+              "start": 0,
+              "username": "kamizakajuukou"
+            },
+            {
+              "end": 26,
+              "id": "1589235830731997188",
+              "start": 16,
+              "username": "PWaterawa"
+            },
+            {
+              "end": 36,
+              "id": "1740162061639004160",
+              "start": 27,
+              "username": "Ariyairs"
+            },
+            {
+              "end": 48,
+              "id": "1738207674616217600",
+              "start": 37,
+              "username": "AnoYo_1028"
+            },
+            {
+              "end": 62,
+              "id": "1751672682733875200",
+              "start": 49,
+              "username": "jdvddh_58736"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087120416381063395",
+        "in_reply_to_user_id": "2081489262982377472",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087118682346627392",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kamizakajuukou @PWaterawa @Ariyairs @AnoYo_1028 @jdvddh_58736 好喵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087118674742378496"
+          ]
+        },
+        "author_id": "2081489262982377472",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2087118682346627392",
+        "created_at": "2026-08-11T10:07:25.000Z",
+        "display_text_range": [
+          0,
+          160
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T11:07:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087118682346627392"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 52,
+              "id": "1589235830731997188",
+              "start": 42,
+              "username": "PWaterawa"
+            },
+            {
+              "end": 63,
+              "id": "1740162061639004160",
+              "start": 54,
+              "username": "Ariyairs"
+            },
+            {
+              "end": 76,
+              "id": "1738207674616217600",
+              "start": 65,
+              "username": "AnoYo_1028"
+            },
+            {
+              "end": 89,
+              "id": "1880979169297022976",
+              "start": 77,
+              "username": "Wesley10032"
+            },
+            {
+              "end": 103,
+              "id": "1751672682733875200",
+              "start": 90,
+              "username": "jdvddh_58736"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/djcRo0EF0i",
+              "end": 184,
+              "expanded_url": "https://x.com/kamizakajuukou/status/2087118682346627392/photo/1",
+              "media_key": "3_2087118674742378496",
+              "start": 161,
+              "url": "https://t.co/djcRo0EF0i"
+            },
+            {
+              "display_url": "x.com/kamizakajuukou…",
+              "end": 208,
+              "expanded_url": "https://twitter.com/kamizakajuukou/status/2085310937100386581",
+              "start": 185,
+              "url": "https://t.co/fTnZpFkGpx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087118682346627392",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087118674742378496"
+          }
+        ],
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 52,
+                "id": "1589235830731997188",
+                "start": 42,
+                "username": "PWaterawa"
+              },
+              {
+                "end": 63,
+                "id": "1740162061639004160",
+                "start": 54,
+                "username": "Ariyairs"
+              },
+              {
+                "end": 76,
+                "id": "1738207674616217600",
+                "start": 65,
+                "username": "AnoYo_1028"
+              },
+              {
+                "end": 89,
+                "id": "1880979169297022976",
+                "start": 77,
+                "username": "Wesley10032"
+              },
+              {
+                "end": 103,
+                "id": "1751672682733875200",
+                "start": 90,
+                "username": "jdvddh_58736"
+              }
+            ]
+          },
+          "text": "今天是8.11，50fo纪念的开奖日。我通过grok随机了评论区中的五位。分别是：\n@PWaterawa\n\r@Ariyairs \n@AnoYo_1028\n@Wesley10032\n@jdvddh_58736\n奖品是25r或日本代购一次(本日留生下次9月中回国哦)～\n\n谢谢大家的支持～纪念活动之后还会有哒，可以期待一下～\n\n并且我相信不会太远，这不到一周的时间已经达到了179fo，与最初的50fo翻了三倍不止，谢谢大家的关注～神坂之后还会继续发这些碎碎念与生活日常，或者说你们希望我发些其他的？我在读专业的作品？饮酒记录？\n无论如何，神坂会一直存在，与大家一起在这个社区(*¯︶¯*)"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085310937100386581",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "今天是8.11，50fo纪念的开奖日。我通过grok随机了评论区中的五位。分别是：\n@PWaterawa\n\r@Ariyairs \n@AnoYo_1028\n@Wesley10032\n@jdvddh_58736\n奖品是25r或日本代购一次(本日留生下次9月中回国哦)～\n\n谢谢大家的支持～纪念活动之后还会有哒，可以期待一下～ https://t.co/djcRo0EF0i https://t.co/fTnZpFkGpx"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳/♂/08.11.3/友跨🏳️‍⚧️\n政治立场未知/欢迎DM聊天(TG优先)\n魔裁(まのさば)/CS2/三角洲/Galgame/IT \n兴趣相近互fo/想做心理委员\n好基友@lockloveovo\n学生党 周末/节假日在线(暑假限时全天在线)\nCN/EN/JP\n防失联@Wesley10033",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 103,
+                "start": 91,
+                "username": "lockloveovo"
+              },
+              {
+                "end": 151,
+                "start": 139,
+                "username": "Wesley10033"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://telegram.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/Q5wiGuq4W4"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "is_identity_verified": false,
+        "location": "People's Republic of China",
+        "most_recent_tweet_id": "2087120416381063395",
+        "name": "Wesley",
+        "pinned_tweet_id": "2083033063257420070",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1880979169297022976/1785740152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1103,
+          "following_count": 1407,
+          "like_count": 14780,
+          "listed_count": 1,
+          "media_count": 371,
+          "tweet_count": 2578
+        },
+        "url": "https://t.co/Q5wiGuq4W4",
+        "username": "Wesley10032",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-26T21:23:32.000Z",
+        "description": "你好 这里是神坂重工 友跨  这里会更新些日常碎碎念 可以通过下方ngl链接随意向我提问 互fo 愿我们都得到幸福\n\n个人信息：艺术生 性别神坂重工 现居东京 祖籍杭城 重度酒精依赖",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kamizakajuukou",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kamizakajuukou",
+                "start": 0,
+                "url": "https://t.co/hUWSIOdhct"
+              }
+            ]
+          }
+        },
+        "id": "2081489262982377472",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2087118682346627392",
+        "name": "神坂重工",
+        "pinned_tweet_id": "2083994545038233790",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2081489262982377472/1785102308",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083056667034587136/ILFObDzv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 179,
+          "following_count": 243,
+          "like_count": 2748,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 219
+        },
+        "url": "https://t.co/hUWSIOdhct",
+        "username": "kamizakajuukou",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-11-06T12:38:50.000Z",
+        "description": "为何而可爱？为何而残酷？因爱因恶 爱为何物?恶为何物?不知不知PS.会回fo",
+        "id": "1589235830731997188",
+        "is_identity_verified": false,
+        "location": "可爱的世界~也是残酷的世界…",
+        "most_recent_tweet_id": "2086477704938025137",
+        "name": "汐汐",
+        "pinned_tweet_id": "1917968098625548312",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890021657315786753/VVAYoJBJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 335,
+          "following_count": 1243,
+          "like_count": 2435,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 2939
+        },
+        "url": "",
+        "username": "PWaterawa",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-12-28T00:05:53.000Z",
+        "description": "我是可爱的超级天使酱哦！2008.1.22｜水瓶座｜adhd｜焦虑｜抑郁 可以互fo/找我玩",
+        "id": "1740162061639004160",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086988416428945619",
+        "name": "Ariya",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076219632420315136/TSflb_fX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 96,
+          "like_count": 266,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 232
+        },
+        "url": "",
+        "username": "Ariyairs",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-12-22T14:40:00.000Z",
+        "description": "可以叫我yuyu。本体是一场雨。\n苦逼复读生，不定时上线喵\n互fo大欢迎——我喜欢交朋友呀都来和我玩🥺\n精神不正常可能会发好多奇怪东西。不要讨厌我好吗…😢\n备用号@anoyo1028 我怕哪天这个老号炸了呜呜呜呜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 81,
+                "username": "anoyo1028"
+              }
+            ]
+          }
+        },
+        "id": "1738207674616217600",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087111571541733851",
+        "name": "yuyu",
+        "pinned_tweet_id": "1962905191277346824",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1738207674616217600/1785471022",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082464642186805248/bXxai3or_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 124,
+          "like_count": 1550,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 310
+        },
+        "url": "",
+        "username": "AnoYo_1028",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-01-28T18:24:56.000Z",
+        "description": "",
+        "id": "1751672682733875200",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086986776535818752",
+        "name": "茗归家兮",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1751672682733875200/1767897233",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086360756376031232/XmHOh2I6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 54,
+          "like_count": 215,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 264
+        },
+        "url": "",
+        "username": "jdvddh_58736",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

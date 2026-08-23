@@ -1,0 +1,320 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2087786424859054080"
+      ],
+      "media_source_tweet_id": [
+        "2087786438679216163"
+      ]
+    },
+    "author_id": "1880979169297022976",
+    "conversation_id": "2088106017972531324",
+    "created_at": "2026-08-14T03:30:44.000Z",
+    "display_text_range": [
+      0,
+      108
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T04:30:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088106017972531324"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1527114974841012225",
+          "start": 3,
+          "username": "Kiger_YuQing"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/vRhn1fltVU",
+          "end": 108,
+          "expanded_url": "https://x.com/Kiger_YuQing/status/2087786438679216163/photo/1",
+          "media_key": "3_2087786424859054080",
+          "start": 85,
+          "url": "https://t.co/vRhn1fltVU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088106017972531324",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2087786424859054080"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087786438679216163",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Kiger_YuQing: 昨晚刚发布了deepseek v4pro想折腾一下DeepSeek，看了教程充了200，生成了这个api key，这个key怎么用啊 https://t.co/vRhn1fltVU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2087786424859054080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPlOsRybUAAX6_A.jpg",
+        "width": 1063
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087786424859054080"
+          ]
+        },
+        "author_id": "1527114974841012225",
+        "conversation_id": "2087786438679216163",
+        "created_at": "2026-08-13T06:20:50.000Z",
+        "display_text_range": [
+          0,
+          66
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T07:20:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087786438679216163"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vRhn1fltVU",
+              "end": 90,
+              "expanded_url": "https://x.com/Kiger_YuQing/status/2087786438679216163/photo/1",
+              "media_key": "3_2087786424859054080",
+              "start": 67,
+              "url": "https://t.co/vRhn1fltVU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087786438679216163",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087786424859054080"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 18028,
+          "like_count": 116,
+          "quote_count": 2,
+          "reply_count": 83,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "昨晚刚发布了deepseek v4pro想折腾一下DeepSeek，看了教程充了200，生成了这个api key，这个key怎么用啊 https://t.co/vRhn1fltVU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087786424859054080"
+          ],
+          "media_source_tweet_id": [
+            "2087786438679216163"
+          ]
+        },
+        "author_id": "1880979169297022976",
+        "conversation_id": "2088106017972531324",
+        "created_at": "2026-08-14T03:30:44.000Z",
+        "display_text_range": [
+          0,
+          108
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T04:30:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088106017972531324"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1527114974841012225",
+              "start": 3,
+              "username": "Kiger_YuQing"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vRhn1fltVU",
+              "end": 108,
+              "expanded_url": "https://x.com/Kiger_YuQing/status/2087786438679216163/photo/1",
+              "media_key": "3_2087786424859054080",
+              "start": 85,
+              "url": "https://t.co/vRhn1fltVU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088106017972531324",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087786424859054080"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087786438679216163",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Kiger_YuQing: 昨晚刚发布了deepseek v4pro想折腾一下DeepSeek，看了教程充了200，生成了这个api key，这个key怎么用啊 https://t.co/vRhn1fltVU"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳/♂/08.11.3/友跨🏳️‍⚧️\n政治立场未知/欢迎DM聊天(TG优先)\n魔裁(まのさば)/CS2/三角洲/Galgame/IT \n兴趣相近互fo/想做心理委员\n好基友@lockloveovo\n学生党 周末/节假日在线(暑假限时全天在线)\nCN/EN/JP\n防失联@Wesley10033",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 103,
+                "start": 91,
+                "username": "lockloveovo"
+              },
+              {
+                "end": 151,
+                "start": 139,
+                "username": "Wesley10033"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://telegram.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/Q5wiGuq4W4"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "is_identity_verified": false,
+        "location": "People's Republic of China",
+        "most_recent_tweet_id": "2088106017972531324",
+        "name": "Wesley",
+        "pinned_tweet_id": "2083033063257420070",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1880979169297022976/1785740152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1180,
+          "following_count": 1480,
+          "like_count": 15796,
+          "listed_count": 1,
+          "media_count": 383,
+          "tweet_count": 2715
+        },
+        "url": "https://t.co/Q5wiGuq4W4",
+        "username": "Wesley10032",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-05-19T02:32:44.000Z",
+        "description": "叫小雨丨清水不涩丨娃勤摄三位一体黄金冤种丨可约后勤/拍摄丨键政禁止丨头壳是自设+特蕾西娅丨暴躁社恐丨注孤的Aquarius丨INFP-T 4w5丨不首先不主动不礼貌丨只对友善的人友善丨记得带卡丨中日英OK",
+        "id": "1527114974841012225",
+        "is_identity_verified": false,
+        "location": "卡兹屯口垃姬桶",
+        "most_recent_tweet_id": "2087954791322599517",
+        "name": "咕咕雨",
+        "pinned_tweet_id": "2051280611957186870",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1527114974841012225/1783434915",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074502462749507584/u9v96f39_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2812,
+          "following_count": 841,
+          "like_count": 7458,
+          "listed_count": 16,
+          "media_count": 357,
+          "tweet_count": 7200
+        },
+        "url": "",
+        "username": "Kiger_YuQing",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

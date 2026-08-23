@@ -1,0 +1,851 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880979169297022976",
+    "conversation_id": "2088603290993070540",
+    "created_at": "2026-08-15T12:28:56.000Z",
+    "display_text_range": [
+      128,
+      134
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T13:28:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088603848789447061"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "3007509396",
+          "start": 0,
+          "username": "pengchujin"
+        },
+        {
+          "end": 19,
+          "id": "1559664112379998210",
+          "start": 12,
+          "username": "xpickr"
+        },
+        {
+          "end": 31,
+          "id": "243124464",
+          "start": 20,
+          "username": "iJimmyChan"
+        },
+        {
+          "end": 42,
+          "id": "869519351778390016",
+          "start": 32,
+          "username": "Fanglei28"
+        },
+        {
+          "end": 53,
+          "id": "896936122801991681",
+          "start": 43,
+          "username": "Put_Story"
+        },
+        {
+          "end": 66,
+          "id": "2041008640161923072",
+          "start": 54,
+          "username": "zengeeklabs"
+        },
+        {
+          "end": 76,
+          "id": "17556097",
+          "start": 67,
+          "username": "lingaoyi"
+        },
+        {
+          "end": 91,
+          "id": "867669051656425472",
+          "start": 77,
+          "username": "Captain_Ch023"
+        },
+        {
+          "end": 101,
+          "id": "74950309",
+          "start": 92,
+          "username": "plushc23"
+        },
+        {
+          "end": 118,
+          "id": "1162990331983360001",
+          "start": 102,
+          "username": "zgjV13hXlHUYYa5"
+        },
+        {
+          "end": 127,
+          "id": "1690570637499154432",
+          "start": 119,
+          "username": "zhwevea"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088603848789447061",
+    "in_reply_to_user_id": "3007509396",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088603290993070540",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pengchujin @xpickr @iJimmyChan @Fanglei28 @Put_Story @zengeeklabs @lingaoyi @Captain_Ch023 @plushc23 @zgjV13hXlHUYYa5 @zhwevea 我中奖了吗😨"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880979169297022976",
+        "conversation_id": "2088603290993070540",
+        "created_at": "2026-08-15T12:28:56.000Z",
+        "display_text_range": [
+          128,
+          134
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T13:28:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088603848789447061"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "3007509396",
+              "start": 0,
+              "username": "pengchujin"
+            },
+            {
+              "end": 19,
+              "id": "1559664112379998210",
+              "start": 12,
+              "username": "xpickr"
+            },
+            {
+              "end": 31,
+              "id": "243124464",
+              "start": 20,
+              "username": "iJimmyChan"
+            },
+            {
+              "end": 42,
+              "id": "869519351778390016",
+              "start": 32,
+              "username": "Fanglei28"
+            },
+            {
+              "end": 53,
+              "id": "896936122801991681",
+              "start": 43,
+              "username": "Put_Story"
+            },
+            {
+              "end": 66,
+              "id": "2041008640161923072",
+              "start": 54,
+              "username": "zengeeklabs"
+            },
+            {
+              "end": 76,
+              "id": "17556097",
+              "start": 67,
+              "username": "lingaoyi"
+            },
+            {
+              "end": 91,
+              "id": "867669051656425472",
+              "start": 77,
+              "username": "Captain_Ch023"
+            },
+            {
+              "end": 101,
+              "id": "74950309",
+              "start": 92,
+              "username": "plushc23"
+            },
+            {
+              "end": 118,
+              "id": "1162990331983360001",
+              "start": 102,
+              "username": "zgjV13hXlHUYYa5"
+            },
+            {
+              "end": 127,
+              "id": "1690570637499154432",
+              "start": 119,
+              "username": "zhwevea"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088603848789447061",
+        "in_reply_to_user_id": "3007509396",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088603290993070540",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pengchujin @xpickr @iJimmyChan @Fanglei28 @Put_Story @zengeeklabs @lingaoyi @Captain_Ch023 @plushc23 @zgjV13hXlHUYYa5 @zhwevea 我中奖了吗😨"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3007509396",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "Apple App Store",
+              "id": "10053298770",
+              "name": "Apple App Store"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10046487168",
+              "name": "App Store"
+            }
+          }
+        ],
+        "conversation_id": "2088603290993070540",
+        "created_at": "2026-08-15T12:26:43.000Z",
+        "display_text_range": [
+          0,
+          197
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T13:26:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088603290993070540"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 197,
+              "start": 190,
+              "tag": "xpickr"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 42,
+              "id": "1559664112379998210",
+              "start": 35,
+              "username": "xpickr"
+            },
+            {
+              "end": 57,
+              "id": "1880979169297022976",
+              "start": 45,
+              "username": "Wesley10032"
+            },
+            {
+              "end": 69,
+              "id": "243124464",
+              "start": 58,
+              "username": "iJimmyChan"
+            },
+            {
+              "end": 80,
+              "id": "869519351778390016",
+              "start": 70,
+              "username": "Fanglei28"
+            },
+            {
+              "end": 91,
+              "id": "896936122801991681",
+              "start": 81,
+              "username": "Put_Story"
+            },
+            {
+              "end": 104,
+              "id": "2041008640161923072",
+              "start": 92,
+              "username": "zengeeklabs"
+            },
+            {
+              "end": 114,
+              "id": "17556097",
+              "start": 105,
+              "username": "lingaoyi"
+            },
+            {
+              "end": 129,
+              "id": "867669051656425472",
+              "start": 115,
+              "username": "Captain_Ch023"
+            },
+            {
+              "end": 139,
+              "id": "74950309",
+              "start": 130,
+              "username": "plushc23"
+            },
+            {
+              "end": 156,
+              "id": "1162990331983360001",
+              "start": 140,
+              "username": "zgjV13hXlHUYYa5"
+            },
+            {
+              "end": 165,
+              "id": "1690570637499154432",
+              "start": 157,
+              "username": "zhwevea"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Congratulations to Wesley, iJimmyChan, F L, 𝔾𝕦𝕤𝕙𝕚, 禅极室zglabs, L.G.Y, Kevin Cheng, 老川, 兜兜有糖, Zhi Wei 🥥🧊 for winning the draw!",
+              "display_url": "xpickr.com/draw/178679675…",
+              "end": 189,
+              "expanded_url": "https://xpickr.com/draw/1786796753950/winners",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2088603305358626816/D6YUzk7g?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2088603305358626816/D6YUzk7g?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 166,
+              "status": 200,
+              "title": "The X Picker Winners",
+              "unwound_url": "https://www.xpickr.com/draw/1786796753950/winners",
+              "url": "https://t.co/hJNoyKlpmS"
+            },
+            {
+              "display_url": "x.com/pengchujin/sta…",
+              "end": 221,
+              "expanded_url": "https://twitter.com/pengchujin/status/2088170910960492828",
+              "start": 198,
+              "url": "https://t.co/8dzGbwAvG4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088603290993070540",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 122,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088170910960492828",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Congrats xpickr Winners - built by @xpickr - @Wesley10032 @iJimmyChan @Fanglei28 @Put_Story @zengeeklabs @lingaoyi @Captain_Ch023 @plushc23 @zgjV13hXlHUYYa5 @zhwevea https://t.co/hJNoyKlpmS #xpickr https://t.co/8dzGbwAvG4"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳/♂/08.11.3/友跨🏳️‍⚧️\n政治立场未知/欢迎DM聊天(TG优先)\n魔裁(まのさば)/CS2/三角洲/Galgame/IT \n兴趣相近互fo/想做心理委员\n好基友@lockloveovo\n学生党 周末/节假日在线(暑假限时全天在线)\nCN/EN/JP\n防失联@Wesley10033",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 103,
+                "start": 91,
+                "username": "lockloveovo"
+              },
+              {
+                "end": 151,
+                "start": 139,
+                "username": "Wesley10033"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://telegram.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/Q5wiGuq4W4"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "is_identity_verified": false,
+        "location": "People's Republic of China",
+        "most_recent_tweet_id": "2088603848789447061",
+        "name": "Wesley",
+        "pinned_tweet_id": "2083033063257420070",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1880979169297022976/1785740152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1208,
+          "following_count": 1507,
+          "like_count": 16444,
+          "listed_count": 1,
+          "media_count": 402,
+          "tweet_count": 2833
+        },
+        "url": "https://t.co/Q5wiGuq4W4",
+        "username": "Wesley10032",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2015-02-02T05:01:41.000Z",
+        "description": "eSIM 选购：https://t.co/1hN66NjllJ\n合作：pengchujin@hotmail.com",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "shenqi.uk",
+                "end": 31,
+                "expanded_url": "http://shenqi.uk",
+                "start": 8,
+                "url": "https://t.co/1hN66NjllJ"
+              }
+            ]
+          }
+        },
+        "id": "3007509396",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088603290993070540",
+        "name": "酱紫表",
+        "pinned_tweet_id": "2078419085004869780",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3007509396/1779112437",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1772530812078239744/aPK5wde3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66380,
+          "following_count": 741,
+          "like_count": 2219,
+          "listed_count": 414,
+          "media_count": 1279,
+          "tweet_count": 3946
+        },
+        "url": "",
+        "username": "pengchujin",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-08-16T22:11:31.000Z",
+        "description": "Automatically pick a random winner from any X post 🤖 the X picker 🔥 Follow us for a bonus point. AI acceleration incoming.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xpickr.com",
+                "end": 23,
+                "expanded_url": "https://xpickr.com",
+                "start": 0,
+                "url": "https://t.co/HDiME28hqF"
+              }
+            ]
+          }
+        },
+        "id": "1559664112379998210",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087238601310695649",
+        "name": "Xpicker2",
+        "pinned_tweet_id": "1915156768688320768",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1559664112379998210/1668471476",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928926261784752129/6EIBMvIA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7589,
+          "following_count": 556,
+          "like_count": 7065,
+          "listed_count": 4,
+          "media_count": 95,
+          "tweet_count": 2484
+        },
+        "url": "https://t.co/HDiME28hqF",
+        "username": "xpickr",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2011-01-26T10:41:21.000Z",
+        "description": "Google/Android/IOS/IT/Trade",
+        "id": "243124464",
+        "is_identity_verified": false,
+        "location": "24.959364,118.391219",
+        "most_recent_tweet_id": "2088492807560544392",
+        "name": "iJimmyChan",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1226204640/22_911894_0323f145ac0426c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 193,
+          "following_count": 1398,
+          "like_count": 3814,
+          "listed_count": 5,
+          "media_count": 44,
+          "tweet_count": 1312
+        },
+        "url": "",
+        "username": "iJimmyChan",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-05-30T11:42:23.000Z",
+        "description": "",
+        "id": "869519351778390016",
+        "is_identity_verified": false,
+        "location": "Los Angeles, CA",
+        "most_recent_tweet_id": "2088514956572639446",
+        "name": "F L",
+        "pinned_tweet_id": "970785754170445824",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/869519351778390016/1520346003",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/971027615401181184/DrG9_HqB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15414,
+          "following_count": 1331,
+          "like_count": 342,
+          "listed_count": 25,
+          "media_count": 145,
+          "tweet_count": 8805
+        },
+        "url": "",
+        "username": "Fanglei28",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-08-14T03:26:50.000Z",
+        "description": "https://t.co/KXE0GziOMU",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ko-fi.com/gushi",
+                "end": 23,
+                "expanded_url": "https://ko-fi.com/gushi",
+                "start": 0,
+                "url": "https://t.co/KXE0GziOMU"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bento.me/gushi",
+                "end": 23,
+                "expanded_url": "https://bento.me/gushi",
+                "start": 0,
+                "url": "https://t.co/GHDxAsIRaV"
+              }
+            ]
+          }
+        },
+        "id": "896936122801991681",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088511370824421829",
+        "name": "𝔾𝕦𝕤𝕙𝕚",
+        "pinned_tweet_id": "1815029135498223763",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/896936122801991681/1716084121",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775124022856183808/Kg2wqGBy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 267,
+          "following_count": 608,
+          "like_count": 786,
+          "listed_count": 2,
+          "media_count": 39,
+          "tweet_count": 304
+        },
+        "url": "https://t.co/GHDxAsIRaV",
+        "username": "Put_Story",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-06T04:23:40.000Z",
+        "description": "碎碎的码农 | AI 驾驶员",
+        "id": "2041008640161923072",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2088538729572937792",
+        "name": "禅极室zglabs",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041008640161923072/1784020072",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076956787660709888/NMWz-QF7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 325,
+          "following_count": 309,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 388
+        },
+        "url": "",
+        "username": "zengeeklabs",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2008-11-22T11:20:55.000Z",
+        "description": "关注移动互联网/Apple 用家/前多玩游戏员工/#PS5 Pro支持者",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 29,
+                "start": 25,
+                "tag": "PS5"
+              }
+            ]
+          }
+        },
+        "id": "17556097",
+        "is_identity_verified": false,
+        "location": "Canton, China",
+        "most_recent_tweet_id": "2088562572618510630",
+        "name": "L.G.Y",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/17556097/1624071685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908371964793872384/JVRfEvas_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1443,
+          "following_count": 178,
+          "like_count": 2673,
+          "listed_count": 44,
+          "media_count": 4796,
+          "tweet_count": 43759
+        },
+        "url": "",
+        "username": "lingaoyi",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-05-25T09:09:57.000Z",
+        "description": "",
+        "id": "867669051656425472",
+        "is_identity_verified": false,
+        "location": "浪迹天涯",
+        "most_recent_tweet_id": "2088492067211415763",
+        "name": "Kevin Cheng",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/867669051656425472/1708587344",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1591704005490929664/8X2lNeGH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 846,
+          "following_count": 2020,
+          "like_count": 1112,
+          "listed_count": 3,
+          "media_count": 350,
+          "tweet_count": 1649
+        },
+        "url": "",
+        "username": "Captain_Ch023",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2009-09-17T06:30:17.000Z",
+        "description": "",
+        "id": "74950309",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088520840694640823",
+        "name": "老川",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/74950309/1644118382",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1490166613911302146/Tg6BsgJ6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100,
+          "following_count": 1066,
+          "like_count": 3311,
+          "listed_count": 7,
+          "media_count": 413,
+          "tweet_count": 5559
+        },
+        "url": "",
+        "username": "plushc23",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-08-18T07:31:32.000Z",
+        "description": "学生，学习币圈知识，拓展眼界，撸毛",
+        "id": "1162990331983360001",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088577389249102054",
+        "name": "兜兜有糖",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1162990331983360001/1771117847",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1810674818733539328/inyIZu3D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 1300,
+          "like_count": 9526,
+          "listed_count": 0,
+          "media_count": 88,
+          "tweet_count": 4602
+        },
+        "url": "",
+        "username": "zgjV13hXlHUYYa5",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-08-13T03:47:17.000Z",
+        "description": "Zhi Wei 👋｜ 还可以叫我 Eliya ～｜精益求精｜想要看遍大千世界 ✈️｜想要成为技术大拿 📲💡",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/zhweaa",
+                "end": 23,
+                "expanded_url": "https://github.com/zhweaa",
+                "start": 0,
+                "url": "https://t.co/Lsl0VyAvMl"
+              }
+            ]
+          }
+        },
+        "id": "1690570637499154432",
+        "is_identity_verified": false,
+        "location": "🌏🌐",
+        "most_recent_tweet_id": "2088603709328822524",
+        "name": "Zhi Wei 🥥🧊",
+        "pinned_tweet_id": "2045171291104403596",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1690570637499154432/1769647058",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061738719095476224/g1B5Ghy6_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7793,
+          "following_count": 434,
+          "like_count": 33548,
+          "listed_count": 24,
+          "media_count": 2766,
+          "tweet_count": 21337
+        },
+        "url": "https://t.co/Lsl0VyAvMl",
+        "username": "zhwevea",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

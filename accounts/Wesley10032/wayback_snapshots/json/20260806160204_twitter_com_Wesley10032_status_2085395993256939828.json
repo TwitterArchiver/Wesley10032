@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2085380479944097794"
+      ],
+      "media_source_tweet_id": [
+        "2085380486814384222"
+      ]
+    },
+    "author_id": "1880979169297022976",
+    "conversation_id": "2085395993256939828",
+    "created_at": "2026-08-06T16:02:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T17:02:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085395993256939828"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2026081318497665024",
+          "start": 3,
+          "username": "85240609891_2nd"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/TrFMQ8tDMA",
+          "end": 52,
+          "expanded_url": "https://x.com/85240609891_2nd/status/2085380486814384222/photo/1",
+          "media_key": "3_2085380479944097794",
+          "start": 29,
+          "url": "https://t.co/TrFMQ8tDMA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085395993256939828",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085380486814384222",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @85240609891_2nd: 再掛一個\n拿走 https://t.co/TrFMQ8tDMA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2085380479944097794",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPDCf2iaAAI9iZG.jpg",
+        "width": 1248
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085380479944097794"
+          ]
+        },
+        "author_id": "2026081318497665024",
+        "conversation_id": "2085380486814384222",
+        "created_at": "2026-08-06T15:00:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T16:00:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085380486814384222"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TrFMQ8tDMA",
+              "end": 31,
+              "expanded_url": "https://x.com/85240609891_2nd/status/2085380486814384222/photo/1",
+              "media_key": "3_2085380479944097794",
+              "start": 8,
+              "url": "https://t.co/TrFMQ8tDMA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085380486814384222",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 65,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "再掛一個\n拿走 https://t.co/TrFMQ8tDMA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085380479944097794"
+          ],
+          "media_source_tweet_id": [
+            "2085380486814384222"
+          ]
+        },
+        "author_id": "1880979169297022976",
+        "conversation_id": "2085395993256939828",
+        "created_at": "2026-08-06T16:02:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T17:02:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085395993256939828"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2026081318497665024",
+              "start": 3,
+              "username": "85240609891_2nd"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TrFMQ8tDMA",
+              "end": 52,
+              "expanded_url": "https://x.com/85240609891_2nd/status/2085380486814384222/photo/1",
+              "media_key": "3_2085380479944097794",
+              "start": 29,
+              "url": "https://t.co/TrFMQ8tDMA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085395993256939828",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085380486814384222",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @85240609891_2nd: 再掛一個\n拿走 https://t.co/TrFMQ8tDMA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳/♂/08.11.3/友跨🏳️‍⚧️\n或许是温和粉红/欢迎DM聊天(TG优先)\n魔裁(まのさば)/CS2/三角洲/Galgame/IT \n兴趣相近互fo/想做心理委员\n好基友@lockloveovo\n学生党 周末/节假日在线(暑假限时全天在线)\nCN/EN/JP\n防失联@Wesley10033",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 104,
+                "start": 92,
+                "username": "lockloveovo"
+              },
+              {
+                "end": 152,
+                "start": 140,
+                "username": "Wesley10033"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://telegram.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/Q5wiGuq4W4"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "location": "People's Republic of China",
+        "name": "Wesley",
+        "pinned_tweet_id": "2083033063257420070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 867,
+          "following_count": 1191,
+          "like_count": 12388,
+          "listed_count": 1,
+          "media_count": 273,
+          "tweet_count": 2226
+        },
+        "url": "https://t.co/Q5wiGuq4W4",
+        "username": "Wesley10032",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-23T23:47:34.000Z",
+        "description": "香港人🇭🇰🎗️\nHELLO\n這裡是北極戰警的第二帳戶\n港英派+民國派\n重視政治民主\n藍色恐怖支持者\n🇺🇳🇺🇳🇺🇳🇺🇳🇺🇳🇺🇳\n小粉紅 中國共產黨的基本盤\nIF U唔想食我嘅AWP+Desert Eagle\n請快速離開",
+        "id": "2026081318497665024",
+        "location": "ROC HK",
+        "name": "🔫AWP小英民國北極戰警溫和版🇭🇰🎗️Ver89.64",
+        "pinned_tweet_id": "2081889926988046659",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083863339180965889/bbtAWxUc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 364,
+          "following_count": 361,
+          "like_count": 955,
+          "listed_count": 0,
+          "media_count": 132,
+          "tweet_count": 442
+        },
+        "url": "",
+        "username": "85240609891_2nd",
+        "verified": false
+      }
+    ]
+  }
+}

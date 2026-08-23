@@ -1,0 +1,425 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2089218520693518336",
+        "3_2089218520701886464",
+        "3_2089218520697749504"
+      ],
+      "media_source_tweet_id": [
+        "2089218550775112024",
+        "2089218550775112024",
+        "2089218550775112024"
+      ]
+    },
+    "author_id": "1880979169297022976",
+    "conversation_id": "2089321801222693042",
+    "created_at": "2026-08-17T12:01:49.000Z",
+    "display_text_range": [
+      0,
+      122
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-17T13:01:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089321801222693042"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2024068861134528512",
+          "start": 3,
+          "username": "1gdsb"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/I3H5VSLxvF",
+          "end": 122,
+          "expanded_url": "https://x.com/1gdsb/status/2089218550775112024/photo/1",
+          "media_key": "3_2089218520693518336",
+          "start": 99,
+          "url": "https://t.co/I3H5VSLxvF"
+        },
+        {
+          "display_url": "pic.x.com/I3H5VSLxvF",
+          "end": 122,
+          "expanded_url": "https://x.com/1gdsb/status/2089218550775112024/photo/1",
+          "media_key": "3_2089218520701886464",
+          "start": 99,
+          "url": "https://t.co/I3H5VSLxvF"
+        },
+        {
+          "display_url": "pic.x.com/I3H5VSLxvF",
+          "end": 122,
+          "expanded_url": "https://x.com/1gdsb/status/2089218550775112024/photo/1",
+          "media_key": "3_2089218520697749504",
+          "start": 99,
+          "url": "https://t.co/I3H5VSLxvF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089321801222693042",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2089218520693518336"
+      },
+      {
+        "media_key": "3_2089218520701886464"
+      },
+      {
+        "media_key": "3_2089218520697749504"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 19
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089218550775112024",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @1gdsb: 🎉600fo抽奖来了\n1等奖手环/鱼板一个（共3个可折2r）\n2等奖晶哥牌子一个（共1个可折1.5r）\n太久没看了没注意到600fo了\n关注点赞转帖参与\n8.18下午4点开奖 https://t.co/I3H5VSLxvF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2089218520693518336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP5lLOgasAAx6t7.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2089218520701886464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP5lLOiaYAAlDy1.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2089218520697749504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP5lLOhbQAAr8Sl.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089218520693518336",
+            "3_2089218520701886464",
+            "3_2089218520697749504"
+          ],
+          "media_source_tweet_id": [
+            "2089218550775112024",
+            "2089218550775112024",
+            "2089218550775112024"
+          ]
+        },
+        "author_id": "1880979169297022976",
+        "conversation_id": "2089321801222693042",
+        "created_at": "2026-08-17T12:01:49.000Z",
+        "display_text_range": [
+          0,
+          122
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T13:01:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089321801222693042"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2024068861134528512",
+              "start": 3,
+              "username": "1gdsb"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/I3H5VSLxvF",
+              "end": 122,
+              "expanded_url": "https://x.com/1gdsb/status/2089218550775112024/photo/1",
+              "media_key": "3_2089218520693518336",
+              "start": 99,
+              "url": "https://t.co/I3H5VSLxvF"
+            },
+            {
+              "display_url": "pic.x.com/I3H5VSLxvF",
+              "end": 122,
+              "expanded_url": "https://x.com/1gdsb/status/2089218550775112024/photo/1",
+              "media_key": "3_2089218520701886464",
+              "start": 99,
+              "url": "https://t.co/I3H5VSLxvF"
+            },
+            {
+              "display_url": "pic.x.com/I3H5VSLxvF",
+              "end": 122,
+              "expanded_url": "https://x.com/1gdsb/status/2089218550775112024/photo/1",
+              "media_key": "3_2089218520697749504",
+              "start": 99,
+              "url": "https://t.co/I3H5VSLxvF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089321801222693042",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089218520693518336"
+          },
+          {
+            "media_key": "3_2089218520701886464"
+          },
+          {
+            "media_key": "3_2089218520697749504"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 19
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089218550775112024",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @1gdsb: 🎉600fo抽奖来了\n1等奖手环/鱼板一个（共3个可折2r）\n2等奖晶哥牌子一个（共1个可折1.5r）\n太久没看了没注意到600fo了\n关注点赞转帖参与\n8.18下午4点开奖 https://t.co/I3H5VSLxvF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089218520693518336",
+            "3_2089218520701886464",
+            "3_2089218520697749504"
+          ]
+        },
+        "author_id": "2024068861134528512",
+        "conversation_id": "2089218550775112024",
+        "created_at": "2026-08-17T05:11:32.000Z",
+        "display_text_range": [
+          0,
+          87
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T06:11:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089218550775112024"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/I3H5VSLxvF",
+              "end": 111,
+              "expanded_url": "https://x.com/1gdsb/status/2089218550775112024/photo/1",
+              "media_key": "3_2089218520693518336",
+              "start": 88,
+              "url": "https://t.co/I3H5VSLxvF"
+            },
+            {
+              "display_url": "pic.x.com/I3H5VSLxvF",
+              "end": 111,
+              "expanded_url": "https://x.com/1gdsb/status/2089218550775112024/photo/1",
+              "media_key": "3_2089218520701886464",
+              "start": 88,
+              "url": "https://t.co/I3H5VSLxvF"
+            },
+            {
+              "display_url": "pic.x.com/I3H5VSLxvF",
+              "end": 111,
+              "expanded_url": "https://x.com/1gdsb/status/2089218550775112024/photo/1",
+              "media_key": "3_2089218520697749504",
+              "start": 88,
+              "url": "https://t.co/I3H5VSLxvF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089218550775112024",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089218520693518336"
+          },
+          {
+            "media_key": "3_2089218520701886464"
+          },
+          {
+            "media_key": "3_2089218520697749504"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 560,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "🎉600fo抽奖来了\n1等奖手环/鱼板一个（共3个可折2r）\n2等奖晶哥牌子一个（共1个可折1.5r）\n太久没看了没注意到600fo了\n关注点赞转帖参与\n8.18下午4点开奖 https://t.co/I3H5VSLxvF"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳/♂/08.11.3/友跨🏳️‍⚧️\n政治立场未知/欢迎DM聊天(TG优先)\n魔裁(まのさば)/CS2/三角洲/Galgame/IT \n兴趣相近互fo/想做心理委员\n好基友@lockloveovo\n学生党 周末/节假日在线\nCN/EN/JP\n防失联@Wesley10033",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 103,
+                "start": 91,
+                "username": "lockloveovo"
+              },
+              {
+                "end": 141,
+                "start": 129,
+                "username": "Wesley10033"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://telegram.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/Q5wiGuq4W4"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "is_identity_verified": false,
+        "location": "People's Republic of China",
+        "most_recent_tweet_id": "2089321801222693042",
+        "name": "Wesley",
+        "pinned_tweet_id": "2083033063257420070",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1880979169297022976/1785740152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1230,
+          "following_count": 1524,
+          "like_count": 16874,
+          "listed_count": 1,
+          "media_count": 408,
+          "tweet_count": 2909
+        },
+        "url": "https://t.co/Q5wiGuq4W4",
+        "username": "Wesley10032",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-02-18T10:30:04.000Z",
+        "description": "死人微活\n当雪崩的时候没有一片雪花是无辜的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cn_1gdsb1",
+                "end": 23,
+                "expanded_url": "http://ngl.link/cn_1gdsb1",
+                "start": 0,
+                "url": "https://t.co/nDeqjDgDGg"
+              }
+            ]
+          }
+        },
+        "id": "2024068861134528512",
+        "is_identity_verified": false,
+        "location": "广州海珠赤岗",
+        "most_recent_tweet_id": "2089315634966663463",
+        "name": "cn_1gdsb",
+        "pinned_tweet_id": "2089218550775112024",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2024068861134528512/1781979992",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068400073894236160/GFl-Hbh9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 654,
+          "following_count": 642,
+          "like_count": 6112,
+          "listed_count": 2,
+          "media_count": 771,
+          "tweet_count": 2973
+        },
+        "url": "https://t.co/nDeqjDgDGg",
+        "username": "1gdsb",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

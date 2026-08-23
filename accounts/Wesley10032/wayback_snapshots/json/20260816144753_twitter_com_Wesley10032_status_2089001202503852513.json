@@ -1,0 +1,512 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2089001193280561152"
+      ]
+    },
+    "author_id": "1880979169297022976",
+    "conversation_id": "2088986174203527417",
+    "created_at": "2026-08-16T14:47:53.000Z",
+    "display_text_range": [
+      25,
+      61
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T15:47:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089001202503852513"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1918274202580467713",
+          "start": 0,
+          "username": "CyberKanjousen"
+        },
+        {
+          "end": 24,
+          "id": "1536921167231332354",
+          "start": 16,
+          "username": "0926kgj"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "ko.wikipedia.org/wiki/%EC%B9%9C…",
+          "end": 61,
+          "expanded_url": "https://ko.wikipedia.org/wiki/%EC%B9%9C%EC%9D%BC?wprov=sfti1",
+          "images": [
+            {
+              "height": 847,
+              "url": "https://pbs.twimg.com/news_img/2089001207218188288/a5LxeVRC?format=jpg&name=orig",
+              "width": 1280
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2089001207218188288/a5LxeVRC?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 38,
+          "status": 200,
+          "title": "친일 - 위키백과, 우리 모두의 백과사전",
+          "unwound_url": "https://ko.wikipedia.org/wiki/%EC%B9%9C%EC%9D%BC?wprov=sfti1",
+          "url": "https://t.co/6HlYLSjHll"
+        },
+        {
+          "display_url": "pic.x.com/h2rKIh1PBL",
+          "end": 85,
+          "expanded_url": "https://x.com/Wesley10032/status/2089001202503852513/photo/1",
+          "media_key": "3_2089001193280561152",
+          "start": 62,
+          "url": "https://t.co/h2rKIh1PBL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089001202503852513",
+    "in_reply_to_user_id": "1918274202580467713",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2089001193280561152"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088988172772581681",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CyberKanjousen @0926kgj 这词写成汉字就是「亲日」\nhttps://t.co/6HlYLSjHll https://t.co/h2rKIh1PBL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2532,
+        "media_key": "3_2089001193280561152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP2fhGza4AAlhe3.jpg",
+        "width": 1170
+      },
+      {
+        "height": 831,
+        "media_key": "3_2088987251892224001",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP2S1nFbAAE4cyw.jpg",
+        "width": 1031
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089001193280561152"
+          ]
+        },
+        "author_id": "1880979169297022976",
+        "conversation_id": "2088986174203527417",
+        "created_at": "2026-08-16T14:47:53.000Z",
+        "display_text_range": [
+          25,
+          61
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T15:47:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089001202503852513"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            },
+            {
+              "end": 24,
+              "id": "1536921167231332354",
+              "start": 16,
+              "username": "0926kgj"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "ko.wikipedia.org/wiki/%EC%B9%9C…",
+              "end": 61,
+              "expanded_url": "https://ko.wikipedia.org/wiki/%EC%B9%9C%EC%9D%BC?wprov=sfti1",
+              "images": [
+                {
+                  "height": 847,
+                  "url": "https://pbs.twimg.com/news_img/2089001207218188288/a5LxeVRC?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2089001207218188288/a5LxeVRC?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 38,
+              "status": 200,
+              "title": "친일 - 위키백과, 우리 모두의 백과사전",
+              "unwound_url": "https://ko.wikipedia.org/wiki/%EC%B9%9C%EC%9D%BC?wprov=sfti1",
+              "url": "https://t.co/6HlYLSjHll"
+            },
+            {
+              "display_url": "pic.x.com/h2rKIh1PBL",
+              "end": 85,
+              "expanded_url": "https://x.com/Wesley10032/status/2089001202503852513/photo/1",
+              "media_key": "3_2089001193280561152",
+              "start": 62,
+              "url": "https://t.co/h2rKIh1PBL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089001202503852513",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089001193280561152"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088988172772581681",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CyberKanjousen @0926kgj 这词写成汉字就是「亲日」\nhttps://t.co/6HlYLSjHll https://t.co/h2rKIh1PBL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088987251892224001"
+          ]
+        },
+        "author_id": "1918274202580467713",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2088986174203527417",
+        "created_at": "2026-08-16T13:56:06.000Z",
+        "display_text_range": [
+          9,
+          89
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T14:56:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088988172772581681"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1536921167231332354",
+              "start": 0,
+              "username": "0926kgj"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4GXAidBmi7",
+              "end": 113,
+              "expanded_url": "https://x.com/CyberKanjousen/status/2088988172772581681/photo/1",
+              "media_key": "3_2088987251892224001",
+              "start": 90,
+              "url": "https://t.co/4GXAidBmi7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088988172772581681",
+        "in_reply_to_user_id": "1536921167231332354",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088987251892224001"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 181,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088986174203527417",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0926kgj Grok 翻译成中文的时候，把「친일」翻译成了「亲日」呢……\n问了下 Gemini，感觉「친일」翻译成「媚日」，或者现在中文互联网更流行的「精日」，才更好一些。 https://t.co/4GXAidBmi7"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳/♂/08.11.3/友跨🏳️‍⚧️\n政治立场未知/欢迎DM聊天(TG优先)\n魔裁(まのさば)/CS2/三角洲/Galgame/IT \n兴趣相近互fo/想做心理委员\n好基友@lockloveovo\n学生党 周末/节假日在线\nCN/EN/JP\n防失联@Wesley10033",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 103,
+                "start": 91,
+                "username": "lockloveovo"
+              },
+              {
+                "end": 141,
+                "start": 129,
+                "username": "Wesley10033"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://telegram.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/Q5wiGuq4W4"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "is_identity_verified": false,
+        "location": "People's Republic of China",
+        "most_recent_tweet_id": "2089001202503852513",
+        "name": "Wesley",
+        "pinned_tweet_id": "2083033063257420070",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1880979169297022976/1785740152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1219,
+          "following_count": 1523,
+          "like_count": 16789,
+          "listed_count": 1,
+          "media_count": 408,
+          "tweet_count": 2898
+        },
+        "url": "https://t.co/Q5wiGuq4W4",
+        "username": "Wesley10032",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨但永不翻车 | 想当猫猫\n日语号：@NihonKanjousen\n给我钱：https://t.co/NMKeNLo50A",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 45,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/CyberKanjousen",
+                "end": 88,
+                "expanded_url": "https://buymeacoffee.com/CyberKanjousen",
+                "start": 65,
+                "url": "https://t.co/NMKeNLo50A"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnL0nr"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2088996594444280149",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2061036992599925240",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1918274202580467713/1766419926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15462,
+          "following_count": 881,
+          "like_count": 33728,
+          "listed_count": 27,
+          "media_count": 2668,
+          "tweet_count": 12319
+        },
+        "url": "https://t.co/s9lflnL0nr",
+        "username": "CyberKanjousen",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-06-15T03:59:35.000Z",
+        "description": "더불어민주당 경주시의원(현곡면,천북면)\nGyeongju City Council Member\n\n前 이재명 대통령 후보 직속 정무특보\n前 더불어민주당 정책위원회 부의장\n\n010-9876-3124",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@0926kgj",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@0926kgj",
+                "start": 0,
+                "url": "https://t.co/6zTjbydSUR"
+              }
+            ]
+          }
+        },
+        "id": "1536921167231332354",
+        "is_identity_verified": true,
+        "location": "대한민국 경주시",
+        "most_recent_tweet_id": "2088999960981483765",
+        "name": "김경주",
+        "pinned_tweet_id": "2062237985144443137",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1536921167231332354/1778558748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063847553339392000/XE9B8x4a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8528,
+          "following_count": 8291,
+          "like_count": 107315,
+          "listed_count": 18,
+          "media_count": 3281,
+          "tweet_count": 9346
+        },
+        "url": "https://t.co/6zTjbydSUR",
+        "username": "0926kgj",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

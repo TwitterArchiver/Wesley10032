@@ -1,0 +1,345 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2086265513764872192"
+      ],
+      "media_source_tweet_id": [
+        "2086266087864426987"
+      ]
+    },
+    "author_id": "1880979169297022976",
+    "conversation_id": "2086417433196380582",
+    "created_at": "2026-08-09T11:40:54.000Z",
+    "display_text_range": [
+      0,
+      58
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T12:40:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086417433196380582"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1201143690065891329",
+          "start": 3,
+          "username": "NS64xiptm82"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/QXSchGacuZ",
+          "end": 58,
+          "expanded_url": "https://x.com/NS64xiptm82/status/2086266087864426987/photo/1",
+          "media_key": "3_2086265513764872192",
+          "start": 35,
+          "url": "https://t.co/QXSchGacuZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086417433196380582",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2086265513764872192"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 615
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086266087864426987",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NS64xiptm82: ここは愛をもって破くしかないだろ！ https://t.co/QXSchGacuZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 720,
+        "media_key": "3_2086265513764872192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPPnbmcaYAAA7Ly.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086265513764872192"
+          ]
+        },
+        "author_id": "1201143690065891329",
+        "conversation_id": "2086266087864426987",
+        "created_at": "2026-08-09T01:39:30.000Z",
+        "display_text_range": [
+          0,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T02:39:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086266087864426987"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QXSchGacuZ",
+              "end": 41,
+              "expanded_url": "https://x.com/NS64xiptm82/status/2086266087864426987/photo/1",
+              "media_key": "3_2086265513764872192",
+              "start": 18,
+              "url": "https://t.co/QXSchGacuZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086266087864426987",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2086265513764872192"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6148,
+          "impression_count": 1235414,
+          "like_count": 24990,
+          "quote_count": 37,
+          "reply_count": 70,
+          "retweet_count": 615
+        },
+        "reply_settings": "everyone",
+        "text": "ここは愛をもって破くしかないだろ！ https://t.co/QXSchGacuZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086265513764872192"
+          ],
+          "media_source_tweet_id": [
+            "2086266087864426987"
+          ]
+        },
+        "author_id": "1880979169297022976",
+        "conversation_id": "2086417433196380582",
+        "created_at": "2026-08-09T11:40:54.000Z",
+        "display_text_range": [
+          0,
+          58
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T12:40:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086417433196380582"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1201143690065891329",
+              "start": 3,
+              "username": "NS64xiptm82"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QXSchGacuZ",
+              "end": 58,
+              "expanded_url": "https://x.com/NS64xiptm82/status/2086266087864426987/photo/1",
+              "media_key": "3_2086265513764872192",
+              "start": 35,
+              "url": "https://t.co/QXSchGacuZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086417433196380582",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2086265513764872192"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 615
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086266087864426987",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @NS64xiptm82: ここは愛をもって破くしかないだろ！ https://t.co/QXSchGacuZ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳/♂/08.11.3/友跨🏳️‍⚧️\n或许是温和粉红/欢迎DM聊天(TG优先)\n魔裁(まのさば)/CS2/三角洲/Galgame/IT \n兴趣相近互fo/想做心理委员\n好基友@lockloveovo\n学生党 周末/节假日在线(暑假限时全天在线)\nCN/EN/JP\n防失联@Wesley10033",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 104,
+                "start": 92,
+                "username": "lockloveovo"
+              },
+              {
+                "end": 152,
+                "start": 140,
+                "username": "Wesley10033"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://telegram.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/Q5wiGuq4W4"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "is_identity_verified": false,
+        "location": "People's Republic of China",
+        "most_recent_tweet_id": "2086417433196380582",
+        "name": "Wesley",
+        "pinned_tweet_id": "2083033063257420070",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1880979169297022976/1785740152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1011,
+          "following_count": 1305,
+          "like_count": 13652,
+          "listed_count": 1,
+          "media_count": 337,
+          "tweet_count": 2400
+        },
+        "url": "https://t.co/Q5wiGuq4W4",
+        "username": "Wesley10032",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-12-01T14:20:17.000Z",
+        "description": "#ウマ娘 、#FGO、#ポケモン、#ゆずソフト、その他趣味専用のアカウント。ウマ娘のマックちゃんが愛バ。ゆずソフト推しヒロインは四季ナツメ、明月栞那、綾地寧々、矢来美羽、天霧夕音、式部茉優、嶌越月望、エリナ、雲雀丘由貴、白鹿愛莉、星河かぐ耶、ポケモンはBWが最高傑作だと信じて疑わないカントー地方の住人。",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 4,
+                "start": 0,
+                "tag": "ウマ娘"
+              },
+              {
+                "end": 10,
+                "start": 6,
+                "tag": "FGO"
+              },
+              {
+                "end": 16,
+                "start": 11,
+                "tag": "ポケモン"
+              },
+              {
+                "end": 23,
+                "start": 17,
+                "tag": "ゆずソフト"
+              }
+            ]
+          }
+        },
+        "id": "1201143690065891329",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086410390171533495",
+        "name": "タカ・サブロゥ",
+        "pinned_tweet_id": "2065750187264684534",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1201143690065891329/1779535507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756844321926778880/OrVpOsJ2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2727,
+          "following_count": 1232,
+          "like_count": 46375,
+          "listed_count": 11,
+          "media_count": 8265,
+          "tweet_count": 23398
+        },
+        "url": "",
+        "username": "NS64xiptm82",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

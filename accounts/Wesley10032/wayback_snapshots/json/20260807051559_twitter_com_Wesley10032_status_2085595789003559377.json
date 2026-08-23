@@ -1,0 +1,448 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880979169297022976",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1392988484256759811",
+          "name": "Steam"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1392975566253424640",
+          "name": "Gaming retail"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1392988484256759811",
+          "name": "Steam"
+        }
+      }
+    ],
+    "conversation_id": "2085595789003559377",
+    "created_at": "2026-08-07T05:15:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T06:15:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085595789003559377"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1440943203008585729",
+          "start": 3,
+          "username": "MemeCryptoFR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085595789003559377",
+    "lang": "fr",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3924
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085368871431635361",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MemeCryptoFR: 🎮 Steam accueille bientôt un simulateur de… grattage de testicules 😭\n\nBall Scratch Simulator est un jeu d'infiltration co…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 41610,
+        "height": 720,
+        "media_key": "13_2085368838103650304",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2085368838103650304/img/D6DE0WxWANQjkc69.jpg",
+        "public_metrics": {
+          "view_count": 2495049
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2085368838103650304/vid/avc1/480x270/MBLjunTdxfvSNVw3.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2085368838103650304/vid/avc1/640x360/n0Q_m3SF3B0FYlXd.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2085368838103650304/vid/avc1/1280x720/QDa_MkPuzrvyhQGX.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2085368838103650304/pl/10uu5m3vsWBbCiqa.m3u8?v=f87"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880979169297022976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1392988484256759811",
+              "name": "Steam"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1392975566253424640",
+              "name": "Gaming retail"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1392988484256759811",
+              "name": "Steam"
+            }
+          }
+        ],
+        "conversation_id": "2085595789003559377",
+        "created_at": "2026-08-07T05:15:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T06:15:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085595789003559377"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1440943203008585729",
+              "start": 3,
+              "username": "MemeCryptoFR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085595789003559377",
+        "lang": "fr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3924
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085368871431635361",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MemeCryptoFR: 🎮 Steam accueille bientôt un simulateur de… grattage de testicules 😭\n\nBall Scratch Simulator est un jeu d'infiltration co…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2085368838103650304"
+          ]
+        },
+        "author_id": "1440943203008585729",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1392988484256759811",
+              "name": "Steam"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1392975566253424640",
+              "name": "Gaming retail"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1392988484256759811",
+              "name": "Steam"
+            }
+          }
+        ],
+        "conversation_id": "2085368871431635361",
+        "created_at": "2026-08-06T14:14:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T15:14:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085368871431635361"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xMenU56qZY",
+              "end": 300,
+              "expanded_url": "https://x.com/MemeCryptoFR/status/2085368871431635361/video/1",
+              "media_key": "13_2085368838103650304",
+              "start": 277,
+              "url": "https://t.co/xMenU56qZY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085368871431635361",
+        "lang": "fr",
+        "note_tweet": {
+          "entities": {},
+          "text": "🎮 Steam accueille bientôt un simulateur de… grattage de testicules 😭\n\nBall Scratch Simulator est un jeu d'infiltration complètement absurde dont l'objectif est simple : se gratter discrètement les testicules dans des lieux publics sans se faire repérer.\n\nPlus les témoins sont nombreux, plus le défi est difficile. Il faut attendre que les gens détournent le regard, choisir le bon moment… et éviter que votre niveau de suspicion n'explose. \n\nLe développeur promet six environnements différents, des objets à débloquer, un système de score avec classements mondiaux et même un mode VR, où il faudra reproduire le geste en réalité virtuelle.\n\nLe jeu est annoncé pour ce mois-ci sur Steam."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12307,
+          "impression_count": 5074774,
+          "like_count": 35213,
+          "quote_count": 1464,
+          "reply_count": 652,
+          "retweet_count": 3923
+        },
+        "reply_settings": "everyone",
+        "text": "🎮 Steam accueille bientôt un simulateur de… grattage de testicules 😭\n\nBall Scratch Simulator est un jeu d'infiltration complètement absurde dont l'objectif est simple : se gratter discrètement les testicules dans des lieux publics sans se faire repérer.\n\nPlus les témoins sont https://t.co/xMenU56qZY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳/♂/08.11.3/友跨🏳️‍⚧️\n或许是温和粉红/欢迎DM聊天(TG优先)\n魔裁(まのさば)/CS2/三角洲/Galgame/IT \n兴趣相近互fo/想做心理委员\n好基友@lockloveovo\n学生党 周末/节假日在线(暑假限时全天在线)\nCN/EN/JP\n防失联@Wesley10033",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 104,
+                "start": 92,
+                "username": "lockloveovo"
+              },
+              {
+                "end": 152,
+                "start": 140,
+                "username": "Wesley10033"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://telegram.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/Q5wiGuq4W4"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "location": "People's Republic of China",
+        "name": "Wesley",
+        "pinned_tweet_id": "2083033063257420070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 896,
+          "following_count": 1225,
+          "like_count": 12578,
+          "listed_count": 1,
+          "media_count": 293,
+          "tweet_count": 2256
+        },
+        "url": "https://t.co/Q5wiGuq4W4",
+        "username": "Wesley10032",
+        "verified": true
+      },
+      {
+        "created_at": "2021-09-23T07:37:03.000Z",
+        "description": "TOUT sur le Gaming  🎮🍿\nActus, insolites et Memes 😭",
+        "id": "1440943203008585729",
+        "location": "Vice City",
+        "name": "Kaeru 🎮",
+        "pinned_tweet_id": "2055169698921136535",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039066762910572544/mnVlBRJd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10572,
+          "following_count": 1925,
+          "like_count": 35019,
+          "listed_count": 90,
+          "media_count": 5869,
+          "tweet_count": 11745
+        },
+        "url": "",
+        "username": "MemeCryptoFR",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,354 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2086872856546418689"
+      ]
+    },
+    "author_id": "1880979169297022976",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2086872872988119214",
+    "created_at": "2026-08-10T17:50:39.000Z",
+    "display_text_range": [
+      0,
+      6
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T18:50:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2086872872988119214"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZzCCNceBqu",
+          "end": 30,
+          "expanded_url": "https://x.com/Wesley10032/status/2086872872988119214/photo/1",
+          "media_key": "3_2086872856546418689",
+          "start": 7,
+          "url": "https://t.co/ZzCCNceBqu"
+        },
+        {
+          "display_url": "x.com/zhbsrgj/status…",
+          "end": 54,
+          "expanded_url": "https://twitter.com/zhbsrgj/status/2086817118641848648",
+          "start": 31,
+          "url": "https://t.co/579XTwZbJR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086872872988119214",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2086872856546418689"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086817118641848648",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "已严肃下单喵 https://t.co/ZzCCNceBqu https://t.co/579XTwZbJR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2532,
+        "media_key": "3_2086872856546418689",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPYPzmnaoAE82CX.jpg",
+        "width": 1170
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2086817114627956736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPXdG_ya4AA_re4.jpg",
+        "width": 930
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086872856546418689"
+          ]
+        },
+        "author_id": "1880979169297022976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2086872872988119214",
+        "created_at": "2026-08-10T17:50:39.000Z",
+        "display_text_range": [
+          0,
+          6
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T18:50:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086872872988119214"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZzCCNceBqu",
+              "end": 30,
+              "expanded_url": "https://x.com/Wesley10032/status/2086872872988119214/photo/1",
+              "media_key": "3_2086872856546418689",
+              "start": 7,
+              "url": "https://t.co/ZzCCNceBqu"
+            },
+            {
+              "display_url": "x.com/zhbsrgj/status…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/zhbsrgj/status/2086817118641848648",
+              "start": 31,
+              "url": "https://t.co/579XTwZbJR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086872872988119214",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2086872856546418689"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086817118641848648",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "已严肃下单喵 https://t.co/ZzCCNceBqu https://t.co/579XTwZbJR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086817114627956736"
+          ]
+        },
+        "author_id": "2079550663470854144",
+        "conversation_id": "2086817118641848648",
+        "created_at": "2026-08-10T14:09:06.000Z",
+        "display_text_range": [
+          0,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T15:09:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086817118641848648"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "mobile.yangkeduo.com/goods2.html?ps…",
+              "end": 23,
+              "expanded_url": "https://mobile.yangkeduo.com/goods2.html?ps=vahQANTUaR",
+              "start": 0,
+              "unwound_url": "https://mobile.yangkeduo.com/goods2.html?goods_id=984619231083&page_from=23&pxq_secret_key=A4FBLBWMU7XC7KSZBIKMAWL2WXE7SSXIIAJTI57CV4PLTF6XVMGQ&_oak_share_snapshot_num=1262&_oak_share_detail_id=28754489351&_oak_share_time=1786370423&share_oak_rcto=YWIji8RPWHK4jasVO2DfwbfStVml7exEfEjgc7xQ67vXc99C9lQR6HZl&_oak_share_ticket=01-0000000029-5fc55de6b46e42ed08ffab697a7298d1f30b30f4a613ce1bb648d4e191406783-1787666424&share_uin=72JSIBKYOBQWIRSWZZALRUQLB4_GEXDA&refer_share_id=8239a1baaf514f16a9479c02be58a279&refer_share_uin=72JSIBKYOBQWIRSWZZALRUQLB4_GEXDA&refer_share_channel=copy_link&refer_share_form=text",
+              "url": "https://t.co/ix4XogkoWV"
+            },
+            {
+              "display_url": "pic.x.com/4Fqj0eVrJe",
+              "end": 54,
+              "expanded_url": "https://x.com/zhbsRGJ/status/2086817118641848648/photo/1",
+              "media_key": "3_2086817114627956736",
+              "start": 31,
+              "url": "https://t.co/4Fqj0eVrJe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086817118641848648",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2086817114627956736"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2011,
+          "like_count": 7,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/ix4XogkoWV\n你们 买 喵 https://t.co/4Fqj0eVrJe"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳/♂/08.11.3/友跨🏳️‍⚧️\n或许是温和粉红/欢迎DM聊天(TG优先)\n魔裁(まのさば)/CS2/三角洲/Galgame/IT \n兴趣相近互fo/想做心理委员\n好基友@lockloveovo\n学生党 周末/节假日在线(暑假限时全天在线)\nCN/EN/JP\n防失联@Wesley10033",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 104,
+                "start": 92,
+                "username": "lockloveovo"
+              },
+              {
+                "end": 152,
+                "start": 140,
+                "username": "Wesley10033"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://telegram.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/Q5wiGuq4W4"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "is_identity_verified": false,
+        "location": "People's Republic of China",
+        "most_recent_tweet_id": "2086872872988119214",
+        "name": "Wesley",
+        "pinned_tweet_id": "2083033063257420070",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1880979169297022976/1785740152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1083,
+          "following_count": 1386,
+          "like_count": 14452,
+          "listed_count": 1,
+          "media_count": 362,
+          "tweet_count": 2528
+        },
+        "url": "https://t.co/Q5wiGuq4W4",
+        "username": "Wesley10032",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-21T12:55:21.000Z",
+        "description": "",
+        "id": "2079550663470854144",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086817118641848648",
+        "name": "zhbs",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079550922053873664/gXJ1z1iQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 17,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 9
+        },
+        "url": "",
+        "username": "zhbsRGJ",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

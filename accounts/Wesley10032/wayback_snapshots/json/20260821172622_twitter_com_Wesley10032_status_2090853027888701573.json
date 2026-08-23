@@ -1,0 +1,347 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2090784718090346496"
+      ],
+      "media_source_tweet_id": [
+        "2090784770460381605"
+      ]
+    },
+    "author_id": "1880979169297022976",
+    "conversation_id": "2090853027888701573",
+    "created_at": "2026-08-21T17:26:22.000Z",
+    "display_text_range": [
+      0,
+      46
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T18:26:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090853027888701573"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2060415929641545732",
+          "start": 3,
+          "username": "marichama_AI"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/FLB6SB4mES",
+          "end": 46,
+          "expanded_url": "https://x.com/marichama_AI/status/2090784770460381605/photo/1",
+          "media_key": "3_2090784718090346496",
+          "start": 23,
+          "url": "https://t.co/FLB6SB4mES"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090853027888701573",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2090784718090346496"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 289
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090784770460381605",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @marichama_AI: ヒロエマ https://t.co/FLB6SB4mES"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2768,
+        "media_key": "3_2090784718090346496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQP1n6eXIAAHXjM.jpg",
+        "width": 2768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090784718090346496"
+          ],
+          "media_source_tweet_id": [
+            "2090784770460381605"
+          ]
+        },
+        "author_id": "1880979169297022976",
+        "conversation_id": "2090853027888701573",
+        "created_at": "2026-08-21T17:26:22.000Z",
+        "display_text_range": [
+          0,
+          46
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T18:26:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090853027888701573"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2060415929641545732",
+              "start": 3,
+              "username": "marichama_AI"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FLB6SB4mES",
+              "end": 46,
+              "expanded_url": "https://x.com/marichama_AI/status/2090784770460381605/photo/1",
+              "media_key": "3_2090784718090346496",
+              "start": 23,
+              "url": "https://t.co/FLB6SB4mES"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090853027888701573",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2090784718090346496"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 289
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090784770460381605",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @marichama_AI: ヒロエマ https://t.co/FLB6SB4mES"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090784718090346496"
+          ]
+        },
+        "author_id": "2060415929641545732",
+        "conversation_id": "2090784770460381605",
+        "created_at": "2026-08-21T12:55:08.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T13:55:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090784770460381605"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FLB6SB4mES",
+              "end": 28,
+              "expanded_url": "https://x.com/marichama_AI/status/2090784770460381605/photo/1",
+              "media_key": "3_2090784718090346496",
+              "start": 5,
+              "url": "https://t.co/FLB6SB4mES"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090784770460381605",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2090784718090346496"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 269,
+          "impression_count": 21521,
+          "like_count": 2973,
+          "quote_count": 3,
+          "reply_count": 2,
+          "retweet_count": 289
+        },
+        "reply_settings": "everyone",
+        "text": "ヒロエマ https://t.co/FLB6SB4mES"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳/♂/08.11.3/友跨🏳️‍⚧️\n政治立场未知/欢迎DM聊天(TG优先)\n魔裁(まのさば)/CS2/三角洲/Galgame/IT \n好基友@lockloveovo\n学生党 周末/节假日在线\nCN/EN/JP\n防失联@Wesley10033",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 76,
+                "username": "lockloveovo"
+              },
+              {
+                "end": 126,
+                "start": 114,
+                "username": "Wesley10033"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://telegram.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/15Y9XbDc22"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "is_identity_verified": false,
+        "location": "People's Republic of China",
+        "most_recent_tweet_id": "2090853027888701573",
+        "name": "Wesley",
+        "pinned_tweet_id": "2083033063257420070",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1880979169297022976/1785740152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1284,
+          "following_count": 1575,
+          "like_count": 17672,
+          "listed_count": 1,
+          "media_count": 426,
+          "tweet_count": 3018
+        },
+        "url": "https://t.co/15Y9XbDc22",
+        "username": "Wesley10032",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-29T17:40:13.000Z",
+        "description": "AI Assisted slop,don't feed my shit to grok\nComfyUI • ClipStudioPaint \nReposting prohibited.\nMore content: https://t.co/n2kVXI2cMM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.gd/PH06v",
+                "end": 130,
+                "expanded_url": "https://x.gd/PH06v",
+                "start": 107,
+                "url": "https://t.co/n2kVXI2cMM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/marichama",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/marichama",
+                "start": 0,
+                "url": "https://t.co/ZMtNLu9rIR"
+              }
+            ]
+          }
+        },
+        "id": "2060415929641545732",
+        "is_identity_verified": false,
+        "location": "Minors DNI, be polite or block",
+        "most_recent_tweet_id": "2090843697109713067",
+        "name": "marichama",
+        "pinned_tweet_id": "2084555887054578046",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2060415929641545732/1780483678",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060422082513567747/DsWmWh-s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5661,
+          "following_count": 443,
+          "like_count": 1459,
+          "listed_count": 25,
+          "media_count": 250,
+          "tweet_count": 766
+        },
+        "url": "https://t.co/ZMtNLu9rIR",
+        "username": "marichama_AI",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

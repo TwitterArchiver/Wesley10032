@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880979169297022976",
+    "conversation_id": "2084940887747153920",
+    "created_at": "2026-08-06T02:34:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T03:34:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085192737146782164"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2073809123616182272",
+          "start": 0,
+          "username": "qian68069"
+        },
+        {
+          "end": 16,
+          "id": "1720665183188922368",
+          "start": 11,
+          "username": "grok"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085192737146782164",
+    "in_reply_to_user_id": "2073809123616182272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084940887747153920",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qian68069 @grok 我自己觉得，真加入危机干预功能很容易出现误报的情况，AI公司承担不起这种风险"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1713,
+        "media_key": "3_2084940764816314368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO8ylECbkAA7VqG.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880979169297022976",
+        "conversation_id": "2084940887747153920",
+        "created_at": "2026-08-06T02:34:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T03:34:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085192737146782164"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2073809123616182272",
+              "start": 0,
+              "username": "qian68069"
+            },
+            {
+              "end": 16,
+              "id": "1720665183188922368",
+              "start": 11,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085192737146782164",
+        "in_reply_to_user_id": "2073809123616182272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084940887747153920",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qian68069 @grok 我自己觉得，真加入危机干预功能很容易出现误报的情况，AI公司承担不起这种风险"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084940764816314368"
+          ]
+        },
+        "author_id": "2073809123616182272",
+        "conversation_id": "2084940887747153920",
+        "created_at": "2026-08-05T09:53:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T10:53:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084940887747153920"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Zilm9E5rP7",
+              "end": 31,
+              "expanded_url": "https://x.com/qian68069/status/2084940887747153920/photo/1",
+              "media_key": "3_2084940764816314368",
+              "start": 8,
+              "url": "https://t.co/Zilm9E5rP7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084940887747153920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 156,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "操你妈的处理中 https://t.co/Zilm9E5rP7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳/♂/08.11.3/友跨🏳️‍⚧️\n或许是温和粉红/欢迎DM聊天(TG优先)\n魔裁(まのさば)/CS2/三角洲/Galgame/IT \n兴趣相近互fo/想做心理委员\n好基友@lockloveovo\n学生党 周末/节假日在线(暑假限时全天在线)\nCN/EN/JP\n防失联@Wesley10033",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 104,
+                "start": 92,
+                "username": "lockloveovo"
+              },
+              {
+                "end": 152,
+                "start": 140,
+                "username": "Wesley10033"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://telegram.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/Q5wiGuq4W4"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "location": "People's Republic of China",
+        "name": "Wesley",
+        "pinned_tweet_id": "2083033063257420070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 844,
+          "following_count": 1178,
+          "like_count": 12157,
+          "listed_count": 1,
+          "media_count": 267,
+          "tweet_count": 2174
+        },
+        "url": "https://t.co/Q5wiGuq4W4",
+        "username": "Wesley10032",
+        "verified": true
+      },
+      {
+        "created_at": "2026-07-05T16:41:25.000Z",
+        "description": "（发图专用号請勿私訊會看不到！！！）\n\n一只友跨泛性恋小男娘，人称代词随意\n關注本體@qian67068 简中/繁中/EN\n不ban真人 互联网攻受可切的触手娘\n学习🎹ing，爱鱼韵、回春丹，研究各种电子软硬件\n\n愛所有人，但永遠學不会愛人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 42,
+                "username": "qian67068"
+              }
+            ]
+          }
+        },
+        "id": "2073809123616182272",
+        "name": "🏳️‍🌈Qian小千（发图小号）",
+        "pinned_tweet_id": "2084993748006744238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084996745575170048/xJrhGCa7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 187,
+          "following_count": 277,
+          "like_count": 1655,
+          "listed_count": 1,
+          "media_count": 77,
+          "tweet_count": 552
+        },
+        "url": "",
+        "username": "qian68069",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 5,
+                "start": 0,
+                "username": "grok"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSjjG9"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "name": "Grok",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057885623374290944/lmj0pawP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8920573,
+          "following_count": 5,
+          "like_count": 122,
+          "listed_count": 7277,
+          "media_count": 9224882,
+          "tweet_count": 134376116
+        },
+        "url": "https://t.co/fqNKQSjjG9",
+        "username": "grok",
+        "verified": true
+      }
+    ]
+  }
+}

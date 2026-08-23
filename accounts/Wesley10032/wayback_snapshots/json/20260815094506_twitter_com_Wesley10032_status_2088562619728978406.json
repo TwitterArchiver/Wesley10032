@@ -1,0 +1,447 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880979169297022976",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Political issues",
+          "id": "900740740468191232",
+          "name": "Political issues"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1517561778225307651",
+          "name": "Controversies surrounding Yasukuni Shrine"
+        }
+      }
+    ],
+    "conversation_id": "2088562619728978406",
+    "created_at": "2026-08-15T09:45:06.000Z",
+    "display_text_range": [
+      0,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T10:45:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088562619728978406"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/shinjirokoiz/s…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/shinjirokoiz/status/2088449123146154050",
+          "start": 13,
+          "url": "https://t.co/6HtTV4op1I"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088562619728978406",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088449123146154050",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "给日本帝国主义招魂来了？ https://t.co/6HtTV4op1I"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1600,
+        "media_key": "3_2088449117450330112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPupaEEa4AAuH2Q.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880979169297022976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political issues",
+              "id": "900740740468191232",
+              "name": "Political issues"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1517561778225307651",
+              "name": "Controversies surrounding Yasukuni Shrine"
+            }
+          }
+        ],
+        "conversation_id": "2088562619728978406",
+        "created_at": "2026-08-15T09:45:06.000Z",
+        "display_text_range": [
+          0,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T10:45:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088562619728978406"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/shinjirokoiz/s…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/shinjirokoiz/status/2088449123146154050",
+              "start": 13,
+              "url": "https://t.co/6HtTV4op1I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088562619728978406",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088449123146154050",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "给日本帝国主义招魂来了？ https://t.co/6HtTV4op1I"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088449117450330112"
+          ]
+        },
+        "author_id": "1319812309431119872",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1159123820810100737",
+              "name": "Shinjiro Koizumi"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "id": "1159123820810100737",
+              "name": "Shinjiro Koizumi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political issues",
+              "id": "900740740468191232",
+              "name": "Political issues"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1159123820810100737",
+              "name": "Shinjiro Koizumi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1517561778225307651",
+              "name": "Controversies surrounding Yasukuni Shrine"
+            }
+          }
+        ],
+        "conversation_id": "2088449123146154050",
+        "created_at": "2026-08-15T02:14:07.000Z",
+        "display_text_range": [
+          0,
+          141
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T03:14:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088449123146154050"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0xqNnfrSlt",
+              "end": 165,
+              "expanded_url": "https://x.com/shinjirokoiz/status/2088449123146154050/photo/1",
+              "media_key": "3_2088449117450330112",
+              "start": 142,
+              "url": "https://t.co/0xqNnfrSlt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088449123146154050",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2088449117450330112"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "今朝、靖国神社を参拝しました。初当選以来、8月15日に参拝を続けています。国のために尊い命を犠牲にされた御英霊に対して哀悼の誠を捧げるとともに、尊崇の念を表し、ご冥福をお祈りしました。そして、不戦の誓いとともに、戦後の日本がひたすらに平和国家の歩みを積み重ねてきた責任をこれからも果たす決意を新たにしました。\n\n先ほど、千鳥ヶ淵戦没者墓苑でも献花を行い、今からは日本武道館で全国戦没者追悼式に出席します。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 498,
+          "impression_count": 775189,
+          "like_count": 67452,
+          "quote_count": 651,
+          "reply_count": 0,
+          "retweet_count": 7089
+        },
+        "reply_settings": "following",
+        "text": "今朝、靖国神社を参拝しました。初当選以来、8月15日に参拝を続けています。国のために尊い命を犠牲にされた御英霊に対して哀悼の誠を捧げるとともに、尊崇の念を表し、ご冥福をお祈りしました。そして、不戦の誓いとともに、戦後の日本がひたすらに平和国家の歩みを積み重ねてきた責任をこれからも果 https://t.co/0xqNnfrSlt"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳/♂/08.11.3/友跨🏳️‍⚧️\n政治立场未知/欢迎DM聊天(TG优先)\n魔裁(まのさば)/CS2/三角洲/Galgame/IT \n兴趣相近互fo/想做心理委员\n好基友@lockloveovo\n学生党 周末/节假日在线(暑假限时全天在线)\nCN/EN/JP\n防失联@Wesley10033",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 103,
+                "start": 91,
+                "username": "lockloveovo"
+              },
+              {
+                "end": 151,
+                "start": 139,
+                "username": "Wesley10033"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://telegram.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/Q5wiGuq4W4"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "is_identity_verified": false,
+        "location": "People's Republic of China",
+        "most_recent_tweet_id": "2088562619728978406",
+        "name": "Wesley",
+        "pinned_tweet_id": "2083033063257420070",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1880979169297022976/1785740152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1205,
+          "following_count": 1497,
+          "like_count": 16216,
+          "listed_count": 1,
+          "media_count": 401,
+          "tweet_count": 2795
+        },
+        "url": "https://t.co/Q5wiGuq4W4",
+        "username": "Wesley10032",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-10-24T01:26:11.000Z",
+        "description": "1981年 神奈川県横須賀市生まれ｜衆議院議員（神奈川11区) ｜夫・二児の父｜環境大臣・原子力防災担当大臣｜自民党選挙対策委員長|党水産総合調査会長|神奈川県連会長｜農林水産大臣|第28-29代防衛大臣|趣味は野球・サーフィン・映画鑑賞・文楽・落語｜好きな言葉は「有志有道」(意志あるところに道はある。)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "shinjiro.info",
+                "end": 23,
+                "expanded_url": "https://shinjiro.info/",
+                "start": 0,
+                "url": "https://t.co/DsuuDtlCH7"
+              }
+            ]
+          }
+        },
+        "id": "1319812309431119872",
+        "is_identity_verified": false,
+        "location": "Yokosuka, Japan",
+        "most_recent_tweet_id": "2088560794837606463",
+        "name": "小泉進次郎",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1319812309431119872/1769477040",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015958889414696960/b0Dzsm7X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 442350,
+          "following_count": 287,
+          "like_count": 1049,
+          "listed_count": 1664,
+          "media_count": 2379,
+          "tweet_count": 3665
+        },
+        "url": "https://t.co/DsuuDtlCH7",
+        "username": "shinjirokoiz",
+        "verified": true,
+        "verified_type": "government"
+      }
+    ]
+  }
+}
