@@ -1,0 +1,310 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880979169297022976",
+    "conversation_id": "2098072522856034730",
+    "created_at": "2026-09-10T16:40:28.000Z",
+    "display_text_range": [
+      14,
+      27
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T17:40:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098089235098288361"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1876613242887282688",
+          "start": 0,
+          "username": "liujiayi1111"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098089235098288361",
+    "in_reply_to_user_id": "1876613242887282688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098072522856034730",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liujiayi1111 只能说互关圈确实挺乱的……"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 149883,
+        "height": 996,
+        "media_key": "13_2098072338441068544",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2098072338441068544/img/FVJ5osIpv6X7Bzzy.jpg",
+        "public_metrics": {
+          "view_count": 833
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2098072338441068544/vid/avc1/400x270/jH_q8hY_fVGFbuU1.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2098072338441068544/vid/avc1/1068x720/dAiqoD550T63T-Zu.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2098072338441068544/vid/avc1/1478x996/DlHtPs7CphKSrQd0.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2098072338441068544/vid/avc1/534x360/h0Uh0o1Ph2nArn74.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2098072338441068544/pl/qyR0vWJdb-fMxKDG.m3u8"
+          }
+        ],
+        "width": 1478
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880979169297022976",
+        "conversation_id": "2098072522856034730",
+        "created_at": "2026-09-10T16:40:28.000Z",
+        "display_text_range": [
+          14,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T17:40:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098089235098288361"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1876613242887282688",
+              "start": 0,
+              "username": "liujiayi1111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098089235098288361",
+        "in_reply_to_user_id": "1876613242887282688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098072522856034730",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liujiayi1111 只能说互关圈确实挺乱的……"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2098072338441068544"
+          ]
+        },
+        "author_id": "1876613242887282688",
+        "conversation_id": "2098072522856034730",
+        "created_at": "2026-09-10T15:34:04.000Z",
+        "display_text_range": [
+          0,
+          102
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T16:34:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098072522856034730"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/h965LsJgah",
+              "end": 126,
+              "expanded_url": "https://x.com/liujiayi1111/status/2098072522856034730/video/1",
+              "media_key": "13_2098072338441068544",
+              "start": 103,
+              "url": "https://t.co/h965LsJgah"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098072522856034730",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2098072338441068544"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "狗富贵这种就是典型的又当又立，起初靠互关起号来的，然后切割，切割完再踩一脚，算了，懒得锐评了。这个视频直接实锤了，就算删了互关贴又能怎么样？之前发的几千关注的截图，还有一天几百关注的数据，这些骗不了人的。 \n虽然我不玩互关，只是看到这种很拙劣的洗白，就像吃完饭不擦嘴，还非说没吃一样，吐槽一下而已🙃"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1611,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "狗富贵这种就是典型的又当又立，起初靠互关起号来的，然后切割，切割完再踩一脚，算了，懒得锐评了。这个视频直接实锤了，就算删了互关贴又能怎么样？之前发的几千关注的截图，还有一天几百关注的数据，这些骗不了人的。 https://t.co/h965LsJgah"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "description": "中国人🇨🇳/♂/08.11.3\n政治立场未知/聊天请走下方TG链接\n魔裁(まのさば)/CS2/三角洲/Galgame/IT \n好基友@lockloveovo\n高三党/广东中山在居\nCN/EN/JP\n里推@Wesley10033\nBluesky备用号:@wesley10032.bsky.social",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 66,
+                "username": "lockloveovo"
+              },
+              {
+                "end": 113,
+                "start": 101,
+                "username": "Wesley10033"
+              },
+              {
+                "end": 137,
+                "start": 125,
+                "username": "wesley10032"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://t.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/HjVzyPDIuK"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "is_identity_verified": true,
+        "location": "中华人民共和国 / P.R.C.",
+        "most_recent_tweet_id": "2098089235098288361",
+        "name": "Wesley",
+        "pinned_tweet_id": "2083033063257420070",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1880979169297022976/1785740152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1659,
+          "following_count": 1870,
+          "like_count": 27392,
+          "listed_count": 2,
+          "media_count": 537,
+          "tweet_count": 4075
+        },
+        "url": "https://t.co/HjVzyPDIuK",
+        "username": "Wesley10032",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-01-07T12:54:22.000Z",
+        "description": "生活类博主，分享心情、吐槽、碎碎念，偶尔掉落日常生活碎片。不互fo，只关注自己感兴趣的。LOL游戏主播。被Tauri伤透两回，再也不喜欢Tauri了！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/liujiayi2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/liujiayi2",
+                "start": 0,
+                "url": "https://t.co/pDPmLWjxRk"
+              }
+            ]
+          }
+        },
+        "id": "1876613242887282688",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098088941005983857",
+        "name": "刘佳怡",
+        "pinned_tweet_id": "2058900883270758469",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1876613242887282688/1780369791",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058024477871468544/mleLXsRC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11922,
+          "following_count": 147,
+          "like_count": 17967,
+          "listed_count": 31,
+          "media_count": 413,
+          "tweet_count": 5286
+        },
+        "url": "https://t.co/pDPmLWjxRk",
+        "username": "liujiayi1111",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

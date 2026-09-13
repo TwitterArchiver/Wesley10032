@@ -1,0 +1,367 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2092579515839172608"
+      ]
+    },
+    "author_id": "1880979169297022976",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2092579541730701683",
+    "created_at": "2026-08-26T11:46:55.000Z",
+    "display_text_range": [
+      0,
+      43
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T12:46:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2092579541730701683"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 21,
+          "id": "1940808682998259712",
+          "start": 5,
+          "username": "Bomb_Revolution"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/KE53Z9BR03",
+          "end": 67,
+          "expanded_url": "https://x.com/Wesley10032/status/2092579541730701683/photo/1",
+          "media_key": "3_2092579515839172608",
+          "start": 44,
+          "url": "https://t.co/KE53Z9BR03"
+        },
+        {
+          "display_url": "x.com/wesley10032/st…",
+          "end": 91,
+          "expanded_url": "https://twitter.com/wesley10032/status/2090813577406054662",
+          "start": 68,
+          "url": "https://t.co/NxO6zZVI5C"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092579541730701683",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2092579515839172608"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090813577406054662",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "感谢鲨鲨（@Bomb_Revolution）送我的备用机喵😋\n这下可以在学校玩手机了😋 https://t.co/KE53Z9BR03 https://t.co/NxO6zZVI5C"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2092579515839172608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQpV-5HaUAAMTX3.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092579515839172608"
+          ]
+        },
+        "author_id": "1880979169297022976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2092579541730701683",
+        "created_at": "2026-08-26T11:46:55.000Z",
+        "display_text_range": [
+          0,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T12:46:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092579541730701683"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 21,
+              "id": "1940808682998259712",
+              "start": 5,
+              "username": "Bomb_Revolution"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KE53Z9BR03",
+              "end": 67,
+              "expanded_url": "https://x.com/Wesley10032/status/2092579541730701683/photo/1",
+              "media_key": "3_2092579515839172608",
+              "start": 44,
+              "url": "https://t.co/KE53Z9BR03"
+            },
+            {
+              "display_url": "x.com/wesley10032/st…",
+              "end": 91,
+              "expanded_url": "https://twitter.com/wesley10032/status/2090813577406054662",
+              "start": 68,
+              "url": "https://t.co/NxO6zZVI5C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092579541730701683",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092579515839172608"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090813577406054662",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "感谢鲨鲨（@Bomb_Revolution）送我的备用机喵😋\n这下可以在学校玩手机了😋 https://t.co/KE53Z9BR03 https://t.co/NxO6zZVI5C"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880979169297022976",
+        "conversation_id": "2090813577406054662",
+        "created_at": "2026-08-21T14:49:36.000Z",
+        "display_text_range": [
+          0,
+          117
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T15:49:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090813577406054662"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2090813577406054662",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1779,
+          "like_count": 90,
+          "quote_count": 1,
+          "reply_count": 16,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "【通知】\n有几个推 u 可能提前获知了\n我前两天收到学校的通知\n咱极有可能一个月才能回来一次喵😭\n我们学校是前三周每周放 6 小时小假\n最后一周才放 24 小时大假\n咱真的很难受喵😭\n不过有神秘推 u 对我伸出援手了喵\n这个过几天再说"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳/♂/08.11.3/友跨🏳️‍⚧️\n政治立场未知/聊天请走下方TG链接\n魔裁(まのさば)/CS2/三角洲/Galgame/IT \n好基友@lockloveovo\n学生党 周末/节假日在线\nCN/EN/JP\n防失联@Wesley10033",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 74,
+                "username": "lockloveovo"
+              },
+              {
+                "end": 124,
+                "start": 112,
+                "username": "Wesley10033"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://telegram.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/Q5wiGuq4W4"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "is_identity_verified": false,
+        "location": "People's Republic of China",
+        "most_recent_tweet_id": "2092579541730701683",
+        "name": "Wesley",
+        "pinned_tweet_id": "2083033063257420070",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1880979169297022976/1785740152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1409,
+          "following_count": 1677,
+          "like_count": 18990,
+          "listed_count": 3,
+          "media_count": 445,
+          "tweet_count": 3198
+        },
+        "url": "https://t.co/Q5wiGuq4W4",
+        "username": "Wesley10032",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-07-03T16:23:55.000Z",
+        "description": "自介在主页置顶啦～，欢迎大家来找我喵～\n匿名提问：https://t.co/oOjXVJdUzm\n个人博客：https://t.co/HQ67CBXULg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bombrevolution",
+                "end": 48,
+                "expanded_url": "https://ngl.link/bombrevolution",
+                "start": 25,
+                "url": "https://t.co/oOjXVJdUzm"
+              },
+              {
+                "display_url": "bombrevolution.pages.dev",
+                "end": 77,
+                "expanded_url": "http://bombrevolution.pages.dev",
+                "start": 54,
+                "url": "https://t.co/HQ67CBXULg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bombrevolution.pages.dev",
+                "end": 23,
+                "expanded_url": "http://bombrevolution.pages.dev",
+                "start": 0,
+                "url": "https://t.co/HQ67CBXULg"
+              }
+            ]
+          }
+        },
+        "id": "1940808682998259712",
+        "is_identity_verified": false,
+        "location": "中国",
+        "most_recent_tweet_id": "2092558743804191209",
+        "name": "BombRevolution",
+        "pinned_tweet_id": "2086597308578402412",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1940808682998259712/1751587648",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063627387527716864/JjLZtClE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 380,
+          "following_count": 359,
+          "like_count": 137,
+          "listed_count": 0,
+          "media_count": 104,
+          "tweet_count": 532
+        },
+        "url": "https://t.co/HQ67CBXULg",
+        "username": "Bomb_Revolution",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

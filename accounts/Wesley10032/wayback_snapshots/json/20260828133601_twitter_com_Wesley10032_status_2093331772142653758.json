@@ -1,0 +1,549 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2093331076836167680",
+        "3_2093331076848721920",
+        "3_2093331076861333504",
+        "3_2093331076873965568"
+      ],
+      "media_source_tweet_id": [
+        "2093331112752037901",
+        "2093331112752037901",
+        "2093331112752037901",
+        "2093331112752037901"
+      ]
+    },
+    "author_id": "1880979169297022976",
+    "conversation_id": "2093331772142653758",
+    "created_at": "2026-08-28T13:36:01.000Z",
+    "display_text_range": [
+      0,
+      120
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-28T14:36:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093331772142653758"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2049152504542449664",
+          "start": 3,
+          "username": "hasaki_sama"
+        },
+        {
+          "end": 66,
+          "id": "2031270533359349761",
+          "start": 50,
+          "username": "lovemyselfhaili"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZcRUA4qWiq",
+          "end": 120,
+          "expanded_url": "https://x.com/hasaki_sama/status/2093331112752037901/photo/1",
+          "media_key": "3_2093331076836167680",
+          "start": 97,
+          "url": "https://t.co/ZcRUA4qWiq"
+        },
+        {
+          "display_url": "pic.x.com/ZcRUA4qWiq",
+          "end": 120,
+          "expanded_url": "https://x.com/hasaki_sama/status/2093331112752037901/photo/1",
+          "media_key": "3_2093331076848721920",
+          "start": 97,
+          "url": "https://t.co/ZcRUA4qWiq"
+        },
+        {
+          "display_url": "pic.x.com/ZcRUA4qWiq",
+          "end": 120,
+          "expanded_url": "https://x.com/hasaki_sama/status/2093331112752037901/photo/1",
+          "media_key": "3_2093331076861333504",
+          "start": 97,
+          "url": "https://t.co/ZcRUA4qWiq"
+        },
+        {
+          "display_url": "pic.x.com/ZcRUA4qWiq",
+          "end": 120,
+          "expanded_url": "https://x.com/hasaki_sama/status/2093331112752037901/photo/1",
+          "media_key": "3_2093331076873965568",
+          "start": 97,
+          "url": "https://t.co/ZcRUA4qWiq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093331772142653758",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2093331076836167680"
+      },
+      {
+        "media_key": "3_2093331076848721920"
+      },
+      {
+        "media_key": "3_2093331076861333504"
+      },
+      {
+        "media_key": "3_2093331076873965568"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093331112752037901",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hasaki_sama: 我不得不离开南京……离开我亲手创建的首都😭\n拜拜咯，南京！👋\n感谢@lovemyselfhaili 小可爱的陪伴哦\n咱有缘再会惹喵～ ૮ ˶ᵔ ᵕ ᵔ˶ ა♡ https://t.co/ZcRUA4qWiq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2093331076836167680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ0BhgAbEAAuCOe.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1349,
+        "media_key": "3_2093331076848721920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ0BhgDaoAAi89p.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2093331076861333504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ0BhgGbEAA7deL.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2093331076873965568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ0BhgJb0AAa_Se.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093331076836167680",
+            "3_2093331076848721920",
+            "3_2093331076861333504",
+            "3_2093331076873965568"
+          ],
+          "media_source_tweet_id": [
+            "2093331112752037901",
+            "2093331112752037901",
+            "2093331112752037901",
+            "2093331112752037901"
+          ]
+        },
+        "author_id": "1880979169297022976",
+        "conversation_id": "2093331772142653758",
+        "created_at": "2026-08-28T13:36:01.000Z",
+        "display_text_range": [
+          0,
+          120
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T14:36:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093331772142653758"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2049152504542449664",
+              "start": 3,
+              "username": "hasaki_sama"
+            },
+            {
+              "end": 66,
+              "id": "2031270533359349761",
+              "start": 50,
+              "username": "lovemyselfhaili"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZcRUA4qWiq",
+              "end": 120,
+              "expanded_url": "https://x.com/hasaki_sama/status/2093331112752037901/photo/1",
+              "media_key": "3_2093331076836167680",
+              "start": 97,
+              "url": "https://t.co/ZcRUA4qWiq"
+            },
+            {
+              "display_url": "pic.x.com/ZcRUA4qWiq",
+              "end": 120,
+              "expanded_url": "https://x.com/hasaki_sama/status/2093331112752037901/photo/1",
+              "media_key": "3_2093331076848721920",
+              "start": 97,
+              "url": "https://t.co/ZcRUA4qWiq"
+            },
+            {
+              "display_url": "pic.x.com/ZcRUA4qWiq",
+              "end": 120,
+              "expanded_url": "https://x.com/hasaki_sama/status/2093331112752037901/photo/1",
+              "media_key": "3_2093331076861333504",
+              "start": 97,
+              "url": "https://t.co/ZcRUA4qWiq"
+            },
+            {
+              "display_url": "pic.x.com/ZcRUA4qWiq",
+              "end": 120,
+              "expanded_url": "https://x.com/hasaki_sama/status/2093331112752037901/photo/1",
+              "media_key": "3_2093331076873965568",
+              "start": 97,
+              "url": "https://t.co/ZcRUA4qWiq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093331772142653758",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2093331076836167680"
+          },
+          {
+            "media_key": "3_2093331076848721920"
+          },
+          {
+            "media_key": "3_2093331076861333504"
+          },
+          {
+            "media_key": "3_2093331076873965568"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093331112752037901",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hasaki_sama: 我不得不离开南京……离开我亲手创建的首都😭\n拜拜咯，南京！👋\n感谢@lovemyselfhaili 小可爱的陪伴哦\n咱有缘再会惹喵～ ૮ ˶ᵔ ᵕ ᵔ˶ ა♡ https://t.co/ZcRUA4qWiq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093331076836167680",
+            "3_2093331076848721920",
+            "3_2093331076861333504",
+            "3_2093331076873965568"
+          ]
+        },
+        "author_id": "2049152504542449664",
+        "conversation_id": "2093331112752037901",
+        "created_at": "2026-08-28T13:33:24.000Z",
+        "display_text_range": [
+          0,
+          79
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T14:33:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093331112752037901"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 49,
+              "id": "2031270533359349761",
+              "start": 33,
+              "username": "lovemyselfhaili"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZcRUA4qWiq",
+              "end": 103,
+              "expanded_url": "https://x.com/hasaki_sama/status/2093331112752037901/photo/1",
+              "media_key": "3_2093331076836167680",
+              "start": 80,
+              "url": "https://t.co/ZcRUA4qWiq"
+            },
+            {
+              "display_url": "pic.x.com/ZcRUA4qWiq",
+              "end": 103,
+              "expanded_url": "https://x.com/hasaki_sama/status/2093331112752037901/photo/1",
+              "media_key": "3_2093331076848721920",
+              "start": 80,
+              "url": "https://t.co/ZcRUA4qWiq"
+            },
+            {
+              "display_url": "pic.x.com/ZcRUA4qWiq",
+              "end": 103,
+              "expanded_url": "https://x.com/hasaki_sama/status/2093331112752037901/photo/1",
+              "media_key": "3_2093331076861333504",
+              "start": 80,
+              "url": "https://t.co/ZcRUA4qWiq"
+            },
+            {
+              "display_url": "pic.x.com/ZcRUA4qWiq",
+              "end": 103,
+              "expanded_url": "https://x.com/hasaki_sama/status/2093331112752037901/photo/1",
+              "media_key": "3_2093331076873965568",
+              "start": 80,
+              "url": "https://t.co/ZcRUA4qWiq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093331112752037901",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2093331076836167680"
+          },
+          {
+            "media_key": "3_2093331076848721920"
+          },
+          {
+            "media_key": "3_2093331076861333504"
+          },
+          {
+            "media_key": "3_2093331076873965568"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我不得不离开南京……离开我亲手创建的首都😭\n拜拜咯，南京！👋\n感谢@lovemyselfhaili 小可爱的陪伴哦\n咱有缘再会惹喵～ ૮ ˶ᵔ ᵕ ᵔ˶ ა♡ https://t.co/ZcRUA4qWiq"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳/♂/08.11.3/友跨🏳️‍⚧️\n政治立场未知/聊天请走下方TG链接\n魔裁(まのさば)/CS2/三角洲/Galgame/IT \n好基友@lockloveovo\n学生党 周末/节假日在线\nCN/EN/JP\n防失联@Wesley10033",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 74,
+                "username": "lockloveovo"
+              },
+              {
+                "end": 124,
+                "start": 112,
+                "username": "Wesley10033"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://telegram.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/Q5wiGuq4W4"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "is_identity_verified": false,
+        "location": "People's Republic of China",
+        "most_recent_tweet_id": "2093331772142653758",
+        "name": "Wesley",
+        "pinned_tweet_id": "2083033063257420070",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1880979169297022976/1785740152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1442,
+          "following_count": 1705,
+          "like_count": 19750,
+          "listed_count": 3,
+          "media_count": 453,
+          "tweet_count": 3294
+        },
+        "url": "https://t.co/Q5wiGuq4W4",
+        "username": "Wesley10032",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-28T15:48:05.000Z",
+        "description": "Hi！这里是Neko 很高兴认识你喵～ (˶ᵔ ᵕ ᵔ˶)✧\n｜11年小资历｜泛性恋✨｜LGBTQ+🏳️‍🌈｜INFP🦋｜跨性别友好🏳️‍⚧️/ 喜欢 羽球🏸｜ACG｜信息技术 AI｜不定时喵喵叫🐱/鉴证🆖｜联系方式💬 https://t.co/VDLGVdQMfq\n\n匿名邮箱 提问 👀 ⬇️",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/hasaki_0612",
+                "end": 133,
+                "expanded_url": "http://t.me/hasaki_0612",
+                "start": 110,
+                "url": "https://t.co/VDLGVdQMfq"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hasaki_0612",
+                "end": 23,
+                "expanded_url": "https://ngl.link/hasaki_0612",
+                "start": 0,
+                "url": "https://t.co/8Ei14tUkCK"
+              }
+            ]
+          }
+        },
+        "id": "2049152504542449664",
+        "is_identity_verified": false,
+        "location": "距离你0.1 km",
+        "most_recent_tweet_id": "2093331112752037901",
+        "name": "Neko 🐾",
+        "pinned_tweet_id": "2088172213262528904",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2049152504542449664/1783530736",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075040561237753856/aiPH-t8W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1159,
+          "following_count": 1031,
+          "like_count": 4677,
+          "listed_count": 2,
+          "media_count": 403,
+          "tweet_count": 2744
+        },
+        "url": "https://t.co/8Ei14tUkCK",
+        "username": "hasaki_sama",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-10T07:27:30.000Z",
+        "description": "（淡圈中）一个什么都不擅长的废物喵｜喜欢一切可爱事物｜entp-t ｜心归所至：@lfgy74025｜小宝宝：@YuChenawa @MZiyu81757｜mtx🏳️‍⚧️｜AGP｜生产日期：2008｜小证偷吃｜hrt3.29｜欢迎互fo喵｜常驻南京",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 40,
+                "username": "lfgy74025"
+              },
+              {
+                "end": 65,
+                "start": 55,
+                "username": "YuChenawa"
+              },
+              {
+                "end": 77,
+                "start": 66,
+                "username": "MZiyu81757"
+              }
+            ]
+          }
+        },
+        "id": "2031270533359349761",
+        "is_identity_verified": false,
+        "location": "你家门口",
+        "most_recent_tweet_id": "2093291918616829956",
+        "name": "senzhiwu",
+        "pinned_tweet_id": "2086291480478712245",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2031270533359349761/1787898878",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088941031123505152/lRU5eFsc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2057,
+          "following_count": 435,
+          "like_count": 3776,
+          "listed_count": 6,
+          "media_count": 165,
+          "tweet_count": 2838
+        },
+        "url": "",
+        "username": "lovemyselfhaili",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

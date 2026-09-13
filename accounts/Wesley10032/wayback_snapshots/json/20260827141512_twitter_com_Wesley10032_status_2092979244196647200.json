@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880979169297022976",
+    "conversation_id": "2092979244196647200",
+    "created_at": "2026-08-27T14:15:12.000Z",
+    "display_text_range": [
+      0,
+      66
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T15:15:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092979244196647200"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1342814506234257409",
+          "start": 3,
+          "username": "MgLGfsfs0UaNQeO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092979244196647200",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 47
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092890958077776058",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MgLGfsfs0UaNQeO: 中国の方々に対してシナとか出て行けとか言う彼等こそ日本から出て行けと思う。彼等は日本の恥。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880979169297022976",
+        "conversation_id": "2092979244196647200",
+        "created_at": "2026-08-27T14:15:12.000Z",
+        "display_text_range": [
+          0,
+          66
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T15:15:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092979244196647200"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1342814506234257409",
+              "start": 3,
+              "username": "MgLGfsfs0UaNQeO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092979244196647200",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 47
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092890958077776058",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MgLGfsfs0UaNQeO: 中国の方々に対してシナとか出て行けとか言う彼等こそ日本から出て行けと思う。彼等は日本の恥。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1342814506234257409",
+        "conversation_id": "2092890958077776058",
+        "created_at": "2026-08-27T08:24:23.000Z",
+        "display_text_range": [
+          0,
+          45
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T09:24:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092890958077776058"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2092890958077776058",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 37178,
+          "like_count": 986,
+          "quote_count": 8,
+          "reply_count": 76,
+          "retweet_count": 47
+        },
+        "reply_settings": "everyone",
+        "text": "中国の方々に対してシナとか出て行けとか言う彼等こそ日本から出て行けと思う。彼等は日本の恥。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳/♂/08.11.3/友跨🏳️‍⚧️\n政治立场未知/聊天请走下方TG链接\n魔裁(まのさば)/CS2/三角洲/Galgame/IT \n好基友@lockloveovo\n学生党 周末/节假日在线\nCN/EN/JP\n防失联@Wesley10033",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 74,
+                "username": "lockloveovo"
+              },
+              {
+                "end": 124,
+                "start": 112,
+                "username": "Wesley10033"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://telegram.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/Q5wiGuq4W4"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "is_identity_verified": false,
+        "location": "People's Republic of China",
+        "most_recent_tweet_id": "2092979244196647200",
+        "name": "Wesley",
+        "pinned_tweet_id": "2083033063257420070",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1880979169297022976/1785740152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1424,
+          "following_count": 1681,
+          "like_count": 19303,
+          "listed_count": 3,
+          "media_count": 450,
+          "tweet_count": 3245
+        },
+        "url": "https://t.co/Q5wiGuq4W4",
+        "username": "Wesley10032",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-12-26T12:49:01.000Z",
+        "description": "神戸の普通の会社員。中国歴史好き。祖父は原爆投下直後に現場救護へいった元衛生兵。",
+        "id": "1342814506234257409",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092978844009697672",
+        "name": "とよ",
+        "pinned_tweet_id": "2045328698153513356",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1342814506234257409/1677115020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1364195348957159424/bPU_1rk9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5429,
+          "following_count": 2480,
+          "like_count": 56279,
+          "listed_count": 182,
+          "media_count": 165,
+          "tweet_count": 12052
+        },
+        "url": "",
+        "username": "MgLGfsfs0UaNQeO",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

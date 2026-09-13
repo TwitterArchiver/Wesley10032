@@ -1,0 +1,340 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2092551536060792832"
+      ],
+      "media_source_tweet_id": [
+        "2092551544411660783"
+      ]
+    },
+    "author_id": "1880979169297022976",
+    "conversation_id": "2092612894055965080",
+    "created_at": "2026-08-26T13:59:27.000Z",
+    "display_text_range": [
+      0,
+      78
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T14:59:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092612894055965080"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1987885638038036480",
+          "start": 3,
+          "username": "mizorewww"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/KocEo0bWQp",
+          "end": 78,
+          "expanded_url": "https://x.com/mizorewww/status/2092551544411660783/photo/1",
+          "media_key": "3_2092551536060792832",
+          "start": 55,
+          "url": "https://t.co/KocEo0bWQp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092612894055965080",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2092551536060792832"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092551544411660783",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mizorewww: 呜呜呜，三个月前就满足流量要求了\n\n现在还没满足蓝v fo的要求\n\n吃不起饭了 https://t.co/KocEo0bWQp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2736,
+        "media_key": "3_2092551536060792832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQo8iQUaAAAoVXB.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092551536060792832"
+          ],
+          "media_source_tweet_id": [
+            "2092551544411660783"
+          ]
+        },
+        "author_id": "1880979169297022976",
+        "conversation_id": "2092612894055965080",
+        "created_at": "2026-08-26T13:59:27.000Z",
+        "display_text_range": [
+          0,
+          78
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T14:59:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092612894055965080"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1987885638038036480",
+              "start": 3,
+              "username": "mizorewww"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KocEo0bWQp",
+              "end": 78,
+              "expanded_url": "https://x.com/mizorewww/status/2092551544411660783/photo/1",
+              "media_key": "3_2092551536060792832",
+              "start": 55,
+              "url": "https://t.co/KocEo0bWQp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092612894055965080",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092551536060792832"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092551544411660783",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mizorewww: 呜呜呜，三个月前就满足流量要求了\n\n现在还没满足蓝v fo的要求\n\n吃不起饭了 https://t.co/KocEo0bWQp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092551536060792832"
+          ]
+        },
+        "author_id": "1987885638038036480",
+        "conversation_id": "2092551544411660783",
+        "created_at": "2026-08-26T09:55:40.000Z",
+        "display_text_range": [
+          0,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T10:55:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092551544411660783"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KocEo0bWQp",
+              "end": 63,
+              "expanded_url": "https://x.com/mizorewww/status/2092551544411660783/photo/1",
+              "media_key": "3_2092551536060792832",
+              "start": 40,
+              "url": "https://t.co/KocEo0bWQp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092551544411660783",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092551536060792832"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 744,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "呜呜呜，三个月前就满足流量要求了\n\n现在还没满足蓝v fo的要求\n\n吃不起饭了 https://t.co/KocEo0bWQp"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳/♂/08.11.3/友跨🏳️‍⚧️\n政治立场未知/聊天请走下方TG链接\n魔裁(まのさば)/CS2/三角洲/Galgame/IT \n好基友@lockloveovo\n学生党 周末/节假日在线\nCN/EN/JP\n防失联@Wesley10033",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 74,
+                "username": "lockloveovo"
+              },
+              {
+                "end": 124,
+                "start": 112,
+                "username": "Wesley10033"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://telegram.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/Q5wiGuq4W4"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "is_identity_verified": false,
+        "location": "People's Republic of China",
+        "most_recent_tweet_id": "2092612894055965080",
+        "name": "Wesley",
+        "pinned_tweet_id": "2083033063257420070",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1880979169297022976/1785740152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1404,
+          "following_count": 1674,
+          "like_count": 19055,
+          "listed_count": 3,
+          "media_count": 446,
+          "tweet_count": 3213
+        },
+        "url": "https://t.co/Q5wiGuq4W4",
+        "username": "Wesley10032",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-10T14:12:38.000Z",
+        "description": "08 大一\n开发者 交易员 欢迎私聊 兴趣使然 关注你说明我喜欢你 推文以玩抽象为主\ngroup: https://t.co/pqGQW3HDeN\nemail: www@mizore.blog\ntelegram: https://t.co/yRGqdtA0JC",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+DGSMTqhPGXkyM…",
+                "end": 73,
+                "expanded_url": "https://t.me/+DGSMTqhPGXkyM2E1",
+                "start": 50,
+                "url": "https://t.co/pqGQW3HDeN"
+              },
+              {
+                "display_url": "t.me/aac6fef",
+                "end": 130,
+                "expanded_url": "http://t.me/aac6fef",
+                "start": 107,
+                "url": "https://t.co/yRGqdtA0JC"
+              }
+            ]
+          }
+        },
+        "id": "1987885638038036480",
+        "is_identity_verified": false,
+        "location": "Crazy Universe ",
+        "most_recent_tweet_id": "2092595212577386941",
+        "name": "雨夹雪❄️",
+        "pinned_tweet_id": "2082711443598971203",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987888073292881921/_qmTL0fK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1709,
+          "following_count": 1057,
+          "like_count": 29617,
+          "listed_count": 4,
+          "media_count": 1218,
+          "tweet_count": 6140
+        },
+        "url": "",
+        "username": "mizorewww",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

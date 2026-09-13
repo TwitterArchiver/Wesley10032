@@ -1,0 +1,357 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2030300939840794624"
+      ],
+      "media_source_tweet_id": [
+        "2030436081875759600"
+      ]
+    },
+    "author_id": "1880979169297022976",
+    "conversation_id": "2096180938128420960",
+    "created_at": "2026-09-05T10:17:35.000Z",
+    "display_text_range": [
+      0,
+      50
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T11:17:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096180938128420960"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1534107169846882304",
+          "start": 3,
+          "username": "irorixc"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/EAn75UG7Yp",
+          "end": 50,
+          "expanded_url": "https://x.com/irorixc/status/2030436081875759600/photo/1",
+          "media_key": "3_2030300939840794624",
+          "start": 27,
+          "url": "https://t.co/EAn75UG7Yp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096180938128420960",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2030300939840794624"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 678
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030436081875759600",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @irorixc: 都合によりニーソな杏珠さん https://t.co/EAn75UG7Yp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1134,
+        "media_key": "3_2030300939840794624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC0T8qJaMAA-M0M.jpg",
+        "width": 787
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030300939840794624"
+          ],
+          "media_source_tweet_id": [
+            "2030436081875759600"
+          ]
+        },
+        "author_id": "1880979169297022976",
+        "conversation_id": "2096180938128420960",
+        "created_at": "2026-09-05T10:17:35.000Z",
+        "display_text_range": [
+          0,
+          50
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T11:17:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096180938128420960"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1534107169846882304",
+              "start": 3,
+              "username": "irorixc"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EAn75UG7Yp",
+              "end": 50,
+              "expanded_url": "https://x.com/irorixc/status/2030436081875759600/photo/1",
+              "media_key": "3_2030300939840794624",
+              "start": 27,
+              "url": "https://t.co/EAn75UG7Yp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096180938128420960",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2030300939840794624"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 678
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030436081875759600",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @irorixc: 都合によりニーソな杏珠さん https://t.co/EAn75UG7Yp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030300939840794624"
+          ]
+        },
+        "author_id": "1534107169846882304",
+        "conversation_id": "2030436081875759600",
+        "created_at": "2026-03-08T00:11:00.000Z",
+        "display_text_range": [
+          0,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-03-08T01:11:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030436081875759600"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EAn75UG7Yp",
+              "end": 37,
+              "expanded_url": "https://x.com/irorixc/status/2030436081875759600/photo/1",
+              "media_key": "3_2030300939840794624",
+              "start": 14,
+              "url": "https://t.co/EAn75UG7Yp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030436081875759600",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2030300939840794624"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 542,
+          "impression_count": 77043,
+          "like_count": 4054,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 678
+        },
+        "reply_settings": "everyone",
+        "text": "都合によりニーソな杏珠さん https://t.co/EAn75UG7Yp"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳/♂/08.11.3/友跨(暂不翻车)\n政治立场未知/聊天请走下方TG链接\n魔裁(まのさば)/CS2/三角洲/Galgame/IT \n好基友@lockloveovo\n高三党/广东中山在居\nCN/EN/JP\n里推@Wesley10033",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 75,
+                "username": "lockloveovo"
+              },
+              {
+                "end": 122,
+                "start": 110,
+                "username": "Wesley10033"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://t.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/HjVzyPDIuK"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "is_identity_verified": true,
+        "location": "People's Republic of China",
+        "most_recent_tweet_id": "2096180938128420960",
+        "name": "Wesley",
+        "pinned_tweet_id": "2083033063257420070",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1880979169297022976/1785740152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1555,
+          "following_count": 1804,
+          "like_count": 24033,
+          "listed_count": 2,
+          "media_count": 498,
+          "tweet_count": 3700
+        },
+        "url": "https://t.co/HjVzyPDIuK",
+        "username": "Wesley10032",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-06-07T09:37:31.000Z",
+        "description": "タイツとBRMが好きです。連絡先はリトリンに。｜FANBOX▹https://t.co/XPA8frKrCo｜FANZA▹https://t.co/zEUrfrnxm7｜Skeb▹https://t.co/2KMZiO8g0v",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "irorixc.fanbox.cc",
+                "end": 54,
+                "expanded_url": "http://irorixc.fanbox.cc",
+                "start": 31,
+                "url": "https://t.co/XPA8frKrCo"
+              },
+              {
+                "display_url": "bit.ly/3eII6ll",
+                "end": 84,
+                "expanded_url": "http://bit.ly/3eII6ll",
+                "start": 61,
+                "url": "https://t.co/zEUrfrnxm7"
+              },
+              {
+                "display_url": "skeb.jp/@irorixc",
+                "end": 113,
+                "expanded_url": "http://skeb.jp/@irorixc",
+                "start": 90,
+                "url": "https://t.co/2KMZiO8g0v"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/irorixc",
+                "end": 23,
+                "expanded_url": "https://lit.link/irorixc",
+                "start": 0,
+                "url": "https://t.co/LITomGu94X"
+              }
+            ]
+          }
+        },
+        "id": "1534107169846882304",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096110914135286240",
+        "name": "いろり",
+        "pinned_tweet_id": "1966651540091138141",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1534107169846882304/1716721338",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913173156573126657/Ne2whjIV_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8245,
+          "following_count": 26,
+          "like_count": 498,
+          "listed_count": 82,
+          "media_count": 86,
+          "tweet_count": 495
+        },
+        "url": "https://t.co/LITomGu94X",
+        "username": "irorixc",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

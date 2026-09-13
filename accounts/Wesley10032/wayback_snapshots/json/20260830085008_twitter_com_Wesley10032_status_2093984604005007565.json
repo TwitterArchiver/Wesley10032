@@ -1,0 +1,346 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2093984590088327168"
+      ]
+    },
+    "author_id": "1880979169297022976",
+    "conversation_id": "2093984604005007565",
+    "created_at": "2026-08-30T08:50:08.000Z",
+    "display_text_range": [
+      0,
+      11
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-30T09:50:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2093984604005007565"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/BrslcMo9yX",
+          "end": 35,
+          "expanded_url": "https://x.com/Wesley10032/status/2093984604005007565/photo/1",
+          "media_key": "3_2093984590088327168",
+          "start": 12,
+          "url": "https://t.co/BrslcMo9yX"
+        },
+        {
+          "display_url": "x.com/bghtnya/status…",
+          "end": 59,
+          "expanded_url": "https://twitter.com/bghtnya/status/2093981149777502418",
+          "start": 36,
+          "url": "https://t.co/vbDvGFjUNH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093984604005007565",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2093984590088327168"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093981149777502418",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "喵\n咱还能接受芥末（） https://t.co/BrslcMo9yX https://t.co/vbDvGFjUNH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2093984590088327168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ9T4-lbUAA18gG.jpg",
+        "width": 946
+      },
+      {
+        "height": 2608,
+        "media_key": "3_2093981140399030272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ9QwLfaAAAcPHQ.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093984590088327168"
+          ]
+        },
+        "author_id": "1880979169297022976",
+        "conversation_id": "2093984604005007565",
+        "created_at": "2026-08-30T08:50:08.000Z",
+        "display_text_range": [
+          0,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T09:50:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093984604005007565"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BrslcMo9yX",
+              "end": 35,
+              "expanded_url": "https://x.com/Wesley10032/status/2093984604005007565/photo/1",
+              "media_key": "3_2093984590088327168",
+              "start": 12,
+              "url": "https://t.co/BrslcMo9yX"
+            },
+            {
+              "display_url": "x.com/bghtnya/status…",
+              "end": 59,
+              "expanded_url": "https://twitter.com/bghtnya/status/2093981149777502418",
+              "start": 36,
+              "url": "https://t.co/vbDvGFjUNH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093984604005007565",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2093984590088327168"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093981149777502418",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "喵\n咱还能接受芥末（） https://t.co/BrslcMo9yX https://t.co/vbDvGFjUNH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093981140399030272"
+          ]
+        },
+        "author_id": "1512976991976402949",
+        "conversation_id": "2093981149777502418",
+        "created_at": "2026-08-30T08:36:25.000Z",
+        "display_text_range": [
+          0,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T09:36:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093981149777502418"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qZS6vBaELN",
+              "end": 39,
+              "expanded_url": "https://x.com/bghtnya/status/2093981149777502418/photo/1",
+              "media_key": "3_2093981140399030272",
+              "start": 16,
+              "url": "https://t.co/qZS6vBaELN"
+            },
+            {
+              "display_url": "x.com/aoim33/status/…",
+              "end": 63,
+              "expanded_url": "https://twitter.com/aoim33/status/2093929632018071843",
+              "start": 40,
+              "url": "https://t.co/LJJHezx6Ds"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093981149777502418",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2093981140399030272"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 110,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093929632018071843",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "虽然但是，我很讨厌吃螺蛳粉（） https://t.co/qZS6vBaELN https://t.co/LJJHezx6Ds"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳/♂/08.11.3/友跨🏳️‍⚧️\n政治立场未知/聊天请走下方TG链接\n魔裁(まのさば)/CS2/三角洲/Galgame/IT \n好基友@lockloveovo\n学生党 周末/节假日在线\nCN/EN/JP\n防失联@Wesley10033",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 74,
+                "username": "lockloveovo"
+              },
+              {
+                "end": 124,
+                "start": 112,
+                "username": "Wesley10033"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://telegram.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/Q5wiGuq4W4"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "is_identity_verified": true,
+        "location": "People's Republic of China",
+        "most_recent_tweet_id": "2093984604005007565",
+        "name": "Wesley",
+        "pinned_tweet_id": "2083033063257420070",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1880979169297022976/1785740152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1485,
+          "following_count": 1750,
+          "like_count": 21182,
+          "listed_count": 3,
+          "media_count": 468,
+          "tweet_count": 3436
+        },
+        "url": "https://t.co/Q5wiGuq4W4",
+        "username": "Wesley10032",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖🖥 大一计算机 /  🍰1989.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🏳‍⚧🏳️‍🌈  无性别or跨女同 / 🦋 INFP-A  /   Ⓐ☭ 无政府共产主义   /   🪨登越无人见闻顶，重置五岳三山名",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mfuns.net/member/4328",
+                "end": 23,
+                "expanded_url": "https://mfuns.net/member/4328",
+                "start": 0,
+                "url": "https://t.co/o4J1P8mtmq"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "is_identity_verified": false,
+        "location": "https://github.com/bghtnya",
+        "most_recent_tweet_id": "2093982330373460127",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "2056035833543815506",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1512976991976402949/1688735742",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055187971880759296/_-CqoRg3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10819,
+          "following_count": 2332,
+          "like_count": 183574,
+          "listed_count": 20,
+          "media_count": 4143,
+          "tweet_count": 50299
+        },
+        "url": "https://t.co/o4J1P8mtmq",
+        "username": "bghtnya",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880979169297022976",
+    "conversation_id": "2095168526445433233",
+    "created_at": "2026-09-02T15:22:15.000Z",
+    "display_text_range": [
+      9,
+      25
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T16:22:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095170445188448514"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2057831680308920320",
+          "start": 0,
+          "username": "Wrin520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095170445188448514",
+    "in_reply_to_user_id": "2057831680308920320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095168526445433233",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Wrin520 感觉还是大魔王好吃\n卫龙的怪怪的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2095168501988335616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HROIpuGaIAAqsVY.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880979169297022976",
+        "conversation_id": "2095168526445433233",
+        "created_at": "2026-09-02T15:22:15.000Z",
+        "display_text_range": [
+          9,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T16:22:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095170445188448514"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2057831680308920320",
+              "start": 0,
+              "username": "Wrin520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095170445188448514",
+        "in_reply_to_user_id": "2057831680308920320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095168526445433233",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wrin520 感觉还是大魔王好吃\n卫龙的怪怪的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095168501988335616"
+          ]
+        },
+        "author_id": "2057831680308920320",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2095168526445433233",
+        "created_at": "2026-09-02T15:14:37.000Z",
+        "display_text_range": [
+          0,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T16:14:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095168526445433233"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/O7qrLRkShM",
+              "end": 40,
+              "expanded_url": "https://x.com/Wrin520/status/2095168526445433233/photo/1",
+              "media_key": "3_2095168501988335616",
+              "start": 17,
+              "url": "https://t.co/O7qrLRkShM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095168526445433233",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2095168501988335616"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "麻酱魔芋爽真的很好吃有没有懂的😋 https://t.co/O7qrLRkShM"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳/♂/08.11.3/友跨🏳️‍⚧️\n政治立场未知/聊天请走下方TG链接\n魔裁(まのさば)/CS2/三角洲/Galgame/IT \n好基友@lockloveovo\n学生党 周末/节假日在线\nCN/EN/JP\n第二账号暂不公开",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 74,
+                "username": "lockloveovo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://telegram.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/Q5wiGuq4W4"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "is_identity_verified": true,
+        "location": "People's Republic of China",
+        "most_recent_tweet_id": "2095170445188448514",
+        "name": "Wesley",
+        "pinned_tweet_id": "2083033063257420070",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1880979169297022976/1785740152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1532,
+          "following_count": 1766,
+          "like_count": 22484,
+          "listed_count": 3,
+          "media_count": 483,
+          "tweet_count": 3560
+        },
+        "url": "https://t.co/Q5wiGuq4W4",
+        "username": "Wesley10032",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-22T14:31:45.000Z",
+        "description": "简介不知道写什么喵\n我是Wrin\n纯日常帖 希望得到关心谢谢喵\n第二人格@xiangcai_nya\n临时(?)代理：@OvO332233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 36,
+                "username": "xiangcai_nya"
+              },
+              {
+                "end": 68,
+                "start": 58,
+                "username": "OvO332233"
+              }
+            ]
+          }
+        },
+        "id": "2057831680308920320",
+        "is_identity_verified": false,
+        "location": "黑塔空间站",
+        "most_recent_tweet_id": "2095170421092188471",
+        "name": "Wrin🍥✝️❤️🔞🚾0️⃣🩸💊💣",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2057831680308920320/1781621617",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074642025744662528/Fk9dt44z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 401,
+          "following_count": 374,
+          "like_count": 380,
+          "listed_count": 1,
+          "media_count": 24,
+          "tweet_count": 782
+        },
+        "url": "",
+        "username": "Wrin520",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

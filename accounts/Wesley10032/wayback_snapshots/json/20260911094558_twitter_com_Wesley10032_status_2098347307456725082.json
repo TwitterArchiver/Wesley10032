@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880979169297022976",
+    "conversation_id": "2098343497325768947",
+    "created_at": "2026-09-11T09:45:58.000Z",
+    "display_text_range": [
+      13,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T10:45:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098347307456725082"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1892143528140267520",
+          "start": 0,
+          "username": "0xfufu_d667"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098347307456725082",
+    "in_reply_to_user_id": "1892143528140267520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098343497325768947",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0xfufu_d667 还有伪满首都"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880979169297022976",
+        "conversation_id": "2098343497325768947",
+        "created_at": "2026-09-11T09:45:58.000Z",
+        "display_text_range": [
+          13,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T10:45:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098347307456725082"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1892143528140267520",
+              "start": 0,
+              "username": "0xfufu_d667"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098347307456725082",
+        "in_reply_to_user_id": "1892143528140267520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098343497325768947",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0xfufu_d667 还有伪满首都"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892143528140267520",
+        "conversation_id": "2098343497325768947",
+        "created_at": "2026-09-11T09:30:49.000Z",
+        "display_text_range": [
+          0,
+          73
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T10:30:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098343497325768947"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2098343497325768947",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 46,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "进入一家茶室，跟老板唠嗑，老板问我从中国的哪来，我讲“长春”，他说不太知道。\n\n想了一会该怎么说，突发奇想，说了“shinkyo”\n\n老板恍然大悟"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "description": "中国人🇨🇳/♂/08.11.3/轻度抑郁?\n政治立场未知/聊天请走下方TG链接\n魔裁(まのさば)/CS2/三角洲/Galgame/IT \n好基友@lockloveovo\n高三党/广东中山在居\nCN/EN/JP\n里推@Wesley10033\nBluesky备用号:@wesley10032.bsky.social",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 72,
+                "username": "lockloveovo"
+              },
+              {
+                "end": 119,
+                "start": 107,
+                "username": "Wesley10033"
+              },
+              {
+                "end": 143,
+                "start": 131,
+                "username": "wesley10032"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://t.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/HjVzyPDIuK"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "is_identity_verified": true,
+        "location": "中华人民共和国 / P.R.C.",
+        "most_recent_tweet_id": "2098347307456725082",
+        "name": "Wesley",
+        "pinned_tweet_id": "2083033063257420070",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1880979169297022976/1785740152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1664,
+          "following_count": 1882,
+          "like_count": 27951,
+          "listed_count": 2,
+          "media_count": 541,
+          "tweet_count": 4143
+        },
+        "url": "https://t.co/HjVzyPDIuK",
+        "username": "Wesley10032",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-02-19T09:25:57.000Z",
+        "description": "我爱fufu！\n分享23岁的退休生活\n长住酒店的酒店爱好者\n全职交易员\n只会hello world的cs本\n舒适旅行专家\n电子硬件发烧友",
+        "id": "1892143528140267520",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2098344204024099158",
+        "name": "0xfufu",
+        "pinned_tweet_id": "2079100574663061937",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1892143528140267520/1782207516",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892143640912543744/-Fx-HI81_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1925,
+          "following_count": 777,
+          "like_count": 12811,
+          "listed_count": 3,
+          "media_count": 396,
+          "tweet_count": 5069
+        },
+        "url": "",
+        "username": "0xfufu_d667",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

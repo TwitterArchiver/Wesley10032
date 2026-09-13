@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880979169297022976",
+    "conversation_id": "2093531657387274693",
+    "created_at": "2026-08-30T00:00:12.000Z",
+    "display_text_range": [
+      15,
+      26
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-30T01:00:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093851241831116815"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1899581313180737536",
+          "start": 0,
+          "username": "song_ben67881"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093851241831116815",
+    "in_reply_to_user_id": "1899581313180737536",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093531657387274693",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@song_ben67881 おめでとう御座います🥳"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880979169297022976",
+        "conversation_id": "2093531657387274693",
+        "created_at": "2026-08-30T00:00:12.000Z",
+        "display_text_range": [
+          15,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T01:00:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093851241831116815"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1899581313180737536",
+              "start": 0,
+              "username": "song_ben67881"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093851241831116815",
+        "in_reply_to_user_id": "1899581313180737536",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093531657387274693",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@song_ben67881 おめでとう御座います🥳"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1899581313180737536",
+        "conversation_id": "2093531657387274693",
+        "created_at": "2026-08-29T02:50:17.000Z",
+        "display_text_range": [
+          0,
+          52
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T03:50:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093531657387274693"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2093531657387274693",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 91,
+          "impression_count": 393955,
+          "like_count": 12412,
+          "quote_count": 31,
+          "reply_count": 405,
+          "retweet_count": 62
+        },
+        "reply_settings": "everyone",
+        "text": "高校受かったぞおおおおおおおおおおおおおおおおおおおお！！！！！！！！！！！！！！！！！！！！！！！！！"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳/♂/08.11.3/友跨🏳️‍⚧️\n政治立场未知/聊天请走下方TG链接\n魔裁(まのさば)/CS2/三角洲/Galgame/IT \n好基友@lockloveovo\n学生党 周末/节假日在线\nCN/EN/JP\n防失联@Wesley10033",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 74,
+                "username": "lockloveovo"
+              },
+              {
+                "end": 124,
+                "start": 112,
+                "username": "Wesley10033"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://telegram.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/Q5wiGuq4W4"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "is_identity_verified": true,
+        "location": "People's Republic of China",
+        "most_recent_tweet_id": "2093851241831116815",
+        "name": "Wesley",
+        "pinned_tweet_id": "2083033063257420070",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1880979169297022976/1785740152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1487,
+          "following_count": 1744,
+          "like_count": 20801,
+          "listed_count": 3,
+          "media_count": 463,
+          "tweet_count": 3399
+        },
+        "url": "https://t.co/Q5wiGuq4W4",
+        "username": "Wesley10032",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-03-11T22:01:05.000Z",
+        "description": "急にフォローする時あるからよろしくね！\n推し様→三枝りん(🦖🎀)様、ぐさお様！\n自認バケモンです\n\n鍵垢→@Maegami_029\nメン限鍵垢→@Oniku_Catlog\n\n鍵は基本的に全員通します！\nメン限鍵は🦖🎀様のメンバーの方のみ通します！\n\n相方(的な何かの人)→@_iomizu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 53,
+                "username": "Maegami_029"
+              },
+              {
+                "end": 85,
+                "start": 72,
+                "username": "Oniku_Catlog"
+              },
+              {
+                "end": 144,
+                "start": 136,
+                "username": "_iomizu"
+              }
+            ]
+          }
+        },
+        "id": "1899581313180737536",
+        "is_identity_verified": false,
+        "location": "#ファミりんと繋がりたい",
+        "most_recent_tweet_id": "2093850784937214257",
+        "name": "おにく🦖🎀",
+        "pinned_tweet_id": "2081010576227180633",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1899581313180737536/1782475547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075131239460433920/WczOVJ6b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 392,
+          "following_count": 519,
+          "like_count": 16069,
+          "listed_count": 0,
+          "media_count": 416,
+          "tweet_count": 8724
+        },
+        "url": "",
+        "username": "song_ben67881",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

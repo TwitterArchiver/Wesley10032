@@ -1,0 +1,508 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2095145386092666880"
+      ]
+    },
+    "author_id": "1880979169297022976",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026889703",
+          "name": "BlackBerry"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "10040709779",
+          "name": "BlackBerry - Passport"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cell phones",
+          "id": "848920700073123840",
+          "name": "Cell Phones"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Mobile",
+          "id": "848985956778561538",
+          "name": "Mobile"
+        }
+      }
+    ],
+    "conversation_id": "2095129188219130131",
+    "created_at": "2026-09-02T13:42:43.000Z",
+    "display_text_range": [
+      15,
+      41
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T14:42:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095145399099220106"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2081701918590791680",
+          "start": 0,
+          "username": "tonysaying959"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/QM4OHAllhP",
+          "end": 65,
+          "expanded_url": "https://x.com/Wesley10032/status/2095145399099220106/photo/1",
+          "media_key": "3_2095145386092666880",
+          "start": 42,
+          "url": "https://t.co/QM4OHAllhP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095145399099220106",
+    "in_reply_to_user_id": "2081701918590791680",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2095145386092666880"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095129188219130131",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tonysaying959 你是否正在找：BlackBerry Passport https://t.co/QM4OHAllhP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 480,
+        "media_key": "3_2095145386092666880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRNzoMraIAA9zdb.jpg",
+        "width": 640
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2095129164047323136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRNk382aEAA7g3L.jpg",
+        "width": 3072
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2095129176051433472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRNk4pkaQAAdTrD.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095145386092666880"
+          ]
+        },
+        "author_id": "1880979169297022976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026889703",
+              "name": "BlackBerry"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10040709779",
+              "name": "BlackBerry - Passport"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cell phones",
+              "id": "848920700073123840",
+              "name": "Cell Phones"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          }
+        ],
+        "conversation_id": "2095129188219130131",
+        "created_at": "2026-09-02T13:42:43.000Z",
+        "display_text_range": [
+          15,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T14:42:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095145399099220106"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2081701918590791680",
+              "start": 0,
+              "username": "tonysaying959"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QM4OHAllhP",
+              "end": 65,
+              "expanded_url": "https://x.com/Wesley10032/status/2095145399099220106/photo/1",
+              "media_key": "3_2095145386092666880",
+              "start": 42,
+              "url": "https://t.co/QM4OHAllhP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095145399099220106",
+        "in_reply_to_user_id": "2081701918590791680",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2095145386092666880"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095129188219130131",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tonysaying959 你是否正在找：BlackBerry Passport https://t.co/QM4OHAllhP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095129164047323136",
+            "3_2095129176051433472"
+          ]
+        },
+        "author_id": "2081701918590791680",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2095129188219130131",
+        "created_at": "2026-09-02T12:38:18.000Z",
+        "display_text_range": [
+          0,
+          47
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T13:38:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095129188219130131"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/luw2MegWSg",
+              "end": 71,
+              "expanded_url": "https://x.com/tonysaying959/status/2095129188219130131/photo/1",
+              "media_key": "3_2095129164047323136",
+              "start": 48,
+              "url": "https://t.co/luw2MegWSg"
+            },
+            {
+              "display_url": "pic.x.com/luw2MegWSg",
+              "end": 71,
+              "expanded_url": "https://x.com/tonysaying959/status/2095129188219130131/photo/1",
+              "media_key": "3_2095129176051433472",
+              "start": 48,
+              "url": "https://t.co/luw2MegWSg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095129188219130131",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2095129164047323136"
+          },
+          {
+            "media_key": "3_2095129176051433472"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 141,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这种宽屏直板手机真不错啊👍\n我喜欢这种屏幕的大小\n比竖屏的看起来更舒服\n我现在看竖屏眼睛都疼😭 https://t.co/luw2MegWSg"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳/♂/08.11.3/友跨🏳️‍⚧️\n政治立场未知/聊天请走下方TG链接\n魔裁(まのさば)/CS2/三角洲/Galgame/IT \n好基友@lockloveovo\n学生党 周末/节假日在线\nCN/EN/JP\n第二账号暂不公开",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 74,
+                "username": "lockloveovo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://telegram.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/Q5wiGuq4W4"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "is_identity_verified": true,
+        "location": "People's Republic of China",
+        "most_recent_tweet_id": "2095145399099220106",
+        "name": "Wesley",
+        "pinned_tweet_id": "2083033063257420070",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1880979169297022976/1785740152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1531,
+          "following_count": 1765,
+          "like_count": 22361,
+          "listed_count": 3,
+          "media_count": 481,
+          "tweet_count": 3550
+        },
+        "url": "https://t.co/Q5wiGuq4W4",
+        "username": "Wesley10032",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-27T11:24:26.000Z",
+        "description": "stay focus｜stay pureness｜超敏人｜感官超载｜讨好型人格｜回避型人格｜主交感神经过载｜洁癖｜风向星座｜主体性差｜皮质醇高｜ENFJ｜意识流",
+        "id": "2081701918590791680",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095139141571002555",
+        "name": "Tony's Take",
+        "pinned_tweet_id": "2089735985521361389",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2081701918590791680/1785151608",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081702618754322432/nkRK-fGk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5886,
+          "following_count": 6160,
+          "like_count": 9759,
+          "listed_count": 4,
+          "media_count": 830,
+          "tweet_count": 9063
+        },
+        "url": "",
+        "username": "tonysaying959",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

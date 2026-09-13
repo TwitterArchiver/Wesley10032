@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880979169297022976",
+    "conversation_id": "2096502124775706703",
+    "created_at": "2026-09-06T10:13:22.000Z",
+    "display_text_range": [
+      15,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T11:13:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096542265921679400"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1919013205214638080",
+          "start": 0,
+          "username": "tang_sakazaki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096542265921679400",
+    "in_reply_to_user_id": "1919013205214638080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096513343792337058",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@tang_sakazaki 站着说话不腰疼"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 654,
+        "media_key": "3_2096513333310689280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRhPxNLakAAliJa.png",
+        "width": 639
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880979169297022976",
+        "conversation_id": "2096502124775706703",
+        "created_at": "2026-09-06T10:13:22.000Z",
+        "display_text_range": [
+          15,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T11:13:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096542265921679400"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1919013205214638080",
+              "start": 0,
+              "username": "tang_sakazaki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096542265921679400",
+        "in_reply_to_user_id": "1919013205214638080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096513343792337058",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@tang_sakazaki 站着说话不腰疼"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096513333310689280"
+          ]
+        },
+        "author_id": "1919013205214638080",
+        "conversation_id": "2096502124775706703",
+        "created_at": "2026-09-06T08:18:27.000Z",
+        "display_text_range": [
+          13,
+          58
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T09:18:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096513343792337058"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1880979169297022976",
+              "start": 0,
+              "username": "Wesley10032"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mZ0Hl7r0e3",
+              "end": 82,
+              "expanded_url": "https://x.com/tang_sakazaki/status/2096513343792337058/photo/1",
+              "media_key": "3_2096513333310689280",
+              "start": 59,
+              "url": "https://t.co/mZ0Hl7r0e3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096513343792337058",
+        "in_reply_to_user_id": "1880979169297022976",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096513333310689280"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 50,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096502124775706703",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@Wesley10032 我上次这么说的时候 他们和我说 职高的生活一样丰富多彩啊之类的 说什么哪里出路就多了（笑） https://t.co/mZ0Hl7r0e3"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "description": "中国人🇨🇳/♂/08.11.3\n政治立场未知/聊天请走下方TG链接\n魔裁(まのさば)/CS2/三角洲/Galgame/IT \n好基友@lockloveovo\n高三党/广东中山在居\nCN/EN/JP\n里推@Wesley10033",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 66,
+                "username": "lockloveovo"
+              },
+              {
+                "end": 113,
+                "start": 101,
+                "username": "Wesley10033"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://t.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/HjVzyPDIuK"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "is_identity_verified": true,
+        "location": "中华人民共和国 / P.R.C.",
+        "most_recent_tweet_id": "2096542265921679400",
+        "name": "Wesley",
+        "pinned_tweet_id": "2083033063257420070",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1880979169297022976/1785740152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1581,
+          "following_count": 1820,
+          "like_count": 24813,
+          "listed_count": 2,
+          "media_count": 506,
+          "tweet_count": 3786
+        },
+        "url": "https://t.co/HjVzyPDIuK",
+        "username": "Wesley10032",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-05-04T12:56:25.000Z",
+        "description": "男の子　16歳です　　日本のアニメ大好き　中国の高校生です　　友達と彼女がどっちでも欲しい(笑)\n右翼自由主义\nサブ垢: @jiaqitang1022",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 61,
+                "username": "jiaqitang1022"
+              }
+            ]
+          }
+        },
+        "id": "1919013205214638080",
+        "is_identity_verified": false,
+        "location": "Shinagawa-ku, Tokyo",
+        "most_recent_tweet_id": "2096513343792337058",
+        "name": "Sakazaki",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1919013205214638080/1787053867",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084503142608363520/MiUpoF_r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 78,
+          "like_count": 374,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 299
+        },
+        "url": "",
+        "username": "tang_sakazaki",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

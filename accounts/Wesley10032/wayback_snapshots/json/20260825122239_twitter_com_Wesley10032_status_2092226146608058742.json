@@ -1,0 +1,340 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2092044622969401344"
+      ],
+      "media_source_tweet_id": [
+        "2092046800631083254"
+      ]
+    },
+    "author_id": "1880979169297022976",
+    "conversation_id": "2092226146608058742",
+    "created_at": "2026-08-25T12:22:39.000Z",
+    "display_text_range": [
+      0,
+      130
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T13:22:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092226146608058742"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2016246570312990720",
+          "start": 3,
+          "username": "YuChenawa"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GyWbzb2N8h",
+          "end": 130,
+          "expanded_url": "https://x.com/YuChenawa/status/2092046800631083254/photo/1",
+          "media_key": "16_2092044622969401344",
+          "start": 107,
+          "url": "https://t.co/GyWbzb2N8h"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092226146608058742",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "16_2092044622969401344"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092046800631083254",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @YuChenawa: Use your smile to change the world. \nDon't let the world change your smile.\n早安安呐各位，美好的一天开始了 https://t.co/GyWbzb2N8h"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 506,
+        "media_key": "16_2092044622969401344",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HQhvgB5bcAAOTt6.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HQhvgB5bcAAOTt6.mp4"
+          }
+        ],
+        "width": 512
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2092044622969401344"
+          ],
+          "media_source_tweet_id": [
+            "2092046800631083254"
+          ]
+        },
+        "author_id": "1880979169297022976",
+        "conversation_id": "2092226146608058742",
+        "created_at": "2026-08-25T12:22:39.000Z",
+        "display_text_range": [
+          0,
+          130
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T13:22:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092226146608058742"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2016246570312990720",
+              "start": 3,
+              "username": "YuChenawa"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GyWbzb2N8h",
+              "end": 130,
+              "expanded_url": "https://x.com/YuChenawa/status/2092046800631083254/photo/1",
+              "media_key": "16_2092044622969401344",
+              "start": 107,
+              "url": "https://t.co/GyWbzb2N8h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092226146608058742",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "16_2092044622969401344"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092046800631083254",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @YuChenawa: Use your smile to change the world. \nDon't let the world change your smile.\n早安安呐各位，美好的一天开始了 https://t.co/GyWbzb2N8h"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2092044622969401344"
+          ]
+        },
+        "author_id": "2016246570312990720",
+        "conversation_id": "2092046800631083254",
+        "created_at": "2026-08-25T00:30:00.000Z",
+        "display_text_range": [
+          0,
+          91
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T01:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092046800631083254"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GyWbzb2N8h",
+              "end": 115,
+              "expanded_url": "https://x.com/YuChenawa/status/2092046800631083254/photo/1",
+              "media_key": "16_2092044622969401344",
+              "start": 92,
+              "url": "https://t.co/GyWbzb2N8h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092046800631083254",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "16_2092044622969401344"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 708,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Use your smile to change the world. \nDon't let the world change your smile.\n早安安呐各位，美好的一天开始了 https://t.co/GyWbzb2N8h"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳/♂/08.11.3/友跨🏳️‍⚧️\n政治立场未知/聊天请走下方TG链接\n魔裁(まのさば)/CS2/三角洲/Galgame/IT \n好基友@lockloveovo\n学生党 周末/节假日在线\nCN/EN/JP\n防失联@Wesley10033",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 74,
+                "username": "lockloveovo"
+              },
+              {
+                "end": 124,
+                "start": 112,
+                "username": "Wesley10033"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://telegram.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/Q5wiGuq4W4"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "is_identity_verified": false,
+        "location": "People's Republic of China",
+        "most_recent_tweet_id": "2092226146608058742",
+        "name": "Wesley",
+        "pinned_tweet_id": "2083033063257420070",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1880979169297022976/1785740152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1402,
+          "following_count": 1678,
+          "like_count": 18922,
+          "listed_count": 3,
+          "media_count": 443,
+          "tweet_count": 3191
+        },
+        "url": "https://t.co/Q5wiGuq4W4",
+        "username": "Wesley10032",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-01-27T20:27:15.000Z",
+        "description": "这里的每一种颜色，都有属于你勇敢做自己的身影",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yuchen86833",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yuchen86833",
+                "start": 0,
+                "url": "https://t.co/vconkxHXnn"
+              }
+            ]
+          }
+        },
+        "id": "2016246570312990720",
+        "is_identity_verified": false,
+        "location": "天堂✝️",
+        "most_recent_tweet_id": "2092049411023245657",
+        "name": "𝒴𝓊𝒸𝒽ℯ𝓃",
+        "pinned_tweet_id": "2060749702883332402",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2016246570312990720/1769808210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017348660867305473/hJCnFu9n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 613,
+          "following_count": 556,
+          "like_count": 6075,
+          "listed_count": 3,
+          "media_count": 125,
+          "tweet_count": 1654
+        },
+        "url": "https://t.co/vconkxHXnn",
+        "username": "YuChenawa",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

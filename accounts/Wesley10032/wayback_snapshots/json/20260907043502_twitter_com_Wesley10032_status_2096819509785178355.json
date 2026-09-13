@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880979169297022976",
+    "conversation_id": "2096596744784195956",
+    "created_at": "2026-09-07T04:35:02.000Z",
+    "display_text_range": [
+      12,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T05:35:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096819509785178355"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2045513838850641921",
+          "start": 0,
+          "username": "inline_int"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096819509785178355",
+    "in_reply_to_user_id": "2045513838850641921",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096596744784195956",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@inline_int 就喜欢铁道和公交喵😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880979169297022976",
+        "conversation_id": "2096596744784195956",
+        "created_at": "2026-09-07T04:35:02.000Z",
+        "display_text_range": [
+          12,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T05:35:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096819509785178355"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2045513838850641921",
+              "start": 0,
+              "username": "inline_int"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096819509785178355",
+        "in_reply_to_user_id": "2045513838850641921",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096596744784195956",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@inline_int 就喜欢铁道和公交喵😋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "2096596742615740417"
+          ]
+        },
+        "author_id": "2045513838850641921",
+        "conversation_id": "2096596744784195956",
+        "created_at": "2026-09-06T13:49:51.000Z",
+        "display_text_range": [
+          0,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T14:49:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096596744784195956"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2096596744784195956",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 334,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们最喜欢的交通工具是"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "description": "中国人🇨🇳/♂/08.11.3\n政治立场未知/聊天请走下方TG链接\n魔裁(まのさば)/CS2/三角洲/Galgame/IT \n好基友@lockloveovo\n高三党/广东中山在居\nCN/EN/JP\n里推@Wesley10033",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 66,
+                "username": "lockloveovo"
+              },
+              {
+                "end": 113,
+                "start": 101,
+                "username": "Wesley10033"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://t.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/HjVzyPDIuK"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "is_identity_verified": true,
+        "location": "中华人民共和国 / P.R.C.",
+        "most_recent_tweet_id": "2096819509785178355",
+        "name": "Wesley",
+        "pinned_tweet_id": "2083033063257420070",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1880979169297022976/1785740152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1594,
+          "following_count": 1828,
+          "like_count": 25238,
+          "listed_count": 2,
+          "media_count": 511,
+          "tweet_count": 3843
+        },
+        "url": "https://t.co/HjVzyPDIuK",
+        "username": "Wesley10032",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-18T14:47:16.000Z",
+        "description": "恭喜你发现了宝藏（并非）｜开发者｜发发日常和梗图｜推文仅供娱乐，真假自辩｜互fo请DM｜Sic itur ad astra\n\ntg群: https://t.co/kPoeRnaiQW\nmail: intqwq@intqwq.com",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+Y5MFkw6bV5diY…",
+                "end": 91,
+                "expanded_url": "https://t.me/+Y5MFkw6bV5diYTk9",
+                "start": 68,
+                "url": "https://t.co/kPoeRnaiQW"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "intqwq.com",
+                "end": 23,
+                "expanded_url": "https://intqwq.com",
+                "start": 0,
+                "url": "https://t.co/xVU9kQHo8o"
+              }
+            ]
+          }
+        },
+        "id": "2045513838850641921",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2096810372921762106",
+        "name": "int喵喵喵",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2045513838850641921/1786868048",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095807561278857216/tbEp3e78_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1836,
+          "following_count": 689,
+          "like_count": 3423,
+          "listed_count": 5,
+          "media_count": 475,
+          "tweet_count": 1357
+        },
+        "url": "https://t.co/xVU9kQHo8o",
+        "username": "inline_int",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

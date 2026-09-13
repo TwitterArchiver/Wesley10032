@@ -1,0 +1,344 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2091168838587142144"
+      ]
+    },
+    "author_id": "1880979169297022976",
+    "conversation_id": "2091168910242619844",
+    "created_at": "2026-08-22T14:21:34.000Z",
+    "display_text_range": [
+      0,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T15:21:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2091168910242619844"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/XYo10qQgML",
+          "end": 38,
+          "expanded_url": "https://x.com/Wesley10032/status/2091168910242619844/photo/1",
+          "media_key": "3_2091168838587142144",
+          "start": 15,
+          "url": "https://t.co/XYo10qQgML"
+        },
+        {
+          "display_url": "x.com/bigjusir/statu…",
+          "end": 62,
+          "expanded_url": "https://twitter.com/bigjusir/status/2091050235703292154",
+          "start": 39,
+          "url": "https://t.co/6TQj6KMXiL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091168910242619844",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2091168838587142144"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091050235703292154",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "叫 GPT 生成的\n我没绷住 https://t.co/XYo10qQgML https://t.co/6TQj6KMXiL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1254,
+        "media_key": "3_2091168838587142144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQVS-q1aUAA20DQ.jpg",
+        "width": 1254
+      },
+      {
+        "height": 1440,
+        "media_key": "3_2091020778359889920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQTMUbgaIAA1bSF.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091168838587142144"
+          ]
+        },
+        "author_id": "1880979169297022976",
+        "conversation_id": "2091168910242619844",
+        "created_at": "2026-08-22T14:21:34.000Z",
+        "display_text_range": [
+          0,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T15:21:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091168910242619844"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XYo10qQgML",
+              "end": 38,
+              "expanded_url": "https://x.com/Wesley10032/status/2091168910242619844/photo/1",
+              "media_key": "3_2091168838587142144",
+              "start": 15,
+              "url": "https://t.co/XYo10qQgML"
+            },
+            {
+              "display_url": "x.com/bigjusir/statu…",
+              "end": 62,
+              "expanded_url": "https://twitter.com/bigjusir/status/2091050235703292154",
+              "start": 39,
+              "url": "https://t.co/6TQj6KMXiL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091168910242619844",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2091168838587142144"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091050235703292154",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "叫 GPT 生成的\n我没绷住 https://t.co/XYo10qQgML https://t.co/6TQj6KMXiL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091020778359889920"
+          ]
+        },
+        "author_id": "2026283442259017729",
+        "conversation_id": "2091050235703292154",
+        "created_at": "2026-08-22T06:30:00.000Z",
+        "display_text_range": [
+          0,
+          9
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T07:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091050235703292154"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iVkGUfm1TH",
+              "end": 33,
+              "expanded_url": "https://x.com/bigjusir/status/2091050235703292154/photo/1",
+              "media_key": "3_2091020778359889920",
+              "start": 10,
+              "url": "https://t.co/iVkGUfm1TH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091050235703292154",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2091020778359889920"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 9188,
+          "like_count": 211,
+          "quote_count": 3,
+          "reply_count": 16,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "请选择您的英雄…… https://t.co/iVkGUfm1TH"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳/♂/08.11.3/友跨🏳️‍⚧️\n政治立场未知/聊天请走下方TG链接\n魔裁(まのさば)/CS2/三角洲/Galgame/IT \n好基友@lockloveovo\n学生党 周末/节假日在线\nCN/EN/JP\n防失联@Wesley10033",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 74,
+                "username": "lockloveovo"
+              },
+              {
+                "end": 124,
+                "start": 112,
+                "username": "Wesley10033"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://telegram.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/Q5wiGuq4W4"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "is_identity_verified": false,
+        "location": "People's Republic of China",
+        "most_recent_tweet_id": "2091168910242619844",
+        "name": "Wesley",
+        "pinned_tweet_id": "2083033063257420070",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1880979169297022976/1785740152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1303,
+          "following_count": 1598,
+          "like_count": 18006,
+          "listed_count": 1,
+          "media_count": 435,
+          "tweet_count": 3060
+        },
+        "url": "https://t.co/Q5wiGuq4W4",
+        "username": "Wesley10032",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-02-24T13:10:10.000Z",
+        "description": "中国人(求关，私信互fo)\n\n大号@bigjusir\n二号机@littlejusir\n三号机@jusirlieyan\n\n自制AI图转载请勿去除水印",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 17,
+                "username": "bigjusir"
+              },
+              {
+                "end": 42,
+                "start": 30,
+                "username": "littlejusir"
+              },
+              {
+                "end": 58,
+                "start": 46,
+                "username": "jusirlieyan"
+              }
+            ]
+          }
+        },
+        "id": "2026283442259017729",
+        "is_identity_verified": true,
+        "location": "中华人民共和国",
+        "most_recent_tweet_id": "2091163938834788742",
+        "name": "jusir",
+        "pinned_tweet_id": "2087100350092181848",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2026283442259017729/1783157974",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026287531831259136/bziZOz9V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4541,
+          "following_count": 3686,
+          "like_count": 8205,
+          "listed_count": 11,
+          "media_count": 1005,
+          "tweet_count": 4266
+        },
+        "url": "",
+        "username": "bigjusir",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

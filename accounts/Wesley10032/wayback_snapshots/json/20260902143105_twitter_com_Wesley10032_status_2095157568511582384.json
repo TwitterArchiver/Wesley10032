@@ -1,0 +1,451 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880979169297022976",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Political issues",
+          "id": "900740740468191232",
+          "name": "Political issues"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Conversation related to Foreign Relation in Japan 日本の外交に関する会話",
+          "id": "1144330382864556032",
+          "name": "Japanese Foreign Relation "
+        }
+      },
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Tokyo",
+          "id": "855095546553393152",
+          "name": "Tokyo"
+        }
+      }
+    ],
+    "conversation_id": "2095157568511582384",
+    "created_at": "2026-09-02T14:31:05.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T15:31:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095157568511582384"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "93471126",
+          "start": 3,
+          "username": "usembassytokyo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095157568511582384",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 375
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094983904432169201",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @usembassytokyo: 1945年9月2日、東京湾に停泊中の米戦艦ミズーリ号艦上において、日本が正式に降伏し、第2次世界大戦が公式に終結しました。重光葵外相、梅津美治郎参謀総長、ダグラス・マッカーサー元帥が署名を行ったこの歴史的な瞬間が、現代の日米関係の礎を築い…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1350,
+        "media_key": "3_2094961860298858496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRLMtl0a4AAw0k8.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880979169297022976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political issues",
+              "id": "900740740468191232",
+              "name": "Political issues"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Conversation related to Foreign Relation in Japan 日本の外交に関する会話",
+              "id": "1144330382864556032",
+              "name": "Japanese Foreign Relation "
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Tokyo",
+              "id": "855095546553393152",
+              "name": "Tokyo"
+            }
+          }
+        ],
+        "conversation_id": "2095157568511582384",
+        "created_at": "2026-09-02T14:31:05.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T15:31:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095157568511582384"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "93471126",
+              "start": 3,
+              "username": "usembassytokyo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095157568511582384",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 375
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094983904432169201",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @usembassytokyo: 1945年9月2日、東京湾に停泊中の米戦艦ミズーリ号艦上において、日本が正式に降伏し、第2次世界大戦が公式に終結しました。重光葵外相、梅津美治郎参謀総長、ダグラス・マッカーサー元帥が署名を行ったこの歴史的な瞬間が、現代の日米関係の礎を築い…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094961860298858496"
+          ]
+        },
+        "author_id": "93471126",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political issues",
+              "id": "900740740468191232",
+              "name": "Political issues"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Conversation related to Foreign Relation in Japan 日本の外交に関する会話",
+              "id": "1144330382864556032",
+              "name": "Japanese Foreign Relation "
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Tokyo",
+              "id": "855095546553393152",
+              "name": "Tokyo"
+            }
+          }
+        ],
+        "conversation_id": "2094983904432169201",
+        "created_at": "2026-09-02T03:01:00.000Z",
+        "display_text_range": [
+          0,
+          124
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T04:01:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094983904432169201"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/waYY16XqCY",
+              "end": 148,
+              "expanded_url": "https://x.com/usembassytokyo/status/2094983904432169201/photo/1",
+              "media_key": "3_2094961860298858496",
+              "start": 125,
+              "url": "https://t.co/waYY16XqCY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094983904432169201",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2094961860298858496"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 192,
+          "impression_count": 139813,
+          "like_count": 1703,
+          "quote_count": 135,
+          "reply_count": 167,
+          "retweet_count": 375
+        },
+        "reply_settings": "everyone",
+        "text": "1945年9月2日、東京湾に停泊中の米戦艦ミズーリ号艦上において、日本が正式に降伏し、第2次世界大戦が公式に終結しました。重光葵外相、梅津美治郎参謀総長、ダグラス・マッカーサー元帥が署名を行ったこの歴史的な瞬間が、現代の日米関係の礎を築いたのです。 https://t.co/waYY16XqCY"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳/♂/08.11.3/友跨🏳️‍⚧️\n政治立场未知/聊天请走下方TG链接\n魔裁(まのさば)/CS2/三角洲/Galgame/IT \n好基友@lockloveovo\n学生党 周末/节假日在线\nCN/EN/JP\n第二账号暂不公开",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 74,
+                "username": "lockloveovo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://telegram.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/Q5wiGuq4W4"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "is_identity_verified": true,
+        "location": "People's Republic of China",
+        "most_recent_tweet_id": "2095157568511582384",
+        "name": "Wesley",
+        "pinned_tweet_id": "2083033063257420070",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1880979169297022976/1785740152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1531,
+          "following_count": 1765,
+          "like_count": 22421,
+          "listed_count": 3,
+          "media_count": 482,
+          "tweet_count": 3557
+        },
+        "url": "https://t.co/Q5wiGuq4W4",
+        "username": "Wesley10032",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/2065445010053431296/I2jXbYJL_bigger.jpg",
+          "description": "Department of State",
+          "url": "https://twitter.com/StateDept",
+          "user_id": [
+            "9624742"
+          ]
+        },
+        "created_at": "2009-11-29T20:17:45.000Z",
+        "description": "Official X account for the US Embassy in Tokyo, Japan + press releases. RT & Like ≠endorsement. 在日米国大使館公式ツイッター 。Terms of Use: https://t.co/0xKwC8dqZJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "state.gov/tou",
+                "end": 149,
+                "expanded_url": "http://www.state.gov/tou",
+                "start": 126,
+                "url": "https://t.co/0xKwC8dqZJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "jp.usembassy.gov/ja/",
+                "end": 23,
+                "expanded_url": "https://jp.usembassy.gov/ja/",
+                "start": 0,
+                "url": "https://t.co/lSBp1ccezN"
+              }
+            ]
+          }
+        },
+        "id": "93471126",
+        "is_identity_verified": false,
+        "location": "東京都港区赤坂1-10-5",
+        "most_recent_tweet_id": "2095111745065136600",
+        "name": "アメリカ大使館",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/93471126/1783301464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968895270470746112/anbmFNsk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 180227,
+          "following_count": 339,
+          "like_count": 13395,
+          "listed_count": 2598,
+          "media_count": 574,
+          "tweet_count": 3605
+        },
+        "url": "https://t.co/lSBp1ccezN",
+        "username": "usembassytokyo",
+        "verified": true,
+        "verified_type": "government"
+      }
+    ]
+  }
+}

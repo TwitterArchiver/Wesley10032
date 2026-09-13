@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880979169297022976",
+    "conversation_id": "2092974074721165671",
+    "created_at": "2026-08-28T09:45:44.000Z",
+    "display_text_range": [
+      17,
+      24
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-28T10:45:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093273818894852190"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1885557129588948992",
+          "start": 0,
+          "username": "85240609891_1st"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093273818894852190",
+    "in_reply_to_user_id": "1885557129588948992",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093250914186359273",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@85240609891_1st 也不是不行（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880979169297022976",
+        "conversation_id": "2092974074721165671",
+        "created_at": "2026-08-28T09:45:44.000Z",
+        "display_text_range": [
+          17,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T10:45:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093273818894852190"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1885557129588948992",
+              "start": 0,
+              "username": "85240609891_1st"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093273818894852190",
+        "in_reply_to_user_id": "1885557129588948992",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093250914186359273",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@85240609891_1st 也不是不行（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1885557129588948992",
+        "conversation_id": "2092974074721165671",
+        "created_at": "2026-08-28T08:14:43.000Z",
+        "display_text_range": [
+          13,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T09:14:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093250914186359273"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1880979169297022976",
+              "start": 0,
+              "username": "Wesley10032"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093250914186359273",
+        "in_reply_to_user_id": "1880979169297022976",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092974074721165671",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wesley10032 那我儅中介 在深圳河接應？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳/♂/08.11.3/友跨🏳️‍⚧️\n政治立场未知/聊天请走下方TG链接\n魔裁(まのさば)/CS2/三角洲/Galgame/IT \n好基友@lockloveovo\n学生党 周末/节假日在线\nCN/EN/JP\n防失联@Wesley10033",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 74,
+                "username": "lockloveovo"
+              },
+              {
+                "end": 124,
+                "start": 112,
+                "username": "Wesley10033"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://telegram.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/Q5wiGuq4W4"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "is_identity_verified": false,
+        "location": "People's Republic of China",
+        "most_recent_tweet_id": "2093273818894852190",
+        "name": "Wesley",
+        "pinned_tweet_id": "2083033063257420070",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1880979169297022976/1785740152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1429,
+          "following_count": 1681,
+          "like_count": 19496,
+          "listed_count": 3,
+          "media_count": 450,
+          "tweet_count": 3265
+        },
+        "url": "https://t.co/Q5wiGuq4W4",
+        "username": "Wesley10032",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-02-01T05:14:52.000Z",
+        "description": "北極戰警\n最喜歡AWP\n14年經歷的絕對武力玩家\n反應速度→KennyS 120ms\n反對威權主義\nHK仔\n🇮🇷🇺🇦🇺🇸🇨🇦🇦🇺🇳🇿🇬🇧🇯🇵🇰🇷🇹🇼🇪🇺🇮🇱🇭🇰🎗️\n祈求民主與自由萬世都不朽\n一位邏輯學者\nSocial Liberalism\n粉紅支黑請繞行 PLS",
+        "id": "1885557129588948992",
+        "is_identity_verified": false,
+        "location": " 🇭🇰Hong Kong🇭🇰",
+        "most_recent_tweet_id": "2093272199901696128",
+        "name": "8Arctic9Warfare6Police4 北極戰警.香港據點.主據點",
+        "pinned_tweet_id": "2092620237824733368",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1885557129588948992/1787754530",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092620200805834752/bxkHlSSu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2877,
+          "following_count": 2790,
+          "like_count": 19801,
+          "listed_count": 6,
+          "media_count": 1102,
+          "tweet_count": 5956
+        },
+        "url": "",
+        "username": "85240609891_1st",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

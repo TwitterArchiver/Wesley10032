@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880979169297022976",
+    "conversation_id": "2096792879620636759",
+    "created_at": "2026-09-07T10:16:56.000Z",
+    "display_text_range": [
+      8,
+      27
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T11:16:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096905552207245642"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1844765088722694144",
+          "start": 0,
+          "username": "yb4928"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096905552207245642",
+    "in_reply_to_user_id": "1844765088722694144",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096792879620636759",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yb4928 没用的，感觉是国内相关部门故意纵容的。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2096792867935268864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRlOAQzasAAaUqw.jpg",
+        "width": 943
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2096792867935293440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRlOAQzbEAAeIg5.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880979169297022976",
+        "conversation_id": "2096792879620636759",
+        "created_at": "2026-09-07T10:16:56.000Z",
+        "display_text_range": [
+          8,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T11:16:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096905552207245642"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1844765088722694144",
+              "start": 0,
+              "username": "yb4928"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096905552207245642",
+        "in_reply_to_user_id": "1844765088722694144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096792879620636759",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yb4928 没用的，感觉是国内相关部门故意纵容的。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096792867935268864",
+            "3_2096792867935293440"
+          ]
+        },
+        "author_id": "1844765088722694144",
+        "conversation_id": "2096792879620636759",
+        "created_at": "2026-09-07T02:49:13.000Z",
+        "display_text_range": [
+          0,
+          51
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T03:49:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096792879620636759"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SpRKjHif03",
+              "end": 75,
+              "expanded_url": "https://x.com/yb4928/status/2096792879620636759/photo/1",
+              "media_key": "3_2096792867935268864",
+              "start": 52,
+              "url": "https://t.co/SpRKjHif03"
+            },
+            {
+              "display_url": "pic.x.com/SpRKjHif03",
+              "end": 75,
+              "expanded_url": "https://x.com/yb4928/status/2096792879620636759/photo/1",
+              "media_key": "3_2096792867935293440",
+              "start": 52,
+              "url": "https://t.co/SpRKjHif03"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096792879620636759",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096792867935268864"
+          },
+          {
+            "media_key": "3_2096792867935293440"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2463,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 16,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这种极端群体对立的人群，B站为啥能让他们过审，兄弟们可以帮忙去举报举报，我认为每个群体都是需要被尊重的 https://t.co/SpRKjHif03"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "description": "中国人🇨🇳/♂/08.11.3\n政治立场未知/聊天请走下方TG链接\n魔裁(まのさば)/CS2/三角洲/Galgame/IT \n好基友@lockloveovo\n高三党/广东中山在居\nCN/EN/JP\n里推@Wesley10033",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 66,
+                "username": "lockloveovo"
+              },
+              {
+                "end": 113,
+                "start": 101,
+                "username": "Wesley10033"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://t.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/HjVzyPDIuK"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "is_identity_verified": true,
+        "location": "中华人民共和国 / P.R.C.",
+        "most_recent_tweet_id": "2096905552207245642",
+        "name": "Wesley",
+        "pinned_tweet_id": "2083033063257420070",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1880979169297022976/1785740152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1599,
+          "following_count": 1837,
+          "like_count": 25557,
+          "listed_count": 2,
+          "media_count": 513,
+          "tweet_count": 3873
+        },
+        "url": "https://t.co/HjVzyPDIuK",
+        "username": "Wesley10032",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-10-11T15:40:54.000Z",
+        "description": "双性人一只，在B站直播，过门送福利，🚪槛费58企鹅号2300639479(可加联系方式解锁更多套餐) 需要的直接私信我即可",
+        "id": "1844765088722694144",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096792879620636759",
+        "name": "羊喵娘",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1844765088722694144/1773220597",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031660388593672192/cVUUB4V2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2229,
+          "following_count": 10,
+          "like_count": 108,
+          "listed_count": 7,
+          "media_count": 62,
+          "tweet_count": 70
+        },
+        "url": "",
+        "username": "yb4928",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

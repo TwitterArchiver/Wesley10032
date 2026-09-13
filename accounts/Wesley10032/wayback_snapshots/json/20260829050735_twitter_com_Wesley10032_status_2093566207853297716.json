@@ -1,0 +1,351 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880979169297022976",
+    "conversation_id": "2093545884139299225",
+    "created_at": "2026-08-29T05:07:35.000Z",
+    "display_text_range": [
+      12,
+      26
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-29T06:07:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093566207853297716"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2037575598730584064",
+          "start": 0,
+          "username": "RenChanT_T"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093566207853297716",
+    "in_reply_to_user_id": "2037575598730584064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093545884139299225",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RenChanT_T 这难道不是 Apple 的吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 736,
+        "media_key": "3_2093545877243834368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ3E4h4aMAArl_O.jpg",
+        "width": 559
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880979169297022976",
+        "conversation_id": "2093545884139299225",
+        "created_at": "2026-08-29T05:07:35.000Z",
+        "display_text_range": [
+          12,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T06:07:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093566207853297716"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2037575598730584064",
+              "start": 0,
+              "username": "RenChanT_T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093566207853297716",
+        "in_reply_to_user_id": "2037575598730584064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093545884139299225",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RenChanT_T 这难道不是 Apple 的吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093545877243834368"
+          ]
+        },
+        "author_id": "2037575598730584064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          }
+        ],
+        "conversation_id": "2093545884139299225",
+        "created_at": "2026-08-29T03:46:49.000Z",
+        "display_text_range": [
+          0,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T04:46:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093545884139299225"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NT7afHrNxh",
+              "end": 41,
+              "expanded_url": "https://x.com/RenChanT_T/status/2093545884139299225/photo/1",
+              "media_key": "3_2093545877243834368",
+              "start": 18,
+              "url": "https://t.co/NT7afHrNxh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093545884139299225",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2093545877243834368"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 452,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "华为好呀华为美🌹\n华为给我增智慧🧠 https://t.co/NT7afHrNxh"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳/♂/08.11.3/友跨🏳️‍⚧️\n政治立场未知/聊天请走下方TG链接\n魔裁(まのさば)/CS2/三角洲/Galgame/IT \n好基友@lockloveovo\n学生党 周末/节假日在线\nCN/EN/JP\n防失联@Wesley10033",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 74,
+                "username": "lockloveovo"
+              },
+              {
+                "end": 124,
+                "start": 112,
+                "username": "Wesley10033"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://telegram.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/Q5wiGuq4W4"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "is_identity_verified": true,
+        "location": "People's Republic of China",
+        "most_recent_tweet_id": "2093566207853297716",
+        "name": "Wesley",
+        "pinned_tweet_id": "2083033063257420070",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1880979169297022976/1785740152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1461,
+          "following_count": 1723,
+          "like_count": 20206,
+          "listed_count": 3,
+          "media_count": 457,
+          "tweet_count": 3341
+        },
+        "url": "https://t.co/Q5wiGuq4W4",
+        "username": "Wesley10032",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-27T17:01:04.000Z",
+        "description": "@RenChan_VmV被🐜🐉及奸人迫害致死后的流亡政府\n出厂日期02.21.2012 准初三生／反跨反白左贼你们的老冯怎么在天上飞啊／性自由必须得到保障不对我怎么还是处男／你们口中的键政嘉豪／爱 和平与正义／恐惧无产阶级革命的反动派／从不走极端 对极端分子除外\n小猪@asuka_ra1n",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 0,
+                "username": "RenChan_VmV"
+              },
+              {
+                "end": 145,
+                "start": 134,
+                "username": "asuka_ra1n"
+              }
+            ]
+          }
+        },
+        "id": "2037575598730584064",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093553391813419104",
+        "name": "東洋蓮花酥🏳️‍🌈🏳️‍⚧️🌹重生归来我要夺回属于自己的一切🔥 🇹🇼 👊",
+        "pinned_tweet_id": "2092681004955906271",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2037575598730584064/1787783909",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079425858989912064/VLFzMkJH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 665,
+          "following_count": 469,
+          "like_count": 18351,
+          "listed_count": 4,
+          "media_count": 83,
+          "tweet_count": 1413
+        },
+        "url": "",
+        "username": "RenChanT_T",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

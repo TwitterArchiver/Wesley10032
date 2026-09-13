@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880979169297022976",
+    "conversation_id": "2094289351006101765",
+    "created_at": "2026-08-31T05:10:13.000Z",
+    "display_text_range": [
+      17,
+      25
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T06:10:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094291646351613954"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1665606894499647489",
+          "start": 0,
+          "username": "HagamiMotoyori0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094291646351613954",
+    "in_reply_to_user_id": "1665606894499647489",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094291550998270092",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@HagamiMotoyori0 我还没成年呢（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880979169297022976",
+        "conversation_id": "2094289351006101765",
+        "created_at": "2026-08-31T05:10:13.000Z",
+        "display_text_range": [
+          17,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T06:10:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094291646351613954"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1665606894499647489",
+              "start": 0,
+              "username": "HagamiMotoyori0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094291646351613954",
+        "in_reply_to_user_id": "1665606894499647489",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094291550998270092",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@HagamiMotoyori0 我还没成年呢（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1665606894499647489",
+        "conversation_id": "2094289351006101765",
+        "created_at": "2026-08-31T05:09:50.000Z",
+        "display_text_range": [
+          13,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T06:09:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094291550998270092"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1880979169297022976",
+              "start": 0,
+              "username": "Wesley10032"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094291550998270092",
+        "in_reply_to_user_id": "1880979169297022976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094289351006101765",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@Wesley10032 这个不是成年男性都要登记的吗？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳/♂/08.11.3/友跨🏳️‍⚧️\n政治立场未知/聊天请走下方TG链接\n魔裁(まのさば)/CS2/三角洲/Galgame/IT \n好基友@lockloveovo\n学生党 周末/节假日在线\nCN/EN/JP\n第二账号暂不公开",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 74,
+                "username": "lockloveovo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://telegram.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/Q5wiGuq4W4"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "is_identity_verified": true,
+        "location": "People's Republic of China",
+        "most_recent_tweet_id": "2094291646351613954",
+        "name": "Wesley",
+        "pinned_tweet_id": "2083033063257420070",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1880979169297022976/1785740152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1513,
+          "following_count": 1757,
+          "like_count": 21677,
+          "listed_count": 3,
+          "media_count": 477,
+          "tweet_count": 3495
+        },
+        "url": "https://t.co/Q5wiGuq4W4",
+        "username": "Wesley10032",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-06-05T06:30:25.000Z",
+        "description": "是人類？！或許是吧｜無證含糖🍥｜無性戀🖤🩶🤍💜 ｜日常碎碎念（大部分是負面），非必要要不鍵政｜互fo喵｜提問箱https://t.co/Iuxe55G6LM\n前世@HagamiMotoyori",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 96,
+                "start": 81,
+                "username": "HagamiMotoyori"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/hagamimotoyori1",
+                "end": 78,
+                "expanded_url": "https://ngl.link/hagamimotoyori1",
+                "start": 55,
+                "url": "https://t.co/Iuxe55G6LM"
+              }
+            ]
+          }
+        },
+        "id": "1665606894499647489",
+        "is_identity_verified": false,
+        "location": "虛無的盡頭",
+        "most_recent_tweet_id": "2094291550998270092",
+        "name": "⏚羽上元依⏚",
+        "pinned_tweet_id": "2090330704748089407",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1665606894499647489/1787197499",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090283960693817344/OKlR28GK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 131,
+          "like_count": 461,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 130
+        },
+        "url": "",
+        "username": "HagamiMotoyori0",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

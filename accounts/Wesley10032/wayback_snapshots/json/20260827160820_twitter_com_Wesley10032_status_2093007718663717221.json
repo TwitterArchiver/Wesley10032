@@ -1,0 +1,551 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2092959797956026368"
+      ],
+      "media_source_tweet_id": [
+        "2092959859381555378"
+      ]
+    },
+    "author_id": "1880979169297022976",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Prince Charles",
+          "id": "989173596768501761",
+          "name": "King Charles"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Prince Charles",
+          "id": "989173596768501761",
+          "name": "King Charles"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Royal Family",
+          "id": "1098692833333014528",
+          "name": "British Royal Family"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1518658178157735937",
+          "name": "United Kingdom political figures"
+        }
+      }
+    ],
+    "conversation_id": "2093007718663717221",
+    "created_at": "2026-08-27T16:08:20.000Z",
+    "display_text_range": [
+      0,
+      128
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T17:08:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093007718663717221"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "36042554",
+          "start": 3,
+          "username": "RoyalFamily"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/yqvhAD59YL",
+          "end": 128,
+          "expanded_url": "https://x.com/RoyalFamily/status/2092959859381555378/photo/1",
+          "media_key": "3_2092959797956026368",
+          "start": 105,
+          "url": "https://t.co/yqvhAD59YL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093007718663717221",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "3_2092959797956026368"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 393
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092959859381555378",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @RoyalFamily: A message from The King to all those affected by the tragedy on the Nepal-China border. https://t.co/yqvhAD59YL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1351,
+        "media_key": "3_2092959797956026368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQuv2OZXoAApJ6b.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092959797956026368"
+          ],
+          "media_source_tweet_id": [
+            "2092959859381555378"
+          ]
+        },
+        "author_id": "1880979169297022976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Prince Charles",
+              "id": "989173596768501761",
+              "name": "King Charles"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Prince Charles",
+              "id": "989173596768501761",
+              "name": "King Charles"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Royal Family",
+              "id": "1098692833333014528",
+              "name": "British Royal Family"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1518658178157735937",
+              "name": "United Kingdom political figures"
+            }
+          }
+        ],
+        "conversation_id": "2093007718663717221",
+        "created_at": "2026-08-27T16:08:20.000Z",
+        "display_text_range": [
+          0,
+          128
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T17:08:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093007718663717221"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "36042554",
+              "start": 3,
+              "username": "RoyalFamily"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yqvhAD59YL",
+              "end": 128,
+              "expanded_url": "https://x.com/RoyalFamily/status/2092959859381555378/photo/1",
+              "media_key": "3_2092959797956026368",
+              "start": 105,
+              "url": "https://t.co/yqvhAD59YL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093007718663717221",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2092959797956026368"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 393
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092959859381555378",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @RoyalFamily: A message from The King to all those affected by the tragedy on the Nepal-China border. https://t.co/yqvhAD59YL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092959797956026368"
+          ]
+        },
+        "author_id": "36042554",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Prince Charles",
+              "id": "989173596768501761",
+              "name": "King Charles"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Prince Charles",
+              "id": "989173596768501761",
+              "name": "King Charles"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Royal Family",
+              "id": "1098692833333014528",
+              "name": "British Royal Family"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1518658178157735937",
+              "name": "United Kingdom political figures"
+            }
+          }
+        ],
+        "conversation_id": "2092959859381555378",
+        "created_at": "2026-08-27T12:58:10.000Z",
+        "display_text_range": [
+          0,
+          87
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T13:58:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092959859381555378"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yqvhAD59YL",
+              "end": 111,
+              "expanded_url": "https://x.com/RoyalFamily/status/2092959859381555378/photo/1",
+              "media_key": "3_2092959797956026368",
+              "start": 88,
+              "url": "https://t.co/yqvhAD59YL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092959859381555378",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2092959797956026368"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 59,
+          "impression_count": 76187,
+          "like_count": 3144,
+          "quote_count": 26,
+          "reply_count": 85,
+          "retweet_count": 393
+        },
+        "reply_settings": "everyone",
+        "text": "A message from The King to all those affected by the tragedy on the Nepal-China border. https://t.co/yqvhAD59YL"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳/♂/08.11.3/友跨🏳️‍⚧️\n政治立场未知/聊天请走下方TG链接\n魔裁(まのさば)/CS2/三角洲/Galgame/IT \n好基友@lockloveovo\n学生党 周末/节假日在线\nCN/EN/JP\n防失联@Wesley10033",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 74,
+                "username": "lockloveovo"
+              },
+              {
+                "end": 124,
+                "start": 112,
+                "username": "Wesley10033"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://telegram.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/Q5wiGuq4W4"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "is_identity_verified": false,
+        "location": "People's Republic of China",
+        "most_recent_tweet_id": "2093007718663717221",
+        "name": "Wesley",
+        "pinned_tweet_id": "2083033063257420070",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1880979169297022976/1785740152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1427,
+          "following_count": 1687,
+          "like_count": 19361,
+          "listed_count": 3,
+          "media_count": 450,
+          "tweet_count": 3253
+        },
+        "url": "https://t.co/Q5wiGuq4W4",
+        "username": "Wesley10032",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2009-04-28T11:31:02.000Z",
+        "description": "The latest news and updates on the work of The King, The Queen and The Royal Family.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "royal.uk",
+                "end": 23,
+                "expanded_url": "http://www.royal.uk",
+                "start": 0,
+                "url": "https://t.co/vi7yfrg3iw"
+              }
+            ]
+          }
+        },
+        "id": "36042554",
+        "is_identity_verified": false,
+        "location": "United Kingdom",
+        "most_recent_tweet_id": "2092959859381555378",
+        "name": "The Royal Family",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/36042554/1762944087",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988557699827531776/Get2Z5pX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5435302,
+          "following_count": 456,
+          "like_count": 4988,
+          "listed_count": 10352,
+          "media_count": 15689,
+          "tweet_count": 40748
+        },
+        "url": "https://t.co/vi7yfrg3iw",
+        "username": "RoyalFamily",
+        "verified": true,
+        "verified_type": "government"
+      }
+    ]
+  }
+}

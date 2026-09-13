@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880979169297022976",
+    "conversation_id": "2096757312933499194",
+    "created_at": "2026-09-07T05:33:46.000Z",
+    "display_text_range": [
+      11,
+      36
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T06:33:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096834290919330028"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1495741137193435140",
+          "start": 0,
+          "username": "klarkxy01"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096834290919330028",
+    "in_reply_to_user_id": "1495741137193435140",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096757312933499194",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@klarkxy01 不想睡……一整天都在学，只有晚上的时间属于自己喵🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880979169297022976",
+        "conversation_id": "2096757312933499194",
+        "created_at": "2026-09-07T05:33:46.000Z",
+        "display_text_range": [
+          11,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T06:33:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096834290919330028"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1495741137193435140",
+              "start": 0,
+              "username": "klarkxy01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096834290919330028",
+        "in_reply_to_user_id": "1495741137193435140",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096757312933499194",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@klarkxy01 不想睡……一整天都在学，只有晚上的时间属于自己喵🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495741137193435140",
+        "conversation_id": "2096757312933499194",
+        "created_at": "2026-09-07T00:27:53.000Z",
+        "display_text_range": [
+          0,
+          6
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T01:27:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096757312933499194"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/NoraXworld/sta…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/NoraXworld/status/2096748843811614900",
+              "start": 7,
+              "url": "https://t.co/OYnX3urgvM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096757312933499194",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 472,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096748843811614900",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "要多睡觉喵！ https://t.co/OYnX3urgvM"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "description": "中国人🇨🇳/♂/08.11.3\n政治立场未知/聊天请走下方TG链接\n魔裁(まのさば)/CS2/三角洲/Galgame/IT \n好基友@lockloveovo\n高三党/广东中山在居\nCN/EN/JP\n里推@Wesley10033",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 66,
+                "username": "lockloveovo"
+              },
+              {
+                "end": 113,
+                "start": 101,
+                "username": "Wesley10033"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://t.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/HjVzyPDIuK"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "is_identity_verified": true,
+        "location": "中华人民共和国 / P.R.C.",
+        "most_recent_tweet_id": "2096834290919330028",
+        "name": "Wesley",
+        "pinned_tweet_id": "2083033063257420070",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1880979169297022976/1785740152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1597,
+          "following_count": 1834,
+          "like_count": 25383,
+          "listed_count": 2,
+          "media_count": 512,
+          "tweet_count": 3859
+        },
+        "url": "https://t.co/HjVzyPDIuK",
+        "username": "Wesley10032",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-02-21T12:44:22.000Z",
+        "description": "欢迎来到，这行将终结，匆忙纷扰，并且完全看不到救赎的世界！\n\n🌼近期有发帖的会互fo\n🏆不万能的许愿机\n🦉左翼加速主义",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/klarkxy",
+                "end": 23,
+                "expanded_url": "https://github.com/klarkxy",
+                "start": 0,
+                "url": "https://t.co/wbSGgkGFxS"
+              }
+            ]
+          }
+        },
+        "id": "1495741137193435140",
+        "is_identity_verified": false,
+        "location": "68番岛の妖精仓库",
+        "most_recent_tweet_id": "2096827990818824277",
+        "name": "无能的艾薇娜",
+        "pinned_tweet_id": "2094906288237060279",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1495741137193435140/1788299057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091464264754380800/mFogn0wp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 553,
+          "following_count": 605,
+          "like_count": 6124,
+          "listed_count": 0,
+          "media_count": 190,
+          "tweet_count": 2436
+        },
+        "url": "https://t.co/wbSGgkGFxS",
+        "username": "klarkxy01",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

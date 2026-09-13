@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880979169297022976",
+    "conversation_id": "2098057166355616029",
+    "created_at": "2026-09-11T01:28:13.000Z",
+    "display_text_range": [
+      10,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T02:28:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098222045394043006"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "3238412713",
+          "start": 0,
+          "username": "isle1021"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098222045394043006",
+    "in_reply_to_user_id": "3238412713",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098221674319819140",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@isle1021 一緒に頑張ってね！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880979169297022976",
+        "conversation_id": "2098057166355616029",
+        "created_at": "2026-09-11T01:28:13.000Z",
+        "display_text_range": [
+          10,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T02:28:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098222045394043006"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "3238412713",
+              "start": 0,
+              "username": "isle1021"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098222045394043006",
+        "in_reply_to_user_id": "3238412713",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098221674319819140",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@isle1021 一緒に頑張ってね！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3238412713",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Language Learning",
+              "id": "852226935044194304",
+              "name": "Language learning"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1364632995655610377",
+              "name": "Chinese language learning "
+            }
+          }
+        ],
+        "conversation_id": "2098057166355616029",
+        "created_at": "2026-09-11T01:26:44.000Z",
+        "display_text_range": [
+          13,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T02:26:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098221674319819140"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1880979169297022976",
+              "start": 0,
+              "username": "Wesley10032"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098221674319819140",
+        "in_reply_to_user_id": "1880979169297022976",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098057166355616029",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wesley10032 日本語の勉強頑張ってね\nぼくも中国語の勉強を頑張るから"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "description": "中国人🇨🇳/♂/08.11.3\n政治立场未知/聊天请走下方TG链接\n魔裁(まのさば)/CS2/三角洲/Galgame/IT \n好基友@lockloveovo\n高三党/广东中山在居\nCN/EN/JP\n里推@Wesley10033\nBluesky备用号:@wesley10032.bsky.social",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 66,
+                "username": "lockloveovo"
+              },
+              {
+                "end": 113,
+                "start": 101,
+                "username": "Wesley10033"
+              },
+              {
+                "end": 137,
+                "start": 125,
+                "username": "wesley10032"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://t.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/HjVzyPDIuK"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "is_identity_verified": true,
+        "location": "中华人民共和国 / P.R.C.",
+        "most_recent_tweet_id": "2098222045394043006",
+        "name": "Wesley",
+        "pinned_tweet_id": "2083033063257420070",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1880979169297022976/1785740152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1660,
+          "following_count": 1874,
+          "like_count": 27640,
+          "listed_count": 2,
+          "media_count": 540,
+          "tweet_count": 4116
+        },
+        "url": "https://t.co/HjVzyPDIuK",
+        "username": "Wesley10032",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2015-06-07T01:50:39.000Z",
+        "description": "我叫李在焕。这里就爱好和一时感悟, 日报而我打算继续写。副号 →@Neptunus1027\n\n因为她太色情了,淫乱们在做大名队伍！！！！！！！！！\n\n由于鼻血大喷泉江户城无血开城大失败！！！！！！！！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 32,
+                "username": "Neptunus1027"
+              }
+            ]
+          }
+        },
+        "id": "3238412713",
+        "is_identity_verified": false,
+        "location": "布瑠部由良由良八握剑异戒神将魔虚罗",
+        "most_recent_tweet_id": "2098221674319819140",
+        "name": "李在焕(旧名: 朝雾 千种, 仓光)",
+        "pinned_tweet_id": "2072991799271166435",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3238412713/1786149019",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091670753481756672/hqvr8bOO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1234,
+          "following_count": 1150,
+          "like_count": 52623,
+          "listed_count": 10,
+          "media_count": 9910,
+          "tweet_count": 83018
+        },
+        "url": "",
+        "username": "isle1021",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

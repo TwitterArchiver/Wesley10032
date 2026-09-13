@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880979169297022976",
+    "conversation_id": "2094310462926254460",
+    "created_at": "2026-09-01T04:14:00.000Z",
+    "display_text_range": [
+      16,
+      28
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-01T05:14:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094639888109031821"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1443439089710092288",
+          "start": 0,
+          "username": "XiaYiGongHeQiu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094639888109031821",
+    "in_reply_to_user_id": "1443439089710092288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094636211239518255",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@XiaYiGongHeQiu 不走读啊，我住宿带手机😡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880979169297022976",
+        "conversation_id": "2094310462926254460",
+        "created_at": "2026-09-01T04:14:00.000Z",
+        "display_text_range": [
+          16,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T05:14:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094639888109031821"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1443439089710092288",
+              "start": 0,
+              "username": "XiaYiGongHeQiu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094639888109031821",
+        "in_reply_to_user_id": "1443439089710092288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094636211239518255",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@XiaYiGongHeQiu 不走读啊，我住宿带手机😡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1443439089710092288",
+        "conversation_id": "2094310462926254460",
+        "created_at": "2026-09-01T03:59:23.000Z",
+        "display_text_range": [
+          13,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T04:59:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094636211239518255"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1880979169297022976",
+              "start": 0,
+              "username": "Wesley10032"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094636211239518255",
+        "in_reply_to_user_id": "1880979169297022976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094310462926254460",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@Wesley10032 羡慕走读😠"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳/♂/08.11.3/友跨🏳️‍⚧️\n政治立场未知/聊天请走下方TG链接\n魔裁(まのさば)/CS2/三角洲/Galgame/IT \n好基友@lockloveovo\n学生党 周末/节假日在线\nCN/EN/JP\n第二账号暂不公开",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 74,
+                "username": "lockloveovo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://telegram.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/Q5wiGuq4W4"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "is_identity_verified": true,
+        "location": "People's Republic of China",
+        "most_recent_tweet_id": "2094639888109031821",
+        "name": "Wesley",
+        "pinned_tweet_id": "2083033063257420070",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1880979169297022976/1785740152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1518,
+          "following_count": 1758,
+          "like_count": 21877,
+          "listed_count": 3,
+          "media_count": 477,
+          "tweet_count": 3512
+        },
+        "url": "https://t.co/Q5wiGuq4W4",
+        "username": "Wesley10032",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-09-30T04:54:53.000Z",
+        "description": "A transfeminine student in the Management field; beloved @maplemarate; sub-acct: @XiaYGHQiu.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 57,
+                "username": "maplemarate"
+              },
+              {
+                "end": 91,
+                "start": 81,
+                "username": "XiaYGHQiu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xiayigongheqiu.github.io",
+                "end": 23,
+                "expanded_url": "http://xiayigongheqiu.github.io",
+                "start": 0,
+                "url": "https://t.co/Vqf4BH2GQ4"
+              }
+            ]
+          }
+        },
+        "id": "1443439089710092288",
+        "is_identity_verified": false,
+        "location": "山東省煙臺市萊山區",
+        "most_recent_tweet_id": "2094636211239518255",
+        "name": "虾夷共和球🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1443439089710092288/1786427728",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050800286068088832/y1fHTAAr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1056,
+          "following_count": 777,
+          "like_count": 22762,
+          "listed_count": 5,
+          "media_count": 210,
+          "tweet_count": 4394
+        },
+        "url": "https://t.co/Vqf4BH2GQ4",
+        "username": "XiaYiGongHeQiu",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,345 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2094661662028759040"
+      ],
+      "media_source_tweet_id": [
+        "2094661670518067680"
+      ]
+    },
+    "author_id": "1880979169297022976",
+    "conversation_id": "2094799992389312789",
+    "created_at": "2026-09-01T14:50:12.000Z",
+    "display_text_range": [
+      0,
+      65
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-01T15:50:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094799992389312789"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2077351201365270528",
+          "start": 3,
+          "username": "yuzunachanqwq"
+        },
+        {
+          "end": 37,
+          "id": "2074472140976599040",
+          "start": 22,
+          "username": "_XanderXander_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xGsvruzfqL",
+          "end": 65,
+          "expanded_url": "https://x.com/yuzunachanqwq/status/2094661670518067680/photo/1",
+          "media_key": "3_2094661662028759040",
+          "start": 42,
+          "url": "https://t.co/xGsvruzfqL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094799992389312789",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2094661662028759040"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094661670518067680",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yuzunachanqwq: 转发 @_xanderxander_ 的声明 https://t.co/xGsvruzfqL"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [_XanderXander_].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "_XanderXander_",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.x.com/2/problems/resource-not-found",
+      "value": "_XanderXander_"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2288,
+        "media_key": "3_2094661662028759040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRG7rwHagAAfYLf.jpg",
+        "width": 936
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094661662028759040"
+          ],
+          "media_source_tweet_id": [
+            "2094661670518067680"
+          ]
+        },
+        "author_id": "1880979169297022976",
+        "conversation_id": "2094799992389312789",
+        "created_at": "2026-09-01T14:50:12.000Z",
+        "display_text_range": [
+          0,
+          65
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T15:50:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094799992389312789"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2077351201365270528",
+              "start": 3,
+              "username": "yuzunachanqwq"
+            },
+            {
+              "end": 37,
+              "id": "2074472140976599040",
+              "start": 22,
+              "username": "_XanderXander_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xGsvruzfqL",
+              "end": 65,
+              "expanded_url": "https://x.com/yuzunachanqwq/status/2094661670518067680/photo/1",
+              "media_key": "3_2094661662028759040",
+              "start": 42,
+              "url": "https://t.co/xGsvruzfqL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094799992389312789",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2094661662028759040"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094661670518067680",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yuzunachanqwq: 转发 @_xanderxander_ 的声明 https://t.co/xGsvruzfqL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094661662028759040"
+          ]
+        },
+        "author_id": "2077351201365270528",
+        "conversation_id": "2094661670518067680",
+        "created_at": "2026-09-01T05:40:33.000Z",
+        "display_text_range": [
+          0,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T06:40:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094661670518067680"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2074472140976599040",
+              "start": 3,
+              "username": "_XanderXander_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xGsvruzfqL",
+              "end": 46,
+              "expanded_url": "https://x.com/yuzunachanqwq/status/2094661670518067680/photo/1",
+              "media_key": "3_2094661662028759040",
+              "start": 23,
+              "url": "https://t.co/xGsvruzfqL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094661670518067680",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2094661662028759040"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 590,
+          "like_count": 15,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "转发 @_xanderxander_ 的声明 https://t.co/xGsvruzfqL"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳/♂/08.11.3/友跨🏳️‍⚧️\n政治立场未知/聊天请走下方TG链接\n魔裁(まのさば)/CS2/三角洲/Galgame/IT \n好基友@lockloveovo\n学生党 周末/节假日在线\nCN/EN/JP\n第二账号暂不公开",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 74,
+                "username": "lockloveovo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://telegram.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/Q5wiGuq4W4"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "is_identity_verified": true,
+        "location": "People's Republic of China",
+        "most_recent_tweet_id": "2094799992389312789",
+        "name": "Wesley",
+        "pinned_tweet_id": "2083033063257420070",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1880979169297022976/1785740152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1520,
+          "following_count": 1758,
+          "like_count": 22072,
+          "listed_count": 3,
+          "media_count": 477,
+          "tweet_count": 3529
+        },
+        "url": "https://t.co/Q5wiGuq4W4",
+        "username": "Wesley10032",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-15T11:16:44.000Z",
+        "description": "一個黏人的笨蛋 | 16 | 中文/English/Español(poco)/日本語勉強中",
+        "id": "2077351201365270528",
+        "is_identity_verified": false,
+        "location": "距离你1公里",
+        "most_recent_tweet_id": "2094793417016356977",
+        "name": "柚奈酱",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2077351201365270528/1784260989",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084146508904218624/YfnDxHFi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 109,
+          "like_count": 502,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 161
+        },
+        "url": "",
+        "username": "yuzunachanqwq",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

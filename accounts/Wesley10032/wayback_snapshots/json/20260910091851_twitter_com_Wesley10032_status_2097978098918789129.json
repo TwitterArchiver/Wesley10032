@@ -1,0 +1,365 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880979169297022976",
+    "conversation_id": "2097978098918789129",
+    "created_at": "2026-09-10T09:18:51.000Z",
+    "display_text_range": [
+      0,
+      89
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T10:18:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097978098918789129"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1774264719773409280",
+          "start": 3,
+          "username": "KissaHsgsta1106"
+        },
+        {
+          "end": 33,
+          "id": "1880979169297022976",
+          "start": 21,
+          "username": "Wesley10032"
+        },
+        {
+          "end": 44,
+          "id": "2016246570312990720",
+          "start": 34,
+          "username": "YuChenawa"
+        },
+        {
+          "end": 60,
+          "id": "2012788392409628672",
+          "start": 45,
+          "username": "taiwanese_1210"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097978098918789129",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097735835726827892",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KissaHsgsta1106: @Wesley10032 @YuChenawa @taiwanese_1210 不对我要是不HRT我肯定还是高冷大小姐😡激素你害人😡😡😡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880979169297022976",
+        "conversation_id": "2097978098918789129",
+        "created_at": "2026-09-10T09:18:51.000Z",
+        "display_text_range": [
+          0,
+          89
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T10:18:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097978098918789129"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1774264719773409280",
+              "start": 3,
+              "username": "KissaHsgsta1106"
+            },
+            {
+              "end": 33,
+              "id": "1880979169297022976",
+              "start": 21,
+              "username": "Wesley10032"
+            },
+            {
+              "end": 44,
+              "id": "2016246570312990720",
+              "start": 34,
+              "username": "YuChenawa"
+            },
+            {
+              "end": 60,
+              "id": "2012788392409628672",
+              "start": 45,
+              "username": "taiwanese_1210"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097978098918789129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097735835726827892",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @KissaHsgsta1106: @Wesley10032 @YuChenawa @taiwanese_1210 不对我要是不HRT我肯定还是高冷大小姐😡激素你害人😡😡😡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1774264719773409280",
+        "conversation_id": "2097734176267207048",
+        "created_at": "2026-09-09T17:16:11.000Z",
+        "display_text_range": [
+          40,
+          68
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T18:16:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097735835726827892"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1880979169297022976",
+              "start": 0,
+              "username": "Wesley10032"
+            },
+            {
+              "end": 23,
+              "id": "2016246570312990720",
+              "start": 13,
+              "username": "YuChenawa"
+            },
+            {
+              "end": 39,
+              "id": "2012788392409628672",
+              "start": 24,
+              "username": "taiwanese_1210"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097735835726827892",
+        "in_reply_to_user_id": "1880979169297022976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 292,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097734176267207048",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wesley10032 @YuChenawa @taiwanese_1210 不对我要是不HRT我肯定还是高冷大小姐😡激素你害人😡😡😡"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "description": "中国人🇨🇳/♂/08.11.3\n政治立场未知/聊天请走下方TG链接\n魔裁(まのさば)/CS2/三角洲/Galgame/IT \n好基友@lockloveovo\n高三党/广东中山在居\nCN/EN/JP\n里推@Wesley10033\nBluesky备用号:@wesley10032.bsky.social",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 66,
+                "username": "lockloveovo"
+              },
+              {
+                "end": 113,
+                "start": 101,
+                "username": "Wesley10033"
+              },
+              {
+                "end": 137,
+                "start": 125,
+                "username": "wesley10032"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://t.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/HjVzyPDIuK"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "is_identity_verified": true,
+        "location": "中华人民共和国 / P.R.C.",
+        "most_recent_tweet_id": "2097978098918789129",
+        "name": "Wesley",
+        "pinned_tweet_id": "2083033063257420070",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1880979169297022976/1785740152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1655,
+          "following_count": 1861,
+          "like_count": 27195,
+          "listed_count": 2,
+          "media_count": 536,
+          "tweet_count": 4051
+        },
+        "url": "https://t.co/HjVzyPDIuK",
+        "username": "Wesley10032",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-03-31T02:37:37.000Z",
+        "description": "",
+        "id": "1774264719773409280",
+        "is_identity_verified": false,
+        "location": "乌茨约基，拉普兰",
+        "most_recent_tweet_id": "2097915125135290654",
+        "name": "赫尔辛基的猫",
+        "pinned_tweet_id": "1835918114938290560",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1774264719773409280/1788976258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097749754918883328/8OaOvji8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 918,
+          "following_count": 823,
+          "like_count": 51721,
+          "listed_count": 4,
+          "media_count": 443,
+          "tweet_count": 3091
+        },
+        "url": "",
+        "username": "KissaHsgsta1106",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-01-27T20:27:15.000Z",
+        "description": "这里的每一种颜色，都有属于你勇敢做自己的身影",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yuchen86833",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yuchen86833",
+                "start": 0,
+                "url": "https://t.co/vconkxHXnn"
+              }
+            ]
+          }
+        },
+        "id": "2016246570312990720",
+        "is_identity_verified": false,
+        "location": "天堂✝️",
+        "most_recent_tweet_id": "2097339174911345052",
+        "name": "𝒴𝓊𝒸𝒽ℯ𝓃",
+        "pinned_tweet_id": "2060749702883332402",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2016246570312990720/1769808210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017348660867305473/hJCnFu9n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 610,
+          "following_count": 550,
+          "like_count": 6374,
+          "listed_count": 3,
+          "media_count": 131,
+          "tweet_count": 1712
+        },
+        "url": "https://t.co/vconkxHXnn",
+        "username": "YuChenawa",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-01-18T07:25:35.000Z",
+        "description": "想成為南梁呢⋯⋯\n但身材似乎不太適合qwq\n被煞筆學校生活綁著（幸好是走讀）\n謝絕詐騙推銷約炮",
+        "id": "2012788392409628672",
+        "is_identity_verified": false,
+        "location": "中華民國台灣 / Taiwan R.O.C",
+        "most_recent_tweet_id": "2097974617499644380",
+        "name": "Taiwanese",
+        "pinned_tweet_id": "2096450947052601578",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012904242114101250/n4ss6qJz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 249,
+          "following_count": 3288,
+          "like_count": 22986,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 202
+        },
+        "url": "",
+        "username": "taiwanese_1210",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

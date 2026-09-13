@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880979169297022976",
+    "conversation_id": "2098202156444905591",
+    "created_at": "2026-09-11T00:17:41.000Z",
+    "display_text_range": [
+      10,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T01:17:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098204294399087055"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2089970171100418049",
+          "start": 0,
+          "username": "Aurvsnom"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098204294399087055",
+    "in_reply_to_user_id": "2089970171100418049",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098203048095121673",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Aurvsnom 因为我全倒了（"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2098203048095121673].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2098203048095121673",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "2098203048095121673"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880979169297022976",
+        "conversation_id": "2098202156444905591",
+        "created_at": "2026-09-11T00:17:41.000Z",
+        "display_text_range": [
+          10,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T01:17:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098204294399087055"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2089970171100418049",
+              "start": 0,
+              "username": "Aurvsnom"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098204294399087055",
+        "in_reply_to_user_id": "2089970171100418049",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098203048095121673",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aurvsnom 因为我全倒了（"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "description": "中国人🇨🇳/♂/08.11.3\n政治立场未知/聊天请走下方TG链接\n魔裁(まのさば)/CS2/三角洲/Galgame/IT \n好基友@lockloveovo\n高三党/广东中山在居\nCN/EN/JP\n里推@Wesley10033\nBluesky备用号:@wesley10032.bsky.social",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 66,
+                "username": "lockloveovo"
+              },
+              {
+                "end": 113,
+                "start": 101,
+                "username": "Wesley10033"
+              },
+              {
+                "end": 137,
+                "start": 125,
+                "username": "wesley10032"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://t.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/HjVzyPDIuK"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "is_identity_verified": true,
+        "location": "中华人民共和国 / P.R.C.",
+        "most_recent_tweet_id": "2098204294399087055",
+        "name": "Wesley",
+        "pinned_tweet_id": "2083033063257420070",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1880979169297022976/1785740152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1660,
+          "following_count": 1872,
+          "like_count": 27504,
+          "listed_count": 2,
+          "media_count": 540,
+          "tweet_count": 4092
+        },
+        "url": "https://t.co/HjVzyPDIuK",
+        "username": "Wesley10032",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-19T06:59:27.000Z",
+        "description": "一代@Vyrwen已陨落\n二代@Luminbkrv已陨落\n互fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 2,
+                "username": "Vyrwen"
+              },
+              {
+                "end": 25,
+                "start": 15,
+                "username": "Luminbkrv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aurvsnow",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aurvsnow",
+                "start": 0,
+                "url": "https://t.co/cwzsubTgBn"
+              }
+            ]
+          }
+        },
+        "id": "2089970171100418049",
+        "is_identity_verified": false,
+        "location": "沉眠岸",
+        "most_recent_tweet_id": "2097895746251223164",
+        "name": "雪还会落下3.0",
+        "pinned_tweet_id": "2094554199740862939",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2089970171100418049/1787587889",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092928612026695680/g1KNJow1_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 145,
+          "like_count": 2588,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 492
+        },
+        "url": "https://t.co/cwzsubTgBn",
+        "username": "Aurvsnom",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880979169297022976",
+    "conversation_id": "2095844704898486369",
+    "created_at": "2026-09-05T00:04:04.000Z",
+    "display_text_range": [
+      16,
+      32
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T01:04:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096026539863502863"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1964603254761017346",
+          "start": 0,
+          "username": "CHOCOLATE_6840"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096026539863502863",
+    "in_reply_to_user_id": "1964603254761017346",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095844704898486369",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CHOCOLATE_6840 我这人很贪心\n有钱就让我很满足了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880979169297022976",
+        "conversation_id": "2095844704898486369",
+        "created_at": "2026-09-05T00:04:04.000Z",
+        "display_text_range": [
+          16,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T01:04:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096026539863502863"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1964603254761017346",
+              "start": 0,
+              "username": "CHOCOLATE_6840"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096026539863502863",
+        "in_reply_to_user_id": "1964603254761017346",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095844704898486369",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CHOCOLATE_6840 我这人很贪心\n有钱就让我很满足了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964603254761017346",
+        "conversation_id": "2095844704898486369",
+        "created_at": "2026-09-04T12:01:31.000Z",
+        "display_text_range": [
+          0,
+          280
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T13:01:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095844704898486369"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2095844704898486369",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 519,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Does money give you happiness? For me, money doesn’t bring true happiness. It only gives you a temporary feeling that fades away quickly. Money can provide comfort and convenience, but real happiness isn’t always linked to wealth. Some people have everything yet still feel empty."
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳/♂/08.11.3/友跨(暂不翻车)\n政治立场未知/聊天请走下方TG链接\n魔裁(まのさば)/CS2/三角洲/Galgame/IT \n好基友@lockloveovo\n高三党/广东中山在居\nCN/EN/JP\n里推@Wesley10033",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 75,
+                "username": "lockloveovo"
+              },
+              {
+                "end": 122,
+                "start": 110,
+                "username": "Wesley10033"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://t.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/HjVzyPDIuK"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "is_identity_verified": true,
+        "location": "People's Republic of China",
+        "most_recent_tweet_id": "2096026539863502863",
+        "name": "Wesley",
+        "pinned_tweet_id": "2083033063257420070",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1880979169297022976/1785740152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1551,
+          "following_count": 1800,
+          "like_count": 23740,
+          "listed_count": 2,
+          "media_count": 495,
+          "tweet_count": 3675
+        },
+        "url": "https://t.co/HjVzyPDIuK",
+        "username": "Wesley10032",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-09-07T08:16:30.000Z",
+        "description": "你可以叫我眯眯 ✨ 会英语 / 乌尔都语 / 一点点中文 🌿 同人画 & 画画中 🎀 VT 懒猫 🐾 咖啡爱好者 ☕ Countryhumans · 国漫 · 艺术 💦 软心 · 安静氛围 💉 无烦恼 🚫 小 ✨ 可爱 ✨ 事物 🩸 《我来自巴基斯坦 🇵🇰》她 / ISFJ 🩹\n#VTuber~",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 147,
+                "start": 140,
+                "tag": "VTuber"
+              }
+            ]
+          }
+        },
+        "id": "1964603254761017346",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095978960014438887",
+        "name": "Nicole 🍎",
+        "pinned_tweet_id": "2095588338103366057",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1964603254761017346/1758229955",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968785243722158080/KcbJChpA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1538,
+          "following_count": 52,
+          "like_count": 1006,
+          "listed_count": 1,
+          "media_count": 6,
+          "tweet_count": 606
+        },
+        "url": "",
+        "username": "CHOCOLATE_6840",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

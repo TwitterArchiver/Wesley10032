@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880979169297022976",
+    "conversation_id": "2091462010408198629",
+    "created_at": "2026-08-23T10:35:35.000Z",
+    "display_text_range": [
+      9,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-23T11:35:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091474424059056352"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2077657557523640320",
+          "start": 0,
+          "username": "SepMiao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091474424059056352",
+    "in_reply_to_user_id": "2077657557523640320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091474272883708129",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SepMiao 窝用的 Gemini 喵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3200,
+        "media_key": "3_2091474263769575424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQZowwTbcAAL69Z.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880979169297022976",
+        "conversation_id": "2091462010408198629",
+        "created_at": "2026-08-23T10:35:35.000Z",
+        "display_text_range": [
+          9,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T11:35:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091474424059056352"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2077657557523640320",
+              "start": 0,
+              "username": "SepMiao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091474424059056352",
+        "in_reply_to_user_id": "2077657557523640320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091474272883708129",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SepMiao 窝用的 Gemini 喵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091474263769575424"
+          ]
+        },
+        "author_id": "2077657557523640320",
+        "conversation_id": "2091462010408198629",
+        "created_at": "2026-08-23T10:34:59.000Z",
+        "display_text_range": [
+          13,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T11:34:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091474272883708129"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1880979169297022976",
+              "start": 0,
+              "username": "Wesley10032"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DvFpJamP9Q",
+              "end": 55,
+              "expanded_url": "https://x.com/SepMiao/status/2091474272883708129/photo/1",
+              "media_key": "3_2091474263769575424",
+              "start": 32,
+              "url": "https://t.co/DvFpJamP9Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091474272883708129",
+        "in_reply_to_user_id": "1880979169297022976",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2091474263769575424"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091462010408198629",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wesley10032 这么强\n\n我的大肥鱼不给力，就76分 https://t.co/DvFpJamP9Q"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳/♂/08.11.3/友跨🏳️‍⚧️\n政治立场未知/聊天请走下方TG链接\n魔裁(まのさば)/CS2/三角洲/Galgame/IT \n好基友@lockloveovo\n学生党 周末/节假日在线\nCN/EN/JP\n防失联@Wesley10033",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 74,
+                "username": "lockloveovo"
+              },
+              {
+                "end": 124,
+                "start": 112,
+                "username": "Wesley10033"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://telegram.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/Q5wiGuq4W4"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "is_identity_verified": false,
+        "location": "People's Republic of China",
+        "most_recent_tweet_id": "2091474424059056352",
+        "name": "Wesley",
+        "pinned_tweet_id": "2083033063257420070",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1880979169297022976/1785740152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1350,
+          "following_count": 1644,
+          "like_count": 18546,
+          "listed_count": 1,
+          "media_count": 441,
+          "tweet_count": 3142
+        },
+        "url": "https://t.co/Q5wiGuq4W4",
+        "username": "Wesley10032",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-16T07:32:42.000Z",
+        "description": "「人生在世 一半烟火一半闲」\n一只大二猫猫，叫我九猫好啦\n爱社交but社恐 | 分享生活&科技&股市\n科技/IT/Python/Java/爱听音乐/友跨🏳️‍⚧️\n可以随时找我聊天哦，当你的心理委员\n\nX/蓝天/TG统一昵称\nNGL匿名提问墙已开启~",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sepcat",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sepcat",
+                "start": 0,
+                "url": "https://t.co/CfWw2y0Rzq"
+              }
+            ]
+          }
+        },
+        "id": "2077657557523640320",
+        "is_identity_verified": true,
+        "location": "温州 / 嘉兴",
+        "most_recent_tweet_id": "2091474272883708129",
+        "name": "SepMiao",
+        "pinned_tweet_id": "2088476638170513521",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2077657557523640320/1785772581",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084427836442763264/1XCOKLO3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1349,
+          "following_count": 1128,
+          "like_count": 4705,
+          "listed_count": 0,
+          "media_count": 134,
+          "tweet_count": 1663
+        },
+        "url": "https://t.co/CfWw2y0Rzq",
+        "username": "SepMiao",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880979169297022976",
+    "conversation_id": "2093872761865433248",
+    "created_at": "2026-08-30T01:25:43.000Z",
+    "display_text_range": [
+      0,
+      9
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-30T02:25:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2093872761865433248"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/voachinese/sta…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/voachinese/status/2093451474873229670",
+          "start": 10,
+          "url": "https://t.co/Owdr6LsoDS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093872761865433248",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093451474873229670",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "其实我也是大外宣🤫 https://t.co/Owdr6LsoDS"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880979169297022976",
+        "conversation_id": "2093872761865433248",
+        "created_at": "2026-08-30T01:25:43.000Z",
+        "display_text_range": [
+          0,
+          9
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T02:25:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093872761865433248"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/voachinese/sta…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/voachinese/status/2093451474873229670",
+              "start": 10,
+              "url": "https://t.co/Owdr6LsoDS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093872761865433248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093451474873229670",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "其实我也是大外宣🤫 https://t.co/Owdr6LsoDS"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "8149482",
+        "conversation_id": "2093451474873229670",
+        "created_at": "2026-08-28T21:31:40.000Z",
+        "display_text_range": [
+          0,
+          58
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T22:31:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093451474873229670"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "社交媒体平台X说，其安全团队发现一个由大约20万个账号组成的疑似中国“机器人账号农场”，其中约200个账号试图影响美国有关人工智能数据中心和能源政策的公共辩论。",
+              "display_url": "voachinese.com/a/x-claims-it-…",
+              "end": 58,
+              "expanded_url": "https://www.voachinese.com/a/x-claims-it-found-a-chinese-bot-farm-posting-anti-ai-data-center-sentiments-20260828/8191620.html",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2093451475821215744/aLodUag5?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2093451475821215744/aLodUag5?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 35,
+              "status": 200,
+              "title": "X称发现20万疑似中国虚假账号，美国官员警告外国势力操纵AI政策辩论",
+              "unwound_url": "https://www.voachinese.com/a/x-claims-it-found-a-chinese-bot-farm-posting-anti-ai-data-center-sentiments-20260828/8191620.html",
+              "url": "https://t.co/l3xKFuWhZX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093451474873229670",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 34688,
+          "like_count": 269,
+          "quote_count": 6,
+          "reply_count": 29,
+          "retweet_count": 44
+        },
+        "reply_settings": "everyone",
+        "text": "X称发现20万疑似中国虚假账号，美国官员警告外国势力操纵AI政策辩论\nhttps://t.co/l3xKFuWhZX"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳/♂/08.11.3/友跨🏳️‍⚧️\n政治立场未知/聊天请走下方TG链接\n魔裁(まのさば)/CS2/三角洲/Galgame/IT \n好基友@lockloveovo\n学生党 周末/节假日在线\nCN/EN/JP\n防失联@Wesley10033",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 74,
+                "username": "lockloveovo"
+              },
+              {
+                "end": 124,
+                "start": 112,
+                "username": "Wesley10033"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://telegram.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/Q5wiGuq4W4"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "is_identity_verified": true,
+        "location": "People's Republic of China",
+        "most_recent_tweet_id": "2093872761865433248",
+        "name": "Wesley",
+        "pinned_tweet_id": "2083033063257420070",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1880979169297022976/1785740152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1487,
+          "following_count": 1744,
+          "like_count": 20923,
+          "listed_count": 3,
+          "media_count": 463,
+          "tweet_count": 3404
+        },
+        "url": "https://t.co/Q5wiGuq4W4",
+        "username": "Wesley10032",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2007-08-13T01:36:54.000Z",
+        "description": "美国之音中文网X@voachinese \n美国之音中文网 您可靠的信息来源-通晓美中大事 锁定美国之音\nhttps://t.co/XzB6iSefM5 | https://t.co/ua0xOdvNqA | https://t.co/F1VvKTIXD7",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "YouTube.com/voachinese",
+                "end": 75,
+                "expanded_url": "http://YouTube.com/voachinese",
+                "start": 52,
+                "url": "https://t.co/XzB6iSefM5"
+              },
+              {
+                "display_url": "Facebook.com/voachinese",
+                "end": 101,
+                "expanded_url": "http://Facebook.com/voachinese",
+                "start": 78,
+                "url": "https://t.co/ua0xOdvNqA"
+              },
+              {
+                "display_url": "whatsapp.com/channel/0029Va…",
+                "end": 127,
+                "expanded_url": "https://www.whatsapp.com/channel/0029VasToscK0IBfPwWJIn3o",
+                "start": 104,
+                "url": "https://t.co/F1VvKTIXD7"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "voachinese.com",
+                "end": 23,
+                "expanded_url": "http://www.voachinese.com",
+                "start": 0,
+                "url": "https://t.co/Yn8buu16GU"
+              }
+            ]
+          }
+        },
+        "id": "8149482",
+        "is_identity_verified": false,
+        "location": "Washington, DC",
+        "most_recent_tweet_id": "2093738868394922218",
+        "name": "美国之音中文网",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/8149482/1715366990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1643258528218349572/KyNj6ump_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2645278,
+          "following_count": 169,
+          "like_count": 965,
+          "listed_count": 8464,
+          "media_count": 84531,
+          "tweet_count": 271793
+        },
+        "url": "https://t.co/Yn8buu16GU",
+        "username": "VOAChinese",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

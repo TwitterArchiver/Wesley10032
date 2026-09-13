@@ -1,0 +1,307 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2097026810718642176"
+      ],
+      "media_source_tweet_id": [
+        "2097117210510496177"
+      ]
+    },
+    "author_id": "1880979169297022976",
+    "conversation_id": "2097184847223800206",
+    "created_at": "2026-09-08T04:46:46.000Z",
+    "display_text_range": [
+      0,
+      111
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T05:46:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097184847223800206"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2026283442259017729",
+          "start": 3,
+          "username": "bigjusir"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/mDRGEBNQoN",
+          "end": 111,
+          "expanded_url": "https://x.com/bigjusir/status/2097117210510496177/photo/1",
+          "media_key": "3_2097026810718642176",
+          "start": 88,
+          "url": "https://t.co/mDRGEBNQoN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097184847223800206",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2097026810718642176"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097117210510496177",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bigjusir: 上海China GT安保救援人员日薪仅60元，结果灾难发生后只有一个老大爷去营救……\n\n多少钱的工资就多少钱的服务，很难想象这里面到底贪了多少钱！ https://t.co/mDRGEBNQoN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2097026810718642176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRoixhla4AAXhdG.jpg",
+        "width": 717
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097026810718642176"
+          ],
+          "media_source_tweet_id": [
+            "2097117210510496177"
+          ]
+        },
+        "author_id": "1880979169297022976",
+        "conversation_id": "2097184847223800206",
+        "created_at": "2026-09-08T04:46:46.000Z",
+        "display_text_range": [
+          0,
+          111
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T05:46:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097184847223800206"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2026283442259017729",
+              "start": 3,
+              "username": "bigjusir"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mDRGEBNQoN",
+              "end": 111,
+              "expanded_url": "https://x.com/bigjusir/status/2097117210510496177/photo/1",
+              "media_key": "3_2097026810718642176",
+              "start": 88,
+              "url": "https://t.co/mDRGEBNQoN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097184847223800206",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2097026810718642176"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097117210510496177",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bigjusir: 上海China GT安保救援人员日薪仅60元，结果灾难发生后只有一个老大爷去营救……\n\n多少钱的工资就多少钱的服务，很难想象这里面到底贪了多少钱！ https://t.co/mDRGEBNQoN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097026810718642176"
+          ]
+        },
+        "author_id": "2026283442259017729",
+        "conversation_id": "2097117210510496177",
+        "created_at": "2026-09-08T00:18:00.000Z",
+        "display_text_range": [
+          0,
+          73
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T01:18:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097117210510496177"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mDRGEBNQoN",
+              "end": 97,
+              "expanded_url": "https://x.com/bigjusir/status/2097117210510496177/photo/1",
+              "media_key": "3_2097026810718642176",
+              "start": 74,
+              "url": "https://t.co/mDRGEBNQoN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097117210510496177",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2097026810718642176"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 5440,
+          "like_count": 114,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "上海China GT安保救援人员日薪仅60元，结果灾难发生后只有一个老大爷去营救……\n\n多少钱的工资就多少钱的服务，很难想象这里面到底贪了多少钱！ https://t.co/mDRGEBNQoN"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "description": "中国人🇨🇳/♂/08.11.3\n政治立场未知/聊天请走下方TG链接\n魔裁(まのさば)/CS2/三角洲/Galgame/IT \n好基友@lockloveovo\n高三党/广东中山在居\nCN/EN/JP\n里推@Wesley10033",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 66,
+                "username": "lockloveovo"
+              },
+              {
+                "end": 113,
+                "start": 101,
+                "username": "Wesley10033"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://t.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/HjVzyPDIuK"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "is_identity_verified": true,
+        "location": "中华人民共和国 / P.R.C.",
+        "most_recent_tweet_id": "2097184847223800206",
+        "name": "Wesley",
+        "pinned_tweet_id": "2083033063257420070",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1880979169297022976/1785740152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1609,
+          "following_count": 1839,
+          "like_count": 25821,
+          "listed_count": 2,
+          "media_count": 516,
+          "tweet_count": 3903
+        },
+        "url": "https://t.co/HjVzyPDIuK",
+        "username": "Wesley10032",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2026-02-24T13:10:10.000Z",
+        "description": "内容创作者，二次元爱好者，时政评论",
+        "id": "2026283442259017729",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2097182389923631577",
+        "name": "jusir",
+        "pinned_tweet_id": "2087100350092181848",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2026283442259017729/1783157974",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026287531831259136/bziZOz9V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5945,
+          "following_count": 4434,
+          "like_count": 8833,
+          "listed_count": 14,
+          "media_count": 1211,
+          "tweet_count": 4773
+        },
+        "url": "",
+        "username": "bigjusir",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

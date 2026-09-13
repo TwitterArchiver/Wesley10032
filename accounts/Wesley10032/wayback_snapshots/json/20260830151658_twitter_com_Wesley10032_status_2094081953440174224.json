@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880979169297022976",
+    "conversation_id": "2094042265056690432",
+    "created_at": "2026-08-30T15:16:58.000Z",
+    "display_text_range": [
+      11,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-30T16:16:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094081953440174224"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "286418121",
+          "start": 0,
+          "username": "CyberHono"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094081953440174224",
+    "in_reply_to_user_id": "286418121",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094081855729664331",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@CyberHono 我去日本也得至少明年了😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880979169297022976",
+        "conversation_id": "2094042265056690432",
+        "created_at": "2026-08-30T15:16:58.000Z",
+        "display_text_range": [
+          11,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T16:16:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094081953440174224"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "286418121",
+              "start": 0,
+              "username": "CyberHono"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094081953440174224",
+        "in_reply_to_user_id": "286418121",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094081855729664331",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@CyberHono 我去日本也得至少明年了😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "286418121",
+        "conversation_id": "2094042265056690432",
+        "created_at": "2026-08-30T15:16:35.000Z",
+        "display_text_range": [
+          13,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T16:16:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094081855729664331"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1880979169297022976",
+              "start": 0,
+              "username": "Wesley10032"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094081855729664331",
+        "in_reply_to_user_id": "1880979169297022976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094080566023143572",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@Wesley10032 那应该现在还不至于「旧版」，各车站基本还有吧"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳/♂/08.11.3/友跨🏳️‍⚧️\n政治立场未知/聊天请走下方TG链接\n魔裁(まのさば)/CS2/三角洲/Galgame/IT \n好基友@lockloveovo\n学生党 周末/节假日在线\nCN/EN/JP\n第二账号暂不公开",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 74,
+                "username": "lockloveovo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://telegram.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/Q5wiGuq4W4"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "is_identity_verified": true,
+        "location": "People's Republic of China",
+        "most_recent_tweet_id": "2094081953440174224",
+        "name": "Wesley",
+        "pinned_tweet_id": "2083033063257420070",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1880979169297022976/1785740152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1504,
+          "following_count": 1758,
+          "like_count": 21544,
+          "listed_count": 3,
+          "media_count": 474,
+          "tweet_count": 3476
+        },
+        "url": "https://t.co/Q5wiGuq4W4",
+        "username": "Wesley10032",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2011-04-22T23:51:16.000Z",
+        "description": "🎮  https://t.co/xkvvOEaFaV 🏎️  https://t.co/JHy2gX2Ml7  ☎️  https://t.co/zZGI0xvTGU  📟 https://t.co/09eUmxlkeN\n\n🕘 GMT+9\n🔠 en, zh / ja, es (read-only)\n\navatar by @KGY_HN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 168,
+                "start": 161,
+                "username": "KGY_HN"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "majors.im",
+                "end": 26,
+                "expanded_url": "http://majors.im",
+                "start": 3,
+                "url": "https://t.co/xkvvOEaFaV"
+              },
+              {
+                "display_url": "f1setup.it",
+                "end": 54,
+                "expanded_url": "http://f1setup.it",
+                "start": 31,
+                "url": "https://t.co/JHy2gX2Ml7"
+              },
+              {
+                "display_url": "esim.gg",
+                "end": 83,
+                "expanded_url": "http://esim.gg",
+                "start": 60,
+                "url": "https://t.co/zZGI0xvTGU"
+              },
+              {
+                "display_url": "n.lpa.ee",
+                "end": 110,
+                "expanded_url": "http://n.lpa.ee",
+                "start": 87,
+                "url": "https://t.co/09eUmxlkeN"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "0.td",
+                "end": 23,
+                "expanded_url": "https://0.td/",
+                "start": 0,
+                "url": "https://t.co/i6C0PXlmQf"
+              }
+            ]
+          }
+        },
+        "id": "286418121",
+        "is_identity_verified": true,
+        "location": "Fukuoka",
+        "most_recent_tweet_id": "2094081855729664331",
+        "name": "ieb",
+        "pinned_tweet_id": "2056327506102489437",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/286418121/1483897736",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090434400106516480/uRdBU7_1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2026,
+          "following_count": 514,
+          "like_count": 3941,
+          "listed_count": 7,
+          "media_count": 382,
+          "tweet_count": 4600
+        },
+        "url": "https://t.co/i6C0PXlmQf",
+        "username": "CyberHono",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,371 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880979169297022976",
+    "conversation_id": "2091336370719760497",
+    "created_at": "2026-08-23T01:27:00.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-23T02:27:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091336370719760497"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2016246570312990720",
+          "start": 3,
+          "username": "YuChenawa"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/Vu9w",
+          "end": 139,
+          "start": 122,
+          "url": "https://t.co/Vu9w"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091336370719760497",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091321059983470600",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @YuChenawa: 早安安呐各位～☀️这是一篇比较长的回忆录和碎碎念,哪怕您不想看也点点赞好吗？🥺\n新的一天又开始了,不过今天也是……要开学的日子了TvT🥲\n心里突然有点空落落的,真的舍不得这个夏天,舍不得一起度过这段时光的你们.… https://t.co/Vu9w…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2091321001032511488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQXdXsHbcAAwOMv.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2214,
+        "media_key": "3_2091321016488538112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQXdYlsbsAAHzC-.jpg",
+        "width": 3933
+      },
+      {
+        "height": 2975,
+        "media_key": "3_2091321029159460864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQXdZU5aoAAYP0L.jpg",
+        "width": 4096
+      },
+      {
+        "height": 2977,
+        "media_key": "3_2091321048067399681",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQXdabVa4AEUK8x.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880979169297022976",
+        "conversation_id": "2091336370719760497",
+        "created_at": "2026-08-23T01:27:00.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T02:27:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091336370719760497"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2016246570312990720",
+              "start": 3,
+              "username": "YuChenawa"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/Vu9w",
+              "end": 139,
+              "start": 122,
+              "url": "https://t.co/Vu9w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091336370719760497",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091321059983470600",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @YuChenawa: 早安安呐各位～☀️这是一篇比较长的回忆录和碎碎念,哪怕您不想看也点点赞好吗？🥺\n新的一天又开始了,不过今天也是……要开学的日子了TvT🥲\n心里突然有点空落落的,真的舍不得这个夏天,舍不得一起度过这段时光的你们.… https://t.co/Vu9w…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091321001032511488",
+            "3_2091321016488538112",
+            "3_2091321029159460864",
+            "3_2091321048067399681"
+          ]
+        },
+        "author_id": "2016246570312990720",
+        "conversation_id": "2091321059983470600",
+        "created_at": "2026-08-23T00:26:10.000Z",
+        "display_text_range": [
+          0,
+          105
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T01:26:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091321059983470600"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Vu9wbAu7NO",
+              "end": 129,
+              "expanded_url": "https://x.com/YuChenawa/status/2091321059983470600/photo/1",
+              "media_key": "3_2091321001032511488",
+              "start": 106,
+              "url": "https://t.co/Vu9wbAu7NO"
+            },
+            {
+              "display_url": "pic.x.com/Vu9wbAu7NO",
+              "end": 129,
+              "expanded_url": "https://x.com/YuChenawa/status/2091321059983470600/photo/1",
+              "media_key": "3_2091321016488538112",
+              "start": 106,
+              "url": "https://t.co/Vu9wbAu7NO"
+            },
+            {
+              "display_url": "pic.x.com/Vu9wbAu7NO",
+              "end": 129,
+              "expanded_url": "https://x.com/YuChenawa/status/2091321059983470600/photo/1",
+              "media_key": "3_2091321029159460864",
+              "start": 106,
+              "url": "https://t.co/Vu9wbAu7NO"
+            },
+            {
+              "display_url": "pic.x.com/Vu9wbAu7NO",
+              "end": 129,
+              "expanded_url": "https://x.com/YuChenawa/status/2091321059983470600/photo/1",
+              "media_key": "3_2091321048067399681",
+              "start": 106,
+              "url": "https://t.co/Vu9wbAu7NO"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "01a20da949498784"
+        },
+        "id": "2091321059983470600",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2091321001032511488"
+          },
+          {
+            "media_key": "3_2091321016488538112"
+          },
+          {
+            "media_key": "3_2091321029159460864"
+          },
+          {
+            "media_key": "3_2091321048067399681"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "早安安呐各位～☀️这是一篇比较长的回忆录和碎碎念,哪怕您不想看也点点赞好吗？🥺\n新的一天又开始了,不过今天也是……要开学的日子了TvT🥲\n心里突然有点空落落的,真的舍不得这个夏天,舍不得一起度过这段时光的你们.\n这个假期,可以说是我人生到目前为止最好的一段时光——走过好多座城市,吹过不一样的风,淋过一样的雨,看过不同的日落,也遇见了好多好多温暖的小可爱🥹\n每一座城市都有独特的记忆呢,像南京的新街口、上海的外滩、杭州的城市阳台...那些细碎的片段,现在想起来都像老电影里的画面,带着朦胧的美好…🥺\n特别要提到几个让我难忘的朋友：特地从合肥赶来南京见我的Sy和Epheia,依然忘记不了我们三个在一间房里面干的疯狂事情...(算是开银趴吗?),以及就算在忙WAIC也抽空跑来南京的翅膀🥺,谢谢你的见面礼和之后的忙前忙后…还有就算天气死热还闷仍然愿意陪我们的大小姐🥹(呃啊在整个假期中选择了一个最糟糕的时间去了南京,并且因为自己的懒惰好多地方都没去...,还让大小姐忙前忙后的😭)\n之后还有陪咱们过生日的森森小可爱🥺(超可爱,并且超级好的人呢,熟了之后更是想抱走独占🥺),有不远万里陪我们逛外滩的绾星🥹(后面拐回酒店陪我睡觉了喵.我真是一个超级大坏人呢😈,总之绾星是我的了,谁都不许跟咱抢😈).有陪我聊到深夜的由奈酱和田村棉花糖姐姐和毛巾姐姐🥹(呜哇是你们让我深夜不孤单的,真的特别谢谢你们🥹)还有 在假期末认识的Wesley和Neko小可爱(特别可爱的小两只🤤,真的特别喜欢你们❤️🥰)还有特别特别多的小可爱…真的根本说不完呢💦是你们共同组成了我这份美好且独特的假期🥰,真的非常的感谢你们😘❤️\n现在要重新背上书包，回到熟悉的教室…面对成堆的习题和即将到来的考试……有时候会想🤔，时间是不是过得太快了？那些在一起吃饭的日子，仿佛就在昨天。那些大笑、发呆、为了看日落而不吃饭的时间，怎么这么快就溜走了呢？也许这就是青春的常态——总是在不断告别中成长，在相遇与分离里学会珍惜。这个夏天的阳光、雨水和笑声，我会好好收藏在记忆里…它们会变成未来某天突然想起时，嘴角不自觉扬起的力量…"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 121,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "早安安呐各位～☀️这是一篇比较长的回忆录和碎碎念,哪怕您不想看也点点赞好吗？🥺\n新的一天又开始了,不过今天也是……要开学的日子了TvT🥲\n心里突然有点空落落的,真的舍不得这个夏天,舍不得一起度过这段时光的你们. https://t.co/Vu9wbAu7NO"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳/♂/08.11.3/友跨🏳️‍⚧️\n政治立场未知/聊天请走下方TG链接\n魔裁(まのさば)/CS2/三角洲/Galgame/IT \n好基友@lockloveovo\n学生党 周末/节假日在线\nCN/EN/JP\n防失联@Wesley10033",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 74,
+                "username": "lockloveovo"
+              },
+              {
+                "end": 124,
+                "start": 112,
+                "username": "Wesley10033"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://telegram.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/Q5wiGuq4W4"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "is_identity_verified": false,
+        "location": "People's Republic of China",
+        "most_recent_tweet_id": "2091336370719760497",
+        "name": "Wesley",
+        "pinned_tweet_id": "2083033063257420070",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1880979169297022976/1785740152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1315,
+          "following_count": 1603,
+          "like_count": 18182,
+          "listed_count": 1,
+          "media_count": 434,
+          "tweet_count": 3076
+        },
+        "url": "https://t.co/Q5wiGuq4W4",
+        "username": "Wesley10032",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-01-27T20:27:15.000Z",
+        "description": "这里的每一种颜色，都有属于你勇敢做自己的身影",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yuchen86833",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yuchen86833",
+                "start": 0,
+                "url": "https://t.co/vconkxHXnn"
+              }
+            ]
+          }
+        },
+        "id": "2016246570312990720",
+        "is_identity_verified": false,
+        "location": "天堂✝️",
+        "most_recent_tweet_id": "2091329601507315955",
+        "name": "𝒴𝓊𝒸𝒽ℯ𝓃",
+        "pinned_tweet_id": "2060749702883332402",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2016246570312990720/1769808210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017348660867305473/hJCnFu9n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 590,
+          "following_count": 544,
+          "like_count": 5555,
+          "listed_count": 3,
+          "media_count": 120,
+          "tweet_count": 1603
+        },
+        "url": "https://t.co/vconkxHXnn",
+        "username": "YuChenawa",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

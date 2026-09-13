@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880979169297022976",
+    "conversation_id": "2095529766673928661",
+    "created_at": "2026-09-03T15:10:04.000Z",
+    "display_text_range": [
+      0,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-03T16:10:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2095529766673928661"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/johnternus/sta…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/johnternus/status/2094814214787633367",
+          "start": 24,
+          "url": "https://t.co/FtDdQFU4vH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095529766673928661",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094814214787633367",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "为什么这人发个hello就到了快100万粉丝😭 https://t.co/FtDdQFU4vH"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880979169297022976",
+        "conversation_id": "2095529766673928661",
+        "created_at": "2026-09-03T15:10:04.000Z",
+        "display_text_range": [
+          0,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T16:10:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095529766673928661"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/johnternus/sta…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/johnternus/status/2094814214787633367",
+              "start": 24,
+              "url": "https://t.co/FtDdQFU4vH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095529766673928661",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094814214787633367",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "为什么这人发个hello就到了快100万粉丝😭 https://t.co/FtDdQFU4vH"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2067675948074582016",
+        "conversation_id": "2094814214787633367",
+        "created_at": "2026-09-01T15:46:43.000Z",
+        "display_text_range": [
+          0,
+          5
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T16:46:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094814214787633367"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2094814214787633367",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16922,
+          "impression_count": 84595457,
+          "like_count": 535310,
+          "quote_count": 12512,
+          "reply_count": 70713,
+          "retweet_count": 34870
+        },
+        "reply_settings": "everyone",
+        "text": "hello"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳/♂/08.11.3/友跨🏳️‍⚧️\n政治立场未知/聊天请走下方TG链接\n魔裁(まのさば)/CS2/三角洲/Galgame/IT \n好基友@lockloveovo\n学生党 周末/节假日在线\nCN/EN/JP\n第二账号暂不公开",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 74,
+                "username": "lockloveovo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://telegram.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/Q5wiGuq4W4"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "is_identity_verified": true,
+        "location": "People's Republic of China",
+        "most_recent_tweet_id": "2095529766673928661",
+        "name": "Wesley",
+        "pinned_tweet_id": "2083033063257420070",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1880979169297022976/1785740152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1544,
+          "following_count": 1787,
+          "like_count": 22929,
+          "listed_count": 3,
+          "media_count": 488,
+          "tweet_count": 3606
+        },
+        "url": "https://t.co/Q5wiGuq4W4",
+        "username": "Wesley10032",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/1892248257516224513/SzZdRSkx_bigger.png",
+          "description": "Apple",
+          "url": "https://twitter.com/Apple",
+          "user_id": [
+            "380749300"
+          ]
+        },
+        "created_at": "2026-06-18T18:28:56.000Z",
+        "description": " CEO",
+        "id": "2067675948074582016",
+        "is_identity_verified": false,
+        "location": "Cupertino",
+        "most_recent_tweet_id": "2094814214787633367",
+        "name": "John Ternus",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2067675948074582016/1788276892",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094817326155939840/MVSN5mvP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 920950,
+          "following_count": 3,
+          "like_count": 0,
+          "listed_count": 1060,
+          "media_count": 0,
+          "tweet_count": 1
+        },
+        "url": "",
+        "username": "johnternus",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

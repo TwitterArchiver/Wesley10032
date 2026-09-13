@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880979169297022976",
+    "conversation_id": "2097326416484504001",
+    "created_at": "2026-09-08T14:17:06.000Z",
+    "display_text_range": [
+      12,
+      29
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T15:17:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097328378173120841"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2075854702588432384",
+          "start": 0,
+          "username": "hhmylord66"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097328378173120841",
+    "in_reply_to_user_id": "2075854702588432384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097326416484504001",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hhmylord66 我电脑坏了暂时登不上（\n有空会加的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880979169297022976",
+        "conversation_id": "2097326416484504001",
+        "created_at": "2026-09-08T14:17:06.000Z",
+        "display_text_range": [
+          12,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T15:17:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097328378173120841"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2075854702588432384",
+              "start": 0,
+              "username": "hhmylord66"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097328378173120841",
+        "in_reply_to_user_id": "2075854702588432384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097326416484504001",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hhmylord66 我电脑坏了暂时登不上（\n有空会加的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2075854702588432384",
+        "conversation_id": "2097326416484504001",
+        "created_at": "2026-09-08T14:09:18.000Z",
+        "display_text_range": [
+          0,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T15:09:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097326416484504001"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1880979169297022976",
+              "start": 0,
+              "username": "Wesley10032"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097326416484504001",
+        "in_reply_to_user_id": "1880979169297022976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@Wesley10032 wes酱我想加你的steam好友，通过一下呗"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "description": "中国人🇨🇳/♂/08.11.3\n政治立场未知/聊天请走下方TG链接\n魔裁(まのさば)/CS2/三角洲/Galgame/IT \n好基友@lockloveovo\n高三党/广东中山在居\nCN/EN/JP\n里推@Wesley10033",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 66,
+                "username": "lockloveovo"
+              },
+              {
+                "end": 113,
+                "start": 101,
+                "username": "Wesley10033"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://t.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/HjVzyPDIuK"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "is_identity_verified": true,
+        "location": "中华人民共和国 / P.R.C.",
+        "most_recent_tweet_id": "2097328378173120841",
+        "name": "Wesley",
+        "pinned_tweet_id": "2083033063257420070",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1880979169297022976/1785740152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1622,
+          "following_count": 1844,
+          "like_count": 26206,
+          "listed_count": 2,
+          "media_count": 523,
+          "tweet_count": 3942
+        },
+        "url": "https://t.co/HjVzyPDIuK",
+        "username": "Wesley10032",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-11T08:09:13.000Z",
+        "description": "09 🇨🇳 互fo\n高二｜自由左翼｜科技爱好者｜分享生活\n大号➡️@hhanakin\n政治号@hhinworld\n好朋友@judeza5a",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 33,
+                "username": "hhanakin"
+              },
+              {
+                "end": 56,
+                "start": 46,
+                "username": "hhinworld"
+              },
+              {
+                "end": 69,
+                "start": 60,
+                "username": "judeza5a"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+Ihc47n_EhOoyM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+Ihc47n_EhOoyMmI1",
+                "start": 0,
+                "url": "https://t.co/esbP7PCZL9"
+              }
+            ]
+          }
+        },
+        "id": "2075854702588432384",
+        "is_identity_verified": false,
+        "location": "科洛桑",
+        "most_recent_tweet_id": "2097326416484504001",
+        "name": "ゆめ",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2075854702588432384/1783757736",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084296763431886848/-wwEGKlL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 168,
+          "like_count": 155,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 251
+        },
+        "url": "https://t.co/esbP7PCZL9",
+        "username": "hhmylord66",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

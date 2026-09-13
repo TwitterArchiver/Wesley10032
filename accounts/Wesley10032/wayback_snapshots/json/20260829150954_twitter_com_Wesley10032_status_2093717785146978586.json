@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880979169297022976",
+    "conversation_id": "2093716630203478087",
+    "created_at": "2026-08-29T15:09:54.000Z",
+    "display_text_range": [
+      9,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-29T16:09:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093717785146978586"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 15,
+          "start": 9,
+          "tag": "ffy翻车"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 8,
+          "id": "349336654",
+          "start": 0,
+          "username": "nyaffyy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093717785146978586",
+    "in_reply_to_user_id": "349336654",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093716630203478087",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nyaffyy #ffy翻车"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880979169297022976",
+        "conversation_id": "2093716630203478087",
+        "created_at": "2026-08-29T15:09:54.000Z",
+        "display_text_range": [
+          9,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T16:09:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093717785146978586"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 15,
+              "start": 9,
+              "tag": "ffy翻车"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 8,
+              "id": "349336654",
+              "start": 0,
+              "username": "nyaffyy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093717785146978586",
+        "in_reply_to_user_id": "349336654",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093716630203478087",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nyaffyy #ffy翻车"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "349336654",
+        "conversation_id": "2093716630203478087",
+        "created_at": "2026-08-29T15:05:18.000Z",
+        "display_text_range": [
+          0,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T16:05:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093716630203478087"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2093716630203478087",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🥵我是杯子🥵我是杯子🥵我是杯子🥵"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳/♂/08.11.3/友跨🏳️‍⚧️\n政治立场未知/聊天请走下方TG链接\n魔裁(まのさば)/CS2/三角洲/Galgame/IT \n好基友@lockloveovo\n学生党 周末/节假日在线\nCN/EN/JP\n防失联@Wesley10033",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 74,
+                "username": "lockloveovo"
+              },
+              {
+                "end": 124,
+                "start": 112,
+                "username": "Wesley10033"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://telegram.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/Q5wiGuq4W4"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "is_identity_verified": true,
+        "location": "People's Republic of China",
+        "most_recent_tweet_id": "2093717785146978586",
+        "name": "Wesley",
+        "pinned_tweet_id": "2083033063257420070",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1880979169297022976/1785740152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1482,
+          "following_count": 1742,
+          "like_count": 20709,
+          "listed_count": 3,
+          "media_count": 463,
+          "tweet_count": 3390
+        },
+        "url": "https://t.co/Q5wiGuq4W4",
+        "username": "Wesley10032",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2011-08-05T23:15:41.000Z",
+        "description": "｜友跨｜二次元｜游戏｜\n我喜欢你们所有人🥺🥺\n第一账户@ffynya被锁\n第二账户@hjynya被锁\n第三账户@lyyynya目前存活\n第四账户@lfynya 生活号\n我又复活了",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 27,
+                "username": "ffynya"
+              },
+              {
+                "end": 48,
+                "start": 41,
+                "username": "hjynya"
+              },
+              {
+                "end": 63,
+                "start": 55,
+                "username": "lyyynya"
+              },
+              {
+                "end": 79,
+                "start": 72,
+                "username": "lfynya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/ffynya",
+                "end": 23,
+                "expanded_url": "https://t.me/ffynya",
+                "start": 0,
+                "url": "https://t.co/wUCKSch7yB"
+              }
+            ]
+          }
+        },
+        "id": "349336654",
+        "is_identity_verified": false,
+        "location": "EARTH",
+        "most_recent_tweet_id": "2093716724499779936",
+        "name": "😄喵喵ffy😄",
+        "pinned_tweet_id": "2092895062309171297",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/349336654/1787818128",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092886991214145536/JdP5vkee_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 24,
+          "like_count": 121,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 130
+        },
+        "url": "https://t.co/wUCKSch7yB",
+        "username": "nyaffyy",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

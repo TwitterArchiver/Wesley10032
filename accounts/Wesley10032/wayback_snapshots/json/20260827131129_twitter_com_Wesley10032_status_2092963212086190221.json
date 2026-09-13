@@ -1,0 +1,434 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880979169297022976",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1378146821214666753",
+          "name": "Sanae Takaichi"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "id": "1378146821214666753",
+          "name": "Sanae Takaichi"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1378146821214666753",
+          "name": "Sanae Takaichi"
+        }
+      }
+    ],
+    "conversation_id": "2092963212086190221",
+    "created_at": "2026-08-27T13:11:29.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T14:11:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092963212086190221"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "218434058",
+          "start": 3,
+          "username": "takaichi_sanae"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092963212086190221",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2306
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092765183064379846",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @takaichi_sanae: この度、ネパールと中国の国境付近で大規模洪水が発生し、中国にも大きな被害が生じていることに、大変心を痛めています。\n\n犠牲になられた方々に哀悼の意を表すとともに、御遺族に対し謹んでお悔やみ申し上げます。\nまた、被害に遭われた方々に対しても…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880979169297022976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1378146821214666753",
+              "name": "Sanae Takaichi"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "id": "1378146821214666753",
+              "name": "Sanae Takaichi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1378146821214666753",
+              "name": "Sanae Takaichi"
+            }
+          }
+        ],
+        "conversation_id": "2092963212086190221",
+        "created_at": "2026-08-27T13:11:29.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T14:11:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092963212086190221"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "218434058",
+              "start": 3,
+              "username": "takaichi_sanae"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092963212086190221",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2306
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092765183064379846",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @takaichi_sanae: この度、ネパールと中国の国境付近で大規模洪水が発生し、中国にも大きな被害が生じていることに、大変心を痛めています。\n\n犠牲になられた方々に哀悼の意を表すとともに、御遺族に対し謹んでお悔やみ申し上げます。\nまた、被害に遭われた方々に対しても…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "218434058",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1378146821214666753",
+              "name": "Sanae Takaichi"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "id": "1378146821214666753",
+              "name": "Sanae Takaichi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1378146821214666753",
+              "name": "Sanae Takaichi"
+            }
+          }
+        ],
+        "conversation_id": "2092765183064379846",
+        "created_at": "2026-08-27T00:04:35.000Z",
+        "display_text_range": [
+          0,
+          134
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T01:04:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092765183064379846"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2092765183064379846",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 568,
+          "impression_count": 3248684,
+          "like_count": 33139,
+          "quote_count": 233,
+          "reply_count": 1557,
+          "retweet_count": 2305
+        },
+        "reply_settings": "everyone",
+        "text": "この度、ネパールと中国の国境付近で大規模洪水が発生し、中国にも大きな被害が生じていることに、大変心を痛めています。\n\n犠牲になられた方々に哀悼の意を表すとともに、御遺族に対し謹んでお悔やみ申し上げます。\nまた、被害に遭われた方々に対しても、心からお見舞い申し上げます。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳/♂/08.11.3/友跨🏳️‍⚧️\n政治立场未知/聊天请走下方TG链接\n魔裁(まのさば)/CS2/三角洲/Galgame/IT \n好基友@lockloveovo\n学生党 周末/节假日在线\nCN/EN/JP\n防失联@Wesley10033",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 74,
+                "username": "lockloveovo"
+              },
+              {
+                "end": 124,
+                "start": 112,
+                "username": "Wesley10033"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://telegram.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/Q5wiGuq4W4"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "is_identity_verified": false,
+        "location": "People's Republic of China",
+        "most_recent_tweet_id": "2092963212086190221",
+        "name": "Wesley",
+        "pinned_tweet_id": "2083033063257420070",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1880979169297022976/1785740152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1425,
+          "following_count": 1681,
+          "like_count": 19238,
+          "listed_count": 3,
+          "media_count": 447,
+          "tweet_count": 3235
+        },
+        "url": "https://t.co/Q5wiGuq4W4",
+        "username": "Wesley10032",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2010-11-22T10:18:33.000Z",
+        "description": "衆議院議員 自由民主党奈良県第2選挙区支部長\n※総理在任中の投稿は、一部広報スタッフによるものを含みます。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "sanae.gr.jp",
+                "end": 23,
+                "expanded_url": "https://www.sanae.gr.jp/",
+                "start": 0,
+                "url": "https://t.co/VNedKNe7ny"
+              }
+            ]
+          }
+        },
+        "id": "218434058",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092952815027286187",
+        "name": "高市早苗",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/218434058/1778462883",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985639760669655041/3yz_lJbK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2984005,
+          "following_count": 0,
+          "like_count": 46,
+          "listed_count": 6598,
+          "media_count": 521,
+          "tweet_count": 1738
+        },
+        "url": "https://t.co/VNedKNe7ny",
+        "username": "takaichi_sanae",
+        "verified": true,
+        "verified_type": "government"
+      }
+    ]
+  }
+}

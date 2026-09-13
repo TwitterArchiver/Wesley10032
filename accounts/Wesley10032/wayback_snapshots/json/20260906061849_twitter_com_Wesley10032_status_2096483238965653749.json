@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880979169297022976",
+    "conversation_id": "2096465921154138196",
+    "created_at": "2026-09-06T06:18:49.000Z",
+    "display_text_range": [
+      13,
+      26
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T07:18:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096483238965653749"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2094381539102732289",
+          "start": 0,
+          "username": "kaffeetomas"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096483238965653749",
+    "in_reply_to_user_id": "2094381539102732289",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096483001186111718",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@kaffeetomas cf 我搭过，不太流畅（）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2096482966658580482",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRg0JolXgAIQg3o.jpg",
+        "width": 1164
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880979169297022976",
+        "conversation_id": "2096465921154138196",
+        "created_at": "2026-09-06T06:18:49.000Z",
+        "display_text_range": [
+          13,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T07:18:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096483238965653749"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2094381539102732289",
+              "start": 0,
+              "username": "kaffeetomas"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096483238965653749",
+        "in_reply_to_user_id": "2094381539102732289",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096483001186111718",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@kaffeetomas cf 我搭过，不太流畅（）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096482966658580482"
+          ]
+        },
+        "author_id": "2094381539102732289",
+        "conversation_id": "2096465921154138196",
+        "created_at": "2026-09-06T06:17:52.000Z",
+        "display_text_range": [
+          13,
+          45
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T07:17:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096483001186111718"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1880979169297022976",
+              "start": 0,
+              "username": "Wesley10032"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iEF32cFMcP",
+              "end": 69,
+              "expanded_url": "https://x.com/kaffeetomas/status/2096483001186111718/photo/1",
+              "media_key": "3_2096482966658580482",
+              "start": 46,
+              "url": "https://t.co/iEF32cFMcP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096483001186111718",
+        "in_reply_to_user_id": "1880979169297022976",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096482966658580482"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096465921154138196",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@Wesley10032 cf節點的話可以免費自己搭建啊，一點都不複雜，教程yt上一搜就有 https://t.co/iEF32cFMcP"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "description": "中国人🇨🇳/♂/08.11.3\n政治立场未知/聊天请走下方TG链接\n魔裁(まのさば)/CS2/三角洲/Galgame/IT \n好基友@lockloveovo\n高三党/广东中山在居\nCN/EN/JP\n里推@Wesley10033",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 66,
+                "username": "lockloveovo"
+              },
+              {
+                "end": 113,
+                "start": 101,
+                "username": "Wesley10033"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://t.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/HjVzyPDIuK"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "is_identity_verified": true,
+        "location": "中华人民共和国 / P.R.C.",
+        "most_recent_tweet_id": "2096483238965653749",
+        "name": "Wesley",
+        "pinned_tweet_id": "2083033063257420070",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1880979169297022976/1785740152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1578,
+          "following_count": 1815,
+          "like_count": 24464,
+          "listed_count": 2,
+          "media_count": 503,
+          "tweet_count": 3744
+        },
+        "url": "https://t.co/HjVzyPDIuK",
+        "username": "Wesley10032",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-31T11:09:05.000Z",
+        "description": "Die Würde des Menschen ist unantastbar.",
+        "id": "2094381539102732289",
+        "is_identity_verified": false,
+        "location": "Kaffee",
+        "most_recent_tweet_id": "2096483001186111718",
+        "name": "Kaffee",
+        "pinned_tweet_id": "2095498020590686336",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2094381539102732289/1788488108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095694866307252224/h79FVuBX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 25,
+          "like_count": 818,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 386
+        },
+        "url": "",
+        "username": "kaffeetomas",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

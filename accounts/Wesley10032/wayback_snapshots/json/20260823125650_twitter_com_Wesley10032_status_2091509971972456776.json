@@ -1,0 +1,331 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880979169297022976",
+    "conversation_id": "2091398411090276526",
+    "created_at": "2026-08-23T12:56:50.000Z",
+    "display_text_range": [
+      7,
+      24
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-23T13:56:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091509971972456776"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "3029501171",
+          "start": 0,
+          "username": "ltntw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091509971972456776",
+    "in_reply_to_user_id": "3029501171",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091398411090276526",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ltntw 南韩大部分民众不是都认可一边一国吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 600,
+        "media_key": "3_2091398403888713728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQYjxIObEAAF8OT.png",
+        "width": 500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880979169297022976",
+        "conversation_id": "2091398411090276526",
+        "created_at": "2026-08-23T12:56:50.000Z",
+        "display_text_range": [
+          7,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T13:56:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091509971972456776"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "3029501171",
+              "start": 0,
+              "username": "ltntw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091509971972456776",
+        "in_reply_to_user_id": "3029501171",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091398411090276526",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ltntw 南韩大部分民众不是都认可一边一国吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091398403888713728"
+          ]
+        },
+        "author_id": "3029501171",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1451358585376575499",
+              "name": "NZ roadmap"
+            }
+          }
+        ],
+        "conversation_id": "2091398411090276526",
+        "created_at": "2026-08-23T05:33:32.000Z",
+        "display_text_range": [
+          0,
+          65
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T06:33:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091398411090276526"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 57,
+              "start": 54,
+              "tag": "中國"
+            },
+            {
+              "end": 61,
+              "start": 58,
+              "tag": "南韓"
+            },
+            {
+              "end": 65,
+              "start": 62,
+              "tag": "北韓"
+            }
+          ],
+          "urls": [
+            {
+              "description": "中國外交部長王毅19日和南韓外交部長趙顯會晤時，指稱「樂見韓朝（南北韓）兩國逐步邁向和平共處，最終實現半島長治久安」，韓媒直指這是中國外交最高負責人首次將南北韓關係稱為「兩國」，怒斥中方根本沒站在南韓的立場，「那麼我們稱中國和台灣為兩國是否也合情合理？」《朝鮮日報》22日刊出的社論指出，中國1992年和南韓建交時，在聯合公報裡明確指出「中華人民共和國政府尊重朝鮮民族早日實現朝鮮半島和平統一的願望，並支持由朝鮮民族自己來實現朝鮮半島的和平統一」，這無疑顯示中國當初將南北韓關係定義為以統一為目標的雙方關係，而非兩個分開的國家。",
+              "display_url": "news.ltn.com.tw/news/world/bre…",
+              "end": 52,
+              "expanded_url": "https://news.ltn.com.tw/news/world/breakingnews/5549201",
+              "start": 29,
+              "status": 200,
+              "title": "王毅稱南北韓是兩國 韓媒怒嗆：我們也可說台灣、中國是兩國 - 國際 - 自由時報電子報",
+              "unwound_url": "https://news.ltn.com.tw/news/world/breakingnews/5549201",
+              "url": "https://t.co/EVL4kILPhi"
+            },
+            {
+              "display_url": "pic.x.com/Fx4nLvNgVh",
+              "end": 89,
+              "expanded_url": "https://x.com/ltntw/status/2091398411090276526/photo/1",
+              "media_key": "3_2091398403888713728",
+              "start": 66,
+              "url": "https://t.co/Fx4nLvNgVh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091398411090276526",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2091398403888713728"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 12067,
+          "like_count": 375,
+          "quote_count": 6,
+          "reply_count": 39,
+          "retweet_count": 22
+        },
+        "reply_settings": "everyone",
+        "text": "韓媒是不是誤會什麼？台灣跟中國本來就是兩國！\n\n圖文報導：https://t.co/EVL4kILPhi\n\n#中國 #南韓 #北韓 https://t.co/Fx4nLvNgVh"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳/♂/08.11.3/友跨🏳️‍⚧️\n政治立场未知/聊天请走下方TG链接\n魔裁(まのさば)/CS2/三角洲/Galgame/IT \n好基友@lockloveovo\n学生党 周末/节假日在线\nCN/EN/JP\n防失联@Wesley10033",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 74,
+                "username": "lockloveovo"
+              },
+              {
+                "end": 124,
+                "start": 112,
+                "username": "Wesley10033"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://telegram.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/Q5wiGuq4W4"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "is_identity_verified": false,
+        "location": "People's Republic of China",
+        "most_recent_tweet_id": "2091509971972456776",
+        "name": "Wesley",
+        "pinned_tweet_id": "2083033063257420070",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1880979169297022976/1785740152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1352,
+          "following_count": 1645,
+          "like_count": 18606,
+          "listed_count": 1,
+          "media_count": 441,
+          "tweet_count": 3153
+        },
+        "url": "https://t.co/Q5wiGuq4W4",
+        "username": "Wesley10032",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2015-02-11T04:46:42.000Z",
+        "description": "提供第一手全球各地最即時的突發事件報導，為網友精準掌握新聞脈動。Liberty Times is the largest newspaper by circulation in Taiwan, providing national and international real-time news.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ltn.com.tw",
+                "end": 23,
+                "expanded_url": "http://www.ltn.com.tw/",
+                "start": 0,
+                "url": "https://t.co/NNg4IPHN47"
+              }
+            ]
+          }
+        },
+        "id": "3029501171",
+        "is_identity_verified": false,
+        "location": "台北市內湖區瑞光路399號14樓",
+        "most_recent_tweet_id": "2091499601887162736",
+        "name": "自由時報",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3029501171/1782177058",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069226668531888128/a7zz9AyZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138158,
+          "following_count": 74,
+          "like_count": 229,
+          "listed_count": 778,
+          "media_count": 28869,
+          "tweet_count": 30664
+        },
+        "url": "https://t.co/NNg4IPHN47",
+        "username": "ltntw",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

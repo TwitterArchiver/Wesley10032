@@ -1,0 +1,643 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2092348929773903872"
+      ],
+      "media_source_tweet_id": [
+        "2092348933892702283"
+      ]
+    },
+    "author_id": "1880979169297022976",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "description": "All the action from Major League Soccer.",
+          "id": "10000279589",
+          "name": "MLS Soccer"
+        }
+      },
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10029304577",
+          "name": "MLS Soccer"
+        }
+      },
+      {
+        "domain": {
+          "description": "A sports team organization, like Arsenal and the Boston Celtics",
+          "id": "12",
+          "name": "Sports Team"
+        },
+        "entity": {
+          "id": "731226159904514048",
+          "name": "New York Red Bulls"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+          "id": "1557697289971322880",
+          "name": "Sports & Fitness Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "731226159904514048",
+          "name": "New York Red Bulls"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "733756536430809088",
+          "name": "Soccer"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Sports",
+          "id": "847900493514891265",
+          "name": "Sports"
+        }
+      }
+    ],
+    "conversation_id": "2092615213598359751",
+    "created_at": "2026-08-26T14:08:40.000Z",
+    "display_text_range": [
+      0,
+      89
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T15:08:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092615213598359751"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "27092557",
+          "start": 3,
+          "username": "NewYorkRedBulls"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/P2sLNnzXBv",
+          "end": 89,
+          "expanded_url": "https://x.com/NewYorkRedBulls/status/2092348933892702283/photo/1",
+          "media_key": "3_2092348929773903872",
+          "start": 66,
+          "url": "https://t.co/P2sLNnzXBv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092615213598359751",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2092348929773903872"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 558
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092348933892702283",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NewYorkRedBulls: Niu Lai? We know a bull.\n \n——————\n \n牛来？红牛也来! https://t.co/P2sLNnzXBv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1875,
+        "media_key": "3_2092348929773903872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQmERBFXoAAdcZC.jpg",
+        "width": 1500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092348929773903872"
+          ],
+          "media_source_tweet_id": [
+            "2092348933892702283"
+          ]
+        },
+        "author_id": "1880979169297022976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "description": "All the action from Major League Soccer.",
+              "id": "10000279589",
+              "name": "MLS Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10029304577",
+              "name": "MLS Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A sports team organization, like Arsenal and the Boston Celtics",
+              "id": "12",
+              "name": "Sports Team"
+            },
+            "entity": {
+              "id": "731226159904514048",
+              "name": "New York Red Bulls"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "731226159904514048",
+              "name": "New York Red Bulls"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          }
+        ],
+        "conversation_id": "2092615213598359751",
+        "created_at": "2026-08-26T14:08:40.000Z",
+        "display_text_range": [
+          0,
+          89
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T15:08:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092615213598359751"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "27092557",
+              "start": 3,
+              "username": "NewYorkRedBulls"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/P2sLNnzXBv",
+              "end": 89,
+              "expanded_url": "https://x.com/NewYorkRedBulls/status/2092348933892702283/photo/1",
+              "media_key": "3_2092348929773903872",
+              "start": 66,
+              "url": "https://t.co/P2sLNnzXBv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092615213598359751",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092348929773903872"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 558
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092348933892702283",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @NewYorkRedBulls: Niu Lai? We know a bull.\n \n——————\n \n牛来？红牛也来! https://t.co/P2sLNnzXBv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092348929773903872"
+          ]
+        },
+        "author_id": "27092557",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A sports team organization, like Arsenal and the Boston Celtics",
+              "id": "12",
+              "name": "Sports Team"
+            },
+            "entity": {
+              "id": "731226159904514048",
+              "name": "New York Red Bulls"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "731226159904514048",
+              "name": "New York Red Bulls"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1243191799197233153",
+              "name": "New York City"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265136644987871232",
+              "name": "New York State"
+            }
+          },
+          {
+            "domain": {
+              "description": "For local-level news entities",
+              "id": "171",
+              "name": "Local News"
+            },
+            "entity": {
+              "id": "1243191799197233153",
+              "name": "New York City"
+            }
+          }
+        ],
+        "conversation_id": "2092348933892702283",
+        "created_at": "2026-08-25T20:30:34.000Z",
+        "display_text_range": [
+          0,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T21:30:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092348933892702283"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/P2sLNnzXBv",
+              "end": 68,
+              "expanded_url": "https://x.com/NewYorkRedBulls/status/2092348933892702283/photo/1",
+              "media_key": "3_2092348929773903872",
+              "start": 45,
+              "url": "https://t.co/P2sLNnzXBv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092348933892702283",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092348929773903872"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 425,
+          "impression_count": 308266,
+          "like_count": 6054,
+          "quote_count": 175,
+          "reply_count": 331,
+          "retweet_count": 558
+        },
+        "reply_settings": "everyone",
+        "text": "Niu Lai? We know a bull.\n \n——————\n \n牛来？红牛也来! https://t.co/P2sLNnzXBv"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳/♂/08.11.3/友跨🏳️‍⚧️\n政治立场未知/聊天请走下方TG链接\n魔裁(まのさば)/CS2/三角洲/Galgame/IT \n好基友@lockloveovo\n学生党 周末/节假日在线\nCN/EN/JP\n防失联@Wesley10033",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 74,
+                "username": "lockloveovo"
+              },
+              {
+                "end": 124,
+                "start": 112,
+                "username": "Wesley10033"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://telegram.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/Q5wiGuq4W4"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "is_identity_verified": false,
+        "location": "People's Republic of China",
+        "most_recent_tweet_id": "2092615213598359751",
+        "name": "Wesley",
+        "pinned_tweet_id": "2083033063257420070",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1880979169297022976/1785740152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1405,
+          "following_count": 1674,
+          "like_count": 19064,
+          "listed_count": 3,
+          "media_count": 446,
+          "tweet_count": 3215
+        },
+        "url": "https://t.co/Q5wiGuq4W4",
+        "username": "Wesley10032",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2009-03-27T20:44:03.000Z",
+        "description": "RED RUNS DEEP 🛡️🛡️🛡️ @NYRBII 🔴 @RedBullsAcademy 🔴 @SI_Stadium 🔴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 21,
+                "username": "NYRBII"
+              },
+              {
+                "end": 47,
+                "start": 31,
+                "username": "RedBullsAcademy"
+              },
+              {
+                "end": 61,
+                "start": 50,
+                "username": "SI_Stadium"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "newyorkredbulls.com",
+                "end": 23,
+                "expanded_url": "https://newyorkredbulls.com/",
+                "start": 0,
+                "url": "https://t.co/SzzynrZpZ2"
+              }
+            ]
+          }
+        },
+        "id": "27092557",
+        "is_identity_verified": false,
+        "location": "Sports Illustrated Stadium",
+        "most_recent_tweet_id": "2092612580900528509",
+        "name": "Red Bull New York",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/27092557/1740668090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008596353992273920/w2Ht1zxu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 225229,
+          "following_count": 3419,
+          "like_count": 22688,
+          "listed_count": 2646,
+          "media_count": 35176,
+          "tweet_count": 90510
+        },
+        "url": "https://t.co/SzzynrZpZ2",
+        "username": "NewYorkRedBulls",
+        "verified": true,
+        "verified_type": "business"
+      }
+    ]
+  }
+}

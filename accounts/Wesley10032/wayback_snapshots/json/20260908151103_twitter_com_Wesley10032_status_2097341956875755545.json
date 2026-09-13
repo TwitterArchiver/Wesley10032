@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880979169297022976",
+    "conversation_id": "2097193066188951642",
+    "created_at": "2026-09-08T15:11:03.000Z",
+    "display_text_range": [
+      14,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T16:11:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097341956875755545"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "760811174858330112",
+          "start": 0,
+          "username": "Sager_wang07"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097341956875755545",
+    "in_reply_to_user_id": "760811174858330112",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097341488598487489",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@Sager_wang07 🤔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880979169297022976",
+        "conversation_id": "2097193066188951642",
+        "created_at": "2026-09-08T15:11:03.000Z",
+        "display_text_range": [
+          14,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T16:11:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097341956875755545"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "760811174858330112",
+              "start": 0,
+              "username": "Sager_wang07"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097341956875755545",
+        "in_reply_to_user_id": "760811174858330112",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097341488598487489",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@Sager_wang07 🤔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "760811174858330112",
+        "conversation_id": "2097193066188951642",
+        "created_at": "2026-09-08T15:09:12.000Z",
+        "display_text_range": [
+          13,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T16:09:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097341488598487489"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1880979169297022976",
+              "start": 0,
+              "username": "Wesley10032"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097341488598487489",
+        "in_reply_to_user_id": "1880979169297022976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097193066188951642",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@Wesley10032 要不我磕两粒"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "description": "中国人🇨🇳/♂/08.11.3\n政治立场未知/聊天请走下方TG链接\n魔裁(まのさば)/CS2/三角洲/Galgame/IT \n好基友@lockloveovo\n高三党/广东中山在居\nCN/EN/JP\n里推@Wesley10033",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 66,
+                "username": "lockloveovo"
+              },
+              {
+                "end": 113,
+                "start": 101,
+                "username": "Wesley10033"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://t.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/HjVzyPDIuK"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "is_identity_verified": true,
+        "location": "中华人民共和国 / P.R.C.",
+        "most_recent_tweet_id": "2097341956875755545",
+        "name": "Wesley",
+        "pinned_tweet_id": "2083033063257420070",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1880979169297022976/1785740152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1622,
+          "following_count": 1842,
+          "like_count": 26264,
+          "listed_count": 2,
+          "media_count": 524,
+          "tweet_count": 3947
+        },
+        "url": "https://t.co/HjVzyPDIuK",
+        "username": "Wesley10032",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2016-08-03T12:14:54.000Z",
+        "description": "𝓜𝓪𝓴𝓮 𝓗𝓮𝓷𝓪𝓷 𝓰𝓻𝓮𝓪𝓽 𝓪𝓰𝓪𝓲𝓷\n/逃生舱@maybe_fuckU\n/被我玩死的野儿子@TZzhuanjia\n/以下标签有好内容可以@我来鉴赏\n#DELTARUNE #UNDERTALE #Citlali #原神",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 88,
+                "start": 78,
+                "tag": "DELTARUNE"
+              },
+              {
+                "end": 99,
+                "start": 89,
+                "tag": "UNDERTALE"
+              },
+              {
+                "end": 108,
+                "start": 100,
+                "tag": "Citlali"
+              },
+              {
+                "end": 112,
+                "start": 109,
+                "tag": "原神"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 39,
+                "start": 27,
+                "username": "maybe_fuckU"
+              },
+              {
+                "end": 60,
+                "start": 49,
+                "username": "TZzhuanjia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/citlalilover07…",
+                "end": 23,
+                "expanded_url": "https://x.com/citlalilover07?s=11",
+                "start": 0,
+                "url": "https://t.co/FQPcJ2HFZj"
+              }
+            ]
+          }
+        },
+        "id": "760811174858330112",
+        "is_identity_verified": false,
+        "location": "無限",
+        "most_recent_tweet_id": "2097341488598487489",
+        "name": "王梦圆🇦🇺🏳️‍⚧️",
+        "pinned_tweet_id": "2092119283128005074",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/760811174858330112/1785375072",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083942637393092609/uNrDimAO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1718,
+          "following_count": 555,
+          "like_count": 439,
+          "listed_count": 4,
+          "media_count": 207,
+          "tweet_count": 1549
+        },
+        "url": "https://t.co/FQPcJ2HFZj",
+        "username": "Sager_wang07",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

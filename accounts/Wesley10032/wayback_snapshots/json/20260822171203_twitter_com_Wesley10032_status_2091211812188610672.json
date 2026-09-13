@@ -1,0 +1,478 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880979169297022976",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Saitama",
+          "id": "1009173667677286400",
+          "name": "Saitama"
+        }
+      },
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Tokyo",
+          "id": "855095546553393152",
+          "name": "Tokyo"
+        }
+      }
+    ],
+    "conversation_id": "2091211812188610672",
+    "created_at": "2026-08-22T17:12:03.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T18:12:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091211812188610672"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "256401886",
+          "start": 3,
+          "username": "nhk_seikatsu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091211812188610672",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2279
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091210211717771501",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nhk_seikatsu: 【地震速報・東京23区で震度5弱】\n今の地震は午前2後ごろ、\n茨城県北部、\n茨城県南部\n埼玉県南部\n千葉県北西部で\nそして東京23区でも\n震度5弱の揺れを観測する地震がありました\n揺れた地域のみなさん、落ち着いて身を守ってください\n\nこの地震…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 360,
+        "media_key": "3_2091210132193689600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQV4iRgaQAAbg--.jpg",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880979169297022976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Saitama",
+              "id": "1009173667677286400",
+              "name": "Saitama"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Tokyo",
+              "id": "855095546553393152",
+              "name": "Tokyo"
+            }
+          }
+        ],
+        "conversation_id": "2091211812188610672",
+        "created_at": "2026-08-22T17:12:03.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T18:12:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091211812188610672"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "256401886",
+              "start": 3,
+              "username": "nhk_seikatsu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091211812188610672",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2279
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091210211717771501",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nhk_seikatsu: 【地震速報・東京23区で震度5弱】\n今の地震は午前2後ごろ、\n茨城県北部、\n茨城県南部\n埼玉県南部\n千葉県北西部で\nそして東京23区でも\n震度5弱の揺れを観測する地震がありました\n揺れた地域のみなさん、落ち着いて身を守ってください\n\nこの地震…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091210132193689600"
+          ]
+        },
+        "author_id": "256401886",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Weather",
+              "id": "857083369514876928",
+              "name": "Weather"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1332265012266631169",
+              "name": "Tsunamis"
+            }
+          },
+          {
+            "domain": {
+              "description": "Weather-related topics like Boston weather or Earthquakes",
+              "id": "155",
+              "name": "Weather"
+            },
+            "entity": {
+              "id": "1332265012266631169",
+              "name": "Tsunamis"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Saitama",
+              "id": "1009173667677286400",
+              "name": "Saitama"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "175",
+              "name": "Emergency Events"
+            },
+            "entity": {
+              "id": "1332265012266631169",
+              "name": "Tsunamis"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Tokyo",
+              "id": "855095546553393152",
+              "name": "Tokyo"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "気象庁によれば、地震がありました。",
+              "id": "1374413205275996170",
+              "name": "地震のニュース（テスト）"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1451358585376575499",
+              "name": "NZ roadmap"
+            }
+          }
+        ],
+        "conversation_id": "2091210211717771501",
+        "created_at": "2026-08-22T17:05:41.000Z",
+        "display_text_range": [
+          0,
+          136
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T18:05:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091210211717771501"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dHKiwQ0C3V",
+              "end": 160,
+              "expanded_url": "https://x.com/nhk_seikatsu/status/2091210211717771501/photo/1",
+              "media_key": "3_2091210132193689600",
+              "start": 137,
+              "url": "https://t.co/dHKiwQ0C3V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091210211717771501",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2091210132193689600"
+          }
+        ],
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 190,
+                "start": 183,
+                "tag": "緊急地震速報"
+              },
+              {
+                "end": 194,
+                "start": 191,
+                "tag": "地震"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "news.web.nhk/kishou-saigai/…",
+                "end": 182,
+                "expanded_url": "https://news.web.nhk/kishou-saigai/earthquake/",
+                "start": 159,
+                "url": "https://t.co/PDtF8cSxXO"
+              }
+            ]
+          },
+          "text": "【地震速報・東京23区で震度5弱】\n今の地震は午前2後ごろ、\n茨城県北部、\n茨城県南部\n埼玉県南部\n千葉県北西部で\nそして東京23区でも\n震度5弱の揺れを観測する地震がありました\n揺れた地域のみなさん、落ち着いて身を守ってください\n\nこの地震による津波の心配はありません。\n\n今後の詳しい情報はこちらをご覧ください。\nhttps://t.co/PDtF8cSxXO\n#緊急地震速報\n#地震"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 60,
+          "impression_count": 145892,
+          "like_count": 1268,
+          "quote_count": 152,
+          "reply_count": 16,
+          "retweet_count": 2244
+        },
+        "reply_settings": "everyone",
+        "text": "【地震速報・東京23区で震度5弱】\n今の地震は午前2後ごろ、\n茨城県北部、\n茨城県南部\n埼玉県南部\n千葉県北西部で\nそして東京23区でも\n震度5弱の揺れを観測する地震がありました\n揺れた地域のみなさん、落ち着いて身を守ってください\n\nこの地震による津波の心配はありません。 https://t.co/dHKiwQ0C3V"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳/♂/08.11.3/友跨🏳️‍⚧️\n政治立场未知/聊天请走下方TG链接\n魔裁(まのさば)/CS2/三角洲/Galgame/IT \n好基友@lockloveovo\n学生党 周末/节假日在线\nCN/EN/JP\n防失联@Wesley10033",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 74,
+                "username": "lockloveovo"
+              },
+              {
+                "end": 124,
+                "start": 112,
+                "username": "Wesley10033"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://telegram.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/Q5wiGuq4W4"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "is_identity_verified": false,
+        "location": "People's Republic of China",
+        "most_recent_tweet_id": "2091211812188610672",
+        "name": "Wesley",
+        "pinned_tweet_id": "2083033063257420070",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1880979169297022976/1785740152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1313,
+          "following_count": 1603,
+          "like_count": 18145,
+          "listed_count": 1,
+          "media_count": 434,
+          "tweet_count": 3071
+        },
+        "url": "https://t.co/Q5wiGuq4W4",
+        "username": "Wesley10032",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2011-02-23T07:30:32.000Z",
+        "description": "「あなたの命と暮らしを守る」情報をお届けするＮＨＫ公式アカウントです。 地震や台風、大雨、大雪などの災害の情報や防災減災に役立つ情報、それに子育てや消費生活など暮らしの安心情報をお伝えします（利用規約: https://t.co/a9FXMnqQtN フォローについて:https://t.co/99rLDYYSkj )",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "nhk.jp/rules",
+                "end": 125,
+                "expanded_url": "http://nhk.jp/rules",
+                "start": 102,
+                "url": "https://t.co/a9FXMnqQtN"
+              },
+              {
+                "display_url": "nhk.jp/tw_f",
+                "end": 158,
+                "expanded_url": "http://nhk.jp/tw_f",
+                "start": 135,
+                "url": "https://t.co/99rLDYYSkj"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "news.web.nhk/newsweb",
+                "end": 23,
+                "expanded_url": "https://news.web.nhk/newsweb",
+                "start": 0,
+                "url": "https://t.co/rRMtPeVU9w"
+              }
+            ]
+          }
+        },
+        "id": "256401886",
+        "is_identity_verified": false,
+        "location": "東京都渋谷区神南",
+        "most_recent_tweet_id": "2091210742334943619",
+        "name": "ＮＨＫ生活・防災",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/256401886/1603115757",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1232909240752168960/O_KgYXx2_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1342265,
+          "following_count": 80,
+          "like_count": 30,
+          "listed_count": 39509,
+          "media_count": 8706,
+          "tweet_count": 79334
+        },
+        "url": "https://t.co/rRMtPeVU9w",
+        "username": "nhk_seikatsu",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

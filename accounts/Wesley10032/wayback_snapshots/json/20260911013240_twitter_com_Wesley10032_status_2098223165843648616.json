@@ -1,0 +1,458 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880979169297022976",
+    "conversation_id": "2097949166546657568",
+    "created_at": "2026-09-11T01:32:40.000Z",
+    "display_text_range": [
+      8,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T02:32:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098223165843648616"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "820285264819933184",
+          "start": 0,
+          "username": "lencx_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098223165843648616",
+    "in_reply_to_user_id": "820285264819933184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097949166546657568",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lencx_ md什么弱智设计\n一点都不直观"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6033,
+        "height": 1080,
+        "media_key": "13_2097948806985785351",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2097948806985785351/img/dnY-XSX97VX6EMGJ.jpg",
+        "public_metrics": {
+          "view_count": 107857
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2097948806985785351/vid/avc1/1280x720/L8XkomQnrLnnRJk5.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2097948806985785351/vid/avc1/1920x1080/VAUPpgKe6VGWnVXy.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2097948806985785351/pl/9ZYkAE5dWrEJ00Wg.m3u8"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2097948806985785351/vid/avc1/640x360/Mzk7xDP5RhqEAcw-.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2097948806985785351/vid/avc1/480x270/xR_1rR60P0P4WSY8.mp4"
+          }
+        ],
+        "width": 1920
+      },
+      {
+        "height": 427,
+        "media_key": "3_2097948806902128640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR1pUxBbIAAIBde.jpg",
+        "width": 437
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880979169297022976",
+        "conversation_id": "2097949166546657568",
+        "created_at": "2026-09-11T01:32:40.000Z",
+        "display_text_range": [
+          8,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T02:32:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098223165843648616"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "820285264819933184",
+              "start": 0,
+              "username": "lencx_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098223165843648616",
+        "in_reply_to_user_id": "820285264819933184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097949166546657568",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lencx_ md什么弱智设计\n一点都不直观"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2097948806985785351",
+            "3_2097948806902128640"
+          ]
+        },
+        "author_id": "820285264819933184",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10024011738",
+              "name": "Apple - iPhone"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          }
+        ],
+        "conversation_id": "2097949166546657568",
+        "created_at": "2026-09-10T07:23:53.000Z",
+        "display_text_range": [
+          0,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T08:22:36.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097948843362972019",
+          "2097949166546657568"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iKJQTSWKSN",
+              "end": 49,
+              "expanded_url": "https://x.com/lencx_/status/2097949166546657568/video/1",
+              "media_key": "13_2097948806985785351",
+              "start": 26,
+              "url": "https://t.co/iKJQTSWKSN"
+            },
+            {
+              "display_url": "pic.x.com/iKJQTSWKSN",
+              "end": 49,
+              "expanded_url": "https://x.com/lencx_/status/2097949166546657568/video/1",
+              "media_key": "3_2097948806902128640",
+              "start": 26,
+              "url": "https://t.co/iKJQTSWKSN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097949166546657568",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2097948806985785351"
+          },
+          {
+            "media_key": "3_2097948806902128640"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 197,
+          "impression_count": 236640,
+          "like_count": 2321,
+          "quote_count": 11,
+          "reply_count": 73,
+          "retweet_count": 77
+        },
+        "reply_settings": "everyone",
+        "text": "iPhone Duo 低电量低信号会变成图 2 吗 https://t.co/iKJQTSWKSN"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "description": "中国人🇨🇳/♂/08.11.3\n政治立场未知/聊天请走下方TG链接\n魔裁(まのさば)/CS2/三角洲/Galgame/IT \n好基友@lockloveovo\n高三党/广东中山在居\nCN/EN/JP\n里推@Wesley10033\nBluesky备用号:@wesley10032.bsky.social",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 66,
+                "username": "lockloveovo"
+              },
+              {
+                "end": 113,
+                "start": 101,
+                "username": "Wesley10033"
+              },
+              {
+                "end": 137,
+                "start": 125,
+                "username": "wesley10032"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://t.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/HjVzyPDIuK"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "is_identity_verified": true,
+        "location": "中华人民共和国 / P.R.C.",
+        "most_recent_tweet_id": "2098223165843648616",
+        "name": "Wesley",
+        "pinned_tweet_id": "2083033063257420070",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1880979169297022976/1785740152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1660,
+          "following_count": 1874,
+          "like_count": 27650,
+          "listed_count": 2,
+          "media_count": 540,
+          "tweet_count": 4117
+        },
+        "url": "https://t.co/HjVzyPDIuK",
+        "username": "Wesley10032",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-01-14T15:03:42.000Z",
+        "description": "✍🏻 公众号「浮之静」 👨🏻‍💻 Web • Rust • Tauri  • Electron\n🚫 不看 • 不听 • 不说 🤔 学会思考 • 自说自话",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lencx.me",
+                "end": 23,
+                "expanded_url": "https://lencx.me",
+                "start": 0,
+                "url": "https://t.co/YJ6PhbN8qm"
+              }
+            ]
+          }
+        },
+        "id": "820285264819933184",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098035896130101484",
+        "name": "lencx",
+        "pinned_tweet_id": "1664557103896481792",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/820285264819933184/1570354039",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1777510753672785921/p0hrP-Qm_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23058,
+          "following_count": 1088,
+          "like_count": 1797,
+          "listed_count": 312,
+          "media_count": 1236,
+          "tweet_count": 3900
+        },
+        "url": "https://t.co/YJ6PhbN8qm",
+        "username": "lencx_",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

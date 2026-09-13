@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880979169297022976",
+    "conversation_id": "2096168654815756695",
+    "created_at": "2026-09-05T16:44:16.000Z",
+    "display_text_range": [
+      11,
+      33
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T17:44:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096278251471839551"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2022798586342174721",
+          "start": 0,
+          "username": "hwanxing9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096278251471839551",
+    "in_reply_to_user_id": "2022798586342174721",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096168654815756695",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hwanxing9 活着本身就是最大的意义\n做自己就是最好的选择"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880979169297022976",
+        "conversation_id": "2096168654815756695",
+        "created_at": "2026-09-05T16:44:16.000Z",
+        "display_text_range": [
+          11,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T17:44:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096278251471839551"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2022798586342174721",
+              "start": 0,
+              "username": "hwanxing9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096278251471839551",
+        "in_reply_to_user_id": "2022798586342174721",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096168654815756695",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hwanxing9 活着本身就是最大的意义\n做自己就是最好的选择"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022798586342174721",
+        "conversation_id": "2096168654815756695",
+        "created_at": "2026-09-05T09:28:46.000Z",
+        "display_text_range": [
+          0,
+          6
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T10:28:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096168654815756695"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2096168654815756695",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 930,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 19,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "活着有意义吗"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳/♂/08.11.3\n政治立场未知/聊天请走下方TG链接\n魔裁(まのさば)/CS2/三角洲/Galgame/IT \n好基友@lockloveovo\n高三党/广东中山在居\nCN/EN/JP\n里推@Wesley10033",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 66,
+                "username": "lockloveovo"
+              },
+              {
+                "end": 113,
+                "start": 101,
+                "username": "Wesley10033"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://t.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/HjVzyPDIuK"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "is_identity_verified": true,
+        "location": "People's Republic of China",
+        "most_recent_tweet_id": "2096278251471839551",
+        "name": "Wesley",
+        "pinned_tweet_id": "2083033063257420070",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1880979169297022976/1785740152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1567,
+          "following_count": 1813,
+          "like_count": 24270,
+          "listed_count": 2,
+          "media_count": 500,
+          "tweet_count": 3723
+        },
+        "url": "https://t.co/HjVzyPDIuK",
+        "username": "Wesley10032",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-02-14T22:22:28.000Z",
+        "description": "？？？",
+        "id": "2022798586342174721",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096261943548104707",
+        "name": "绾星",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2022798586342174721/1774962733",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079139133591801856/1R1g5Vtm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 717,
+          "following_count": 350,
+          "like_count": 2612,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 354
+        },
+        "url": "",
+        "username": "hwanxing9",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880979169297022976",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      }
+    ],
+    "conversation_id": "2096981965388022179",
+    "created_at": "2026-09-07T15:20:35.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T16:20:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096981965388022179"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2050253104935997440",
+          "start": 3,
+          "username": "auspiceshirley"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096981965388022179",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096905613662134387",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @auspiceshirley: 用于网页端替换 Twemoji 的插件 Twitter Twemoji Local Replacer 已发布\n\n没有上架 Chrome 商店，但是提交了 Firfox 插件（目前在审核中，应该很快就会公开发布），所以 Chromium 系…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880979169297022976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2096981965388022179",
+        "created_at": "2026-09-07T15:20:35.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T16:20:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096981965388022179"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2050253104935997440",
+              "start": 3,
+              "username": "auspiceshirley"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096981965388022179",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096905613662134387",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @auspiceshirley: 用于网页端替换 Twemoji 的插件 Twitter Twemoji Local Replacer 已发布\n\n没有上架 Chrome 商店，但是提交了 Firfox 插件（目前在审核中，应该很快就会公开发布），所以 Chromium 系…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2050253104935997440",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2096905613662134387",
+        "created_at": "2026-09-07T10:17:11.000Z",
+        "display_text_range": [
+          0,
+          179
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T11:17:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096905613662134387"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2096905613662134387",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "github.com/auspiceshirley…",
+                "end": 304,
+                "expanded_url": "https://github.com/auspiceshirley/twitter-twemoji-local-replacer",
+                "start": 281,
+                "url": "https://t.co/AvlgCRbw5k"
+              }
+            ]
+          },
+          "text": "用于网页端替换 Twemoji 的插件 Twitter Twemoji Local Replacer 已发布\n\n没有上架 Chrome 商店，但是提交了 Firfox 插件（目前在审核中，应该很快就会公开发布），所以 Chromium 系浏览器用户（比如我）就麻烦手动装一下了。\n\n目前还是有一些 Bug，主要是 emoji 最终显示的样式比较难以调整，原来 Twitter 网页自己的大小在 1.25em 左右，但是我只能放到 1em，再大一点在表情符号菜单那里就显示不全了（我一看网页代码相关部分的类名，我天啦，还不如不看，简直没法看💀）\n\nGitHub: https://t.co/AvlgCRbw5k"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 383,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "用于网页端替换 Twemoji 的插件 Twitter Twemoji Local Replacer 已发布\n\n没有上架 Chrome 商店，但是提交了 Firfox 插件（目前在审核中，应该很快就会公开发布），所以 Chromium 系浏览器用户（比如我）就麻烦手动装一下了。\n\n目前还是有一些 Bug，主要是 emoji 最终显示的样式比较难以调整，原来"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "description": "中国人🇨🇳/♂/08.11.3\n政治立场未知/聊天请走下方TG链接\n魔裁(まのさば)/CS2/三角洲/Galgame/IT \n好基友@lockloveovo\n高三党/广东中山在居\nCN/EN/JP\n里推@Wesley10033",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 66,
+                "username": "lockloveovo"
+              },
+              {
+                "end": 113,
+                "start": 101,
+                "username": "Wesley10033"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://t.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/HjVzyPDIuK"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "is_identity_verified": true,
+        "location": "中华人民共和国 / P.R.C.",
+        "most_recent_tweet_id": "2096981965388022179",
+        "name": "Wesley",
+        "pinned_tweet_id": "2083033063257420070",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1880979169297022976/1785740152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1602,
+          "following_count": 1834,
+          "like_count": 25655,
+          "listed_count": 2,
+          "media_count": 513,
+          "tweet_count": 3879
+        },
+        "url": "https://t.co/HjVzyPDIuK",
+        "username": "Wesley10032",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-01T16:38:27.000Z",
+        "description": "ENG/中文 | Daily life & Technology &「魔法少女ノ魔女裁判」🍎",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "me.auspiceshirley.dev",
+                "end": 23,
+                "expanded_url": "https://me.auspiceshirley.dev",
+                "start": 0,
+                "url": "https://t.co/1qfE6dIhFZ"
+              }
+            ]
+          }
+        },
+        "id": "2050253104935997440",
+        "is_identity_verified": false,
+        "location": "Hong Kong",
+        "most_recent_tweet_id": "2096976647039922415",
+        "name": "Shirley Auspice",
+        "pinned_tweet_id": "2093970945753153613",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2050253104935997440/1780333609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050253824372412417/h-oCtpG6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1222,
+          "following_count": 654,
+          "like_count": 2584,
+          "listed_count": 1,
+          "media_count": 699,
+          "tweet_count": 4353
+        },
+        "url": "https://t.co/1qfE6dIhFZ",
+        "username": "auspiceshirley",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

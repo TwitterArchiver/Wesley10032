@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880979169297022976",
+    "conversation_id": "2096180095123910755",
+    "created_at": "2026-09-05T10:14:14.000Z",
+    "display_text_range": [
+      0,
+      4
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T11:14:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2096180095123910755"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/PLAcncn101/sta…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/PLAcncn101/status/2096144119366303984",
+          "start": 5,
+          "url": "https://t.co/HjCoBjjuoH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096180095123910755",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096144119366303984",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "轻松绷住 https://t.co/HjCoBjjuoH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2096144113540448256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRb_9yWawAAFpNr.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2096144113590849537",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRb_9yib0AEuKOS.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880979169297022976",
+        "conversation_id": "2096180095123910755",
+        "created_at": "2026-09-05T10:14:14.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T11:14:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096180095123910755"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/PLAcncn101/sta…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/PLAcncn101/status/2096144119366303984",
+              "start": 5,
+              "url": "https://t.co/HjCoBjjuoH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096180095123910755",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096144119366303984",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "轻松绷住 https://t.co/HjCoBjjuoH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096144113540448256",
+            "3_2096144113590849537"
+          ]
+        },
+        "author_id": "1671017851631853568",
+        "conversation_id": "2096144119366303984",
+        "created_at": "2026-09-05T07:51:17.000Z",
+        "display_text_range": [
+          0,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T08:51:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096144119366303984"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bnAUGxxnVk",
+              "end": 43,
+              "expanded_url": "https://x.com/PLAcncn101/status/2096144119366303984/photo/1",
+              "media_key": "3_2096144113540448256",
+              "start": 20,
+              "url": "https://t.co/bnAUGxxnVk"
+            },
+            {
+              "display_url": "pic.x.com/bnAUGxxnVk",
+              "end": 43,
+              "expanded_url": "https://x.com/PLAcncn101/status/2096144119366303984/photo/1",
+              "media_key": "3_2096144113590849537",
+              "start": 20,
+              "url": "https://t.co/bnAUGxxnVk"
+            },
+            {
+              "display_url": "x.com/placncn101/sta…",
+              "end": 67,
+              "expanded_url": "https://twitter.com/placncn101/status/2096085162580943302",
+              "start": 44,
+              "url": "https://t.co/qdx26d4LeS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096144119366303984",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2096144113540448256"
+          },
+          {
+            "media_key": "3_2096144113590849537"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 34,
+          "impression_count": 17393,
+          "like_count": 328,
+          "quote_count": 4,
+          "reply_count": 4,
+          "retweet_count": 36
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096085162580943302",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "何気にアリペイ対応してて八紘一宇生える https://t.co/bnAUGxxnVk https://t.co/qdx26d4LeS"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳/♂/08.11.3/友跨(暂不翻车)\n政治立场未知/聊天请走下方TG链接\n魔裁(まのさば)/CS2/三角洲/Galgame/IT \n好基友@lockloveovo\n高三党/广东中山在居\nCN/EN/JP\n里推@Wesley10033",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 75,
+                "username": "lockloveovo"
+              },
+              {
+                "end": 122,
+                "start": 110,
+                "username": "Wesley10033"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://t.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/HjVzyPDIuK"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "is_identity_verified": true,
+        "location": "People's Republic of China",
+        "most_recent_tweet_id": "2096180095123910755",
+        "name": "Wesley",
+        "pinned_tweet_id": "2083033063257420070",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1880979169297022976/1785740152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1555,
+          "following_count": 1804,
+          "like_count": 24010,
+          "listed_count": 2,
+          "media_count": 498,
+          "tweet_count": 3697
+        },
+        "url": "https://t.co/HjVzyPDIuK",
+        "username": "Wesley10032",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-06-20T04:51:37.000Z",
+        "description": "アジアや中東諸国軍🇲🇲🇨🇳🇸🇾🇮🇷etc",
+        "id": "1671017851631853568",
+        "is_identity_verified": false,
+        "location": "杨强 يانغ تشيانغ ရန်ချန်",
+        "most_recent_tweet_id": "2096147249319579970",
+        "name": "やんちゃん",
+        "pinned_tweet_id": "2090431854948368709",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1671017851631853568/1782628656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016811102831857667/OUfkPUIR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3952,
+          "following_count": 2768,
+          "like_count": 170721,
+          "listed_count": 28,
+          "media_count": 2246,
+          "tweet_count": 12210
+        },
+        "url": "",
+        "username": "PLAcncn101",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

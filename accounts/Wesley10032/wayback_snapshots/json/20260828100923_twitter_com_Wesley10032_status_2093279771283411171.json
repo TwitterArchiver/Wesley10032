@@ -1,0 +1,364 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2093279762408165376"
+      ]
+    },
+    "author_id": "1880979169297022976",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2093042046793830615",
+    "created_at": "2026-08-28T10:09:23.000Z",
+    "display_text_range": [
+      16,
+      30
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-28T11:09:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093279771283411171"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1414259680612818951",
+          "start": 0,
+          "username": "RainEngine2021"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jyH2rHdsRr",
+          "end": 54,
+          "expanded_url": "https://x.com/Wesley10032/status/2093279771283411171/photo/1",
+          "media_key": "3_2093279762408165376",
+          "start": 31,
+          "url": "https://t.co/jyH2rHdsRr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093279771283411171",
+    "in_reply_to_user_id": "1414259680612818951",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2093279762408165376"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093042046793830615",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RainEngine2021 喵（底下是 Siri 推荐） https://t.co/jyH2rHdsRr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2093279762408165376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQzS2m3aUAAtOyW.jpg",
+        "width": 946
+      },
+      {
+        "height": 2780,
+        "media_key": "3_2093042040426938368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQv6pXebQAAaYGA.jpg",
+        "width": 1264
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093279762408165376"
+          ]
+        },
+        "author_id": "1880979169297022976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2093042046793830615",
+        "created_at": "2026-08-28T10:09:23.000Z",
+        "display_text_range": [
+          16,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T11:09:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093279771283411171"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1414259680612818951",
+              "start": 0,
+              "username": "RainEngine2021"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jyH2rHdsRr",
+              "end": 54,
+              "expanded_url": "https://x.com/Wesley10032/status/2093279771283411171/photo/1",
+              "media_key": "3_2093279762408165376",
+              "start": 31,
+              "url": "https://t.co/jyH2rHdsRr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093279771283411171",
+        "in_reply_to_user_id": "1414259680612818951",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2093279762408165376"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093042046793830615",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RainEngine2021 喵（底下是 Siri 推荐） https://t.co/jyH2rHdsRr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093042040426938368"
+          ]
+        },
+        "author_id": "1414259680612818951",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2093042046793830615",
+        "created_at": "2026-08-27T18:24:45.000Z",
+        "display_text_range": [
+          0,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T19:24:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093042046793830615"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/STjiKlZmIr",
+              "end": 34,
+              "expanded_url": "https://x.com/RainEngine2021/status/2093042046793830615/photo/1",
+              "media_key": "3_2093042040426938368",
+              "start": 11,
+              "url": "https://t.co/STjiKlZmIr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093042046793830615",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2093042040426938368"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 371,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看看你们的桌面awa https://t.co/STjiKlZmIr"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳/♂/08.11.3/友跨🏳️‍⚧️\n政治立场未知/聊天请走下方TG链接\n魔裁(まのさば)/CS2/三角洲/Galgame/IT \n好基友@lockloveovo\n学生党 周末/节假日在线\nCN/EN/JP\n防失联@Wesley10033",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 74,
+                "username": "lockloveovo"
+              },
+              {
+                "end": 124,
+                "start": 112,
+                "username": "Wesley10033"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://telegram.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/Q5wiGuq4W4"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "is_identity_verified": false,
+        "location": "People's Republic of China",
+        "most_recent_tweet_id": "2093279771283411171",
+        "name": "Wesley",
+        "pinned_tweet_id": "2083033063257420070",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1880979169297022976/1785740152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1429,
+          "following_count": 1682,
+          "like_count": 19537,
+          "listed_count": 3,
+          "media_count": 452,
+          "tweet_count": 3266
+        },
+        "url": "https://t.co/Q5wiGuq4W4",
+        "username": "Wesley10032",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-07-11T16:26:11.000Z",
+        "description": "小米合作伙伴 / RainEngine UX設計 / 安卓ROM開發者 / Unity3D初學者 / 19y.o / GMT+8 / ZH-CN",
+        "id": "1414259680612818951",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093234998988227051",
+        "name": "晴泽QinZor",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1414259680612818951/1787410997",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091053047468482560/JT3YtiE1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 53,
+          "like_count": 490,
+          "listed_count": 1,
+          "media_count": 23,
+          "tweet_count": 68
+        },
+        "url": "",
+        "username": "RainEngine2021",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

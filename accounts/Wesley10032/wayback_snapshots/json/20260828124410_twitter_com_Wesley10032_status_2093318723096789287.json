@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880979169297022976",
+    "conversation_id": "2093314256766988648",
+    "created_at": "2026-08-28T12:44:10.000Z",
+    "display_text_range": [
+      9,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-28T13:44:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093318723096789287"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "349336654",
+          "start": 0,
+          "username": "nyaffyy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093318723096789287",
+    "in_reply_to_user_id": "349336654",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093318673708757130",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nyaffyy 还真是（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880979169297022976",
+        "conversation_id": "2093314256766988648",
+        "created_at": "2026-08-28T12:44:10.000Z",
+        "display_text_range": [
+          9,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T13:44:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093318723096789287"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "349336654",
+              "start": 0,
+              "username": "nyaffyy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093318723096789287",
+        "in_reply_to_user_id": "349336654",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093318673708757130",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nyaffyy 还真是（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "349336654",
+        "conversation_id": "2093314256766988648",
+        "created_at": "2026-08-28T12:43:58.000Z",
+        "display_text_range": [
+          13,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T13:43:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093318673708757130"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1880979169297022976",
+              "start": 0,
+              "username": "Wesley10032"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093318673708757130",
+        "in_reply_to_user_id": "1880979169297022976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093318337438880203",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wesley10032 但是你没被封😭"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳/♂/08.11.3/友跨🏳️‍⚧️\n政治立场未知/聊天请走下方TG链接\n魔裁(まのさば)/CS2/三角洲/Galgame/IT \n好基友@lockloveovo\n学生党 周末/节假日在线\nCN/EN/JP\n防失联@Wesley10033",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 74,
+                "username": "lockloveovo"
+              },
+              {
+                "end": 124,
+                "start": 112,
+                "username": "Wesley10033"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://telegram.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/Q5wiGuq4W4"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "is_identity_verified": false,
+        "location": "People's Republic of China",
+        "most_recent_tweet_id": "2093318723096789287",
+        "name": "Wesley",
+        "pinned_tweet_id": "2083033063257420070",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1880979169297022976/1785740152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1436,
+          "following_count": 1702,
+          "like_count": 19700,
+          "listed_count": 3,
+          "media_count": 452,
+          "tweet_count": 3287
+        },
+        "url": "https://t.co/Q5wiGuq4W4",
+        "username": "Wesley10032",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2011-08-05T23:15:41.000Z",
+        "description": "｜友跨｜二次元｜游戏｜\n我喜欢你们所有人🥺🥺\n第一账户@ffynya被锁\n第二账户@hjynya被锁\n第三账户@lyyynya目前存活\n第四账户@lfynya 生活号\n我又复活了",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 27,
+                "username": "ffynya"
+              },
+              {
+                "end": 48,
+                "start": 41,
+                "username": "hjynya"
+              },
+              {
+                "end": 63,
+                "start": 55,
+                "username": "lyyynya"
+              },
+              {
+                "end": 79,
+                "start": 72,
+                "username": "lfynya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/ffynya",
+                "end": 23,
+                "expanded_url": "https://t.me/ffynya",
+                "start": 0,
+                "url": "https://t.co/wUCKSch7yB"
+              }
+            ]
+          }
+        },
+        "id": "349336654",
+        "is_identity_verified": false,
+        "location": "EARTH",
+        "most_recent_tweet_id": "2093318673708757130",
+        "name": "😄喵喵ffy😄",
+        "pinned_tweet_id": "2092895062309171297",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/349336654/1787818128",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092886991214145536/JdP5vkee_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 19,
+          "like_count": 69,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 77
+        },
+        "url": "https://t.co/wUCKSch7yB",
+        "username": "nyaffyy",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

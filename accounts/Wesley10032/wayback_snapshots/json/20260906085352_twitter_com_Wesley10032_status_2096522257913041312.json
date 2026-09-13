@@ -1,0 +1,724 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880979169297022976",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "45th US President, Donald Trump",
+          "id": "799022225751871488",
+          "name": "Donald Trump"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "2024 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "45th US President, Donald Trump",
+          "id": "799022225751871488",
+          "name": "Donald Trump"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "45th US President, Donald Trump",
+          "id": "799022225751871488",
+          "name": "Donald Trump"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291447199595782144",
+          "name": "United States politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "2024 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      },
+      {
+        "domain": {
+          "description": "A section of a government, like The Supreme Court",
+          "id": "88",
+          "name": "Political Body"
+        },
+        "entity": {
+          "description": "Conversation from and about the White House, both as a destination and as political voice",
+          "id": "871795678447456256",
+          "name": "The White House"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Conversation from and about the White House, both as a destination and as political voice",
+          "id": "871795678447456256",
+          "name": "The White House"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Political Body",
+          "id": "1068583660914266113",
+          "name": "Government institutions"
+        }
+      }
+    ],
+    "conversation_id": "2096480834681442391",
+    "created_at": "2026-09-06T08:53:52.000Z",
+    "display_text_range": [
+      10,
+      49
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T09:53:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096522257913041312"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2093236052307939328",
+          "start": 0,
+          "username": "xings15c"
+        },
+        {
+          "end": 18,
+          "id": "1841988608825466880",
+          "start": 10,
+          "username": "america"
+        },
+        {
+          "end": 35,
+          "id": "25073877",
+          "start": 19,
+          "username": "realDonaldTrump"
+        },
+        {
+          "end": 47,
+          "id": "1879644163769335808",
+          "start": 36,
+          "username": "WhiteHouse"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096522257913041312",
+    "in_reply_to_user_id": "2093236052307939328",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096480834681442391",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xings15c @america @realDonaldTrump @WhiteHouse 😋"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 800,
+        "media_key": "3_2096480688526835712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRgyFB4bwAAgF5H.jpg",
+        "width": 800
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880979169297022976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "45th US President, Donald Trump",
+              "id": "799022225751871488",
+              "name": "Donald Trump"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "45th US President, Donald Trump",
+              "id": "799022225751871488",
+              "name": "Donald Trump"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "45th US President, Donald Trump",
+              "id": "799022225751871488",
+              "name": "Donald Trump"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "A section of a government, like The Supreme Court",
+              "id": "88",
+              "name": "Political Body"
+            },
+            "entity": {
+              "description": "Conversation from and about the White House, both as a destination and as political voice",
+              "id": "871795678447456256",
+              "name": "The White House"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Conversation from and about the White House, both as a destination and as political voice",
+              "id": "871795678447456256",
+              "name": "The White House"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political Body",
+              "id": "1068583660914266113",
+              "name": "Government institutions"
+            }
+          }
+        ],
+        "conversation_id": "2096480834681442391",
+        "created_at": "2026-09-06T08:53:52.000Z",
+        "display_text_range": [
+          10,
+          49
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T09:53:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096522257913041312"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2093236052307939328",
+              "start": 0,
+              "username": "xings15c"
+            },
+            {
+              "end": 18,
+              "id": "1841988608825466880",
+              "start": 10,
+              "username": "america"
+            },
+            {
+              "end": 35,
+              "id": "25073877",
+              "start": 19,
+              "username": "realDonaldTrump"
+            },
+            {
+              "end": 47,
+              "id": "1879644163769335808",
+              "start": 36,
+              "username": "WhiteHouse"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096522257913041312",
+        "in_reply_to_user_id": "2093236052307939328",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096480834681442391",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xings15c @america @realDonaldTrump @WhiteHouse 😋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096480688526835712"
+          ]
+        },
+        "author_id": "2093236052307939328",
+        "conversation_id": "2096480834681442391",
+        "created_at": "2026-09-06T06:09:16.000Z",
+        "display_text_range": [
+          0,
+          8
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T07:09:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096480834681442391"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YPeTgNl2bl",
+              "end": 32,
+              "expanded_url": "https://x.com/xings15c/status/2096480834681442391/photo/1",
+              "media_key": "3_2096480688526835712",
+              "start": 9,
+              "url": "https://t.co/YPeTgNl2bl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096480834681442391",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2096480688526835712"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 168,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在X上放一桶石油 https://t.co/YPeTgNl2bl"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "description": "中国人🇨🇳/♂/08.11.3\n政治立场未知/聊天请走下方TG链接\n魔裁(まのさば)/CS2/三角洲/Galgame/IT \n好基友@lockloveovo\n高三党/广东中山在居\nCN/EN/JP\n里推@Wesley10033",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 66,
+                "username": "lockloveovo"
+              },
+              {
+                "end": 113,
+                "start": 101,
+                "username": "Wesley10033"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://t.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/HjVzyPDIuK"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "is_identity_verified": true,
+        "location": "中华人民共和国 / P.R.C.",
+        "most_recent_tweet_id": "2096522257913041312",
+        "name": "Wesley",
+        "pinned_tweet_id": "2083033063257420070",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1880979169297022976/1785740152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1578,
+          "following_count": 1819,
+          "like_count": 24733,
+          "listed_count": 2,
+          "media_count": 504,
+          "tweet_count": 3772
+        },
+        "url": "https://t.co/HjVzyPDIuK",
+        "username": "Wesley10032",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-28T07:16:45.000Z",
+        "description": "中国人🇨🇳\n没事会翻外网看看反华反共台独极右的乐子🤣👉\n不骂人，喜欢国际政治，欢迎与我交流^_^\n\n成分：INTP/务实派见证/马克思主义/共产主义/左翼/中国社会主义\n喜欢国际政治、较关注台政、日政\n拒绝骂人骂人屏蔽没得商量并且自动替我挡血光之灾然后千金散尽给我拿来🚫\n小号：@lix034ihlz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 150,
+                "start": 139,
+                "username": "lix034ihlz"
+              }
+            ]
+          }
+        },
+        "id": "2093236052307939328",
+        "is_identity_verified": false,
+        "location": "距离你 29m",
+        "most_recent_tweet_id": "2096520411660112165",
+        "name": "星🇨🇳🇦🇺🇯🇵",
+        "pinned_tweet_id": "2095349554719920212",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094948965578067968/VGru_Vr4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 330,
+          "following_count": 61,
+          "like_count": 259,
+          "listed_count": 2,
+          "media_count": 71,
+          "tweet_count": 606
+        },
+        "url": "",
+        "username": "xings15c",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-10-03T23:48:27.000Z",
+        "description": "PAC Founded by @ElonMusk to support candidates who champion Secure Borders, Sensible Spending, Safe Cities, Fair Justice System, Free Speech and Self-Protection",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 15,
+                "username": "ElonMusk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "theamericapac.org",
+                "end": 23,
+                "expanded_url": "https://theamericapac.org",
+                "start": 0,
+                "url": "https://t.co/PdGFm7qcgm"
+              }
+            ]
+          }
+        },
+        "id": "1841988608825466880",
+        "is_identity_verified": false,
+        "location": "USA",
+        "most_recent_tweet_id": "2096338954702463124",
+        "name": "America",
+        "pinned_tweet_id": "2012218370058252341",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1841988608825466880/1728002939",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842003465448398848/U3EZmdUz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1213684,
+          "following_count": 1,
+          "like_count": 1046,
+          "listed_count": 2239,
+          "media_count": 2689,
+          "tweet_count": 4382
+        },
+        "url": "https://t.co/PdGFm7qcgm",
+        "username": "america",
+        "verified": true,
+        "verified_type": "business"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2009-03-18T13:46:38.000Z",
+        "description": "45th & 47th President of the United States of America🇺🇸",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "DonaldJTrump.com",
+                "end": 23,
+                "expanded_url": "http://DonaldJTrump.com",
+                "start": 0,
+                "url": "https://t.co/mjKdTvQzae"
+              }
+            ]
+          }
+        },
+        "id": "25073877",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2082159711852298494",
+        "name": "Donald J. Trump",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1604214583",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111777218,
+          "following_count": 53,
+          "like_count": 0,
+          "listed_count": 130469,
+          "media_count": 5385,
+          "tweet_count": 59837
+        },
+        "url": "https://t.co/mjKdTvQzae",
+        "username": "realDonaldTrump",
+        "verified": true,
+        "verified_type": "government"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-01-15T21:37:54.000Z",
+        "description": "Welcome to The Golden Age of America. \n📱 Text USA to 45470 to receive alerts.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "wh.gov",
+                "end": 23,
+                "expanded_url": "http://wh.gov",
+                "start": 0,
+                "url": "https://t.co/0BqS4u2dGX"
+              }
+            ]
+          }
+        },
+        "id": "1879644163769335808",
+        "is_identity_verified": false,
+        "location": "Washington, DC",
+        "most_recent_tweet_id": "2096392887093068116",
+        "name": "The White House",
+        "pinned_tweet_id": "2070270274872738258",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1879644163769335808/1769111449",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062605835256127489/atNMwHxg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5212469,
+          "following_count": 5,
+          "like_count": 267,
+          "listed_count": 9281,
+          "media_count": 6686,
+          "tweet_count": 18253
+        },
+        "url": "https://t.co/0BqS4u2dGX",
+        "username": "WhiteHouse",
+        "verified": true,
+        "verified_type": "government"
+      }
+    ]
+  }
+}

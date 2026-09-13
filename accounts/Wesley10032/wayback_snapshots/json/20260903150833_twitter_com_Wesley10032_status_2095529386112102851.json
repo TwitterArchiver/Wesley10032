@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880979169297022976",
+    "conversation_id": "2095363129245123050",
+    "created_at": "2026-09-03T15:08:33.000Z",
+    "display_text_range": [
+      11,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-03T16:08:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095529386112102851"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2083477847797362688",
+          "start": 0,
+          "username": "adCa00414"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095529386112102851",
+    "in_reply_to_user_id": "2083477847797362688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095529027583016964",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@adCa00414 我说我开玩笑的你信吗😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880979169297022976",
+        "conversation_id": "2095363129245123050",
+        "created_at": "2026-09-03T15:08:33.000Z",
+        "display_text_range": [
+          11,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T16:08:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095529386112102851"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2083477847797362688",
+              "start": 0,
+              "username": "adCa00414"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095529386112102851",
+        "in_reply_to_user_id": "2083477847797362688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095529027583016964",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@adCa00414 我说我开玩笑的你信吗😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2083477847797362688",
+        "conversation_id": "2095363129245123050",
+        "created_at": "2026-09-03T15:07:07.000Z",
+        "display_text_range": [
+          13,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T16:07:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095529027583016964"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1880979169297022976",
+              "start": 0,
+              "username": "Wesley10032"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095529027583016964",
+        "in_reply_to_user_id": "1880979169297022976",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095363129245123050",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wesley10032 不理解但尊重"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳/♂/08.11.3/友跨🏳️‍⚧️\n政治立场未知/聊天请走下方TG链接\n魔裁(まのさば)/CS2/三角洲/Galgame/IT \n好基友@lockloveovo\n学生党 周末/节假日在线\nCN/EN/JP\n第二账号暂不公开",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 74,
+                "username": "lockloveovo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://telegram.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/Q5wiGuq4W4"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "is_identity_verified": true,
+        "location": "People's Republic of China",
+        "most_recent_tweet_id": "2095529386112102851",
+        "name": "Wesley",
+        "pinned_tweet_id": "2083033063257420070",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1880979169297022976/1785740152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1544,
+          "following_count": 1786,
+          "like_count": 22928,
+          "listed_count": 3,
+          "media_count": 488,
+          "tweet_count": 3605
+        },
+        "url": "https://t.co/Q5wiGuq4W4",
+        "username": "Wesley10032",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-01T09:01:29.000Z",
+        "description": "前世@ANDEL0426\n友跨｜烟鬼｜海豹厨｜USAO全肯定\n可能是non-binary\n我的狗@xxs1966\n纯绿墙外🚪30 不加v 完全被动聊天\n非要加的话🚪100",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "ANDEL0426"
+              },
+              {
+                "end": 56,
+                "start": 48,
+                "username": "xxs1966"
+              }
+            ]
+          }
+        },
+        "id": "2083477847797362688",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095529027583016964",
+        "name": "ADniako喵",
+        "pinned_tweet_id": "2089180053561278594",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2083477847797362688/1787421788",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095521538053480448/I8GpClBO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 506,
+          "following_count": 128,
+          "like_count": 1018,
+          "listed_count": 0,
+          "media_count": 124,
+          "tweet_count": 652
+        },
+        "url": "",
+        "username": "adCa00414",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

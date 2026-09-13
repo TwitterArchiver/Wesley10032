@@ -1,0 +1,434 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880979169297022976",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1311728290139258880",
+          "name": "Animation & comics events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1312128054911619073",
+          "name": "Comiket"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      }
+    ],
+    "conversation_id": "2091123513235230999",
+    "created_at": "2026-08-22T11:21:11.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T12:21:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091123513235230999"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "179480733",
+          "start": 3,
+          "username": "Naze1940_Erica"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091123513235230999",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 227
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091072231132786901",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Naze1940_Erica: The friends I made along the way—this year's Summer Comiket was amazing. Thank you, everyone. We'll meet again soon thi…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2091072223457296384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQT7G7bbwAA2Aqs.jpg",
+        "width": 2306
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880979169297022976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1311728290139258880",
+              "name": "Animation & comics events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1312128054911619073",
+              "name": "Comiket"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "2091123513235230999",
+        "created_at": "2026-08-22T11:21:11.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T12:21:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091123513235230999"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "179480733",
+              "start": 3,
+              "username": "Naze1940_Erica"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091123513235230999",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 227
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091072231132786901",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Naze1940_Erica: The friends I made along the way—this year's Summer Comiket was amazing. Thank you, everyone. We'll meet again soon thi…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091072223457296384"
+          ]
+        },
+        "author_id": "179480733",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1311728290139258880",
+              "name": "Animation & comics events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1312128054911619073",
+              "name": "Comiket"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "2091072231132786901",
+        "created_at": "2026-08-22T07:57:24.000Z",
+        "display_text_range": [
+          0,
+          128
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T08:57:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091072231132786901"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Qi8NwFT46I",
+              "end": 152,
+              "expanded_url": "https://x.com/Naze1940_Erica/status/2091072231132786901/photo/1",
+              "media_key": "3_2091072223457296384",
+              "start": 129,
+              "url": "https://t.co/Qi8NwFT46I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091072231132786901",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2091072223457296384"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 221,
+          "impression_count": 138786,
+          "like_count": 3035,
+          "quote_count": 27,
+          "reply_count": 19,
+          "retweet_count": 228
+        },
+        "reply_settings": "everyone",
+        "text": "The friends I made along the way—this year's Summer Comiket was amazing. Thank you, everyone. We'll meet again soon this winter. https://t.co/Qi8NwFT46I"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳/♂/08.11.3/友跨🏳️‍⚧️\n政治立场未知/聊天请走下方TG链接\n魔裁(まのさば)/CS2/三角洲/Galgame/IT \n好基友@lockloveovo\n学生党 周末/节假日在线\nCN/EN/JP\n防失联@Wesley10033",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 74,
+                "username": "lockloveovo"
+              },
+              {
+                "end": 124,
+                "start": 112,
+                "username": "Wesley10033"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://telegram.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/Q5wiGuq4W4"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "is_identity_verified": false,
+        "location": "People's Republic of China",
+        "most_recent_tweet_id": "2091123513235230999",
+        "name": "Wesley",
+        "pinned_tweet_id": "2083033063257420070",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1880979169297022976/1785740152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1303,
+          "following_count": 1596,
+          "like_count": 17913,
+          "listed_count": 1,
+          "media_count": 433,
+          "tweet_count": 3050
+        },
+        "url": "https://t.co/Q5wiGuq4W4",
+        "username": "Wesley10032",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2010-08-17T11:49:55.000Z",
+        "description": "【Ko-fi】https://t.co/SoFaUs0z9w\n【Commission List 】https://t.co/KlpbpXRwkG\n【Pixiv】https://t.co/fCpOnDwDyF",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ko-fi.com/naze1940_erica",
+                "end": 30,
+                "expanded_url": "http://ko-fi.com/naze1940_erica",
+                "start": 7,
+                "url": "https://t.co/SoFaUs0z9w"
+              },
+              {
+                "display_url": "tinyurl.com/3mf54zrm",
+                "end": 72,
+                "expanded_url": "http://tinyurl.com/3mf54zrm",
+                "start": 49,
+                "url": "https://t.co/KlpbpXRwkG"
+              },
+              {
+                "display_url": "pixiv.net/en/users/47592…",
+                "end": 103,
+                "expanded_url": "http://pixiv.net/en/users/4759263",
+                "start": 80,
+                "url": "https://t.co/fCpOnDwDyF"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "melonbooks.co.jp/detail/detail.…",
+                "end": 23,
+                "expanded_url": "https://www.melonbooks.co.jp/detail/detail.php?product_id=2291070",
+                "start": 0,
+                "url": "https://t.co/BEDnDFXTKp"
+              }
+            ]
+          }
+        },
+        "id": "179480733",
+        "is_identity_verified": false,
+        "location": "Bangkok, Thailand",
+        "most_recent_tweet_id": "2091072231132786901",
+        "name": "Erica C108 日曜日“ノ”ブロック－62a (東２ホール)",
+        "pinned_tweet_id": "1953875941798904236",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/179480733/1734821114",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/951609761312555008/LHncxFG7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115291,
+          "following_count": 1506,
+          "like_count": 19451,
+          "listed_count": 480,
+          "media_count": 1023,
+          "tweet_count": 4127
+        },
+        "url": "https://t.co/BEDnDFXTKp",
+        "username": "Naze1940_Erica",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

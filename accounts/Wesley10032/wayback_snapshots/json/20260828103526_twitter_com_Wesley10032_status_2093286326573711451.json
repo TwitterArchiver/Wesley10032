@@ -1,0 +1,518 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880979169297022976",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596706635776",
+          "name": "Retail industry"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "783350882985385984",
+          "name": "Home - Retail"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026951194",
+          "name": "IKEA"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Home and garden",
+          "id": "864911475436957696",
+          "name": "Home and garden"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026951194",
+          "name": "IKEA"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "781974596706635776",
+          "name": "Retail industry"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1407811550987972617",
+          "name": "Industries"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1416062557706588160",
+          "name": "Superstores"
+        }
+      }
+    ],
+    "conversation_id": "2093278870392930717",
+    "created_at": "2026-08-28T10:35:26.000Z",
+    "display_text_range": [
+      13,
+      26
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-28T11:35:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093286326573711451"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2049152504542449664",
+          "start": 0,
+          "username": "hasaki_sama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093286326573711451",
+    "in_reply_to_user_id": "2049152504542449664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093278870392930717",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hasaki_sama IKEA 咱从来没去过喵😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2093278847173324800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQzSBVWa8AA83Tc.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2093278847152300032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQzSBVRaIAAlZwC.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880979169297022976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596706635776",
+              "name": "Retail industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "783350882985385984",
+              "name": "Home - Retail"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026951194",
+              "name": "IKEA"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Home and garden",
+              "id": "864911475436957696",
+              "name": "Home and garden"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026951194",
+              "name": "IKEA"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "781974596706635776",
+              "name": "Retail industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1407811550987972617",
+              "name": "Industries"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1416062557706588160",
+              "name": "Superstores"
+            }
+          }
+        ],
+        "conversation_id": "2093278870392930717",
+        "created_at": "2026-08-28T10:35:26.000Z",
+        "display_text_range": [
+          13,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T11:35:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093286326573711451"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2049152504542449664",
+              "start": 0,
+              "username": "hasaki_sama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093286326573711451",
+        "in_reply_to_user_id": "2049152504542449664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093278870392930717",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hasaki_sama IKEA 咱从来没去过喵😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093278847173324800",
+            "3_2093278847152300032"
+          ]
+        },
+        "author_id": "2049152504542449664",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2093278870392930717",
+        "created_at": "2026-08-28T10:05:48.000Z",
+        "display_text_range": [
+          0,
+          81
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T11:05:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093278870392930717"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cHqTRstRnn",
+              "end": 105,
+              "expanded_url": "https://x.com/hasaki_sama/status/2093278870392930717/photo/1",
+              "media_key": "3_2093278847173324800",
+              "start": 82,
+              "url": "https://t.co/cHqTRstRnn"
+            },
+            {
+              "display_url": "pic.x.com/cHqTRstRnn",
+              "end": 105,
+              "expanded_url": "https://x.com/hasaki_sama/status/2093278870392930717/photo/1",
+              "media_key": "3_2093278847152300032",
+              "start": 82,
+              "url": "https://t.co/cHqTRstRnn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093278870392930717",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2093278847173324800"
+          },
+          {
+            "media_key": "3_2093278847152300032"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 84,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不知道为什么喵…Neko真的特别喜欢逛宜家 \n好像每去一个城市\n都会找机会去一次当地的宜家商场\n可能……咱只是单纯想看一眼鲨鲨吧喵～\n૮ ˶ᵔ ᵕ ᵔ˶ ა 🦈💙 https://t.co/cHqTRstRnn"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳/♂/08.11.3/友跨🏳️‍⚧️\n政治立场未知/聊天请走下方TG链接\n魔裁(まのさば)/CS2/三角洲/Galgame/IT \n好基友@lockloveovo\n学生党 周末/节假日在线\nCN/EN/JP\n防失联@Wesley10033",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 74,
+                "username": "lockloveovo"
+              },
+              {
+                "end": 124,
+                "start": 112,
+                "username": "Wesley10033"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://telegram.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/Q5wiGuq4W4"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "is_identity_verified": false,
+        "location": "People's Republic of China",
+        "most_recent_tweet_id": "2093286326573711451",
+        "name": "Wesley",
+        "pinned_tweet_id": "2083033063257420070",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1880979169297022976/1785740152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1430,
+          "following_count": 1682,
+          "like_count": 19559,
+          "listed_count": 3,
+          "media_count": 452,
+          "tweet_count": 3272
+        },
+        "url": "https://t.co/Q5wiGuq4W4",
+        "username": "Wesley10032",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-28T15:48:05.000Z",
+        "description": "Hi！这里是Neko 很高兴认识你喵～ (˶ᵔ ᵕ ᵔ˶)✧\n｜11年小资历｜泛性恋✨｜LGBTQ+🏳️‍🌈｜INFP🦋｜跨性别友好🏳️‍⚧️/ 喜欢 羽球🏸｜ACG｜信息技术 AI｜不定时喵喵叫🐱/鉴证🆖｜联系方式💬 https://t.co/VDLGVdQMfq\n\n匿名邮箱 提问 👀 ⬇️",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/hasaki_0612",
+                "end": 133,
+                "expanded_url": "http://t.me/hasaki_0612",
+                "start": 110,
+                "url": "https://t.co/VDLGVdQMfq"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hasaki_0612",
+                "end": 23,
+                "expanded_url": "https://ngl.link/hasaki_0612",
+                "start": 0,
+                "url": "https://t.co/8Ei14tUkCK"
+              }
+            ]
+          }
+        },
+        "id": "2049152504542449664",
+        "is_identity_verified": false,
+        "location": "距离你0.1 km",
+        "most_recent_tweet_id": "2093278870392930717",
+        "name": "Neko 🐾",
+        "pinned_tweet_id": "2088172213262528904",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2049152504542449664/1783530736",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075040561237753856/aiPH-t8W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1157,
+          "following_count": 1030,
+          "like_count": 4673,
+          "listed_count": 2,
+          "media_count": 402,
+          "tweet_count": 2739
+        },
+        "url": "https://t.co/8Ei14tUkCK",
+        "username": "hasaki_sama",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

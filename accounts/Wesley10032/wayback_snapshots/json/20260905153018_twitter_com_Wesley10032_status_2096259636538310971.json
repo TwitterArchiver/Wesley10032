@@ -1,0 +1,390 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2096259626048380928"
+      ]
+    },
+    "author_id": "1880979169297022976",
+    "conversation_id": "2096200605715022045",
+    "created_at": "2026-09-05T15:30:18.000Z",
+    "display_text_range": [
+      26,
+      26
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T16:30:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096259636538310971"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2048331424504463360",
+          "start": 0,
+          "username": "Com0loquieras"
+        },
+        {
+          "end": 26,
+          "id": "1813768883540725760",
+          "start": 15,
+          "username": "ye_and_yae"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4F3g5tQRF5",
+          "end": 50,
+          "expanded_url": "https://x.com/Wesley10032/status/2096259636538310971/photo/1",
+          "media_key": "3_2096259626048380928",
+          "start": 27,
+          "url": "https://t.co/4F3g5tQRF5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096259636538310971",
+    "in_reply_to_user_id": "2048331424504463360",
+    "lang": "qme",
+    "media_metadata": [
+      {
+        "media_key": "3_2096259626048380928"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096259397374931387",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Com0loquieras @ye_and_yae https://t.co/4F3g5tQRF5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 534,
+        "media_key": "3_2096259626048380928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRdpBf-bYAA8jTq.jpg",
+        "width": 534
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096259626048380928"
+          ]
+        },
+        "author_id": "1880979169297022976",
+        "conversation_id": "2096200605715022045",
+        "created_at": "2026-09-05T15:30:18.000Z",
+        "display_text_range": [
+          26,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T16:30:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096259636538310971"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2048331424504463360",
+              "start": 0,
+              "username": "Com0loquieras"
+            },
+            {
+              "end": 26,
+              "id": "1813768883540725760",
+              "start": 15,
+              "username": "ye_and_yae"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4F3g5tQRF5",
+              "end": 50,
+              "expanded_url": "https://x.com/Wesley10032/status/2096259636538310971/photo/1",
+              "media_key": "3_2096259626048380928",
+              "start": 27,
+              "url": "https://t.co/4F3g5tQRF5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096259636538310971",
+        "in_reply_to_user_id": "2048331424504463360",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2096259626048380928"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096259397374931387",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Com0loquieras @ye_and_yae https://t.co/4F3g5tQRF5"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048331424504463360",
+        "conversation_id": "2096200605715022045",
+        "created_at": "2026-09-05T15:29:21.000Z",
+        "display_text_range": [
+          25,
+          46
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T16:29:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096259397374931387"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1880979169297022976",
+              "start": 0,
+              "username": "Wesley10032"
+            },
+            {
+              "end": 24,
+              "id": "1813768883540725760",
+              "start": 13,
+              "username": "ye_and_yae"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096259397374931387",
+        "in_reply_to_user_id": "1880979169297022976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096254507382649318",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wesley10032 @ye_and_yae 我下次去广州我要看到你\n我要被你操合不上😋"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳/♂/08.11.3/友跨(暂不翻车)\n政治立场未知/聊天请走下方TG链接\n魔裁(まのさば)/CS2/三角洲/Galgame/IT \n好基友@lockloveovo\n高三党/广东中山在居\nCN/EN/JP\n里推@Wesley10033",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 75,
+                "username": "lockloveovo"
+              },
+              {
+                "end": 122,
+                "start": 110,
+                "username": "Wesley10033"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://t.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/HjVzyPDIuK"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "is_identity_verified": true,
+        "location": "People's Republic of China",
+        "most_recent_tweet_id": "2096259636538310971",
+        "name": "Wesley",
+        "pinned_tweet_id": "2083033063257420070",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1880979169297022976/1785740152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1562,
+          "following_count": 1805,
+          "like_count": 24193,
+          "listed_count": 2,
+          "media_count": 500,
+          "tweet_count": 3710
+        },
+        "url": "https://t.co/HjVzyPDIuK",
+        "username": "Wesley10032",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-26T09:20:48.000Z",
+        "description": "Producción:2010/10/10 180cm/81kg\nHabilidades:Go,astro,pnpm,Linux,Vibe Código,internet,español CEFR A1\n性格特点：直球 拉美大手子 大男娘 梦到什么说什么 谈崩专家不善言辞 身体不好 性压抑 大笨蛋",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "867678.xyz",
+                "end": 23,
+                "expanded_url": "https://867678.xyz",
+                "start": 0,
+                "url": "https://t.co/S3HBBI841a"
+              }
+            ]
+          }
+        },
+        "id": "2048331424504463360",
+        "is_identity_verified": false,
+        "location": "Virreinato de Nueva España",
+        "most_recent_tweet_id": "2096259397374931387",
+        "name": "Gato🇪🇸🇲🇽🇨🇴🇵🇪🇦🇷🇨🇱",
+        "pinned_tweet_id": "2094311814276493360",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2048331424504463360/1786365601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095701062086987776/RYPAKKkr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 346,
+          "following_count": 317,
+          "like_count": 15277,
+          "listed_count": 2,
+          "media_count": 213,
+          "tweet_count": 6688
+        },
+        "url": "https://t.co/S3HBBI841a",
+        "username": "Com0loquieras",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-07-18T02:54:44.000Z",
+        "description": "我是爱晔哦 \n09/01/26 炸柜26/06/09 有时含糖 喜欢航天 二次元 技术至上主义 喜欢画画 学日语\n最最最好的朋友@guoxiufeng5",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 64,
+                "username": "guoxiufeng5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "spacex.com",
+                "end": 23,
+                "expanded_url": "http://spacex.com",
+                "start": 0,
+                "url": "https://t.co/8kxr0UGOJ6"
+              }
+            ]
+          }
+        },
+        "id": "1813768883540725760",
+        "is_identity_verified": false,
+        "location": "距你11.4km",
+        "most_recent_tweet_id": "2096224446277382231",
+        "name": "🍥爱晔🚀",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1813768883540725760/1764440318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079860342965067776/HglcXlhL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2029,
+          "following_count": 1412,
+          "like_count": 12965,
+          "listed_count": 3,
+          "media_count": 646,
+          "tweet_count": 5564
+        },
+        "url": "https://t.co/8kxr0UGOJ6",
+        "username": "ye_and_yae",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

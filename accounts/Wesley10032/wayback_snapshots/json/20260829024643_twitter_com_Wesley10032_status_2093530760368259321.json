@@ -1,0 +1,391 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880979169297022976",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026378521",
+          "name": "Google "
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1395474411180892160",
+          "name": "Google brand conversation"
+        }
+      }
+    ],
+    "conversation_id": "2093455117261361450",
+    "created_at": "2026-08-29T02:46:43.000Z",
+    "display_text_range": [
+      25,
+      41
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-29T03:46:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093530760368259321"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2080831850352893952",
+          "start": 0,
+          "username": "MimirLink"
+        },
+        {
+          "end": 24,
+          "id": "869300057492905984",
+          "start": 11,
+          "username": "AnxiousHolly"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093530760368259321",
+    "in_reply_to_user_id": "2080831850352893952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093530429865488776",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MimirLink @AnxiousHolly Google 服务都要翻墙嘛不是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880979169297022976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          }
+        ],
+        "conversation_id": "2093455117261361450",
+        "created_at": "2026-08-29T02:46:43.000Z",
+        "display_text_range": [
+          25,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T03:46:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093530760368259321"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2080831850352893952",
+              "start": 0,
+              "username": "MimirLink"
+            },
+            {
+              "end": 24,
+              "id": "869300057492905984",
+              "start": 11,
+              "username": "AnxiousHolly"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093530760368259321",
+        "in_reply_to_user_id": "2080831850352893952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093530429865488776",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MimirLink @AnxiousHolly Google 服务都要翻墙嘛不是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2080831850352893952",
+        "conversation_id": "2093455117261361450",
+        "created_at": "2026-08-29T02:45:25.000Z",
+        "display_text_range": [
+          27,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T03:45:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093530429865488776"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1880979169297022976",
+              "start": 0,
+              "username": "Wesley10032"
+            },
+            {
+              "end": 26,
+              "id": "869300057492905984",
+              "start": 13,
+              "username": "AnxiousHolly"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093530429865488776",
+        "in_reply_to_user_id": "1880979169297022976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093523963691573599",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wesley10032 @AnxiousHolly 为啥？频段还是墙？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳/♂/08.11.3/友跨🏳️‍⚧️\n政治立场未知/聊天请走下方TG链接\n魔裁(まのさば)/CS2/三角洲/Galgame/IT \n好基友@lockloveovo\n学生党 周末/节假日在线\nCN/EN/JP\n防失联@Wesley10033",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 74,
+                "username": "lockloveovo"
+              },
+              {
+                "end": 124,
+                "start": 112,
+                "username": "Wesley10033"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://telegram.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/Q5wiGuq4W4"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "is_identity_verified": true,
+        "location": "People's Republic of China",
+        "most_recent_tweet_id": "2093530760368259321",
+        "name": "Wesley",
+        "pinned_tweet_id": "2083033063257420070",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1880979169297022976/1785740152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1458,
+          "following_count": 1722,
+          "like_count": 20104,
+          "listed_count": 3,
+          "media_count": 457,
+          "tweet_count": 3334
+        },
+        "url": "https://t.co/Q5wiGuq4W4",
+        "username": "Wesley10032",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-25T01:47:43.000Z",
+        "description": "Home lab, AI, chitchat, Private VPN Service. 家庭网络+AI+闲聊+科网俱乐部",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mimirlink.io",
+                "end": 23,
+                "expanded_url": "http://www.mimirlink.io",
+                "start": 0,
+                "url": "https://t.co/nRAurwsAZM"
+              }
+            ]
+          }
+        },
+        "id": "2080831850352893952",
+        "is_identity_verified": false,
+        "location": "United States",
+        "most_recent_tweet_id": "2093530429865488776",
+        "name": "MímirLink",
+        "pinned_tweet_id": "2087322884310233264",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2080831850352893952/1784944902",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080833930148945920/xJFXXij__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 615,
+          "following_count": 637,
+          "like_count": 1271,
+          "listed_count": 0,
+          "media_count": 139,
+          "tweet_count": 1136
+        },
+        "url": "https://t.co/nRAurwsAZM",
+        "username": "MimirLink",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-05-29T21:10:59.000Z",
+        "description": "Fan of Samsung/Android also iOS & iPhone and Pixel | mobile photography, a tech enthusiast ☕️",
+        "id": "869300057492905984",
+        "is_identity_verified": true,
+        "location": "United Kingdom",
+        "most_recent_tweet_id": "2093526519725371727",
+        "name": "Holly - I like tech",
+        "pinned_tweet_id": "2076735097701605441",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/869300057492905984/1752747429",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1611755694071373825/Lpdk9B5m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46459,
+          "following_count": 351,
+          "like_count": 82509,
+          "listed_count": 150,
+          "media_count": 9922,
+          "tweet_count": 45912
+        },
+        "url": "",
+        "username": "AnxiousHolly",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

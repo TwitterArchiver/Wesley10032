@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880979169297022976",
+    "conversation_id": "2092959301208002654",
+    "created_at": "2026-08-28T16:17:53.000Z",
+    "display_text_range": [
+      12,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-28T17:17:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093372509660000464"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1812048787415744512",
+          "start": 0,
+          "username": "zyq1114319"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093372509660000464",
+    "in_reply_to_user_id": "1812048787415744512",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092959301208002654",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zyq1114319 抱抱喵🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880979169297022976",
+        "conversation_id": "2092959301208002654",
+        "created_at": "2026-08-28T16:17:53.000Z",
+        "display_text_range": [
+          12,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T17:17:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093372509660000464"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1812048787415744512",
+              "start": 0,
+              "username": "zyq1114319"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093372509660000464",
+        "in_reply_to_user_id": "1812048787415744512",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092959301208002654",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zyq1114319 抱抱喵🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1812048787415744512",
+        "conversation_id": "2092959301208002654",
+        "created_at": "2026-08-27T12:55:57.000Z",
+        "display_text_range": [
+          0,
+          95
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T13:55:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092959301208002654"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2092959301208002654",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 6102,
+          "like_count": 79,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个圈子……烂完了，长得好看就是爷，性格好有个屁用……没人在乎的…不会有人带你玩的，不懂技术谁tm理你呀，mlgb…乐子人无所谓呀，他长得好看他配…我tm就是个死跌烂吗的跨性别，我真是个sb"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳/♂/08.11.3/友跨🏳️‍⚧️\n政治立场未知/聊天请走下方TG链接\n魔裁(まのさば)/CS2/三角洲/Galgame/IT \n好基友@lockloveovo\n学生党 周末/节假日在线\nCN/EN/JP\n防失联@Wesley10033",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 74,
+                "username": "lockloveovo"
+              },
+              {
+                "end": 124,
+                "start": 112,
+                "username": "Wesley10033"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://telegram.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/Q5wiGuq4W4"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "is_identity_verified": true,
+        "location": "People's Republic of China",
+        "most_recent_tweet_id": "2093372509660000464",
+        "name": "Wesley",
+        "pinned_tweet_id": "2083033063257420070",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1880979169297022976/1785740152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1447,
+          "following_count": 1714,
+          "like_count": 19837,
+          "listed_count": 3,
+          "media_count": 455,
+          "tweet_count": 3310
+        },
+        "url": "https://t.co/Q5wiGuq4W4",
+        "username": "Wesley10032",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-07-13T08:58:11.000Z",
+        "description": "mtf/高中生/会发一些碎碎念/欢迎扩列/有时会发一些负能量的帖子，对不起/正在和\n抑郁症，焦虑症，强迫症做斗争/比较大只，身材焦虑/希望未来能加入危机干预组织，希望大家都可以好好的活着",
+        "id": "1812048787415744512",
+        "is_identity_verified": false,
+        "location": "美国",
+        "most_recent_tweet_id": "2093349784648315299",
+        "name": "tutu_🍥",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026205666151657472/JwRCDc0t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 296,
+          "following_count": 1636,
+          "like_count": 1,
+          "listed_count": 1,
+          "media_count": 9,
+          "tweet_count": 120
+        },
+        "url": "",
+        "username": "zyq1114319",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

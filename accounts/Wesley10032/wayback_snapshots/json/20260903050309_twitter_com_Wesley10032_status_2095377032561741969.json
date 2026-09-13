@@ -1,0 +1,328 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2095377004006952960"
+      ]
+    },
+    "author_id": "1880979169297022976",
+    "conversation_id": "2095368691164848630",
+    "created_at": "2026-09-03T05:03:09.000Z",
+    "display_text_range": [
+      14,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-03T06:03:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095377032561741969"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1689906518446182400",
+          "start": 0,
+          "username": "KiriyoruYuki"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fgCU4bvtWg",
+          "end": 41,
+          "expanded_url": "https://x.com/Wesley10032/status/2095377032561741969/photo/1",
+          "media_key": "3_2095377004006952960",
+          "start": 18,
+          "url": "https://t.co/fgCU4bvtWg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095377032561741969",
+    "in_reply_to_user_id": "1689906518446182400",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2095377004006952960"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095376861627056256",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KiriyoruYuki 何意味 https://t.co/fgCU4bvtWg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 534,
+        "media_key": "3_2095377004006952960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRRGSIpbUAAoopX.jpg",
+        "width": 534
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095377004006952960"
+          ]
+        },
+        "author_id": "1880979169297022976",
+        "conversation_id": "2095368691164848630",
+        "created_at": "2026-09-03T05:03:09.000Z",
+        "display_text_range": [
+          14,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T06:03:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095377032561741969"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1689906518446182400",
+              "start": 0,
+              "username": "KiriyoruYuki"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fgCU4bvtWg",
+              "end": 41,
+              "expanded_url": "https://x.com/Wesley10032/status/2095377032561741969/photo/1",
+              "media_key": "3_2095377004006952960",
+              "start": 18,
+              "url": "https://t.co/fgCU4bvtWg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095377032561741969",
+        "in_reply_to_user_id": "1689906518446182400",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2095377004006952960"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095376861627056256",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KiriyoruYuki 何意味 https://t.co/fgCU4bvtWg"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1689906518446182400",
+        "conversation_id": "2095368691164848630",
+        "created_at": "2026-09-03T05:02:28.000Z",
+        "display_text_range": [
+          13,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T06:02:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095376861627056256"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1880979169297022976",
+              "start": 0,
+              "username": "Wesley10032"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095376861627056256",
+        "in_reply_to_user_id": "1880979169297022976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095368691164848630",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wesley10032 onb原来你还有逼的😅"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳/♂/08.11.3/友跨🏳️‍⚧️\n政治立场未知/聊天请走下方TG链接\n魔裁(まのさば)/CS2/三角洲/Galgame/IT \n好基友@lockloveovo\n学生党 周末/节假日在线\nCN/EN/JP\n第二账号暂不公开",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 74,
+                "username": "lockloveovo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://telegram.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/Q5wiGuq4W4"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "is_identity_verified": true,
+        "location": "People's Republic of China",
+        "most_recent_tweet_id": "2095377032561741969",
+        "name": "Wesley",
+        "pinned_tweet_id": "2083033063257420070",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1880979169297022976/1785740152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1536,
+          "following_count": 1782,
+          "like_count": 22673,
+          "listed_count": 3,
+          "media_count": 485,
+          "tweet_count": 3584
+        },
+        "url": "https://t.co/Q5wiGuq4W4",
+        "username": "Wesley10032",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-08-11T07:48:33.000Z",
+        "description": "一个无聊的普通人罢了｜互fo欢迎～如果没回请直接私信\n07｜男(存疑)｜防爆装置@KiriyoruYuki002\n喜欢现代刀具｜动漫轻小说｜永恒轮回＆NFS22&MC等\n❗️No politics ｜🏳️‍🌈🏳️‍⚧️friendly ｜日本語勉強中",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 40,
+                "username": "KiriyoruYuki002"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/KiriyoruYuki",
+                "end": 23,
+                "expanded_url": "http://t.me/KiriyoruYuki",
+                "start": 0,
+                "url": "https://t.co/RnF1R1Npho"
+              }
+            ]
+          }
+        },
+        "id": "1689906518446182400",
+        "is_identity_verified": false,
+        "location": "Lumia Island",
+        "most_recent_tweet_id": "2095376861627056256",
+        "name": "霧夜 ユキ",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1689906518446182400/1787450981",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083227485802815488/ioOTPdeG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 251,
+          "like_count": 1045,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 413
+        },
+        "url": "https://t.co/RnF1R1Npho",
+        "username": "KiriyoruYuki",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

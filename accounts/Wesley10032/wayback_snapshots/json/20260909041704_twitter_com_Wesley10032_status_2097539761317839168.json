@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880979169297022976",
+    "conversation_id": "2097306464419536971",
+    "created_at": "2026-09-09T04:17:04.000Z",
+    "display_text_range": [
+      14,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-09T05:17:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097539761317839168"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1624556678858395648",
+          "start": 0,
+          "username": "huhu12027596"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097539761317839168",
+    "in_reply_to_user_id": "1624556678858395648",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097306464419536971",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huhu12027596 不要啊😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 700,
+        "media_key": "3_2097306450481844224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRshGs4bEAAGX0w.jpg",
+        "width": 607
+      },
+      {
+        "height": 268,
+        "media_key": "3_2097306456823586816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRshHEgaYAAGEk9.jpg",
+        "width": 582
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880979169297022976",
+        "conversation_id": "2097306464419536971",
+        "created_at": "2026-09-09T04:17:04.000Z",
+        "display_text_range": [
+          14,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T05:17:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097539761317839168"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1624556678858395648",
+              "start": 0,
+              "username": "huhu12027596"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097539761317839168",
+        "in_reply_to_user_id": "1624556678858395648",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097306464419536971",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huhu12027596 不要啊😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097306450481844224",
+            "3_2097306456823586816"
+          ]
+        },
+        "author_id": "1624556678858395648",
+        "conversation_id": "2097306464419536971",
+        "created_at": "2026-09-08T12:50:01.000Z",
+        "display_text_range": [
+          0,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T13:50:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097306464419536971"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xtNt8PUkdg",
+              "end": 60,
+              "expanded_url": "https://x.com/huhu12027596/status/2097306464419536971/photo/1",
+              "media_key": "3_2097306450481844224",
+              "start": 37,
+              "url": "https://t.co/xtNt8PUkdg"
+            },
+            {
+              "display_url": "pic.x.com/xtNt8PUkdg",
+              "end": 60,
+              "expanded_url": "https://x.com/huhu12027596/status/2097306464419536971/photo/1",
+              "media_key": "3_2097306456823586816",
+              "start": 37,
+              "url": "https://t.co/xtNt8PUkdg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097306464419536971",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2097306450481844224"
+          },
+          {
+            "media_key": "3_2097306456823586816"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2921,
+          "like_count": 50,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个账号陪伴了我四年，从白纸运动，到第一次hrt\n诶，不想活了，喝盐走了 https://t.co/xtNt8PUkdg"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "description": "中国人🇨🇳/♂/08.11.3\n政治立场未知/聊天请走下方TG链接\n魔裁(まのさば)/CS2/三角洲/Galgame/IT \n好基友@lockloveovo\n高三党/广东中山在居\nCN/EN/JP\n里推@Wesley10033",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 66,
+                "username": "lockloveovo"
+              },
+              {
+                "end": 113,
+                "start": 101,
+                "username": "Wesley10033"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://t.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/HjVzyPDIuK"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "is_identity_verified": true,
+        "location": "中华人民共和国 / P.R.C.",
+        "most_recent_tweet_id": "2097539761317839168",
+        "name": "Wesley",
+        "pinned_tweet_id": "2083033063257420070",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1880979169297022976/1785740152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1630,
+          "following_count": 1842,
+          "like_count": 26409,
+          "listed_count": 2,
+          "media_count": 527,
+          "tweet_count": 3968
+        },
+        "url": "https://t.co/HjVzyPDIuK",
+        "username": "Wesley10032",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-02-11T23:51:47.000Z",
+        "description": "同类互fo\n买糖🍬/药物咨询🍥/扩列/危机干预/头像定制\nTG消息秒回:https://t.co/OxJDjmUXYb\n微信：admin22334\nqq:2198850363\n21|心理委员|依存症|mtf|xyn|二次元|特别粘人|不可以欺负我|特别害羞|杂鱼|腹黑|病娇|缺爱|抖M/S|重抑",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/mikumi_huihui",
+                "end": 59,
+                "expanded_url": "http://t.me/mikumi_huihui",
+                "start": 36,
+                "url": "https://t.co/OxJDjmUXYb"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/mikumi_huihui",
+                "end": 23,
+                "expanded_url": "http://t.me/mikumi_huihui",
+                "start": 0,
+                "url": "https://t.co/OxJDjmUXYb"
+              }
+            ]
+          }
+        },
+        "id": "1624556678858395648",
+        "is_identity_verified": false,
+        "location": "广东韶关",
+        "most_recent_tweet_id": "2097533453335953561",
+        "name": "惠惠🍥🏳️‍⚧️（中二病也要mtf）（糖🍬商）",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1624556678858395648/1788723973",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096686309930840064/uDxcUaLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 60,
+          "like_count": 96,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 42
+        },
+        "url": "https://t.co/OxJDjmUXYb",
+        "username": "huhu12027596",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

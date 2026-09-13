@@ -1,0 +1,433 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880979169297022976",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+          "id": "122",
+          "name": "Fictional Character"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1247236287485997056",
+          "name": "Vocaloid"
+        }
+      }
+    ],
+    "conversation_id": "2094361711809818890",
+    "created_at": "2026-08-31T09:48:38.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T10:48:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094361711809818890"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2049152504542449664",
+          "start": 3,
+          "username": "hasaki_sama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094361711809818890",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094295266203750774",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hasaki_sama: ww以防你不知道喵～今天是世界第一公主殿下的第19个生日哦～！o(≧v≦)o✨\n\n从 2007.08.31 到 2026.08.31 Miku酱已经陪大家唱了整整十九年惹……🥹\n但永远都是「16歳の初音ミク」喵！(๑•̀ㅂ•́)و✧\n\n૮ ˶ᵔ…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 397,
+        "media_key": "3_2094295258423250945",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRBucQUaUAEYbi7.jpg",
+        "width": 706
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880979169297022976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          }
+        ],
+        "conversation_id": "2094361711809818890",
+        "created_at": "2026-08-31T09:48:38.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T10:48:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094361711809818890"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2049152504542449664",
+              "start": 3,
+              "username": "hasaki_sama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094361711809818890",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094295266203750774",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hasaki_sama: ww以防你不知道喵～今天是世界第一公主殿下的第19个生日哦～！o(≧v≦)o✨\n\n从 2007.08.31 到 2026.08.31 Miku酱已经陪大家唱了整整十九年惹……🥹\n但永远都是「16歳の初音ミク」喵！(๑•̀ㅂ•́)و✧\n\n૮ ˶ᵔ…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094295258423250945"
+          ]
+        },
+        "author_id": "2049152504542449664",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          }
+        ],
+        "conversation_id": "2094295266203750774",
+        "created_at": "2026-08-31T05:24:36.000Z",
+        "display_text_range": [
+          0,
+          154
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T06:24:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094295266203750774"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Big4Oz9lTu",
+              "end": 178,
+              "expanded_url": "https://x.com/hasaki_sama/status/2094295266203750774/photo/1",
+              "media_key": "3_2094295258423250945",
+              "start": 155,
+              "url": "https://t.co/Big4Oz9lTu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094295266203750774",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2094295258423250945"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 396,
+          "like_count": 38,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "ww以防你不知道喵～今天是世界第一公主殿下的第19个生日哦～！o(≧v≦)o✨\n\n从 2007.08.31 到 2026.08.31 Miku酱已经陪大家唱了整整十九年惹……🥹\n但永远都是「16歳の初音ミク」喵！(๑•̀ㅂ•́)و✧\n\n૮ ˶ᵔ ᵕ ᵔ˶ ა Happy Birthday, Miku！ 💚🩵 https://t.co/Big4Oz9lTu"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳/♂/08.11.3/友跨🏳️‍⚧️\n政治立场未知/聊天请走下方TG链接\n魔裁(まのさば)/CS2/三角洲/Galgame/IT \n好基友@lockloveovo\n学生党 周末/节假日在线\nCN/EN/JP\n第二账号暂不公开",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 74,
+                "username": "lockloveovo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://telegram.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/Q5wiGuq4W4"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "is_identity_verified": true,
+        "location": "People's Republic of China",
+        "most_recent_tweet_id": "2094361711809818890",
+        "name": "Wesley",
+        "pinned_tweet_id": "2083033063257420070",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1880979169297022976/1785740152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1515,
+          "following_count": 1758,
+          "like_count": 21751,
+          "listed_count": 3,
+          "media_count": 477,
+          "tweet_count": 3502
+        },
+        "url": "https://t.co/Q5wiGuq4W4",
+        "username": "Wesley10032",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-28T15:48:05.000Z",
+        "description": "Hi！这里是Neko 很高兴认识你喵～ (˶ᵔ ᵕ ᵔ˶)✧\n｜11年小资历｜泛性恋✨｜LGBTQ+🏳️‍🌈｜INFP🦋｜跨性别友好🏳️‍⚧️/ 喜欢 羽球🏸｜ACG｜信息技术 AI｜不定时喵喵叫🐱/鉴证 🆖｜联系方式💬 https://t.co/VDLGVdQMfq\n\n匿名邮箱 提问 👀 ⬇️",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/hasaki_0612",
+                "end": 134,
+                "expanded_url": "http://t.me/hasaki_0612",
+                "start": 111,
+                "url": "https://t.co/VDLGVdQMfq"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hasaki_0612",
+                "end": 23,
+                "expanded_url": "https://ngl.link/hasaki_0612",
+                "start": 0,
+                "url": "https://t.co/8Ei14tUkCK"
+              }
+            ]
+          }
+        },
+        "id": "2049152504542449664",
+        "is_identity_verified": false,
+        "location": "ユートピア",
+        "most_recent_tweet_id": "2094345716986683656",
+        "name": "Neko 🐾",
+        "pinned_tweet_id": "2088172213262528904",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2049152504542449664/1783530736",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075040561237753856/aiPH-t8W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1180,
+          "following_count": 1070,
+          "like_count": 4752,
+          "listed_count": 3,
+          "media_count": 407,
+          "tweet_count": 2802
+        },
+        "url": "https://t.co/8Ei14tUkCK",
+        "username": "hasaki_sama",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

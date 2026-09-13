@@ -1,0 +1,303 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880979169297022976",
+    "conversation_id": "2096262961434137000",
+    "created_at": "2026-09-05T16:46:41.000Z",
+    "display_text_range": [
+      12,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T17:46:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096278859134173255"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1310330776148377604",
+          "start": 0,
+          "username": "_Adbuzese_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096278859134173255",
+    "in_reply_to_user_id": "1310330776148377604",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096262961434137000",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_Adbuzese_ 很好看☺️"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2096262948540817416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRdsC5OWoAgEMj_.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880979169297022976",
+        "conversation_id": "2096262961434137000",
+        "created_at": "2026-09-05T16:46:41.000Z",
+        "display_text_range": [
+          12,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T17:46:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096278859134173255"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1310330776148377604",
+              "start": 0,
+              "username": "_Adbuzese_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096278859134173255",
+        "in_reply_to_user_id": "1310330776148377604",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096262961434137000",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_Adbuzese_ 很好看☺️"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096262948540817416"
+          ]
+        },
+        "author_id": "1310330776148377604",
+        "conversation_id": "2096262961434137000",
+        "created_at": "2026-09-05T15:43:31.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T16:43:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096262961434137000"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JF11R3Va8U",
+              "end": 31,
+              "expanded_url": "https://x.com/_Adbuzese_/status/2096262961434137000/photo/1",
+              "media_key": "3_2096262948540817416",
+              "start": 8,
+              "url": "https://t.co/JF11R3Va8U"
+            },
+            {
+              "display_url": "x.com/_adbuzese_/sta…",
+              "end": 55,
+              "expanded_url": "https://twitter.com/_adbuzese_/status/2096255565106135541",
+              "start": 32,
+              "url": "https://t.co/KgDo9LFiLG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096262961434137000",
+        "lang": "ru",
+        "media_metadata": [
+          {
+            "media_key": "3_2096262948540817416"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 433,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096255565106135541",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Вот еще https://t.co/JF11R3Va8U https://t.co/KgDo9LFiLG"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳/♂/08.11.3\n政治立场未知/聊天请走下方TG链接\n魔裁(まのさば)/CS2/三角洲/Galgame/IT \n好基友@lockloveovo\n高三党/广东中山在居\nCN/EN/JP\n里推@Wesley10033",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 66,
+                "username": "lockloveovo"
+              },
+              {
+                "end": 113,
+                "start": 101,
+                "username": "Wesley10033"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://t.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/HjVzyPDIuK"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "is_identity_verified": true,
+        "location": "People's Republic of China",
+        "most_recent_tweet_id": "2096278859134173255",
+        "name": "Wesley",
+        "pinned_tweet_id": "2083033063257420070",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1880979169297022976/1785740152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1567,
+          "following_count": 1813,
+          "like_count": 24276,
+          "listed_count": 2,
+          "media_count": 500,
+          "tweet_count": 3724
+        },
+        "url": "https://t.co/HjVzyPDIuK",
+        "username": "Wesley10032",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-09-27T21:29:56.000Z",
+        "description": "Картавый блогер по визуальным новеллам и просто твиттерских шиз",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@Adbuzese",
+                "end": 23,
+                "expanded_url": "http://www.youtube.com/@Adbuzese",
+                "start": 0,
+                "url": "https://t.co/YGMLa1s3HJ"
+              }
+            ]
+          }
+        },
+        "id": "1310330776148377604",
+        "is_identity_verified": false,
+        "location": "Вязники/Москвабад",
+        "most_recent_tweet_id": "2096262961434137000",
+        "name": "ArbuzChan",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1310330776148377604/1740671075",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081398831283916800/EDi0_WAb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5513,
+          "following_count": 417,
+          "like_count": 55849,
+          "listed_count": 38,
+          "media_count": 1297,
+          "tweet_count": 5745
+        },
+        "url": "https://t.co/YGMLa1s3HJ",
+        "username": "_Adbuzese_",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

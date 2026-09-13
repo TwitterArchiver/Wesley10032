@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880979169297022976",
+    "conversation_id": "2091572268149457406",
+    "created_at": "2026-08-23T17:04:22.000Z",
+    "display_text_range": [
+      0,
+      34
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-23T18:04:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091572268149457406"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2032599702454329344",
+          "start": 3,
+          "username": "Zack_1229"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091572268149457406",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091546922880528612",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Zack_1229: 睡了🌙晚安吧\n看我明天能不能破百fo😃"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880979169297022976",
+        "conversation_id": "2091572268149457406",
+        "created_at": "2026-08-23T17:04:22.000Z",
+        "display_text_range": [
+          0,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T18:04:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091572268149457406"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2032599702454329344",
+              "start": 3,
+              "username": "Zack_1229"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091572268149457406",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091546922880528612",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Zack_1229: 睡了🌙晚安吧\n看我明天能不能破百fo😃"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032599702454329344",
+        "conversation_id": "2091546922880528612",
+        "created_at": "2026-08-23T15:23:40.000Z",
+        "display_text_range": [
+          0,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T16:23:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091546922880528612"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2091546922880528612",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 174,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "睡了🌙晚安吧\n看我明天能不能破百fo😃"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳/♂/08.11.3/友跨🏳️‍⚧️\n政治立场未知/聊天请走下方TG链接\n魔裁(まのさば)/CS2/三角洲/Galgame/IT \n好基友@lockloveovo\n学生党 周末/节假日在线\nCN/EN/JP\n防失联@Wesley10033",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 74,
+                "username": "lockloveovo"
+              },
+              {
+                "end": 124,
+                "start": 112,
+                "username": "Wesley10033"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://telegram.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/Q5wiGuq4W4"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "is_identity_verified": false,
+        "location": "People's Republic of China",
+        "most_recent_tweet_id": "2091572268149457406",
+        "name": "Wesley",
+        "pinned_tweet_id": "2083033063257420070",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1880979169297022976/1785740152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1365,
+          "following_count": 1651,
+          "like_count": 18706,
+          "listed_count": 1,
+          "media_count": 442,
+          "tweet_count": 3167
+        },
+        "url": "https://t.co/Q5wiGuq4W4",
+        "username": "Wesley10032",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-13T23:29:05.000Z",
+        "description": "男😃選擇性互fo\n音游手殘/ Vocaloid 愛好者\n歡迎交友🫶\n小號…？：@Azl_Kcaz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 39,
+                "username": "Azl_Kcaz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zack47785",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zack47785",
+                "start": 0,
+                "url": "https://t.co/r83gI6d6Xm"
+              }
+            ]
+          }
+        },
+        "id": "2032599702454329344",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091550290248184308",
+        "name": "Zack",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2032599702454329344/1786888346",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088987245542010880/cMGCpoVo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 119,
+          "like_count": 1613,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 511
+        },
+        "url": "https://t.co/r83gI6d6Xm",
+        "username": "Zack_1229",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

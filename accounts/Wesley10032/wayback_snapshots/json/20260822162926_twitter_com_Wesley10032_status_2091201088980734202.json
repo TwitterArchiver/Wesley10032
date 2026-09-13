@@ -1,0 +1,319 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880979169297022976",
+    "conversation_id": "2091162433050333370",
+    "created_at": "2026-08-22T16:29:26.000Z",
+    "display_text_range": [
+      12,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T17:29:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091201088980734202"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1518254263457431552",
+          "start": 0,
+          "username": "ShawnX_nya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091201088980734202",
+    "in_reply_to_user_id": "1518254263457431552",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091188296126980192",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ShawnX_nya 何意味😨"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 720,
+        "media_key": "3_2091188291471282176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQVkq-eaEAAXEYO.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880979169297022976",
+        "conversation_id": "2091162433050333370",
+        "created_at": "2026-08-22T16:29:26.000Z",
+        "display_text_range": [
+          12,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T17:29:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091201088980734202"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1518254263457431552",
+              "start": 0,
+              "username": "ShawnX_nya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091201088980734202",
+        "in_reply_to_user_id": "1518254263457431552",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091188296126980192",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ShawnX_nya 何意味😨"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091188291471282176"
+          ]
+        },
+        "author_id": "1518254263457431552",
+        "conversation_id": "2091162433050333370",
+        "created_at": "2026-08-22T15:38:36.000Z",
+        "display_text_range": [
+          12,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T16:38:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091188296126980192"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1880979169297022976",
+              "start": 0,
+              "username": "Wesley10032"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NB7htHZMhU",
+              "end": 36,
+              "expanded_url": "https://x.com/ShawnX_nya/status/2091188296126980192/photo/1",
+              "media_key": "3_2091188291471282176",
+              "start": 13,
+              "url": "https://t.co/NB7htHZMhU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091188296126980192",
+        "in_reply_to_user_id": "1880979169297022976",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2091188291471282176"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091162433050333370",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wesley10032 https://t.co/NB7htHZMhU"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳/♂/08.11.3/友跨🏳️‍⚧️\n政治立场未知/聊天请走下方TG链接\n魔裁(まのさば)/CS2/三角洲/Galgame/IT \n好基友@lockloveovo\n学生党 周末/节假日在线\nCN/EN/JP\n防失联@Wesley10033",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 74,
+                "username": "lockloveovo"
+              },
+              {
+                "end": 124,
+                "start": 112,
+                "username": "Wesley10033"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://telegram.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/Q5wiGuq4W4"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "is_identity_verified": false,
+        "location": "People's Republic of China",
+        "most_recent_tweet_id": "2091201088980734202",
+        "name": "Wesley",
+        "pinned_tweet_id": "2083033063257420070",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1880979169297022976/1785740152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1312,
+          "following_count": 1602,
+          "like_count": 18092,
+          "listed_count": 1,
+          "media_count": 434,
+          "tweet_count": 3069
+        },
+        "url": "https://t.co/Q5wiGuq4W4",
+        "username": "Wesley10032",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-04-24T15:43:43.000Z",
+        "description": "CN/EN OK | JP 勉強中 | RU 还没开始学\nMTX 任何称呼OK\n双相 服药治疗中 不好的评论我会删\n十八线coder 主Go\n日常发癫/emo  fo都会回\n长文参见 https://t.co/jb5NgL6g4G",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "xuanpt2.org",
+                "end": 115,
+                "expanded_url": "http://xuanpt2.org",
+                "start": 92,
+                "url": "https://t.co/jb5NgL6g4G"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xuanpt2.org",
+                "end": 23,
+                "expanded_url": "http://xuanpt2.org",
+                "start": 0,
+                "url": "https://t.co/jb5NgL6g4G"
+              }
+            ]
+          }
+        },
+        "id": "1518254263457431552",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091188296126980192",
+        "name": "ShawNya",
+        "pinned_tweet_id": "2086870047793058292",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1518254263457431552/1786910914",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089081907594280960/62tuuQ13_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 459,
+          "like_count": 764,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 367
+        },
+        "url": "https://t.co/jb5NgL6g4G",
+        "username": "ShawnX_nya",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

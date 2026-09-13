@@ -1,0 +1,353 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2093000146904817664"
+      ],
+      "media_source_tweet_id": [
+        "2093000450199130411"
+      ]
+    },
+    "author_id": "1880979169297022976",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2093297694852952456",
+    "created_at": "2026-08-28T11:20:36.000Z",
+    "display_text_range": [
+      0,
+      87
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-28T12:20:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093297694852952456"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "3238305468",
+          "start": 3,
+          "username": "Jackleecong"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/pKNvgxd82H",
+          "end": 87,
+          "expanded_url": "https://x.com/Jackleecong/status/2093000450199130411/photo/1",
+          "media_key": "16_2093000146904817664",
+          "start": 64,
+          "url": "https://t.co/pKNvgxd82H"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093297694852952456",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "16_2093000146904817664"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1077
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093000450199130411",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Jackleecong: 在中国吉隆口岸监控里，致敬这位中国边检民警，在生命的最后一刻还在指挥群众撤离，英雄永垂不朽！ https://t.co/pKNvgxd82H"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 402,
+        "media_key": "16_2093000146904817664",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HQvUi18aIAABqnB.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HQvUi18aIAABqnB.mp4"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2093000146904817664"
+          ],
+          "media_source_tweet_id": [
+            "2093000450199130411"
+          ]
+        },
+        "author_id": "1880979169297022976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2093297694852952456",
+        "created_at": "2026-08-28T11:20:36.000Z",
+        "display_text_range": [
+          0,
+          87
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T12:20:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093297694852952456"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "3238305468",
+              "start": 3,
+              "username": "Jackleecong"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pKNvgxd82H",
+              "end": 87,
+              "expanded_url": "https://x.com/Jackleecong/status/2093000450199130411/photo/1",
+              "media_key": "16_2093000146904817664",
+              "start": 64,
+              "url": "https://t.co/pKNvgxd82H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093297694852952456",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "16_2093000146904817664"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1077
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093000450199130411",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Jackleecong: 在中国吉隆口岸监控里，致敬这位中国边检民警，在生命的最后一刻还在指挥群众撤离，英雄永垂不朽！ https://t.co/pKNvgxd82H"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2093000146904817664"
+          ]
+        },
+        "author_id": "3238305468",
+        "conversation_id": "2093000450199130411",
+        "created_at": "2026-08-27T15:39:28.000Z",
+        "display_text_range": [
+          0,
+          46
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T16:39:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093000450199130411"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pKNvgxd82H",
+              "end": 70,
+              "expanded_url": "https://x.com/Jackleecong/status/2093000450199130411/photo/1",
+              "media_key": "16_2093000146904817664",
+              "start": 47,
+              "url": "https://t.co/pKNvgxd82H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093000450199130411",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "16_2093000146904817664"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1379,
+          "impression_count": 3814464,
+          "like_count": 20641,
+          "quote_count": 107,
+          "reply_count": 558,
+          "retweet_count": 1077
+        },
+        "reply_settings": "everyone",
+        "text": "在中国吉隆口岸监控里，致敬这位中国边检民警，在生命的最后一刻还在指挥群众撤离，英雄永垂不朽！ https://t.co/pKNvgxd82H"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳/♂/08.11.3/友跨🏳️‍⚧️\n政治立场未知/聊天请走下方TG链接\n魔裁(まのさば)/CS2/三角洲/Galgame/IT \n好基友@lockloveovo\n学生党 周末/节假日在线\nCN/EN/JP\n防失联@Wesley10033",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 74,
+                "username": "lockloveovo"
+              },
+              {
+                "end": 124,
+                "start": 112,
+                "username": "Wesley10033"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://telegram.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/Q5wiGuq4W4"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "is_identity_verified": false,
+        "location": "People's Republic of China",
+        "most_recent_tweet_id": "2093297694852952456",
+        "name": "Wesley",
+        "pinned_tweet_id": "2083033063257420070",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1880979169297022976/1785740152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1431,
+          "following_count": 1687,
+          "like_count": 19651,
+          "listed_count": 3,
+          "media_count": 452,
+          "tweet_count": 3278
+        },
+        "url": "https://t.co/Q5wiGuq4W4",
+        "username": "Wesley10032",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2015-06-07T01:32:42.000Z",
+        "description": "",
+        "id": "3238305468",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093285419169497577",
+        "name": "Leer-sol",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3238305468/1758125403",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017251900434120704/FF_QsDs9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2016,
+          "following_count": 4362,
+          "like_count": 5939,
+          "listed_count": 26,
+          "media_count": 214,
+          "tweet_count": 4364
+        },
+        "url": "",
+        "username": "Jackleecong",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

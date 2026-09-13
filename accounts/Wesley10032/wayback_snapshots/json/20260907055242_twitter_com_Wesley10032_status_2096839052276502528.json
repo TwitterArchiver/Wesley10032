@@ -1,0 +1,351 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2096473172166205440"
+      ],
+      "media_source_tweet_id": [
+        "2096473184229077172"
+      ]
+    },
+    "author_id": "1880979169297022976",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      }
+    ],
+    "conversation_id": "2096839052276502528",
+    "created_at": "2026-09-07T05:52:42.000Z",
+    "display_text_range": [
+      0,
+      74
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T06:52:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096839052276502528"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1931718569320157184",
+          "start": 3,
+          "username": "wanningussy"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5BaFgeY7ym",
+          "end": 74,
+          "expanded_url": "https://x.com/wanningussy/status/2096473184229077172/photo/1",
+          "media_key": "16_2096473172166205440",
+          "start": 51,
+          "url": "https://t.co/5BaFgeY7ym"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096839052276502528",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "16_2096473172166205440"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 18093
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096473184229077172",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wanningussy: me reading chinese lesbian tweets https://t.co/5BaFgeY7ym"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 240,
+        "media_key": "16_2096473172166205440",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HRgrPhQaYAARyPA.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HRgrPhQaYAARyPA.mp4"
+          }
+        ],
+        "width": 250
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2096473172166205440"
+          ],
+          "media_source_tweet_id": [
+            "2096473184229077172"
+          ]
+        },
+        "author_id": "1880979169297022976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2096839052276502528",
+        "created_at": "2026-09-07T05:52:42.000Z",
+        "display_text_range": [
+          0,
+          74
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T06:52:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096839052276502528"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1931718569320157184",
+              "start": 3,
+              "username": "wanningussy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5BaFgeY7ym",
+              "end": 74,
+              "expanded_url": "https://x.com/wanningussy/status/2096473184229077172/photo/1",
+              "media_key": "16_2096473172166205440",
+              "start": 51,
+              "url": "https://t.co/5BaFgeY7ym"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096839052276502528",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "16_2096473172166205440"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 18093
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096473184229077172",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @wanningussy: me reading chinese lesbian tweets https://t.co/5BaFgeY7ym"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2096473172166205440"
+          ]
+        },
+        "author_id": "1931718569320157184",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2096473184229077172",
+        "created_at": "2026-09-06T05:38:52.000Z",
+        "display_text_range": [
+          0,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T06:38:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096473184229077172"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5BaFgeY7ym",
+              "end": 57,
+              "expanded_url": "https://x.com/wanningussy/status/2096473184229077172/photo/1",
+              "media_key": "16_2096473172166205440",
+              "start": 34,
+              "url": "https://t.co/5BaFgeY7ym"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096473184229077172",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "16_2096473172166205440"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6690,
+          "impression_count": 1030776,
+          "like_count": 136876,
+          "quote_count": 395,
+          "reply_count": 155,
+          "retweet_count": 18093
+        },
+        "reply_settings": "everyone",
+        "text": "me reading chinese lesbian tweets https://t.co/5BaFgeY7ym"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "description": "中国人🇨🇳/♂/08.11.3\n政治立场未知/聊天请走下方TG链接\n魔裁(まのさば)/CS2/三角洲/Galgame/IT \n好基友@lockloveovo\n高三党/广东中山在居\nCN/EN/JP\n里推@Wesley10033",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 66,
+                "username": "lockloveovo"
+              },
+              {
+                "end": 113,
+                "start": 101,
+                "username": "Wesley10033"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://t.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/HjVzyPDIuK"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "is_identity_verified": true,
+        "location": "中华人民共和国 / P.R.C.",
+        "most_recent_tweet_id": "2096839052276502528",
+        "name": "Wesley",
+        "pinned_tweet_id": "2083033063257420070",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1880979169297022976/1785740152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1598,
+          "following_count": 1837,
+          "like_count": 25446,
+          "listed_count": 2,
+          "media_count": 513,
+          "tweet_count": 3866
+        },
+        "url": "https://t.co/HjVzyPDIuK",
+        "username": "Wesley10032",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-06-08T14:23:07.000Z",
+        "description": "chu wanning lovebot 🪷",
+        "id": "1931718569320157184",
+        "is_identity_verified": false,
+        "location": "22,she/her ",
+        "most_recent_tweet_id": "2096818989389517055",
+        "name": "jhol momo",
+        "pinned_tweet_id": "2089657654209892558",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1931718569320157184/1772356218",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072400617851826176/tkuEUT4B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 201,
+          "following_count": 80,
+          "like_count": 32079,
+          "listed_count": 1,
+          "media_count": 1067,
+          "tweet_count": 4388
+        },
+        "url": "",
+        "username": "wanningussy",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

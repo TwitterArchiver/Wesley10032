@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880979169297022976",
+    "conversation_id": "2098166373646233662",
+    "created_at": "2026-09-11T01:00:31.000Z",
+    "display_text_range": [
+      8,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T02:00:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098215075467379074"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2045513838850641921",
+          "start": 0,
+          "username": "intqwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098215075467379074",
+    "in_reply_to_user_id": "2045513838850641921",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098166373646233662",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@intqwq 在境内找个服务器中转🤔"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1332,
+        "media_key": "3_2098090745316163586",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR3qaq0awAIT7P9.jpg",
+        "width": 813
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880979169297022976",
+        "conversation_id": "2098166373646233662",
+        "created_at": "2026-09-11T01:00:31.000Z",
+        "display_text_range": [
+          8,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T02:00:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098215075467379074"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2045513838850641921",
+              "start": 0,
+              "username": "intqwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098215075467379074",
+        "in_reply_to_user_id": "2045513838850641921",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098166373646233662",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@intqwq 在境内找个服务器中转🤔"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098090745316163586"
+          ]
+        },
+        "author_id": "2045513838850641921",
+        "conversation_id": "2098166373646233662",
+        "created_at": "2026-09-10T21:47:00.000Z",
+        "display_text_range": [
+          0,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T22:47:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098166373646233662"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3m4NUCVN6o",
+              "end": 39,
+              "expanded_url": "https://x.com/intqwq/status/2098166373646233662/photo/1",
+              "media_key": "3_2098090745316163586",
+              "start": 16,
+              "url": "https://t.co/3m4NUCVN6o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098166373646233662",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2098090745316163586"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 917,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "学校只要用Steam就会给处分 https://t.co/3m4NUCVN6o"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "description": "中国人🇨🇳/♂/08.11.3\n政治立场未知/聊天请走下方TG链接\n魔裁(まのさば)/CS2/三角洲/Galgame/IT \n好基友@lockloveovo\n高三党/广东中山在居\nCN/EN/JP\n里推@Wesley10033\nBluesky备用号:@wesley10032.bsky.social",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 66,
+                "username": "lockloveovo"
+              },
+              {
+                "end": 113,
+                "start": 101,
+                "username": "Wesley10033"
+              },
+              {
+                "end": 137,
+                "start": 125,
+                "username": "wesley10032"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://t.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/HjVzyPDIuK"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "is_identity_verified": true,
+        "location": "中华人民共和国 / P.R.C.",
+        "most_recent_tweet_id": "2098215075467379074",
+        "name": "Wesley",
+        "pinned_tweet_id": "2083033063257420070",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1880979169297022976/1785740152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1660,
+          "following_count": 1874,
+          "like_count": 27594,
+          "listed_count": 2,
+          "media_count": 540,
+          "tweet_count": 4109
+        },
+        "url": "https://t.co/HjVzyPDIuK",
+        "username": "Wesley10032",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-18T14:47:16.000Z",
+        "description": "恭喜你发现了宝藏（并非）｜开发者｜发发日常和梗图｜推文仅供娱乐，真假自辩｜互fo请DM｜Sic itur ad astra\n\ntg群: https://t.co/kPoeRnaiQW\n投稿联系: intqwq@intqwq.com",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+Y5MFkw6bV5diY…",
+                "end": 91,
+                "expanded_url": "https://t.me/+Y5MFkw6bV5diYTk9",
+                "start": 68,
+                "url": "https://t.co/kPoeRnaiQW"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "intqwq.com",
+                "end": 23,
+                "expanded_url": "https://intqwq.com",
+                "start": 0,
+                "url": "https://t.co/xVU9kQHo8o"
+              }
+            ]
+          }
+        },
+        "id": "2045513838850641921",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2098205129195622515",
+        "name": "int喵喵喵",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2045513838850641921/1786868048",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095807561278857216/tbEp3e78_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2037,
+          "following_count": 696,
+          "like_count": 3723,
+          "listed_count": 6,
+          "media_count": 558,
+          "tweet_count": 1517
+        },
+        "url": "https://t.co/xVU9kQHo8o",
+        "username": "intqwq",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

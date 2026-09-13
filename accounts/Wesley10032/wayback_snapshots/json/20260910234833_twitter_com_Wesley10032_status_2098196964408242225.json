@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880979169297022976",
+    "conversation_id": "2098053245243732405",
+    "created_at": "2026-09-10T23:48:33.000Z",
+    "display_text_range": [
+      9,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T00:48:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098196964408242225"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1788530078412132352",
+          "start": 0,
+          "username": "zane_os"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098196964408242225",
+    "in_reply_to_user_id": "1788530078412132352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098053245243732405",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zane_os 网飞还是太贵了喵😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3873,
+        "media_key": "3_2098053229829591041",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR3IS-vakAE7Akp.jpg",
+        "width": 1825
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880979169297022976",
+        "conversation_id": "2098053245243732405",
+        "created_at": "2026-09-10T23:48:33.000Z",
+        "display_text_range": [
+          9,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T00:48:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098196964408242225"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1788530078412132352",
+              "start": 0,
+              "username": "zane_os"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098196964408242225",
+        "in_reply_to_user_id": "1788530078412132352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098053245243732405",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zane_os 网飞还是太贵了喵😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098053229829591041"
+          ]
+        },
+        "author_id": "1788530078412132352",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2098053245243732405",
+        "created_at": "2026-09-10T14:17:28.000Z",
+        "display_text_range": [
+          0,
+          54
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T15:17:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098053245243732405"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BkUOhLiQE1",
+              "end": 78,
+              "expanded_url": "https://x.com/zane_os/status/2098053245243732405/photo/1",
+              "media_key": "3_2098053229829591041",
+              "start": 55,
+              "url": "https://t.co/BkUOhLiQE1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098053245243732405",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2098053229829591041"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 524,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "第一次进入奈飞😋\n\n大家有什么好看的推荐吗\n\n很幽默的一点\n\n因为日元贬值 日区价格最高档和港区几乎一样了😆 https://t.co/BkUOhLiQE1"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "description": "中国人🇨🇳/♂/08.11.3\n政治立场未知/聊天请走下方TG链接\n魔裁(まのさば)/CS2/三角洲/Galgame/IT \n好基友@lockloveovo\n高三党/广东中山在居\nCN/EN/JP\n里推@Wesley10033\nBluesky备用号:@wesley10032.bsky.social",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 66,
+                "username": "lockloveovo"
+              },
+              {
+                "end": 113,
+                "start": 101,
+                "username": "Wesley10033"
+              },
+              {
+                "end": 137,
+                "start": 125,
+                "username": "wesley10032"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://t.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/HjVzyPDIuK"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "is_identity_verified": true,
+        "location": "中华人民共和国 / P.R.C.",
+        "most_recent_tweet_id": "2098196964408242225",
+        "name": "Wesley",
+        "pinned_tweet_id": "2083033063257420070",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1880979169297022976/1785740152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1660,
+          "following_count": 1871,
+          "like_count": 27416,
+          "listed_count": 2,
+          "media_count": 539,
+          "tweet_count": 4085
+        },
+        "url": "https://t.co/HjVzyPDIuK",
+        "username": "Wesley10032",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-05-09T11:23:03.000Z",
+        "description": "你好，我是Zane!\n喜欢体验各种AI大模型和开发工具\n平常会发一些AI和Web3的新闻\n主要研究方向为TelegramBot生态开发",
+        "id": "1788530078412132352",
+        "is_identity_verified": false,
+        "location": "Shibuya-ku, Tokyo",
+        "most_recent_tweet_id": "2098099420856459322",
+        "name": "Zane",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1788530078412132352/1759422876",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1805084052514594816/LDNa5TLe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 956,
+          "following_count": 487,
+          "like_count": 4484,
+          "listed_count": 1,
+          "media_count": 276,
+          "tweet_count": 2863
+        },
+        "url": "",
+        "username": "zane_os",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

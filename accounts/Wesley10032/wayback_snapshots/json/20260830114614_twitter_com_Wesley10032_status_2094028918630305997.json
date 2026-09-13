@@ -1,0 +1,471 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880979169297022976",
+    "conversation_id": "2094025623899619705",
+    "created_at": "2026-08-30T11:46:14.000Z",
+    "display_text_range": [
+      43,
+      47
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-30T12:46:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094028918630305997"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2050253104935997440",
+          "start": 0,
+          "username": "auspiceshirley"
+        },
+        {
+          "end": 31,
+          "id": "1918274202580467713",
+          "start": 16,
+          "username": "CyberKanjousen"
+        },
+        {
+          "end": 42,
+          "id": "1847157285337866240",
+          "start": 32,
+          "username": "jiuqiudev"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094028918630305997",
+    "in_reply_to_user_id": "2050253104935997440",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094028783699558809",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@auspiceshirley @CyberKanjousen @jiuqiudev 啥子喵？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 720,
+        "media_key": "3_2094028741274152961",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ98C6kasAE-6o3.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880979169297022976",
+        "conversation_id": "2094025623899619705",
+        "created_at": "2026-08-30T11:46:14.000Z",
+        "display_text_range": [
+          43,
+          47
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T12:46:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094028918630305997"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2050253104935997440",
+              "start": 0,
+              "username": "auspiceshirley"
+            },
+            {
+              "end": 31,
+              "id": "1918274202580467713",
+              "start": 16,
+              "username": "CyberKanjousen"
+            },
+            {
+              "end": 42,
+              "id": "1847157285337866240",
+              "start": 32,
+              "username": "jiuqiudev"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094028918630305997",
+        "in_reply_to_user_id": "2050253104935997440",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094028783699558809",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@auspiceshirley @CyberKanjousen @jiuqiudev 啥子喵？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094028741274152961"
+          ]
+        },
+        "author_id": "2050253104935997440",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2094025623899619705",
+        "created_at": "2026-08-30T11:45:41.000Z",
+        "display_text_range": [
+          40,
+          47
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T12:45:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094028783699558809"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1880979169297022976",
+              "start": 0,
+              "username": "Wesley10032"
+            },
+            {
+              "end": 28,
+              "id": "1918274202580467713",
+              "start": 13,
+              "username": "CyberKanjousen"
+            },
+            {
+              "end": 39,
+              "id": "1847157285337866240",
+              "start": 29,
+              "username": "jiuqiudev"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/31ilEGxm4K",
+              "end": 71,
+              "expanded_url": "https://x.com/auspiceshirley/status/2094028783699558809/photo/1",
+              "media_key": "3_2094028741274152961",
+              "start": 48,
+              "url": "https://t.co/31ilEGxm4K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094028783699558809",
+        "in_reply_to_user_id": "1880979169297022976",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2094028741274152961"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094025623899619705",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@Wesley10032 @CyberKanjousen @jiuqiudev 你可以叫我啥子 https://t.co/31ilEGxm4K"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳/♂/08.11.3/友跨🏳️‍⚧️\n政治立场未知/聊天请走下方TG链接\n魔裁(まのさば)/CS2/三角洲/Galgame/IT \n好基友@lockloveovo\n学生党 周末/节假日在线\nCN/EN/JP\n防失联@Wesley10033",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 74,
+                "username": "lockloveovo"
+              },
+              {
+                "end": 124,
+                "start": 112,
+                "username": "Wesley10033"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://telegram.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/Q5wiGuq4W4"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "is_identity_verified": true,
+        "location": "People's Republic of China",
+        "most_recent_tweet_id": "2094028918630305997",
+        "name": "Wesley",
+        "pinned_tweet_id": "2083033063257420070",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1880979169297022976/1785740152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1493,
+          "following_count": 1754,
+          "like_count": 21386,
+          "listed_count": 3,
+          "media_count": 472,
+          "tweet_count": 3454
+        },
+        "url": "https://t.co/Q5wiGuq4W4",
+        "username": "Wesley10032",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-01T16:38:27.000Z",
+        "description": "ENG/中文 | Daily life & Technology &「魔法少女ノ魔女裁判」🍎",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "me.auspiceshirley.dev",
+                "end": 23,
+                "expanded_url": "https://me.auspiceshirley.dev",
+                "start": 0,
+                "url": "https://t.co/1qfE6dIhFZ"
+              }
+            ]
+          }
+        },
+        "id": "2050253104935997440",
+        "is_identity_verified": false,
+        "location": "Hong Kong",
+        "most_recent_tweet_id": "2094028783699558809",
+        "name": "Shirley Auspice",
+        "pinned_tweet_id": "2093970945753153613",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2050253104935997440/1780333609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050253824372412417/h-oCtpG6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1177,
+          "following_count": 623,
+          "like_count": 2512,
+          "listed_count": 1,
+          "media_count": 635,
+          "tweet_count": 4042
+        },
+        "url": "https://t.co/1qfE6dIhFZ",
+        "username": "auspiceshirley",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨但永不翻车 | 想当猫猫\n日语号：@NihonKanjousen\n给我钱：https://t.co/OB4bJVjpNC\n发邮箱：cyber@kanjousen.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 45,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "kanjousen.com/s",
+                "end": 88,
+                "expanded_url": "https://kanjousen.com/s",
+                "start": 65,
+                "url": "https://t.co/OB4bJVjpNC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnL0nr"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2094016793102721042",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2061036992599925240",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1918274202580467713/1787143538",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18070,
+          "following_count": 884,
+          "like_count": 34806,
+          "listed_count": 32,
+          "media_count": 2866,
+          "tweet_count": 13002
+        },
+        "url": "https://t.co/s9lflnL0nr",
+        "username": "CyberKanjousen",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-10-18T06:07:31.000Z",
+        "description": "你好啊，我是玖秋（不是秋玖（你猜猜）），一个普普通通的10后wmc，重度VOCALOID爱好者 音游痴 和杂食党 爱玩魔裁。爱好广泛，欢迎扩列～私信和TG随时欢迎随时骚扰！\n这是我@devqiujiu @qiujiudev @jiuqiudev @devjiuqiu\nTG:https://t.co/rJxUg8NWIg",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 90,
+                "username": "devqiujiu"
+              },
+              {
+                "end": 111,
+                "start": 101,
+                "username": "qiujiudev"
+              },
+              {
+                "end": 122,
+                "start": 112,
+                "username": "jiuqiudev"
+              },
+              {
+                "end": 133,
+                "start": 123,
+                "username": "devjiuqiu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/Qiujiudev",
+                "end": 160,
+                "expanded_url": "http://t.me/Qiujiudev",
+                "start": 137,
+                "url": "https://t.co/rJxUg8NWIg"
+              }
+            ]
+          }
+        },
+        "id": "1847157285337866240",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093956259498344807",
+        "name": "玖秋（寻回推友版）",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1847157285337866240/1787388942",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090333966616465409/SjGBH4vM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 507,
+          "following_count": 332,
+          "like_count": 983,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 378
+        },
+        "url": "",
+        "username": "jiuqiudev",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

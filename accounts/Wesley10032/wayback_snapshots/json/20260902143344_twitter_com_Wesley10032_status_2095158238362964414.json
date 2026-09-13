@@ -1,0 +1,369 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2095158230532190209"
+      ]
+    },
+    "author_id": "1880979169297022976",
+    "conversation_id": "2095158033177628801",
+    "created_at": "2026-09-02T14:33:44.000Z",
+    "display_text_range": [
+      23,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T15:33:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095158238362964414"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1781510736000274432",
+          "start": 0,
+          "username": "huantim7"
+        },
+        {
+          "end": 23,
+          "id": "2074313344916578304",
+          "start": 10,
+          "username": "Konizazadesu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/cNX12tH5yn",
+          "end": 47,
+          "expanded_url": "https://x.com/Wesley10032/status/2095158238362964414/photo/1",
+          "media_key": "3_2095158230532190209",
+          "start": 24,
+          "url": "https://t.co/cNX12tH5yn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095158238362964414",
+    "in_reply_to_user_id": "1781510736000274432",
+    "lang": "qme",
+    "media_metadata": [
+      {
+        "media_key": "3_2095158230532190209"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095158033177628801",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huantim7 @Konizazadesu https://t.co/cNX12tH5yn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 534,
+        "media_key": "3_2095158230532190209",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRN_T18bcAENoCo.jpg",
+        "width": 534
+      },
+      {
+        "height": 1208,
+        "media_key": "3_2095158024197566465",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRN_H1Sa8AEESJg.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095158230532190209"
+          ]
+        },
+        "author_id": "1880979169297022976",
+        "conversation_id": "2095158033177628801",
+        "created_at": "2026-09-02T14:33:44.000Z",
+        "display_text_range": [
+          23,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T15:33:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095158238362964414"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1781510736000274432",
+              "start": 0,
+              "username": "huantim7"
+            },
+            {
+              "end": 23,
+              "id": "2074313344916578304",
+              "start": 10,
+              "username": "Konizazadesu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cNX12tH5yn",
+              "end": 47,
+              "expanded_url": "https://x.com/Wesley10032/status/2095158238362964414/photo/1",
+              "media_key": "3_2095158230532190209",
+              "start": 24,
+              "url": "https://t.co/cNX12tH5yn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095158238362964414",
+        "in_reply_to_user_id": "1781510736000274432",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2095158230532190209"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095158033177628801",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huantim7 @Konizazadesu https://t.co/cNX12tH5yn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095158024197566465"
+          ]
+        },
+        "author_id": "1781510736000274432",
+        "conversation_id": "2095158033177628801",
+        "created_at": "2026-09-02T14:32:55.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T15:32:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095158033177628801"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mc7EAeYu8o",
+              "end": 23,
+              "expanded_url": "https://x.com/huantim7/status/2095158033177628801/photo/1",
+              "media_key": "3_2095158024197566465",
+              "start": 0,
+              "url": "https://t.co/mc7EAeYu8o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095158033177628801",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2095158024197566465"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/mc7EAeYu8o"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳/♂/08.11.3/友跨🏳️‍⚧️\n政治立场未知/聊天请走下方TG链接\n魔裁(まのさば)/CS2/三角洲/Galgame/IT \n好基友@lockloveovo\n学生党 周末/节假日在线\nCN/EN/JP\n第二账号暂不公开",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 74,
+                "username": "lockloveovo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://telegram.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/Q5wiGuq4W4"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "is_identity_verified": true,
+        "location": "People's Republic of China",
+        "most_recent_tweet_id": "2095158238362964414",
+        "name": "Wesley",
+        "pinned_tweet_id": "2083033063257420070",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1880979169297022976/1785740152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1531,
+          "following_count": 1767,
+          "like_count": 22439,
+          "listed_count": 3,
+          "media_count": 483,
+          "tweet_count": 3558
+        },
+        "url": "https://t.co/Q5wiGuq4W4",
+        "username": "Wesley10032",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-04-20T02:30:55.000Z",
+        "description": "无可奈何花落去，似曾相识燕归来\n上海某准高二mtx喵\n生辰崇祯三百八十二年腊月初一",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xyn.mom",
+                "end": 23,
+                "expanded_url": "http://xyn.mom",
+                "start": 0,
+                "url": "https://t.co/Mb8EU8fZzi"
+              }
+            ]
+          }
+        },
+        "id": "1781510736000274432",
+        "is_identity_verified": true,
+        "location": "南门二",
+        "most_recent_tweet_id": "2095158033177628801",
+        "name": "幻兮紗",
+        "pinned_tweet_id": "2004922220221792388",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1781510736000274432/1773542916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072659917027299328/L5Yl2wZn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1025,
+          "following_count": 836,
+          "like_count": 114175,
+          "listed_count": 3,
+          "media_count": 621,
+          "tweet_count": 6978
+        },
+        "url": "https://t.co/Mb8EU8fZzi",
+        "username": "huantim7",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-07T02:04:47.000Z",
+        "description": "互关互fo｜生产日期：08年9月份｜\n｜南京市第一中学｜爱国小粉红｜\n｜中华人民共和国万岁｜习近平万岁｜\n｜共产党万岁｜",
+        "id": "2074313344916578304",
+        "is_identity_verified": false,
+        "location": "江苏南京",
+        "most_recent_tweet_id": "2094824240386371796",
+        "name": "Konizaza",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2074313344916578304/1783659353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074313761079623680/qkTTR6YD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 176,
+          "following_count": 139,
+          "like_count": 261,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 84
+        },
+        "url": "",
+        "username": "Konizazadesu",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

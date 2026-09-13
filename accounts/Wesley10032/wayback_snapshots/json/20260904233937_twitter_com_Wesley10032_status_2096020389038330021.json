@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880979169297022976",
+    "conversation_id": "2095747373246886373",
+    "created_at": "2026-09-04T23:39:37.000Z",
+    "display_text_range": [
+      8,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T00:39:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096020389038330021"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1998647355839754240",
+          "start": 0,
+          "username": "VonJu0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096020389038330021",
+    "in_reply_to_user_id": "1998647355839754240",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095747373246886373",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@VonJu0 别骂了别骂了😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880979169297022976",
+        "conversation_id": "2095747373246886373",
+        "created_at": "2026-09-04T23:39:37.000Z",
+        "display_text_range": [
+          8,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T00:39:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096020389038330021"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1998647355839754240",
+              "start": 0,
+              "username": "VonJu0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096020389038330021",
+        "in_reply_to_user_id": "1998647355839754240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095747373246886373",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@VonJu0 别骂了别骂了😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1998647355839754240",
+        "conversation_id": "2095747373246886373",
+        "created_at": "2026-09-04T05:34:45.000Z",
+        "display_text_range": [
+          0,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T06:34:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095747373246886373"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2095747373246886373",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 6798,
+          "like_count": 99,
+          "quote_count": 1,
+          "reply_count": 33,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "中国文科生还有出路吗\n\n我认为中国本科放在世界就很难绷\n\n文科生更是低贱中的低贱"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳/♂/08.11.3/友跨🏳️‍⚧️\n政治立场未知/聊天请走下方TG链接\n魔裁(まのさば)/CS2/三角洲/Galgame/IT \n好基友@lockloveovo\n高三党/广东中山在居\nCN/EN/JP\n里推@Wesley10033",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 74,
+                "username": "lockloveovo"
+              },
+              {
+                "end": 121,
+                "start": 109,
+                "username": "Wesley10033"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://t.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/HjVzyPDIuK"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "is_identity_verified": true,
+        "location": "People's Republic of China",
+        "most_recent_tweet_id": "2096020389038330021",
+        "name": "Wesley",
+        "pinned_tweet_id": "2083033063257420070",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1880979169297022976/1785740152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1552,
+          "following_count": 1800,
+          "like_count": 23677,
+          "listed_count": 2,
+          "media_count": 495,
+          "tweet_count": 3669
+        },
+        "url": "https://t.co/HjVzyPDIuK",
+        "username": "Wesley10032",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-12-10T06:54:05.000Z",
+        "description": "College Student | Silent Observer\n\nValue investment ｜Waiting for time verification",
+        "id": "1998647355839754240",
+        "is_identity_verified": true,
+        "location": "Los Angeles, CA",
+        "most_recent_tweet_id": "2095928219677413725",
+        "name": "vonju",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1998647355839754240/1777489023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079594893081513985/GmwXUqTp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3706,
+          "following_count": 453,
+          "like_count": 7147,
+          "listed_count": 10,
+          "media_count": 506,
+          "tweet_count": 5554
+        },
+        "url": "",
+        "username": "VonJu0",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

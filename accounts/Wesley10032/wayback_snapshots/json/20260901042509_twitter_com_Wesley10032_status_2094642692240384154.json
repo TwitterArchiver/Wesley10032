@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880979169297022976",
+    "conversation_id": "2094642692240384154",
+    "created_at": "2026-09-01T04:25:09.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-01T05:25:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094642692240384154"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1100298347578097664",
+          "start": 3,
+          "username": "TimothyCookothy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094642692240384154",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 264
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094513065517547799",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TimothyCookothy: Even though it’s my last day as CEO, I will remain on the board to ensure that Apple continues to raise its prices, re…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880979169297022976",
+        "conversation_id": "2094642692240384154",
+        "created_at": "2026-09-01T04:25:09.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T05:25:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094642692240384154"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1100298347578097664",
+              "start": 3,
+              "username": "TimothyCookothy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094642692240384154",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 264
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094513065517547799",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TimothyCookothy: Even though it’s my last day as CEO, I will remain on the board to ensure that Apple continues to raise its prices, re…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1100298347578097664",
+        "conversation_id": "2094513065517547799",
+        "created_at": "2026-08-31T19:50:03.000Z",
+        "display_text_range": [
+          0,
+          145
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T20:50:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094513065517547799"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2094513065517547799",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 167,
+          "impression_count": 197366,
+          "like_count": 5523,
+          "quote_count": 34,
+          "reply_count": 102,
+          "retweet_count": 264
+        },
+        "reply_settings": "everyone",
+        "text": "Even though it’s my last day as CEO, I will remain on the board to ensure that Apple continues to raise its prices, regardless of who the CEO is."
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳/♂/08.11.3/友跨🏳️‍⚧️\n政治立场未知/聊天请走下方TG链接\n魔裁(まのさば)/CS2/三角洲/Galgame/IT \n好基友@lockloveovo\n学生党 周末/节假日在线\nCN/EN/JP\n第二账号暂不公开",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 74,
+                "username": "lockloveovo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://telegram.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/Q5wiGuq4W4"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "is_identity_verified": true,
+        "location": "People's Republic of China",
+        "most_recent_tweet_id": "2094642692240384154",
+        "name": "Wesley",
+        "pinned_tweet_id": "2083033063257420070",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1880979169297022976/1785740152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1518,
+          "following_count": 1758,
+          "like_count": 21911,
+          "listed_count": 3,
+          "media_count": 477,
+          "tweet_count": 3514
+        },
+        "url": "https://t.co/Q5wiGuq4W4",
+        "username": "Wesley10032",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-02-26T07:35:43.000Z",
+        "description": "This account is a parody and not affiliated with Tim Cook or Apple Inc.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/timothycookothy",
+                "end": 23,
+                "expanded_url": "http://instagram.com/timothycookothy",
+                "start": 0,
+                "url": "https://t.co/AoXtooiYO6"
+              }
+            ]
+          }
+        },
+        "id": "1100298347578097664",
+        "is_identity_verified": false,
+        "location": "Cupertino, CA",
+        "most_recent_tweet_id": "2094513065517547799",
+        "name": "Tim Cook Parody",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1100298347578097664/1551279195",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1382695406962929672/_Yx2-jIv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16404,
+          "following_count": 0,
+          "like_count": 85,
+          "listed_count": 70,
+          "media_count": 217,
+          "tweet_count": 1370
+        },
+        "url": "https://t.co/AoXtooiYO6",
+        "username": "TimothyCookothy",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

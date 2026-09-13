@@ -1,0 +1,359 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880979169297022976",
+    "conversation_id": "2096522041218539750",
+    "created_at": "2026-09-06T09:09:13.000Z",
+    "display_text_range": [
+      19,
+      24
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T10:09:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096526119646437801"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 5,
+          "id": "1720665183188922368",
+          "start": 0,
+          "username": "grok"
+        },
+        {
+          "end": 18,
+          "id": "2049152504542449664",
+          "start": 6,
+          "username": "hasaki_sama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096526119646437801",
+    "in_reply_to_user_id": "1720665183188922368",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096525849696551113",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@grok @hasaki_sama xm 喵🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880979169297022976",
+        "conversation_id": "2096522041218539750",
+        "created_at": "2026-09-06T09:09:13.000Z",
+        "display_text_range": [
+          19,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T10:09:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096526119646437801"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 5,
+              "id": "1720665183188922368",
+              "start": 0,
+              "username": "grok"
+            },
+            {
+              "end": 18,
+              "id": "2049152504542449664",
+              "start": 6,
+              "username": "hasaki_sama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096526119646437801",
+        "in_reply_to_user_id": "1720665183188922368",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096525849696551113",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@grok @hasaki_sama xm 喵🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720665183188922368",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "The world's smartest AI, Grok 3, is now available on X and iOS. Tap below to try.\n\nGrok in X: https://x.com/i/grok\n\nGrok on iOS: https://apps.apple.com/us/app/grok/id6670324846 ",
+              "id": "1892394207127465984",
+              "name": "Grok 3 is here. Try it for free."
+            }
+          }
+        ],
+        "conversation_id": "2096522041218539750",
+        "created_at": "2026-09-06T09:08:08.000Z",
+        "display_text_range": [
+          26,
+          127
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T10:08:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096525849696551113"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2049152504542449664",
+              "start": 0,
+              "username": "hasaki_sama"
+            },
+            {
+              "end": 25,
+              "id": "1880979169297022976",
+              "start": 13,
+              "username": "Wesley10032"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096525849696551113",
+        "in_reply_to_user_id": "2049152504542449664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096525616736788835",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@hasaki_sama @Wesley10032 看了你最近一堆帖子，语言超软萌，满屏喵、抱抱、🥺和情感表达，还爱ACG、鲨鲨玩偶、火锅麦当劳，住院也说得可爱兮兮。技术内容虽有，但全被喵系风格包住了。整体很贴近女性刻板印象里的可爱感性一面，打分88喵。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "description": "中国人🇨🇳/♂/08.11.3\n政治立场未知/聊天请走下方TG链接\n魔裁(まのさば)/CS2/三角洲/Galgame/IT \n好基友@lockloveovo\n高三党/广东中山在居\nCN/EN/JP\n里推@Wesley10033",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 66,
+                "username": "lockloveovo"
+              },
+              {
+                "end": 113,
+                "start": 101,
+                "username": "Wesley10033"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://t.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/HjVzyPDIuK"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "is_identity_verified": true,
+        "location": "中华人民共和国 / P.R.C.",
+        "most_recent_tweet_id": "2096526119646437801",
+        "name": "Wesley",
+        "pinned_tweet_id": "2083033063257420070",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1880979169297022976/1785740152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1578,
+          "following_count": 1819,
+          "like_count": 24753,
+          "listed_count": 2,
+          "media_count": 504,
+          "tweet_count": 3774
+        },
+        "url": "https://t.co/HjVzyPDIuK",
+        "username": "Wesley10032",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/2074224934159876096/aelorWHq_bigger.jpg",
+          "description": "SpaceXAI",
+          "url": "https://twitter.com/SpaceXAI",
+          "user_id": [
+            "1661523610111193088"
+          ]
+        },
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 5,
+                "start": 0,
+                "username": "grok"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSjjG9"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096526135769100292",
+        "name": "Grok",
+        "pinned_tweet_id": "2087225707504214130",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1720665183188922368/1778202520",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057885623374290944/lmj0pawP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9039636,
+          "following_count": 4,
+          "like_count": 136,
+          "listed_count": 7528,
+          "media_count": 9341383,
+          "tweet_count": 139135933
+        },
+        "url": "https://t.co/fqNKQSjjG9",
+        "username": "grok",
+        "verified": true,
+        "verified_type": "business"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-28T15:48:05.000Z",
+        "description": "Hi！这里是Neko 很高兴认识你喵～ (˶ᵔ ᵕ ᵔ˶)✧\n｜11年小资历｜泛性恋✨｜LGBTQ+🏳️‍🌈｜INFP🦋｜跨性别友好🏳️‍⚧️/ 喜欢 羽球🏸｜ACG｜信息技术 AI｜不定时喵喵叫🐱/鉴证 🆖｜联系方式💬 https://t.co/VDLGVdQMfq\n\n匿名邮箱 提问 👀 ⬇️",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/hasaki_0612",
+                "end": 134,
+                "expanded_url": "http://t.me/hasaki_0612",
+                "start": 111,
+                "url": "https://t.co/VDLGVdQMfq"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hasaki_0612",
+                "end": 23,
+                "expanded_url": "https://ngl.link/hasaki_0612",
+                "start": 0,
+                "url": "https://t.co/8Ei14tUkCK"
+              }
+            ]
+          }
+        },
+        "id": "2049152504542449664",
+        "is_identity_verified": false,
+        "location": "ユートピア",
+        "most_recent_tweet_id": "2096525831330058718",
+        "name": "Neko 🐾",
+        "pinned_tweet_id": "2088172213262528904",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2049152504542449664/1783530736",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075040561237753856/aiPH-t8W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1234,
+          "following_count": 1143,
+          "like_count": 4937,
+          "listed_count": 2,
+          "media_count": 411,
+          "tweet_count": 2924
+        },
+        "url": "https://t.co/8Ei14tUkCK",
+        "username": "hasaki_sama",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

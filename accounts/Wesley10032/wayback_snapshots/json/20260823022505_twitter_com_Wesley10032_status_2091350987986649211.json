@@ -1,0 +1,453 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880979169297022976",
+    "conversation_id": "2091341660684951796",
+    "created_at": "2026-08-23T02:25:05.000Z",
+    "display_text_range": [
+      35,
+      38
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-23T03:25:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091350987986649211"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2032599702454329344",
+          "start": 0,
+          "username": "Zack_1229"
+        },
+        {
+          "end": 21,
+          "id": "1847157285337866240",
+          "start": 11,
+          "username": "jiuqiudev"
+        },
+        {
+          "end": 34,
+          "id": "1999708721229058048",
+          "start": 22,
+          "username": "beishang778"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091350987986649211",
+    "in_reply_to_user_id": "2032599702454329344",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091341660684951796",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Zack_1229 @jiuqiudev @beishang778 恭喜喵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1827,
+        "media_key": "3_2091341649217818624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQXwJkmbkAARPYd.jpg",
+        "width": 1632
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880979169297022976",
+        "conversation_id": "2091341660684951796",
+        "created_at": "2026-08-23T02:25:05.000Z",
+        "display_text_range": [
+          35,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T03:25:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091350987986649211"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2032599702454329344",
+              "start": 0,
+              "username": "Zack_1229"
+            },
+            {
+              "end": 21,
+              "id": "1847157285337866240",
+              "start": 11,
+              "username": "jiuqiudev"
+            },
+            {
+              "end": 34,
+              "id": "1999708721229058048",
+              "start": 22,
+              "username": "beishang778"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091350987986649211",
+        "in_reply_to_user_id": "2032599702454329344",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091341660684951796",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Zack_1229 @jiuqiudev @beishang778 恭喜喵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091341649217818624"
+          ]
+        },
+        "author_id": "2032599702454329344",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2091341660684951796",
+        "created_at": "2026-08-23T01:48:01.000Z",
+        "display_text_range": [
+          0,
+          58
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T02:48:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091341660684951796"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 31,
+              "id": "1847157285337866240",
+              "start": 21,
+              "username": "jiuqiudev"
+            },
+            {
+              "end": 52,
+              "id": "1999708721229058048",
+              "start": 40,
+              "username": "beishang778"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rg7G7efy6V",
+              "end": 82,
+              "expanded_url": "https://x.com/Zack_1229/status/2091341660684951796/photo/1",
+              "media_key": "3_2091341649217818624",
+              "start": 59,
+              "url": "https://t.co/rg7G7efy6V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091341660684951796",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2091341649217818624"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 67,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "多少fo我也不清楚，反正慶祝一下吧😃\n感謝@jiuqiudev大佬的工具，也感謝@beishang778 的幫助❤️ https://t.co/rg7G7efy6V"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳/♂/08.11.3/友跨🏳️‍⚧️\n政治立场未知/聊天请走下方TG链接\n魔裁(まのさば)/CS2/三角洲/Galgame/IT \n好基友@lockloveovo\n学生党 周末/节假日在线\nCN/EN/JP\n防失联@Wesley10033",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 74,
+                "username": "lockloveovo"
+              },
+              {
+                "end": 124,
+                "start": 112,
+                "username": "Wesley10033"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://telegram.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/Q5wiGuq4W4"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "is_identity_verified": false,
+        "location": "People's Republic of China",
+        "most_recent_tweet_id": "2091350987986649211",
+        "name": "Wesley",
+        "pinned_tweet_id": "2083033063257420070",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1880979169297022976/1785740152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1317,
+          "following_count": 1610,
+          "like_count": 18213,
+          "listed_count": 1,
+          "media_count": 436,
+          "tweet_count": 3083
+        },
+        "url": "https://t.co/Q5wiGuq4W4",
+        "username": "Wesley10032",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-13T23:29:05.000Z",
+        "description": "男😃選擇性互fo\n音游手殘/ Vocaloid 愛好者\n歡迎交友🫶\n小號…？：@Azl_Kcaz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 39,
+                "username": "Azl_Kcaz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zack47785",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zack47785",
+                "start": 0,
+                "url": "https://t.co/r83gI6d6Xm"
+              }
+            ]
+          }
+        },
+        "id": "2032599702454329344",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091344895973945662",
+        "name": "Zack",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2032599702454329344/1786888346",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088987245542010880/cMGCpoVo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 107,
+          "like_count": 1355,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 447
+        },
+        "url": "https://t.co/r83gI6d6Xm",
+        "username": "Zack_1229",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-10-18T06:07:31.000Z",
+        "description": "你好啊，我是玖秋（不是秋玖（你猜猜）），一个普普通通的10后wmc，重度VOCALOID爱好者 音游痴 和杂食党 爱玩魔裁。爱好广泛，欢迎扩列～私信和TG随时欢迎随时骚扰！\n这是我@devqiujiu @qiujiudev @jiuqiudev @devjiuqiu\nTG:https://t.co/rJxUg8NWIg",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 90,
+                "username": "devqiujiu"
+              },
+              {
+                "end": 111,
+                "start": 101,
+                "username": "qiujiudev"
+              },
+              {
+                "end": 122,
+                "start": 112,
+                "username": "jiuqiudev"
+              },
+              {
+                "end": 133,
+                "start": 123,
+                "username": "devjiuqiu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/Qiujiudev",
+                "end": 160,
+                "expanded_url": "http://t.me/Qiujiudev",
+                "start": 137,
+                "url": "https://t.co/rJxUg8NWIg"
+              }
+            ]
+          }
+        },
+        "id": "1847157285337866240",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091346632990499026",
+        "name": "玖秋（寻回推友版）",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1847157285337866240/1787388942",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090333966616465409/SjGBH4vM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 197,
+          "following_count": 208,
+          "like_count": 344,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 122
+        },
+        "url": "",
+        "username": "jiuqiudev",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-12-13T05:11:50.000Z",
+        "description": "缅怀@beishang0721\n互fo\n备用账号@beishang7891",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "beishang0721"
+              },
+              {
+                "end": 37,
+                "start": 24,
+                "username": "beishang7891"
+              }
+            ]
+          }
+        },
+        "id": "1999708721229058048",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091350935528497661",
+        "name": "悲伤（秽土转生）",
+        "pinned_tweet_id": "2090325753871344053",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1999708721229058048/1787207129",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090324320656728065/N3U1Dypx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 114,
+          "like_count": 595,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 250
+        },
+        "url": "",
+        "username": "beishang778",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

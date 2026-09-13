@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880979169297022976",
+    "conversation_id": "2097829125188944004",
+    "created_at": "2026-09-10T03:48:37.000Z",
+    "display_text_range": [
+      14,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T04:48:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097894991247102067"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1597605170502062080",
+          "start": 0,
+          "username": "Ayanami_rin0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097894991247102067",
+    "in_reply_to_user_id": "1597605170502062080",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097894928269611236",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ayanami_rin0 兑"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880979169297022976",
+        "conversation_id": "2097829125188944004",
+        "created_at": "2026-09-10T03:48:37.000Z",
+        "display_text_range": [
+          14,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T04:48:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097894991247102067"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1597605170502062080",
+              "start": 0,
+              "username": "Ayanami_rin0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097894991247102067",
+        "in_reply_to_user_id": "1597605170502062080",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097894928269611236",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ayanami_rin0 兑"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597605170502062080",
+        "conversation_id": "2097829125188944004",
+        "created_at": "2026-09-10T03:48:22.000Z",
+        "display_text_range": [
+          13,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T04:48:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097894928269611236"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1880979169297022976",
+              "start": 0,
+              "username": "Wesley10032"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097894928269611236",
+        "in_reply_to_user_id": "1880979169297022976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097829125188944004",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wesley10032 你们要干嘛"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "description": "中国人🇨🇳/♂/08.11.3\n政治立场未知/聊天请走下方TG链接\n魔裁(まのさば)/CS2/三角洲/Galgame/IT \n好基友@lockloveovo\n高三党/广东中山在居\nCN/EN/JP\n里推@Wesley10033",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 66,
+                "username": "lockloveovo"
+              },
+              {
+                "end": 113,
+                "start": 101,
+                "username": "Wesley10033"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://t.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/HjVzyPDIuK"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "is_identity_verified": true,
+        "location": "中华人民共和国 / P.R.C.",
+        "most_recent_tweet_id": "2097894991247102067",
+        "name": "Wesley",
+        "pinned_tweet_id": "2083033063257420070",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1880979169297022976/1785740152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1649,
+          "following_count": 1857,
+          "like_count": 26955,
+          "listed_count": 2,
+          "media_count": 532,
+          "tweet_count": 4017
+        },
+        "url": "https://t.co/HjVzyPDIuK",
+        "username": "Wesley10032",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-11-29T14:55:41.000Z",
+        "description": "超绝可爱牢绫🌸某二次元公司🦋996研发社畜(♯｀∧´)\n只管开心,无需正常\n 断桥是否下过雪🫖糊满腻子的垃圾场于美丽的新世界🍨喜欢吃杨梅冰粉雪绵豆沙和马桶盖子 世界上最幸福的人\n宝宝：@mario_2333\n#啊呀纳米相册 #小绫的诗歌日记本 #小绫饭店 #aynm吃什么",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 111,
+                "start": 104,
+                "tag": "啊呀纳米相册"
+              },
+              {
+                "end": 121,
+                "start": 112,
+                "tag": "小绫的诗歌日记本"
+              },
+              {
+                "end": 127,
+                "start": 122,
+                "tag": "小绫饭店"
+              },
+              {
+                "end": 136,
+                "start": 128,
+                "tag": "aynm吃什么"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 103,
+                "start": 92,
+                "username": "mario_2333"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/ayanami_rin",
+                "end": 23,
+                "expanded_url": "https://t.me/ayanami_rin",
+                "start": 0,
+                "url": "https://t.co/scHs3L29Rl"
+              }
+            ]
+          }
+        },
+        "id": "1597605170502062080",
+        "is_identity_verified": false,
+        "location": "美丽而纯洁无瑕的少女总有一些小秘密，不是吗？",
+        "most_recent_tweet_id": "2097894928269611236",
+        "name": "涟漪aynm🌊",
+        "pinned_tweet_id": "2061116133726716255",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1597605170502062080/1743792315",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978177217856487424/_yDj4ynS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5248,
+          "following_count": 1098,
+          "like_count": 20795,
+          "listed_count": 17,
+          "media_count": 1907,
+          "tweet_count": 13000
+        },
+        "url": "https://t.co/scHs3L29Rl",
+        "username": "Ayanami_rin0",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2097734160114909184"
+      ]
+    },
+    "author_id": "1880979169297022976",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2097734176267207048",
+    "created_at": "2026-09-09T17:09:36.000Z",
+    "display_text_range": [
+      0,
+      39
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-09T18:09:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2097734176267207048"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 33,
+          "id": "1774264719773409280",
+          "start": 17,
+          "username": "KissaHsgsta1106"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/moMk7TyEWU",
+          "end": 63,
+          "expanded_url": "https://x.com/Wesley10032/status/2097734176267207048/photo/1",
+          "media_key": "3_2097734160114909184",
+          "start": 40,
+          "url": "https://t.co/moMk7TyEWU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097734176267207048",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2097734160114909184"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "经过我TG群一夜的聊天\n最终鉴定 @KissaHsgsta1106 是魅魔喵😭 https://t.co/moMk7TyEWU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1600,
+        "media_key": "3_2097734160114909184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRymGrbaAAAIIfW.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097734160114909184"
+          ]
+        },
+        "author_id": "1880979169297022976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2097734176267207048",
+        "created_at": "2026-09-09T17:09:36.000Z",
+        "display_text_range": [
+          0,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T18:09:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097734176267207048"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 33,
+              "id": "1774264719773409280",
+              "start": 17,
+              "username": "KissaHsgsta1106"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/moMk7TyEWU",
+              "end": 63,
+              "expanded_url": "https://x.com/Wesley10032/status/2097734176267207048/photo/1",
+              "media_key": "3_2097734160114909184",
+              "start": 40,
+              "url": "https://t.co/moMk7TyEWU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097734176267207048",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2097734160114909184"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "经过我TG群一夜的聊天\n最终鉴定 @KissaHsgsta1106 是魅魔喵😭 https://t.co/moMk7TyEWU"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "description": "中国人🇨🇳/♂/08.11.3\n政治立场未知/聊天请走下方TG链接\n魔裁(まのさば)/CS2/三角洲/Galgame/IT \n好基友@lockloveovo\n高三党/广东中山在居\nCN/EN/JP\n里推@Wesley10033",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 66,
+                "username": "lockloveovo"
+              },
+              {
+                "end": 113,
+                "start": 101,
+                "username": "Wesley10033"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://t.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/HjVzyPDIuK"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "is_identity_verified": true,
+        "location": "中华人民共和国 / P.R.C.",
+        "most_recent_tweet_id": "2097734176267207048",
+        "name": "Wesley",
+        "pinned_tweet_id": "2083033063257420070",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1880979169297022976/1785740152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1643,
+          "following_count": 1851,
+          "like_count": 26805,
+          "listed_count": 2,
+          "media_count": 529,
+          "tweet_count": 4005
+        },
+        "url": "https://t.co/HjVzyPDIuK",
+        "username": "Wesley10032",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-03-31T02:37:37.000Z",
+        "description": "",
+        "id": "1774264719773409280",
+        "is_identity_verified": false,
+        "location": "乌茨约基，拉普兰",
+        "most_recent_tweet_id": "2097687680515707060",
+        "name": "赫尔辛基的猫",
+        "pinned_tweet_id": "1835918114938290560",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1774264719773409280/1787154730",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082035815387955200/6yr37V9o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 916,
+          "following_count": 824,
+          "like_count": 51667,
+          "listed_count": 4,
+          "media_count": 443,
+          "tweet_count": 3075
+        },
+        "url": "",
+        "username": "KissaHsgsta1106",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

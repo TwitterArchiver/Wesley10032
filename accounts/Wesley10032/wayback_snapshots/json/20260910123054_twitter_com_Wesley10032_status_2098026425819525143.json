@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880979169297022976",
+    "conversation_id": "2097895143332315289",
+    "created_at": "2026-09-10T12:30:54.000Z",
+    "display_text_range": [
+      17,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T13:30:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098026425819525143"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2093710985827848193",
+          "start": 0,
+          "username": "yamazakiisuzu_N"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098026425819525143",
+    "in_reply_to_user_id": "2093710985827848193",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098025842085405005",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yamazakiisuzu_N 好吃喵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3497,
+        "media_key": "3_2098025828470988800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR2vYAuboAAjUy0.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880979169297022976",
+        "conversation_id": "2097895143332315289",
+        "created_at": "2026-09-10T12:30:54.000Z",
+        "display_text_range": [
+          17,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T13:30:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098026425819525143"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2093710985827848193",
+              "start": 0,
+              "username": "yamazakiisuzu_N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098026425819525143",
+        "in_reply_to_user_id": "2093710985827848193",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098025842085405005",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yamazakiisuzu_N 好吃喵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098025828470988800"
+          ]
+        },
+        "author_id": "2093710985827848193",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2097895143332315289",
+        "created_at": "2026-09-10T12:28:34.000Z",
+        "display_text_range": [
+          13,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T13:28:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098025842085405005"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1880979169297022976",
+              "start": 0,
+              "username": "Wesley10032"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/aWYtJ8O6ag",
+              "end": 38,
+              "expanded_url": "https://x.com/yamazakiisuzu_N/status/2098025842085405005/photo/1",
+              "media_key": "3_2098025828470988800",
+              "start": 15,
+              "url": "https://t.co/aWYtJ8O6ag"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098025842085405005",
+        "in_reply_to_user_id": "1880979169297022976",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2098025828470988800"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097895143332315289",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wesley10032 🐱 https://t.co/aWYtJ8O6ag"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "description": "中国人🇨🇳/♂/08.11.3\n政治立场未知/聊天请走下方TG链接\n魔裁(まのさば)/CS2/三角洲/Galgame/IT \n好基友@lockloveovo\n高三党/广东中山在居\nCN/EN/JP\n里推@Wesley10033\nBluesky备用号:@wesley10032.bsky.social",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 66,
+                "username": "lockloveovo"
+              },
+              {
+                "end": 113,
+                "start": 101,
+                "username": "Wesley10033"
+              },
+              {
+                "end": 137,
+                "start": 125,
+                "username": "wesley10032"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://t.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/HjVzyPDIuK"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "is_identity_verified": true,
+        "location": "中华人民共和国 / P.R.C.",
+        "most_recent_tweet_id": "2098026425819525143",
+        "name": "Wesley",
+        "pinned_tweet_id": "2083033063257420070",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1880979169297022976/1785740152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1660,
+          "following_count": 1870,
+          "like_count": 27351,
+          "listed_count": 2,
+          "media_count": 536,
+          "tweet_count": 4063
+        },
+        "url": "https://t.co/HjVzyPDIuK",
+        "username": "Wesley10032",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-29T14:43:57.000Z",
+        "description": "啊…啊…啊…啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊！",
+        "id": "2093710985827848193",
+        "is_identity_verified": false,
+        "location": "梦里",
+        "most_recent_tweet_id": "2098026249398743455",
+        "name": "✞山崎いすず✞",
+        "pinned_tweet_id": "2096583896247026032",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2093710985827848193/1788162518",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093711492566904832/TvwoUe1D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 300,
+          "following_count": 117,
+          "like_count": 2633,
+          "listed_count": 0,
+          "media_count": 121,
+          "tweet_count": 1603
+        },
+        "url": "",
+        "username": "yamazakiisuzu_N",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

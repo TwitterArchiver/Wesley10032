@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880979169297022976",
+    "conversation_id": "2096014913806418375",
+    "created_at": "2026-09-04T23:23:40.000Z",
+    "display_text_range": [
+      13,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T00:23:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096016374355341328"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1696807787924504577",
+          "start": 0,
+          "username": "havedoneyet"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096016374355341328",
+    "in_reply_to_user_id": "1696807787924504577",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096014913806418375",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@havedoneyet 注意身体喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880979169297022976",
+        "conversation_id": "2096014913806418375",
+        "created_at": "2026-09-04T23:23:40.000Z",
+        "display_text_range": [
+          13,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T00:23:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096016374355341328"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1696807787924504577",
+              "start": 0,
+              "username": "havedoneyet"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096016374355341328",
+        "in_reply_to_user_id": "1696807787924504577",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096014913806418375",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@havedoneyet 注意身体喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1696807787924504577",
+        "conversation_id": "2096014913806418375",
+        "created_at": "2026-09-04T23:17:52.000Z",
+        "display_text_range": [
+          0,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T00:17:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096014913806418375"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2096014913806418375",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "昨天胃炸了，今天16mg比卡，含服2mg补佳乐"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳/♂/08.11.3/友跨🏳️‍⚧️\n政治立场未知/聊天请走下方TG链接\n魔裁(まのさば)/CS2/三角洲/Galgame/IT \n好基友@lockloveovo\n高三党/广东中山在居\nCN/EN/JP\n里推@Wesley10033",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 74,
+                "username": "lockloveovo"
+              },
+              {
+                "end": 121,
+                "start": 109,
+                "username": "Wesley10033"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://t.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/HjVzyPDIuK"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "is_identity_verified": true,
+        "location": "People's Republic of China",
+        "most_recent_tweet_id": "2096016374355341328",
+        "name": "Wesley",
+        "pinned_tweet_id": "2083033063257420070",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1880979169297022976/1785740152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1552,
+          "following_count": 1800,
+          "like_count": 23630,
+          "listed_count": 2,
+          "media_count": 495,
+          "tweet_count": 3662
+        },
+        "url": "https://t.co/HjVzyPDIuK",
+        "username": "Wesley10032",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-08-30T08:51:47.000Z",
+        "description": "无证mtx喵🏳️‍⚧️（买糖未到货）\n泛性恋（不卡颜值喵嘿嘿…）\n早期自闭症患者\n有事联系\n2008.07.16\n厌恶鉴证的人来我这里鉴证\n硅基生物至上主义\n181cm/90kg（大只喵）\n不od不抽烟（尊重态度不会厌恶）\n减肥ing欢迎互fo\n轻中度失聪\n酗酒，想学习调酒技术\n欢迎友善的人找我互fo喵嘿嘿…",
+        "id": "1696807787924504577",
+        "is_identity_verified": false,
+        "location": "软乎乎香香软软小猫猫窝窝",
+        "most_recent_tweet_id": "2096014913806418375",
+        "name": "卡西诺喵喵（Kash1n0）🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2087562982255657269",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089923409350438912/aXJZHTRV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 305,
+          "following_count": 263,
+          "like_count": 115,
+          "listed_count": 2,
+          "media_count": 39,
+          "tweet_count": 461
+        },
+        "url": "",
+        "username": "havedoneyet",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

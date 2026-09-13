@@ -1,0 +1,436 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2094229426716180480",
+        "3_2094229426695241728"
+      ],
+      "media_source_tweet_id": [
+        "2094229439945035927",
+        "2094229439945035927"
+      ]
+    },
+    "author_id": "1880979169297022976",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2094241058523910568",
+    "created_at": "2026-08-31T01:49:12.000Z",
+    "display_text_range": [
+      0,
+      125
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T02:49:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094241058523910568"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2060632417153503234",
+          "start": 3,
+          "username": "AsahinaShikure"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/IidTz9hQWG",
+          "end": 125,
+          "expanded_url": "https://x.com/AsahinaShikure/status/2094229439945035927/photo/1",
+          "media_key": "3_2094229426716180480",
+          "start": 102,
+          "url": "https://t.co/IidTz9hQWG"
+        },
+        {
+          "display_url": "pic.x.com/IidTz9hQWG",
+          "end": 125,
+          "expanded_url": "https://x.com/AsahinaShikure/status/2094229439945035927/photo/1",
+          "media_key": "3_2094229426695241728",
+          "start": 102,
+          "url": "https://t.co/IidTz9hQWG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094241058523910568",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2094229426716180480"
+      },
+      {
+        "media_key": "3_2094229426695241728"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094229439945035927",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AsahinaShikure: 近日，中国教师公开嘲讽跨性别学生身份。\n\n据网传的聊天记录显示，一名15岁跨性别学生离家流浪、差点饿死在街上后，其班主任通过同学拿到QQ号，主动联系并公开嘲笑。… https://t.co/IidTz9hQWG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2094229426716180480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRAykWGWgAAWggf.jpg",
+        "width": 441
+      },
+      {
+        "height": 1490,
+        "media_key": "3_2094229426695241728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRAykWBXAAAK2nV.jpg",
+        "width": 1668
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094229426716180480",
+            "3_2094229426695241728"
+          ],
+          "media_source_tweet_id": [
+            "2094229439945035927",
+            "2094229439945035927"
+          ]
+        },
+        "author_id": "1880979169297022976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2094241058523910568",
+        "created_at": "2026-08-31T01:49:12.000Z",
+        "display_text_range": [
+          0,
+          125
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T02:49:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094241058523910568"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2060632417153503234",
+              "start": 3,
+              "username": "AsahinaShikure"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IidTz9hQWG",
+              "end": 125,
+              "expanded_url": "https://x.com/AsahinaShikure/status/2094229439945035927/photo/1",
+              "media_key": "3_2094229426716180480",
+              "start": 102,
+              "url": "https://t.co/IidTz9hQWG"
+            },
+            {
+              "display_url": "pic.x.com/IidTz9hQWG",
+              "end": 125,
+              "expanded_url": "https://x.com/AsahinaShikure/status/2094229439945035927/photo/1",
+              "media_key": "3_2094229426695241728",
+              "start": 102,
+              "url": "https://t.co/IidTz9hQWG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094241058523910568",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2094229426716180480"
+          },
+          {
+            "media_key": "3_2094229426695241728"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094229439945035927",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AsahinaShikure: 近日，中国教师公开嘲讽跨性别学生身份。\n\n据网传的聊天记录显示，一名15岁跨性别学生离家流浪、差点饿死在街上后，其班主任通过同学拿到QQ号，主动联系并公开嘲笑。… https://t.co/IidTz9hQWG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094229426716180480",
+            "3_2094229426695241728"
+          ]
+        },
+        "author_id": "2060632417153503234",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2094229439945035927",
+        "created_at": "2026-08-31T01:03:02.000Z",
+        "display_text_range": [
+          0,
+          80
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T02:03:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094229439945035927"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IidTz9hQWG",
+              "end": 104,
+              "expanded_url": "https://x.com/AsahinaShikure/status/2094229439945035927/photo/1",
+              "media_key": "3_2094229426716180480",
+              "start": 81,
+              "url": "https://t.co/IidTz9hQWG"
+            },
+            {
+              "display_url": "pic.x.com/IidTz9hQWG",
+              "end": 104,
+              "expanded_url": "https://x.com/AsahinaShikure/status/2094229439945035927/photo/1",
+              "media_key": "3_2094229426695241728",
+              "start": 81,
+              "url": "https://t.co/IidTz9hQWG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094229439945035927",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2094229426716180480"
+          },
+          {
+            "media_key": "3_2094229426695241728"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "近日，中国教师公开嘲讽跨性别学生身份。\n\n据网传的聊天记录显示，一名15岁跨性别学生离家流浪、差点饿死在街上后，其班主任通过同学拿到QQ号，主动联系并公开嘲笑。\n\n班主任称“才15就上街流浪了”“看到了吧，不好好学习就这个下场”，并嘲讽对方“听说你还吃激素当药娘，早晚变成没人要的人妖”，同时还挑衅询问“过的惨不惨呐”。\n\n学生回应“嘲笑就算了，你怎么不帮我”“我差点饿死在街上你知道吗”，并表示已向校长举报，称对方教资可能保不住。班主任则回“那又怎么样”“我才不怕校长呢”，并问对方“还不回来上学吗”。\n\n学生表示不想回去上学“太苦”，并称已经举报。相关记录随后被发至群聊，有人评论“班主任真要这么说话那教资直接飞起来了”“这种班主任就等着被处分吧”。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 195,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "近日，中国教师公开嘲讽跨性别学生身份。\n\n据网传的聊天记录显示，一名15岁跨性别学生离家流浪、差点饿死在街上后，其班主任通过同学拿到QQ号，主动联系并公开嘲笑。 https://t.co/IidTz9hQWG"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳/♂/08.11.3/友跨🏳️‍⚧️\n政治立场未知/聊天请走下方TG链接\n魔裁(まのさば)/CS2/三角洲/Galgame/IT \n好基友@lockloveovo\n学生党 周末/节假日在线\nCN/EN/JP\n第二账号暂不公开",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 74,
+                "username": "lockloveovo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://telegram.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/Q5wiGuq4W4"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "is_identity_verified": true,
+        "location": "People's Republic of China",
+        "most_recent_tweet_id": "2094241058523910568",
+        "name": "Wesley",
+        "pinned_tweet_id": "2083033063257420070",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1880979169297022976/1785740152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1508,
+          "following_count": 1757,
+          "like_count": 21601,
+          "listed_count": 3,
+          "media_count": 474,
+          "tweet_count": 3482
+        },
+        "url": "https://t.co/Q5wiGuq4W4",
+        "username": "Wesley10032",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-30T08:01:21.000Z",
+        "description": "She/Her 🇸🇬| 中三学生| 14岁| MtF🏳️‍⚧️|格里芬联邦共和国@urggov 现任总统|尚未HRT| 世界计划|朝比奈まふゆ と 曉山瑞希 激推| 社会自由主义|语言🇺🇸🇨🇳🇯🇵🇫🇷| 好朋友喵@Lzy2859905CH @Shadowin__",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 40,
+                "username": "urggov"
+              },
+              {
+                "end": 119,
+                "start": 106,
+                "username": "Lzy2859905CH"
+              },
+              {
+                "end": 131,
+                "start": 120,
+                "username": "Shadowin__"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "president.gov-urg.net",
+                "end": 23,
+                "expanded_url": "https://president.gov-urg.net/",
+                "start": 0,
+                "url": "https://t.co/qO9KGP3jOc"
+              }
+            ]
+          }
+        },
+        "id": "2060632417153503234",
+        "is_identity_verified": false,
+        "location": "Central Region, Singapore🇸🇬",
+        "most_recent_tweet_id": "2094229439945035927",
+        "name": "朝比奈丶志暮 Asahina Shikure🏳️‍⚧️",
+        "pinned_tweet_id": "2091803235619144066",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2060632417153503234/1788136734",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091024711375368192/sRv1R2U2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1643,
+          "following_count": 1592,
+          "like_count": 5859,
+          "listed_count": 2,
+          "media_count": 255,
+          "tweet_count": 830
+        },
+        "url": "https://t.co/qO9KGP3jOc",
+        "username": "AsahinaShikure",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

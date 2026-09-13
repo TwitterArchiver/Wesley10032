@@ -1,0 +1,323 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880979169297022976",
+    "conversation_id": "2093696792303165596",
+    "created_at": "2026-08-30T03:48:18.000Z",
+    "display_text_range": [
+      15,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-30T04:48:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093908642689110189"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1827009216047153152",
+          "start": 0,
+          "username": "yuanyunwu1112"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093908642689110189",
+    "in_reply_to_user_id": "1827009216047153152",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093696792303165596",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuanyunwu1112 喵喵！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2093696780798173184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ5OIRbaoAAI-Tf.jpg",
+        "width": 1200
+      },
+      {
+        "height": 1200,
+        "media_key": "3_2093696786523475968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ5OImwb0AA51wo.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880979169297022976",
+        "conversation_id": "2093696792303165596",
+        "created_at": "2026-08-30T03:48:18.000Z",
+        "display_text_range": [
+          15,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T04:48:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093908642689110189"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1827009216047153152",
+              "start": 0,
+              "username": "yuanyunwu1112"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093908642689110189",
+        "in_reply_to_user_id": "1827009216047153152",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093696792303165596",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuanyunwu1112 喵喵！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093696780798173184",
+            "3_2093696786523475968"
+          ]
+        },
+        "author_id": "1827009216047153152",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2093696792303165596",
+        "created_at": "2026-08-29T13:46:28.000Z",
+        "display_text_range": [
+          0,
+          85
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T14:46:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093696792303165596"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eBZGx9WQaz",
+              "end": 109,
+              "expanded_url": "https://x.com/yuanyunwu1112/status/2093696792303165596/photo/1",
+              "media_key": "3_2093696780798173184",
+              "start": 86,
+              "url": "https://t.co/eBZGx9WQaz"
+            },
+            {
+              "display_url": "pic.x.com/eBZGx9WQaz",
+              "end": 109,
+              "expanded_url": "https://x.com/yuanyunwu1112/status/2093696792303165596/photo/1",
+              "media_key": "3_2093696786523475968",
+              "start": 86,
+              "url": "https://t.co/eBZGx9WQaz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093696792303165596",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2093696780798173184"
+          },
+          {
+            "media_key": "3_2093696786523475968"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 203,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "抽奖帖（希望能有人看见🥺🥺🥺）\n自己搓了魔裁物料qwq\n抽五个人送下图任选一or自带图来定制（不限IP）\n点赞+评论+转发即可\n超过20人就开抽\n要求收货地址在国内🥺🥺🥺 https://t.co/eBZGx9WQaz"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳/♂/08.11.3/友跨🏳️‍⚧️\n政治立场未知/聊天请走下方TG链接\n魔裁(まのさば)/CS2/三角洲/Galgame/IT \n好基友@lockloveovo\n学生党 周末/节假日在线\nCN/EN/JP\n防失联@Wesley10033",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 74,
+                "username": "lockloveovo"
+              },
+              {
+                "end": 124,
+                "start": 112,
+                "username": "Wesley10033"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://telegram.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/Q5wiGuq4W4"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "is_identity_verified": true,
+        "location": "People's Republic of China",
+        "most_recent_tweet_id": "2093908642689110189",
+        "name": "Wesley",
+        "pinned_tweet_id": "2083033063257420070",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1880979169297022976/1785740152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1489,
+          "following_count": 1747,
+          "like_count": 20985,
+          "listed_count": 3,
+          "media_count": 464,
+          "tweet_count": 3414
+        },
+        "url": "https://t.co/Q5wiGuq4W4",
+        "username": "Wesley10032",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-08-23T15:45:39.000Z",
+        "description": "欢迎互fo，爱好重叠者可私信扩列喵\n中国人~/INFP/ftx（伪娘喵）/想成为可爱的猫猫！/不键政/半个火车迷，喜欢高铁喵/魔法少女的魔女裁判/崩坏星穹铁道/原神/崩坏三/明日方舟/明日方舟终末地/maimai（打的比较少）/大一逃学ing\n...\n@CheesPenguin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 139,
+                "start": 126,
+                "username": "CheesPenguin"
+              }
+            ]
+          }
+        },
+        "id": "1827009216047153152",
+        "is_identity_verified": false,
+        "location": "往世乐土♪",
+        "most_recent_tweet_id": "2093891430951604452",
+        "name": "苑云鹜",
+        "pinned_tweet_id": "1960608980331585906",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1827009216047153152/1763020100",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082874004709539840/S02oFLb7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 529,
+          "following_count": 888,
+          "like_count": 21238,
+          "listed_count": 2,
+          "media_count": 135,
+          "tweet_count": 2025
+        },
+        "url": "",
+        "username": "yuanyunwu1112",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

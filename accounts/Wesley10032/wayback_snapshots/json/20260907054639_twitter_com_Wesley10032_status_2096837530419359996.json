@@ -1,0 +1,319 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2096837518172008448"
+      ]
+    },
+    "author_id": "1880979169297022976",
+    "conversation_id": "2096821151423144236",
+    "created_at": "2026-09-07T05:46:39.000Z",
+    "display_text_range": [
+      7,
+      7
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T06:46:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096837530419359996"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1902568136450424832",
+          "start": 0,
+          "username": "aoim33"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/VCfFWoFyy1",
+          "end": 31,
+          "expanded_url": "https://x.com/Wesley10032/status/2096837530419359996/photo/1",
+          "media_key": "3_2096837518172008448",
+          "start": 8,
+          "url": "https://t.co/VCfFWoFyy1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096837530419359996",
+    "in_reply_to_user_id": "1902568136450424832",
+    "lang": "qme",
+    "media_metadata": [
+      {
+        "media_key": "3_2096837518172008448"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096821151423144236",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@aoim33 https://t.co/VCfFWoFyy1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 534,
+        "media_key": "3_2096837518172008448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRl2nP5asAA0a_K.jpg",
+        "width": 534
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096837518172008448"
+          ]
+        },
+        "author_id": "1880979169297022976",
+        "conversation_id": "2096821151423144236",
+        "created_at": "2026-09-07T05:46:39.000Z",
+        "display_text_range": [
+          7,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T06:46:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096837530419359996"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1902568136450424832",
+              "start": 0,
+              "username": "aoim33"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VCfFWoFyy1",
+              "end": 31,
+              "expanded_url": "https://x.com/Wesley10032/status/2096837530419359996/photo/1",
+              "media_key": "3_2096837518172008448",
+              "start": 8,
+              "url": "https://t.co/VCfFWoFyy1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096837530419359996",
+        "in_reply_to_user_id": "1902568136450424832",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2096837518172008448"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096821151423144236",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@aoim33 https://t.co/VCfFWoFyy1"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902568136450424832",
+        "conversation_id": "2096821151423144236",
+        "created_at": "2026-09-07T04:41:34.000Z",
+        "display_text_range": [
+          0,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T05:41:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096821151423144236"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/gas1688/status…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/gas1688/status/2096614902458728826",
+              "start": 13,
+              "url": "https://t.co/RTfOLuOMgA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096821151423144236",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 174,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096614902458728826",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "哦齁齁齁齁💗💗啊啊啊💗💗 https://t.co/RTfOLuOMgA"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "description": "中国人🇨🇳/♂/08.11.3\n政治立场未知/聊天请走下方TG链接\n魔裁(まのさば)/CS2/三角洲/Galgame/IT \n好基友@lockloveovo\n高三党/广东中山在居\nCN/EN/JP\n里推@Wesley10033",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 66,
+                "username": "lockloveovo"
+              },
+              {
+                "end": 113,
+                "start": 101,
+                "username": "Wesley10033"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://t.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/HjVzyPDIuK"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "is_identity_verified": true,
+        "location": "中华人民共和国 / P.R.C.",
+        "most_recent_tweet_id": "2096837530419359996",
+        "name": "Wesley",
+        "pinned_tweet_id": "2083033063257420070",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1880979169297022976/1785740152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1598,
+          "following_count": 1837,
+          "like_count": 25432,
+          "listed_count": 2,
+          "media_count": 513,
+          "tweet_count": 3864
+        },
+        "url": "https://t.co/HjVzyPDIuK",
+        "username": "Wesley10032",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "🧊 / 打音游但不混圈 / @supernovaArcaea / 和我聊天: aoimsmi@outlook.com / 可以找我上英语日语课 / tg 频道 ⬇️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 14,
+                "username": "supernovaArcaea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/aoinohanaya",
+                "end": 23,
+                "expanded_url": "https://telegram.me/aoinohanaya",
+                "start": 0,
+                "url": "https://t.co/cIk53ibUg3"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "is_identity_verified": true,
+        "location": "杭州 / 温州 / 上海",
+        "most_recent_tweet_id": "2096832576573100414",
+        "name": "Aoi M",
+        "pinned_tweet_id": "2067301620720030139",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1902568136450424832/1779067947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066456235218493441/7u5vGmjH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7047,
+          "following_count": 3283,
+          "like_count": 63228,
+          "listed_count": 23,
+          "media_count": 4138,
+          "tweet_count": 16112
+        },
+        "url": "https://t.co/cIk53ibUg3",
+        "username": "aoim33",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

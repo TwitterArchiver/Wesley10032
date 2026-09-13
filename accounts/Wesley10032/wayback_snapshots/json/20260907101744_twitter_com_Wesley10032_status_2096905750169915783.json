@@ -1,0 +1,520 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880979169297022976",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1620189216029163524",
+          "name": "ChatGPT"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "2096678351163236654",
+    "created_at": "2026-09-07T10:17:44.000Z",
+    "display_text_range": [
+      40,
+      66
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T11:17:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096905750169915783"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1953337039510003712",
+          "start": 0,
+          "username": "thsottiaux"
+        },
+        {
+          "end": 28,
+          "id": "1730279736079949824",
+          "start": 12,
+          "username": "moonflyingoverc"
+        },
+        {
+          "end": 39,
+          "id": "55964332",
+          "start": 29,
+          "username": "twostraws"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096905750169915783",
+    "in_reply_to_user_id": "1953337039510003712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096847737153012204",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@thsottiaux @moonflyingoverc @twostraws 111 Tibo能送我个ChatGPT Plus吗🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880979169297022976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2096678351163236654",
+        "created_at": "2026-09-07T10:17:44.000Z",
+        "display_text_range": [
+          40,
+          66
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T11:17:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096905750169915783"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1953337039510003712",
+              "start": 0,
+              "username": "thsottiaux"
+            },
+            {
+              "end": 28,
+              "id": "1730279736079949824",
+              "start": 12,
+              "username": "moonflyingoverc"
+            },
+            {
+              "end": 39,
+              "id": "55964332",
+              "start": 29,
+              "username": "twostraws"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096905750169915783",
+        "in_reply_to_user_id": "1953337039510003712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096847737153012204",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@thsottiaux @moonflyingoverc @twostraws 111 Tibo能送我个ChatGPT Plus吗🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1953337039510003712",
+        "conversation_id": "2096678351163236654",
+        "created_at": "2026-09-07T06:27:12.000Z",
+        "display_text_range": [
+          28,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T07:27:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096847737153012204"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1730279736079949824",
+              "start": 0,
+              "username": "moonflyingoverc"
+            },
+            {
+              "end": 27,
+              "id": "55964332",
+              "start": 17,
+              "username": "twostraws"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096847737153012204",
+        "in_reply_to_user_id": "1730279736079949824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 39,
+          "impression_count": 171962,
+          "like_count": 1081,
+          "quote_count": 37,
+          "reply_count": 200,
+          "retweet_count": 47
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096844820346237249",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@moonflyingoverc @twostraws 你最牛了！"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "description": "中国人🇨🇳/♂/08.11.3\n政治立场未知/聊天请走下方TG链接\n魔裁(まのさば)/CS2/三角洲/Galgame/IT \n好基友@lockloveovo\n高三党/广东中山在居\nCN/EN/JP\n里推@Wesley10033",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 66,
+                "username": "lockloveovo"
+              },
+              {
+                "end": 113,
+                "start": 101,
+                "username": "Wesley10033"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://t.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/HjVzyPDIuK"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "is_identity_verified": true,
+        "location": "中华人民共和国 / P.R.C.",
+        "most_recent_tweet_id": "2096905750169915783",
+        "name": "Wesley",
+        "pinned_tweet_id": "2083033063257420070",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1880979169297022976/1785740152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1599,
+          "following_count": 1837,
+          "like_count": 25558,
+          "listed_count": 2,
+          "media_count": 513,
+          "tweet_count": 3874
+        },
+        "url": "https://t.co/HjVzyPDIuK",
+        "username": "Wesley10032",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-08-07T06:07:07.000Z",
+        "description": "Codex & ChatGPT @OpenAI",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 16,
+                "username": "OpenAI"
+              }
+            ]
+          }
+        },
+        "id": "1953337039510003712",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096847737153012204",
+        "name": "Tibo",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093807917833281537/2yBgpwVV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 602701,
+          "following_count": 71,
+          "like_count": 9761,
+          "listed_count": 3143,
+          "media_count": 134,
+          "tweet_count": 2890
+        },
+        "url": "",
+        "username": "thsottiaux",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-11-30T17:37:08.000Z",
+        "description": "90后程序 | 全职开发游戏中\n✦ AI资讯 / 游戏 / 二次元动漫电影剧集爱好者",
+        "id": "1730279736079949824",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096890349033865546",
+        "name": "Darryl",
+        "pinned_tweet_id": "2093553144622182654",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096505095764774912/5ASmj_qw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 256,
+          "following_count": 429,
+          "like_count": 227,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 192
+        },
+        "url": "",
+        "username": "moonflyingoverc",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2009-07-11T23:49:45.000Z",
+        "description": "Learning and sharing at Hacking with Swift, author of Swift, SwiftUI, and iOS books @twostraws@mastodon.social",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "hackingwithswift.com",
+                "end": 23,
+                "expanded_url": "https://www.hackingwithswift.com",
+                "start": 0,
+                "url": "https://t.co/tBUJIa4gI6"
+              }
+            ]
+          }
+        },
+        "id": "55964332",
+        "is_identity_verified": false,
+        "location": "Bath, UK",
+        "most_recent_tweet_id": "2096886787352199445",
+        "name": "Paul Hudson",
+        "pinned_tweet_id": "2055280786786443376",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/55964332/1490982240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1544366852423426049/QkCxDxMJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119938,
+          "following_count": 271,
+          "like_count": 14734,
+          "listed_count": 1723,
+          "media_count": 5036,
+          "tweet_count": 61147
+        },
+        "url": "https://t.co/tBUJIa4gI6",
+        "username": "twostraws",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

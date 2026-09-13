@@ -1,0 +1,546 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2092574302134489088"
+      ],
+      "media_source_tweet_id": [
+        "2092574304571433078"
+      ]
+    },
+    "author_id": "1880979169297022976",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A Video Game Publisher like 'Activision'",
+          "id": "78",
+          "name": "Video Game Publisher"
+        },
+        "entity": {
+          "description": "Rockstar Games",
+          "id": "991743180566478848",
+          "name": "Rockstar Games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Rockstar Games",
+          "id": "991743180566478848",
+          "name": "Rockstar Games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Video Game Publisher",
+          "id": "1070028312276127746",
+          "name": "Game development"
+        }
+      }
+    ],
+    "conversation_id": "2092604192267616696",
+    "created_at": "2026-08-26T13:24:52.000Z",
+    "display_text_range": [
+      0,
+      42
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T14:24:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092604192267616696"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "29758446",
+          "start": 3,
+          "username": "RockstarGames"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/KGqoxFqYho",
+          "end": 42,
+          "expanded_url": "https://x.com/RockstarGames/status/2092574304571433078/photo/1",
+          "media_key": "3_2092574302134489088",
+          "start": 19,
+          "url": "https://t.co/KGqoxFqYho"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092604192267616696",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "alt_text": "Dear all, We know that many of you have been waiting to hear from us regarding the events of the past week. It would be an understatement to say that having videos of Grand Theft Auto VI gameplay leak in this way has been heartbreaking for our team, and this is obviously not how we intended for you to see the game after all this time. We are very sorry that everything has taken as long as it has \\u2014 from getting the game finished (nearly there!) to sharing more details and official gameplay, and providing the community with everything you want to know. We are very excited for everyone to see the extended look tomorrow. It has taken longer than we wanted to get it ready, but as with everything we do, we know we need to exceed your expectations, and we are determined to deliver at the level you expect and deserve. ",
+        "media_key": "3_2092574302134489088"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 34526
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092574304571433078",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @RockstarGames: https://t.co/KGqoxFqYho"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "Dear all, We know that many of you have been waiting to hear from us regarding the events of the past week. It would be an understatement to say that having videos of Grand Theft Auto VI gameplay leak in this way has been heartbreaking for our team, and this is obviously not how we intended for you to see the game after all this time. We are very sorry that everything has taken as long as it has \\u2014 from getting the game finished (nearly there!) to sharing more details and official gameplay, and providing the community with everything you want to know. We are very excited for everyone to see the extended look tomorrow. It has taken longer than we wanted to get it ready, but as with everything we do, we know we need to exceed your expectations, and we are determined to deliver at the level you expect and deserve. ",
+        "height": 1440,
+        "media_key": "3_2092574302134489088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQpRPajWUAA7obe.png",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092574302134489088"
+          ],
+          "media_source_tweet_id": [
+            "2092574304571433078"
+          ]
+        },
+        "author_id": "1880979169297022976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A Video Game Publisher like 'Activision'",
+              "id": "78",
+              "name": "Video Game Publisher"
+            },
+            "entity": {
+              "description": "Rockstar Games",
+              "id": "991743180566478848",
+              "name": "Rockstar Games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Rockstar Games",
+              "id": "991743180566478848",
+              "name": "Rockstar Games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Video Game Publisher",
+              "id": "1070028312276127746",
+              "name": "Game development"
+            }
+          }
+        ],
+        "conversation_id": "2092604192267616696",
+        "created_at": "2026-08-26T13:24:52.000Z",
+        "display_text_range": [
+          0,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T14:24:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092604192267616696"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "29758446",
+              "start": 3,
+              "username": "RockstarGames"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KGqoxFqYho",
+              "end": 42,
+              "expanded_url": "https://x.com/RockstarGames/status/2092574304571433078/photo/1",
+              "media_key": "3_2092574302134489088",
+              "start": 19,
+              "url": "https://t.co/KGqoxFqYho"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092604192267616696",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "alt_text": "Dear all, We know that many of you have been waiting to hear from us regarding the events of the past week. It would be an understatement to say that having videos of Grand Theft Auto VI gameplay leak in this way has been heartbreaking for our team, and this is obviously not how we intended for you to see the game after all this time. We are very sorry that everything has taken as long as it has \\u2014 from getting the game finished (nearly there!) to sharing more details and official gameplay, and providing the community with everything you want to know. We are very excited for everyone to see the extended look tomorrow. It has taken longer than we wanted to get it ready, but as with everything we do, we know we need to exceed your expectations, and we are determined to deliver at the level you expect and deserve. ",
+            "media_key": "3_2092574302134489088"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 34526
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092574304571433078",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @RockstarGames: https://t.co/KGqoxFqYho"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092574302134489088"
+          ]
+        },
+        "author_id": "29758446",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A Video Game Publisher like 'Activision'",
+              "id": "78",
+              "name": "Video Game Publisher"
+            },
+            "entity": {
+              "description": "Rockstar Games",
+              "id": "991743180566478848",
+              "name": "Rockstar Games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Rockstar Games",
+              "id": "991743180566478848",
+              "name": "Rockstar Games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Video Game Publisher",
+              "id": "1070028312276127746",
+              "name": "Game development"
+            }
+          }
+        ],
+        "conversation_id": "2092574304571433078",
+        "created_at": "2026-08-26T11:26:07.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T12:26:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092574304571433078"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KGqoxFqYho",
+              "end": 23,
+              "expanded_url": "https://x.com/RockstarGames/status/2092574304571433078/photo/1",
+              "media_key": "3_2092574302134489088",
+              "start": 0,
+              "url": "https://t.co/KGqoxFqYho"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092574304571433078",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "alt_text": "Dear all, We know that many of you have been waiting to hear from us regarding the events of the past week. It would be an understatement to say that having videos of Grand Theft Auto VI gameplay leak in this way has been heartbreaking for our team, and this is obviously not how we intended for you to see the game after all this time. We are very sorry that everything has taken as long as it has \\u2014 from getting the game finished (nearly there!) to sharing more details and official gameplay, and providing the community with everything you want to know. We are very excited for everyone to see the extended look tomorrow. It has taken longer than we wanted to get it ready, but as with everything we do, we know we need to exceed your expectations, and we are determined to deliver at the level you expect and deserve. ",
+            "media_key": "3_2092574302134489088"
+          }
+        ],
+        "note_request_suggestions": [
+          {
+            "suggestion": "Warning for consumer rights, game comes with no disc",
+            "suggestion_id": "2092576717822968064"
+          },
+          {
+            "suggestion": "Rockstar games failed to address the civilian hit squads that visited the residence of some of the alleged leakers and the fact that they put many users' privacy at risk by extraditing their data from Discord and Microsoft",
+            "suggestion_id": "2092591467088818340"
+          },
+          {
+            "suggestion": "Completely obfuscating to the public why the leaks are happening. Trying to garner sympathy for employees that are already paid and or laid off. Manufacturing consent of an all digital monopoly.",
+            "suggestion_id": "2092601820073845196"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 31945,
+          "impression_count": 18922706,
+          "like_count": 391932,
+          "quote_count": 9470,
+          "reply_count": 17394,
+          "retweet_count": 34523
+        },
+        "reply_settings": "everyone",
+        "suggested_source_links": [
+          "https://x.com/chibireviews/status/2092582104370418002"
+        ],
+        "suggested_source_links_with_counts": [
+          {
+            "count": "1",
+            "url": "https://x.com/chibireviews/status/2092582104370418002"
+          }
+        ],
+        "text": "https://t.co/KGqoxFqYho"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳/♂/08.11.3/友跨🏳️‍⚧️\n政治立场未知/聊天请走下方TG链接\n魔裁(まのさば)/CS2/三角洲/Galgame/IT \n好基友@lockloveovo\n学生党 周末/节假日在线\nCN/EN/JP\n防失联@Wesley10033",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 74,
+                "username": "lockloveovo"
+              },
+              {
+                "end": 124,
+                "start": 112,
+                "username": "Wesley10033"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://telegram.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/Q5wiGuq4W4"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "is_identity_verified": false,
+        "location": "People's Republic of China",
+        "most_recent_tweet_id": "2092604192267616696",
+        "name": "Wesley",
+        "pinned_tweet_id": "2083033063257420070",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1880979169297022976/1785740152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1404,
+          "following_count": 1672,
+          "like_count": 19038,
+          "listed_count": 3,
+          "media_count": 445,
+          "tweet_count": 3210
+        },
+        "url": "https://t.co/Q5wiGuq4W4",
+        "username": "Wesley10032",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2009-04-08T16:47:30.000Z",
+        "description": "The official home of Rockstar Games on X",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "rockstargames.com",
+                "end": 23,
+                "expanded_url": "http://www.rockstargames.com",
+                "start": 0,
+                "url": "https://t.co/cJS8YyBL3R"
+              }
+            ]
+          }
+        },
+        "id": "29758446",
+        "is_identity_verified": false,
+        "location": "NYC / Edinburgh / Bogota",
+        "most_recent_tweet_id": "2092583542622404982",
+        "name": "Rockstar Games",
+        "pinned_tweet_id": "2085335127287030232",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/29758446/1786018072",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067600885417488384/FFmuUM_W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23425511,
+          "following_count": 1429,
+          "like_count": 10503,
+          "listed_count": 20120,
+          "media_count": 5655,
+          "tweet_count": 18374
+        },
+        "url": "https://t.co/cJS8YyBL3R",
+        "username": "RockstarGames",
+        "verified": true,
+        "verified_type": "business"
+      }
+    ]
+  }
+}

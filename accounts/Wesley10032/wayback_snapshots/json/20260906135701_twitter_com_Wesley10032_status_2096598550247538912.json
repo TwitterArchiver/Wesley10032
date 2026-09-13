@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880979169297022976",
+    "conversation_id": "2096577217014992917",
+    "created_at": "2026-09-06T13:57:01.000Z",
+    "display_text_range": [
+      8,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T14:57:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096598550247538912"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2083649484962361345",
+          "start": 0,
+          "username": "y30105"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096598550247538912",
+    "in_reply_to_user_id": "2083649484962361345",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096585956866629783",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@y30105 我确实有点性压抑"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880979169297022976",
+        "conversation_id": "2096577217014992917",
+        "created_at": "2026-09-06T13:57:01.000Z",
+        "display_text_range": [
+          8,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T14:57:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096598550247538912"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2083649484962361345",
+              "start": 0,
+              "username": "y30105"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096598550247538912",
+        "in_reply_to_user_id": "2083649484962361345",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096585956866629783",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@y30105 我确实有点性压抑"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2083649484962361345",
+        "conversation_id": "2096577217014992917",
+        "created_at": "2026-09-06T13:06:59.000Z",
+        "display_text_range": [
+          13,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T14:06:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096585956866629783"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1880979169297022976",
+              "start": 0,
+              "username": "Wesley10032"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096585956866629783",
+        "in_reply_to_user_id": "1880979169297022976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096577217014992917",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wesley10032 黃腔開太多是吧🤔"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "description": "中国人🇨🇳/♂/08.11.3\n政治立场未知/聊天请走下方TG链接\n魔裁(まのさば)/CS2/三角洲/Galgame/IT \n好基友@lockloveovo\n高三党/广东中山在居\nCN/EN/JP\n里推@Wesley10033",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 66,
+                "username": "lockloveovo"
+              },
+              {
+                "end": 113,
+                "start": 101,
+                "username": "Wesley10033"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://t.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/HjVzyPDIuK"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "is_identity_verified": true,
+        "location": "中华人民共和国 / P.R.C.",
+        "most_recent_tweet_id": "2096598550247538912",
+        "name": "Wesley",
+        "pinned_tweet_id": "2083033063257420070",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1880979169297022976/1785740152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1586,
+          "following_count": 1823,
+          "like_count": 25033,
+          "listed_count": 2,
+          "media_count": 507,
+          "tweet_count": 3817
+        },
+        "url": "https://t.co/HjVzyPDIuK",
+        "username": "Wesley10032",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-01T20:23:35.000Z",
+        "description": "你看什么看~我才不可爱！\n\n導演頻道👉🏻@wanliyan3\n\n@qian67068 你個病嬌",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 20,
+                "username": "wanliyan3"
+              },
+              {
+                "end": 42,
+                "start": 32,
+                "username": "qian67068"
+              }
+            ]
+          }
+        },
+        "id": "2083649484962361345",
+        "is_identity_verified": false,
+        "location": "高雄",
+        "most_recent_tweet_id": "2096595834561503619",
+        "name": "拿鐵組長🇹🇼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2083649484962361345/1788559707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095998298876416000/svvEfe9I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 126,
+          "like_count": 303,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 224
+        },
+        "url": "",
+        "username": "y30105",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

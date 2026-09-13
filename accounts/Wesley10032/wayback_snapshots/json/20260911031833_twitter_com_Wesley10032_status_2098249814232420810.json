@@ -1,0 +1,310 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2098248259370463232"
+      ],
+      "media_source_tweet_id": [
+        "2098248311350411485"
+      ]
+    },
+    "author_id": "1880979169297022976",
+    "conversation_id": "2098249814232420810",
+    "created_at": "2026-09-11T03:18:33.000Z",
+    "display_text_range": [
+      0,
+      53
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T04:18:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098249814232420810"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2026081318497665024",
+          "start": 3,
+          "username": "85240609891_2nd"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/u3UCxGhsj9",
+          "end": 53,
+          "expanded_url": "https://x.com/85240609891_2nd/status/2098248311350411485/photo/1",
+          "media_key": "3_2098248259370463232",
+          "start": 30,
+          "url": "https://t.co/u3UCxGhsj9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098249814232420810",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2098248259370463232"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098248311350411485",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @85240609891_2nd: 誰會用這個品牌？ https://t.co/u3UCxGhsj9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 571,
+        "media_key": "3_2098248259370463232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR55rMZbsAAe3bI.jpg",
+        "width": 1654
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098248259370463232"
+          ],
+          "media_source_tweet_id": [
+            "2098248311350411485"
+          ]
+        },
+        "author_id": "1880979169297022976",
+        "conversation_id": "2098249814232420810",
+        "created_at": "2026-09-11T03:18:33.000Z",
+        "display_text_range": [
+          0,
+          53
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T04:18:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098249814232420810"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2026081318497665024",
+              "start": 3,
+              "username": "85240609891_2nd"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/u3UCxGhsj9",
+              "end": 53,
+              "expanded_url": "https://x.com/85240609891_2nd/status/2098248311350411485/photo/1",
+              "media_key": "3_2098248259370463232",
+              "start": 30,
+              "url": "https://t.co/u3UCxGhsj9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098249814232420810",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2098248259370463232"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098248311350411485",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @85240609891_2nd: 誰會用這個品牌？ https://t.co/u3UCxGhsj9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098248259370463232"
+          ]
+        },
+        "author_id": "2026081318497665024",
+        "conversation_id": "2098248311350411485",
+        "created_at": "2026-09-11T03:12:35.000Z",
+        "display_text_range": [
+          0,
+          8
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T04:12:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098248311350411485"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/u3UCxGhsj9",
+              "end": 32,
+              "expanded_url": "https://x.com/85240609891_2nd/status/2098248311350411485/photo/1",
+              "media_key": "3_2098248259370463232",
+              "start": 9,
+              "url": "https://t.co/u3UCxGhsj9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098248311350411485",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2098248259370463232"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "誰會用這個品牌？ https://t.co/u3UCxGhsj9"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "description": "中国人🇨🇳/♂/08.11.3\n政治立场未知/聊天请走下方TG链接\n魔裁(まのさば)/CS2/三角洲/Galgame/IT \n好基友@lockloveovo\n高三党/广东中山在居\nCN/EN/JP\n里推@Wesley10033\nBluesky备用号:@wesley10032.bsky.social",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 66,
+                "username": "lockloveovo"
+              },
+              {
+                "end": 113,
+                "start": 101,
+                "username": "Wesley10033"
+              },
+              {
+                "end": 137,
+                "start": 125,
+                "username": "wesley10032"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://t.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/HjVzyPDIuK"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "is_identity_verified": true,
+        "location": "中华人民共和国 / P.R.C.",
+        "most_recent_tweet_id": "2098249814232420810",
+        "name": "Wesley",
+        "pinned_tweet_id": "2083033063257420070",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1880979169297022976/1785740152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1659,
+          "following_count": 1881,
+          "like_count": 27807,
+          "listed_count": 2,
+          "media_count": 540,
+          "tweet_count": 4135
+        },
+        "url": "https://t.co/HjVzyPDIuK",
+        "username": "Wesley10032",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-02-23T23:47:34.000Z",
+        "description": "第一帳戶被封鎖90天\nHongkonger\n維多利亞女王+北極戰警",
+        "id": "2026081318497665024",
+        "is_identity_verified": false,
+        "location": "🇭🇰 Don‘t desert ME 🇭🇰 ",
+        "most_recent_tweet_id": "2098248311350411485",
+        "name": "Alexandrina Victoria.Arctic Warfare Police",
+        "pinned_tweet_id": "2090056618729759095",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2026081318497665024/1788993528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098187794288173056/yUjKCRL3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 459,
+          "following_count": 449,
+          "like_count": 2851,
+          "listed_count": 0,
+          "media_count": 397,
+          "tweet_count": 1250
+        },
+        "url": "",
+        "username": "85240609891_2nd",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

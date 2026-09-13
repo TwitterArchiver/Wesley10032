@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880979169297022976",
+    "conversation_id": "2097615356487668074",
+    "created_at": "2026-09-10T03:33:19.000Z",
+    "display_text_range": [
+      12,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T04:33:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097891142151102485"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2090443724266536960",
+          "start": 0,
+          "username": "MingShixsq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097891142151102485",
+    "in_reply_to_user_id": "2090443724266536960",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097891014992355649",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@MingShixsq 何意味喵😨"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880979169297022976",
+        "conversation_id": "2097615356487668074",
+        "created_at": "2026-09-10T03:33:19.000Z",
+        "display_text_range": [
+          12,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T04:33:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097891142151102485"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2090443724266536960",
+              "start": 0,
+              "username": "MingShixsq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097891142151102485",
+        "in_reply_to_user_id": "2090443724266536960",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097891014992355649",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@MingShixsq 何意味喵😨"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2090443724266536960",
+        "conversation_id": "2097615356487668074",
+        "created_at": "2026-09-10T03:32:49.000Z",
+        "display_text_range": [
+          13,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T04:32:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097891014992355649"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1880979169297022976",
+              "start": 0,
+              "username": "Wesley10032"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097891014992355649",
+        "in_reply_to_user_id": "1880979169297022976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097615356487668074",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@Wesley10032 去油管开个直播呗喵"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "description": "中国人🇨🇳/♂/08.11.3\n政治立场未知/聊天请走下方TG链接\n魔裁(まのさば)/CS2/三角洲/Galgame/IT \n好基友@lockloveovo\n高三党/广东中山在居\nCN/EN/JP\n里推@Wesley10033",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 66,
+                "username": "lockloveovo"
+              },
+              {
+                "end": 113,
+                "start": 101,
+                "username": "Wesley10033"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://t.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/HjVzyPDIuK"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "is_identity_verified": true,
+        "location": "中华人民共和国 / P.R.C.",
+        "most_recent_tweet_id": "2097891142151102485",
+        "name": "Wesley",
+        "pinned_tweet_id": "2083033063257420070",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1880979169297022976/1785740152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1649,
+          "following_count": 1857,
+          "like_count": 26939,
+          "listed_count": 2,
+          "media_count": 531,
+          "tweet_count": 4014
+        },
+        "url": "https://t.co/HjVzyPDIuK",
+        "username": "Wesley10032",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-20T14:20:34.000Z",
+        "description": "The fox loves me,I like it 狐 が 私 を 愛し 、 私 は 狐 を 愛する",
+        "id": "2090443724266536960",
+        "is_identity_verified": false,
+        "location": "Los Angeles, CA",
+        "most_recent_tweet_id": "2097891048597114892",
+        "name": "Ming Shi",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2090443724266536960/1787273210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090443961823551488/R8Asq8z8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 241,
+          "like_count": 729,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 456
+        },
+        "url": "",
+        "username": "MingShixsq",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

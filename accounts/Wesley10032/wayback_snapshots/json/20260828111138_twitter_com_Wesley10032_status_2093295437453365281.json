@@ -1,0 +1,434 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880979169297022976",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      }
+    ],
+    "conversation_id": "2093295437453365281",
+    "created_at": "2026-08-28T11:11:38.000Z",
+    "display_text_range": [
+      0,
+      34
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-28T12:11:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2093295437453365281"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/theappledesign…",
+          "end": 58,
+          "expanded_url": "https://twitter.com/theappledesign/status/2092945566015909960",
+          "start": 35,
+          "url": "https://t.co/V0oNpwcH08"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093295437453365281",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092945566015909960",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "Only Apple Can Do👍\nApple 的审美一直很在线的 https://t.co/V0oNpwcH08"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2706,
+        "media_key": "3_2092945554749931520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQui5KUaQAAQT2M.jpg",
+        "width": 1320
+      },
+      {
+        "height": 2706,
+        "media_key": "3_2092945554745831424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQui5KTbsAAfsL2.jpg",
+        "width": 1320
+      },
+      {
+        "height": 2703,
+        "media_key": "3_2092945554783588352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQui5Kcb0AA1w-h.jpg",
+        "width": 1320
+      },
+      {
+        "height": 2705,
+        "media_key": "3_2092945554728951808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQui5KPaIAAHWMr.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880979169297022976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          }
+        ],
+        "conversation_id": "2093295437453365281",
+        "created_at": "2026-08-28T11:11:38.000Z",
+        "display_text_range": [
+          0,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T12:11:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093295437453365281"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/theappledesign…",
+              "end": 58,
+              "expanded_url": "https://twitter.com/theappledesign/status/2092945566015909960",
+              "start": 35,
+              "url": "https://t.co/V0oNpwcH08"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093295437453365281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092945566015909960",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Only Apple Can Do👍\nApple 的审美一直很在线的 https://t.co/V0oNpwcH08"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092945554749931520",
+            "3_2092945554745831424",
+            "3_2092945554783588352",
+            "3_2092945554728951808"
+          ]
+        },
+        "author_id": "1254456213527543808",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          }
+        ],
+        "conversation_id": "2092945566015909960",
+        "created_at": "2026-08-27T12:01:22.000Z",
+        "display_text_range": [
+          0,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T13:01:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092945566015909960"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UexvUPpfZE",
+              "end": 68,
+              "expanded_url": "https://x.com/TheAppleDesign/status/2092945566015909960/photo/1",
+              "media_key": "3_2092945554749931520",
+              "start": 45,
+              "url": "https://t.co/UexvUPpfZE"
+            },
+            {
+              "display_url": "pic.x.com/UexvUPpfZE",
+              "end": 68,
+              "expanded_url": "https://x.com/TheAppleDesign/status/2092945566015909960/photo/1",
+              "media_key": "3_2092945554745831424",
+              "start": 45,
+              "url": "https://t.co/UexvUPpfZE"
+            },
+            {
+              "display_url": "pic.x.com/UexvUPpfZE",
+              "end": 68,
+              "expanded_url": "https://x.com/TheAppleDesign/status/2092945566015909960/photo/1",
+              "media_key": "3_2092945554783588352",
+              "start": 45,
+              "url": "https://t.co/UexvUPpfZE"
+            },
+            {
+              "display_url": "pic.x.com/UexvUPpfZE",
+              "end": 68,
+              "expanded_url": "https://x.com/TheAppleDesign/status/2092945566015909960/photo/1",
+              "media_key": "3_2092945554728951808",
+              "start": 45,
+              "url": "https://t.co/UexvUPpfZE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092945566015909960",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2092945554749931520"
+          },
+          {
+            "media_key": "3_2092945554745831424"
+          },
+          {
+            "media_key": "3_2092945554783588352"
+          },
+          {
+            "media_key": "3_2092945554728951808"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2596,
+          "impression_count": 2599321,
+          "like_count": 26921,
+          "quote_count": 201,
+          "reply_count": 143,
+          "retweet_count": 2041
+        },
+        "reply_settings": "everyone",
+        "text": "apple maps has no business being this preety https://t.co/UexvUPpfZE"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳/♂/08.11.3/友跨🏳️‍⚧️\n政治立场未知/聊天请走下方TG链接\n魔裁(まのさば)/CS2/三角洲/Galgame/IT \n好基友@lockloveovo\n学生党 周末/节假日在线\nCN/EN/JP\n防失联@Wesley10033",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 74,
+                "username": "lockloveovo"
+              },
+              {
+                "end": 124,
+                "start": 112,
+                "username": "Wesley10033"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://telegram.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/Q5wiGuq4W4"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "is_identity_verified": false,
+        "location": "People's Republic of China",
+        "most_recent_tweet_id": "2093295437453365281",
+        "name": "Wesley",
+        "pinned_tweet_id": "2083033063257420070",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1880979169297022976/1785740152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1431,
+          "following_count": 1687,
+          "like_count": 19641,
+          "listed_count": 3,
+          "media_count": 452,
+          "tweet_count": 3277
+        },
+        "url": "https://t.co/Q5wiGuq4W4",
+        "username": "Wesley10032",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-04-26T17:04:19.000Z",
+        "description": "Apple Design. Not affiliated with Apple Inc. DM or mail for business.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/TheAppleDesign",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/TheAppleDesign",
+                "start": 0,
+                "url": "https://t.co/BkHuWurYMW"
+              }
+            ]
+          }
+        },
+        "id": "1254456213527543808",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2093259313926353393",
+        "name": "Apple Design",
+        "pinned_tweet_id": "1958938747866947922",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1254456213527543808/1719431444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806052486417096704/FnBslKp4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96685,
+          "following_count": 39,
+          "like_count": 5220,
+          "listed_count": 370,
+          "media_count": 2238,
+          "tweet_count": 7410
+        },
+        "url": "https://t.co/BkHuWurYMW",
+        "username": "TheAppleDesign",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

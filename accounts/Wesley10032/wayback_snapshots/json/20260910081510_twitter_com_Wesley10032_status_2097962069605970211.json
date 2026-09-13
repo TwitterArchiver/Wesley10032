@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880979169297022976",
+    "conversation_id": "2097847214483611958",
+    "created_at": "2026-09-10T08:15:10.000Z",
+    "display_text_range": [
+      14,
+      39
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T09:15:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097962069605970211"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1876613242887282688",
+          "start": 0,
+          "username": "liujiayi1111"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097962069605970211",
+    "in_reply_to_user_id": "1876613242887282688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097847214483611958",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liujiayi1111 苹果AI早就支持中文了吧🤔我记得刚发布的时候就支持"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 717,
+        "media_key": "3_2097847108992978944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR0M1KybUAAME8g.jpg",
+        "width": 1421
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880979169297022976",
+        "conversation_id": "2097847214483611958",
+        "created_at": "2026-09-10T08:15:10.000Z",
+        "display_text_range": [
+          14,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T09:15:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097962069605970211"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1876613242887282688",
+              "start": 0,
+              "username": "liujiayi1111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097962069605970211",
+        "in_reply_to_user_id": "1876613242887282688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097847214483611958",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liujiayi1111 苹果AI早就支持中文了吧🤔我记得刚发布的时候就支持"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097847108992978944"
+          ]
+        },
+        "author_id": "1876613242887282688",
+        "conversation_id": "2097847214483611958",
+        "created_at": "2026-09-10T00:38:46.000Z",
+        "display_text_range": [
+          0,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T01:38:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097847214483611958"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/o6A8ltRExO",
+              "end": 41,
+              "expanded_url": "https://x.com/liujiayi1111/status/2097847214483611958/photo/1",
+              "media_key": "3_2097847108992978944",
+              "start": 18,
+              "url": "https://t.co/o6A8ltRExO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097847214483611958",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2097847108992978944"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3443,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 26,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "苹果 AI 要支持中文了吗？😌好棒 https://t.co/o6A8ltRExO"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "description": "中国人🇨🇳/♂/08.11.3\n政治立场未知/聊天请走下方TG链接\n魔裁(まのさば)/CS2/三角洲/Galgame/IT \n好基友@lockloveovo\n高三党/广东中山在居\nCN/EN/JP\n里推@Wesley10033",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 66,
+                "username": "lockloveovo"
+              },
+              {
+                "end": 113,
+                "start": 101,
+                "username": "Wesley10033"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://t.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/HjVzyPDIuK"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "is_identity_verified": true,
+        "location": "中华人民共和国 / P.R.C.",
+        "most_recent_tweet_id": "2097962069605970211",
+        "name": "Wesley",
+        "pinned_tweet_id": "2083033063257420070",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1880979169297022976/1785740152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1653,
+          "following_count": 1861,
+          "like_count": 27132,
+          "listed_count": 2,
+          "media_count": 535,
+          "tweet_count": 4042
+        },
+        "url": "https://t.co/HjVzyPDIuK",
+        "username": "Wesley10032",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-01-07T12:54:22.000Z",
+        "description": "生活类博主，分享心情、吐槽、碎碎念，偶尔掉落日常生活碎片。不互fo，只关注自己感兴趣的。LOL游戏主播。被Tauri伤透两回，再也不喜欢Tauri了！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/liujiayi2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/liujiayi2",
+                "start": 0,
+                "url": "https://t.co/pDPmLWjxRk"
+              }
+            ]
+          }
+        },
+        "id": "1876613242887282688",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097921585764036906",
+        "name": "刘佳怡",
+        "pinned_tweet_id": "2058900883270758469",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1876613242887282688/1780369791",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058024477871468544/mleLXsRC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11910,
+          "following_count": 145,
+          "like_count": 17862,
+          "listed_count": 31,
+          "media_count": 411,
+          "tweet_count": 5252
+        },
+        "url": "https://t.co/pDPmLWjxRk",
+        "username": "liujiayi1111",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880979169297022976",
+    "conversation_id": "2096019775587864601",
+    "created_at": "2026-09-04T23:37:11.000Z",
+    "display_text_range": [
+      0,
+      41
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T00:37:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2096019775587864601"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Song77c1/statu…",
+          "end": 65,
+          "expanded_url": "https://twitter.com/Song77c1/status/2095685400526467443",
+          "start": 42,
+          "url": "https://t.co/TUIaZjemfH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096019775587864601",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095685400526467443",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "原谅我看到这个又破防了……\n这也是我为什么一直想自己赚钱的原因……不想被这么PUA https://t.co/TUIaZjemfH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1434,
+        "media_key": "3_2095685391198363648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRVewodaoAA42TT.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880979169297022976",
+        "conversation_id": "2096019775587864601",
+        "created_at": "2026-09-04T23:37:11.000Z",
+        "display_text_range": [
+          0,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T00:37:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096019775587864601"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Song77c1/statu…",
+              "end": 65,
+              "expanded_url": "https://twitter.com/Song77c1/status/2095685400526467443",
+              "start": 42,
+              "url": "https://t.co/TUIaZjemfH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096019775587864601",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095685400526467443",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "原谅我看到这个又破防了……\n这也是我为什么一直想自己赚钱的原因……不想被这么PUA https://t.co/TUIaZjemfH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095685391198363648"
+          ]
+        },
+        "author_id": "2060004417437659136",
+        "conversation_id": "2095685400526467443",
+        "created_at": "2026-09-04T01:28:30.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T02:28:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095685400526467443"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PpzSwEUJdR",
+              "end": 28,
+              "expanded_url": "https://x.com/Song77c1/status/2095685400526467443/photo/1",
+              "media_key": "3_2095685391198363648",
+              "start": 5,
+              "url": "https://t.co/PpzSwEUJdR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095685400526467443",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2095685391198363648"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 293,
+          "impression_count": 203553,
+          "like_count": 3657,
+          "quote_count": 25,
+          "reply_count": 155,
+          "retweet_count": 226
+        },
+        "reply_settings": "everyone",
+        "text": "太歹毒了 https://t.co/PpzSwEUJdR"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳/♂/08.11.3/友跨🏳️‍⚧️\n政治立场未知/聊天请走下方TG链接\n魔裁(まのさば)/CS2/三角洲/Galgame/IT \n好基友@lockloveovo\n高三党/广东中山在居\nCN/EN/JP\n里推@Wesley10033",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 74,
+                "username": "lockloveovo"
+              },
+              {
+                "end": 121,
+                "start": 109,
+                "username": "Wesley10033"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://t.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/HjVzyPDIuK"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "is_identity_verified": true,
+        "location": "People's Republic of China",
+        "most_recent_tweet_id": "2096019775587864601",
+        "name": "Wesley",
+        "pinned_tweet_id": "2083033063257420070",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1880979169297022976/1785740152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1552,
+          "following_count": 1800,
+          "like_count": 23668,
+          "listed_count": 2,
+          "media_count": 495,
+          "tweet_count": 3667
+        },
+        "url": "https://t.co/HjVzyPDIuK",
+        "username": "Wesley10032",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-28T14:25:19.000Z",
+        "description": "当日记本随便写写，很高兴认识你。\n具体看置顶，欢迎找我互fo呀\n小号：@syue1213",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 35,
+                "username": "syue1213"
+              }
+            ]
+          }
+        },
+        "id": "2060004417437659136",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2096011810164130259",
+        "name": "松松月月",
+        "pinned_tweet_id": "2093906655000056251",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2060004417437659136/1783821008",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076121807426580480/MndNa5l2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 326,
+          "following_count": 84,
+          "like_count": 4841,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 450
+        },
+        "url": "",
+        "username": "Song77c1",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

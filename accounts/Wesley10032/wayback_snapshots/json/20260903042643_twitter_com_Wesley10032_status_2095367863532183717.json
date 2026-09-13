@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880979169297022976",
+    "conversation_id": "2095364287682552054",
+    "created_at": "2026-09-03T04:26:43.000Z",
+    "display_text_range": [
+      10,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-03T05:26:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095367863532183717"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2089970171100418049",
+          "start": 0,
+          "username": "Aurvsnom"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095367863532183717",
+    "in_reply_to_user_id": "2089970171100418049",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095366507576590583",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Aurvsnom 喵😋"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2095366507576590583].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2095366507576590583",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "2095366507576590583"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880979169297022976",
+        "conversation_id": "2095364287682552054",
+        "created_at": "2026-09-03T04:26:43.000Z",
+        "display_text_range": [
+          10,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T05:26:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095367863532183717"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2089970171100418049",
+              "start": 0,
+              "username": "Aurvsnom"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095367863532183717",
+        "in_reply_to_user_id": "2089970171100418049",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095366507576590583",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aurvsnom 喵😋"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳/♂/08.11.3/友跨🏳️‍⚧️\n政治立场未知/聊天请走下方TG链接\n魔裁(まのさば)/CS2/三角洲/Galgame/IT \n好基友@lockloveovo\n学生党 周末/节假日在线\nCN/EN/JP\n第二账号暂不公开",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 74,
+                "username": "lockloveovo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://telegram.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/Q5wiGuq4W4"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "is_identity_verified": true,
+        "location": "People's Republic of China",
+        "most_recent_tweet_id": "2095367863532183717",
+        "name": "Wesley",
+        "pinned_tweet_id": "2083033063257420070",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1880979169297022976/1785740152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1536,
+          "following_count": 1782,
+          "like_count": 22578,
+          "listed_count": 3,
+          "media_count": 483,
+          "tweet_count": 3571
+        },
+        "url": "https://t.co/Q5wiGuq4W4",
+        "username": "Wesley10032",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-19T06:59:27.000Z",
+        "description": "一代@Vyrwen已陨落\n二代@Luminbkrv已陨落\n互fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 2,
+                "username": "Vyrwen"
+              },
+              {
+                "end": 25,
+                "start": 15,
+                "username": "Luminbkrv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aurvsnow",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aurvsnow",
+                "start": 0,
+                "url": "https://t.co/cwzsubTgBn"
+              }
+            ]
+          }
+        },
+        "id": "2089970171100418049",
+        "is_identity_verified": false,
+        "location": "沉眠岸",
+        "most_recent_tweet_id": "2094692480541475179",
+        "name": "雪还会落下3.0",
+        "pinned_tweet_id": "2094554199740862939",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2089970171100418049/1787587889",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092928612026695680/g1KNJow1_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 124,
+          "like_count": 1466,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 305
+        },
+        "url": "https://t.co/cwzsubTgBn",
+        "username": "Aurvsnom",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

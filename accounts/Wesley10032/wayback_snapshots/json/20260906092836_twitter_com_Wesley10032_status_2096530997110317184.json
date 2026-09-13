@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2096530978097553408"
+      ]
+    },
+    "author_id": "1880979169297022976",
+    "conversation_id": "2096530997110317184",
+    "created_at": "2026-09-06T09:28:36.000Z",
+    "display_text_range": [
+      0,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T10:28:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2096530997110317184"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Z9SLXldMld",
+          "end": 37,
+          "expanded_url": "https://x.com/Wesley10032/status/2096530997110317184/photo/1",
+          "media_key": "3_2096530978097553408",
+          "start": 14,
+          "url": "https://t.co/Z9SLXldMld"
+        },
+        {
+          "display_url": "x.com/mimirlink/stat…",
+          "end": 61,
+          "expanded_url": "https://twitter.com/mimirlink/status/2096467771156816367",
+          "start": 38,
+          "url": "https://t.co/rFJFuLQPMm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096530997110317184",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2096530978097553408"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096467771156816367",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "可以的你们的节点😋\n谢谢喵 https://t.co/Z9SLXldMld https://t.co/rFJFuLQPMm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2096530978097553408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRhf0RIbYAAZAW8.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096530978097553408"
+          ]
+        },
+        "author_id": "1880979169297022976",
+        "conversation_id": "2096530997110317184",
+        "created_at": "2026-09-06T09:28:36.000Z",
+        "display_text_range": [
+          0,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T10:28:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096530997110317184"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Z9SLXldMld",
+              "end": 37,
+              "expanded_url": "https://x.com/Wesley10032/status/2096530997110317184/photo/1",
+              "media_key": "3_2096530978097553408",
+              "start": 14,
+              "url": "https://t.co/Z9SLXldMld"
+            },
+            {
+              "display_url": "x.com/mimirlink/stat…",
+              "end": 61,
+              "expanded_url": "https://twitter.com/mimirlink/status/2096467771156816367",
+              "start": 38,
+              "url": "https://t.co/rFJFuLQPMm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096530997110317184",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096530978097553408"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096467771156816367",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "可以的你们的节点😋\n谢谢喵 https://t.co/Z9SLXldMld https://t.co/rFJFuLQPMm"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2080831850352893952",
+        "conversation_id": "2096465921154138196",
+        "created_at": "2026-09-06T05:17:21.000Z",
+        "display_text_range": [
+          13,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T06:17:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096467771156816367"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1880979169297022976",
+              "start": 0,
+              "username": "Wesley10032"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096467771156816367",
+        "in_reply_to_user_id": "1880979169297022976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 61,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096465921154138196",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@Wesley10032 要不试试我的？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "description": "中国人🇨🇳/♂/08.11.3\n政治立场未知/聊天请走下方TG链接\n魔裁(まのさば)/CS2/三角洲/Galgame/IT \n好基友@lockloveovo\n高三党/广东中山在居\nCN/EN/JP\n里推@Wesley10033",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 66,
+                "username": "lockloveovo"
+              },
+              {
+                "end": 113,
+                "start": 101,
+                "username": "Wesley10033"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://t.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/HjVzyPDIuK"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "is_identity_verified": true,
+        "location": "中华人民共和国 / P.R.C.",
+        "most_recent_tweet_id": "2096530997110317184",
+        "name": "Wesley",
+        "pinned_tweet_id": "2083033063257420070",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1880979169297022976/1785740152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1578,
+          "following_count": 1819,
+          "like_count": 24769,
+          "listed_count": 2,
+          "media_count": 505,
+          "tweet_count": 3778
+        },
+        "url": "https://t.co/HjVzyPDIuK",
+        "username": "Wesley10032",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-25T01:47:43.000Z",
+        "description": "Home lab, AI, chitchat, Private VPN Service. 家庭网络+AI+闲聊+科网俱乐部",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mimirlink.io",
+                "end": 23,
+                "expanded_url": "http://www.mimirlink.io",
+                "start": 0,
+                "url": "https://t.co/nRAurwsAZM"
+              }
+            ]
+          }
+        },
+        "id": "2080831850352893952",
+        "is_identity_verified": false,
+        "location": "United States",
+        "most_recent_tweet_id": "2096519313306071457",
+        "name": "MímirLink",
+        "pinned_tweet_id": "2087322884310233264",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2080831850352893952/1784944902",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080833930148945920/xJFXXij__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 730,
+          "following_count": 718,
+          "like_count": 1662,
+          "listed_count": 0,
+          "media_count": 161,
+          "tweet_count": 1357
+        },
+        "url": "https://t.co/nRAurwsAZM",
+        "username": "MimirLink",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

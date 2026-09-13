@@ -1,0 +1,366 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880979169297022976",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+          "id": "1557697289971322880",
+          "name": "Sports & Fitness Business"
+        }
+      }
+    ],
+    "conversation_id": "2091225065400783256",
+    "created_at": "2026-08-23T01:41:04.000Z",
+    "display_text_range": [
+      24,
+      44
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-23T02:41:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091339908875178022"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2008360423771316224",
+          "start": 0,
+          "username": "Konizaza"
+        },
+        {
+          "end": 23,
+          "id": "2068544259784093696",
+          "start": 10,
+          "username": "TaoistYouth3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091339908875178022",
+    "in_reply_to_user_id": "2008360423771316224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091323566361030884",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Konizaza @TaoistYouth3 一眼假，真正的大外宣号哪有功夫来这里对线"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880979169297022976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          }
+        ],
+        "conversation_id": "2091225065400783256",
+        "created_at": "2026-08-23T01:41:04.000Z",
+        "display_text_range": [
+          24,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T02:41:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091339908875178022"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2008360423771316224",
+              "start": 0,
+              "username": "Konizaza"
+            },
+            {
+              "end": 23,
+              "id": "2068544259784093696",
+              "start": 10,
+              "username": "TaoistYouth3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091339908875178022",
+        "in_reply_to_user_id": "2008360423771316224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091323566361030884",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Konizaza @TaoistYouth3 一眼假，真正的大外宣号哪有功夫来这里对线"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008360423771316224",
+        "conversation_id": "2091225065400783256",
+        "created_at": "2026-08-23T00:36:07.000Z",
+        "display_text_range": [
+          14,
+          96
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T01:36:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091323566361030884"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2068544259784093696",
+              "start": 0,
+              "username": "TaoistYouth3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091323566361030884",
+        "in_reply_to_user_id": "2068544259784093696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 71,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091225065400783256",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TaoistYouth3 不是吧？\n山西文旅为什么要开个外网账号啊\n难道说：\n谁不想在刷推特的时候急头白脸的去看看祖国的大好河山，并且义无反顾地买几张通往国家5A级景区的票，来支持旅游业呢（"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳/♂/08.11.3/友跨🏳️‍⚧️\n政治立场未知/聊天请走下方TG链接\n魔裁(まのさば)/CS2/三角洲/Galgame/IT \n好基友@lockloveovo\n学生党 周末/节假日在线\nCN/EN/JP\n防失联@Wesley10033",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 74,
+                "username": "lockloveovo"
+              },
+              {
+                "end": 124,
+                "start": 112,
+                "username": "Wesley10033"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://telegram.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/Q5wiGuq4W4"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "is_identity_verified": false,
+        "location": "People's Republic of China",
+        "most_recent_tweet_id": "2091339908875178022",
+        "name": "Wesley",
+        "pinned_tweet_id": "2083033063257420070",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1880979169297022976/1785740152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1315,
+          "following_count": 1603,
+          "like_count": 18191,
+          "listed_count": 1,
+          "media_count": 435,
+          "tweet_count": 3079
+        },
+        "url": "https://t.co/Q5wiGuq4W4",
+        "username": "Wesley10032",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-01-06T02:10:47.000Z",
+        "description": "互关/互fo喵～｜MTF断糖｜生产日期：08年九月|喜欢喵喵叫｜也喜欢大家｜小号@konizazadesu免得找不到请灌注一下喵～\n我喜欢你",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 40,
+                "username": "konizazadesu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/konizaza",
+                "end": 23,
+                "expanded_url": "https://ngl.link/konizaza",
+                "start": 0,
+                "url": "https://t.co/UxxyJbeFnU"
+              }
+            ]
+          }
+        },
+        "id": "2008360423771316224",
+        "is_identity_verified": false,
+        "location": "你的心里（江苏南京）",
+        "most_recent_tweet_id": "2091339855167189174",
+        "name": "❤️Konizaza❤️",
+        "pinned_tweet_id": "2091135265230512587",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2008360423771316224/1783678754",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008360701203476480/8eFKwyGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1490,
+          "following_count": 1751,
+          "like_count": 8688,
+          "listed_count": 2,
+          "media_count": 343,
+          "tweet_count": 3734
+        },
+        "url": "https://t.co/UxxyJbeFnU",
+        "username": "Konizaza",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-21T04:03:25.000Z",
+        "description": "专业反共 欢迎各位关注\n支持本账号无限连任\n第二个号再次被疯狂的奶隆杀死了。关注一下@TaoistYouth4\n一个右翼自由派 | 理想主义者 | 道教善信 | 现居日本\n致力于反抗中共 反抗独裁暴政！追求个人独立  个人自由 | 愿我们期冀的民主之花 在不久的将来 开遍华夏的每一处角落",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 42,
+                "username": "TaoistYouth4"
+              }
+            ]
+          }
+        },
+        "id": "2068544259784093696",
+        "is_identity_verified": false,
+        "location": "日本东京",
+        "most_recent_tweet_id": "2091256438534619487",
+        "name": "☯Taoist_Youth🇨🇳🇯🇵（三世）",
+        "pinned_tweet_id": "2090323689208488413",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2068544259784093696/1787135796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085376718072868864/diTgA8tr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 88,
+          "like_count": 1947,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 388
+        },
+        "url": "",
+        "username": "TaoistYouth3",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880979169297022976",
+    "conversation_id": "2096465921154138196",
+    "created_at": "2026-09-06T05:23:47.000Z",
+    "display_text_range": [
+      13,
+      64
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T06:23:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096469390418182318"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2049152504542449664",
+          "start": 0,
+          "username": "hasaki_sama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096469390418182318",
+    "in_reply_to_user_id": "2049152504542449664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096468899344929141",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@hasaki_sama 草 我去 IPPure 查了一下真用到境内的服务器了\n但我之前的 WARP 连的都是美国洛杉矶节点啊😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880979169297022976",
+        "conversation_id": "2096465921154138196",
+        "created_at": "2026-09-06T05:23:47.000Z",
+        "display_text_range": [
+          13,
+          64
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T06:23:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096469390418182318"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2049152504542449664",
+              "start": 0,
+              "username": "hasaki_sama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096469390418182318",
+        "in_reply_to_user_id": "2049152504542449664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096468899344929141",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@hasaki_sama 草 我去 IPPure 查了一下真用到境内的服务器了\n但我之前的 WARP 连的都是美国洛杉矶节点啊😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2049152504542449664",
+        "conversation_id": "2096465921154138196",
+        "created_at": "2026-09-06T05:21:50.000Z",
+        "display_text_range": [
+          13,
+          81
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T06:21:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096468899344929141"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1880979169297022976",
+              "start": 0,
+              "username": "Wesley10032"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096468899344929141",
+        "in_reply_to_user_id": "1880979169297022976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096465921154138196",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@Wesley10032 warp会优先使用延迟最低的cloud flare边缘节点接入cf骨干网络 但是问题就在对咱来说延迟比较低的节点大多都在中国大陆境内喵（"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "description": "中国人🇨🇳/♂/08.11.3\n政治立场未知/聊天请走下方TG链接\n魔裁(まのさば)/CS2/三角洲/Galgame/IT \n好基友@lockloveovo\n高三党/广东中山在居\nCN/EN/JP\n里推@Wesley10033",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 66,
+                "username": "lockloveovo"
+              },
+              {
+                "end": 113,
+                "start": 101,
+                "username": "Wesley10033"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://t.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/HjVzyPDIuK"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "is_identity_verified": true,
+        "location": "中华人民共和国 / P.R.C.",
+        "most_recent_tweet_id": "2096469390418182318",
+        "name": "Wesley",
+        "pinned_tweet_id": "2083033063257420070",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1880979169297022976/1785740152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1577,
+          "following_count": 1817,
+          "like_count": 24377,
+          "listed_count": 2,
+          "media_count": 502,
+          "tweet_count": 3733
+        },
+        "url": "https://t.co/HjVzyPDIuK",
+        "username": "Wesley10032",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-28T15:48:05.000Z",
+        "description": "Hi！这里是Neko 很高兴认识你喵～ (˶ᵔ ᵕ ᵔ˶)✧\n｜11年小资历｜泛性恋✨｜LGBTQ+🏳️‍🌈｜INFP🦋｜跨性别友好🏳️‍⚧️/ 喜欢 羽球🏸｜ACG｜信息技术 AI｜不定时喵喵叫🐱/鉴证 🆖｜联系方式💬 https://t.co/VDLGVdQMfq\n\n匿名邮箱 提问 👀 ⬇️",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/hasaki_0612",
+                "end": 134,
+                "expanded_url": "http://t.me/hasaki_0612",
+                "start": 111,
+                "url": "https://t.co/VDLGVdQMfq"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hasaki_0612",
+                "end": 23,
+                "expanded_url": "https://ngl.link/hasaki_0612",
+                "start": 0,
+                "url": "https://t.co/8Ei14tUkCK"
+              }
+            ]
+          }
+        },
+        "id": "2049152504542449664",
+        "is_identity_verified": false,
+        "location": "ユートピア",
+        "most_recent_tweet_id": "2096468899344929141",
+        "name": "Neko 🐾",
+        "pinned_tweet_id": "2088172213262528904",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2049152504542449664/1783530736",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075040561237753856/aiPH-t8W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1226,
+          "following_count": 1135,
+          "like_count": 4923,
+          "listed_count": 2,
+          "media_count": 411,
+          "tweet_count": 2915
+        },
+        "url": "https://t.co/8Ei14tUkCK",
+        "username": "hasaki_sama",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

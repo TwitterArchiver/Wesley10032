@@ -1,0 +1,420 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880979169297022976",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10041367948",
+          "name": "Xiaomi"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10041367948",
+          "name": "Xiaomi"
+        }
+      }
+    ],
+    "conversation_id": "2095433871349231958",
+    "created_at": "2026-09-03T16:27:38.000Z",
+    "display_text_range": [
+      8,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-03T17:27:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095549287690272896"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "377228272",
+          "start": 0,
+          "username": "Xiaomi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095549287690272896",
+    "in_reply_to_user_id": "377228272",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095433871349231958",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xiaomi POCO😋"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2160,
+        "media_key": "3_2095423451947261953",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRRwhwtW4AE0Fao.jpg",
+        "width": 3840
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880979169297022976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10041367948",
+              "name": "Xiaomi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10041367948",
+              "name": "Xiaomi"
+            }
+          }
+        ],
+        "conversation_id": "2095433871349231958",
+        "created_at": "2026-09-03T16:27:38.000Z",
+        "display_text_range": [
+          8,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T17:27:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095549287690272896"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "377228272",
+              "start": 0,
+              "username": "Xiaomi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095549287690272896",
+        "in_reply_to_user_id": "377228272",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095433871349231958",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaomi POCO😋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095423451947261953"
+          ]
+        },
+        "author_id": "377228272",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to automobile, spacecraft, aircraft and boat manufacturing",
+              "id": "1557696420500541440",
+              "name": "Automotive, Aircraft & Boat Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10041367948",
+              "name": "Xiaomi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10041367948",
+              "name": "Xiaomi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Car culture",
+              "id": "847528391163092993",
+              "name": "Automotive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196845866138533888",
+              "name": "Automobile Brands"
+            }
+          }
+        ],
+        "conversation_id": "2095433871349231958",
+        "created_at": "2026-09-03T08:49:00.000Z",
+        "display_text_range": [
+          0,
+          275
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T09:49:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095433871349231958"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0jn6VtbfNt",
+              "end": 299,
+              "expanded_url": "https://x.com/Xiaomi/status/2095433871349231958/photo/1",
+              "media_key": "3_2095423451947261953",
+              "start": 276,
+              "url": "https://t.co/0jn6VtbfNt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095433871349231958",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2095423451947261953"
+          }
+        ],
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 683,
+                "start": 676,
+                "tag": "Xiaomi"
+              },
+              {
+                "end": 692,
+                "start": 684,
+                "tag": "IFA2026"
+              },
+              {
+                "end": 706,
+                "start": 693,
+                "tag": "HumanCarHome"
+              }
+            ]
+          },
+          "text": "🎁 Giveaway time!\nWe're picking 2 winners to win a Xiaomi Smart Band 11.\n\nTo support the Human x Car x Home ecosystem, we've built a clear brand structure.\nFirst we have Mi, our master brand, then we have our product sub-brands:\n- Xiaomi is for high-end, cutting-edge users.\n- REDMI is for young, trend-driven users.\n- POCO is for performance-driven users.\n- Mijia focuses on smart, human-centric living.\n- Cyber is for future exploration and bold tech.\nThird, we have Xiaomi MiMo, Xiaomi HyperAl, Xiaomi HyperOS, and Xiaomi XRING, which connect all our products together.\n\nHere's how to enter:\n- Follow us \n- Repost this\n- Reply with which brand you most want to see at IFA\n \n#Xiaomi #IFA2026 #HumanCarHome"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 320,
+          "impression_count": 108900,
+          "like_count": 1999,
+          "quote_count": 115,
+          "reply_count": 1545,
+          "retweet_count": 1618
+        },
+        "reply_settings": "everyone",
+        "text": "🎁 Giveaway time!\nWe're picking 2 winners to win a Xiaomi Smart Band 11.\n\nTo support the Human x Car x Home ecosystem, we've built a clear brand structure.\nFirst we have Mi, our master brand, then we have our product sub-brands:\n- Xiaomi is for high-end, cutting-edge users.\n- https://t.co/0jn6VtbfNt"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳/♂/08.11.3/友跨🏳️‍⚧️\n政治立场未知/聊天请走下方TG链接\n魔裁(まのさば)/CS2/三角洲/Galgame/IT \n好基友@lockloveovo\n学生党 周末/节假日在线\nCN/EN/JP\n第二账号暂不公开",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 74,
+                "username": "lockloveovo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://telegram.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/Q5wiGuq4W4"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "is_identity_verified": true,
+        "location": "People's Republic of China",
+        "most_recent_tweet_id": "2095549287690272896",
+        "name": "Wesley",
+        "pinned_tweet_id": "2083033063257420070",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1880979169297022976/1785740152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1544,
+          "following_count": 1789,
+          "like_count": 23075,
+          "listed_count": 2,
+          "media_count": 488,
+          "tweet_count": 3620
+        },
+        "url": "https://t.co/Q5wiGuq4W4",
+        "username": "Wesley10032",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2011-09-21T07:09:28.000Z",
+        "description": "Titan power, go max.\nREDMI Titan Quality that's built to last #REDMINote17Series",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 80,
+                "start": 62,
+                "tag": "REDMINote17Series"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "s.mi.com/_jidM8Z0",
+                "end": 23,
+                "expanded_url": "http://s.mi.com/_jidM8Z0",
+                "start": 0,
+                "url": "https://t.co/U0ZmlXboGc"
+              }
+            ]
+          }
+        },
+        "id": "377228272",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095507759391461550",
+        "name": "Xiaomi",
+        "pinned_tweet_id": "2092945222980210839",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/377228272/1787830011",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1384363472259928071/zXb55Bwo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4322318,
+          "following_count": 364,
+          "like_count": 9892,
+          "listed_count": 3839,
+          "media_count": 10371,
+          "tweet_count": 15292
+        },
+        "url": "https://t.co/U0ZmlXboGc",
+        "username": "Xiaomi",
+        "verified": true,
+        "verified_type": "business"
+      }
+    ]
+  }
+}

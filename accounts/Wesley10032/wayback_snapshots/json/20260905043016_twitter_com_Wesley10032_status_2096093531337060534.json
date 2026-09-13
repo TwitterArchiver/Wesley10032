@@ -1,0 +1,333 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2095974536584024064"
+      ],
+      "media_source_tweet_id": [
+        "2095974545882546330"
+      ]
+    },
+    "author_id": "1880979169297022976",
+    "conversation_id": "2096093531337060534",
+    "created_at": "2026-09-05T04:30:16.000Z",
+    "display_text_range": [
+      0,
+      70
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T05:30:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096093531337060534"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1781126879300161536",
+          "start": 3,
+          "username": "YNROCFOREVER"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zcqQgLLVio",
+          "end": 70,
+          "expanded_url": "https://x.com/YNROCFOREVER/status/2095974545882546330/photo/1",
+          "media_key": "3_2095974536584024064",
+          "start": 47,
+          "url": "https://t.co/zcqQgLLVio"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096093531337060534",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "3_2095974536584024064"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095974545882546330",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @YNROCFOREVER: TWO GREATEST NATIONS PREVAIL https://t.co/zcqQgLLVio"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1402,
+        "media_key": "3_2095974536584024064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRZlvG9a0AAqKaz.jpg",
+        "width": 1122
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095974536584024064"
+          ],
+          "media_source_tweet_id": [
+            "2095974545882546330"
+          ]
+        },
+        "author_id": "1880979169297022976",
+        "conversation_id": "2096093531337060534",
+        "created_at": "2026-09-05T04:30:16.000Z",
+        "display_text_range": [
+          0,
+          70
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T05:30:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096093531337060534"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1781126879300161536",
+              "start": 3,
+              "username": "YNROCFOREVER"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zcqQgLLVio",
+              "end": 70,
+              "expanded_url": "https://x.com/YNROCFOREVER/status/2095974545882546330/photo/1",
+              "media_key": "3_2095974536584024064",
+              "start": 47,
+              "url": "https://t.co/zcqQgLLVio"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096093531337060534",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2095974536584024064"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095974545882546330",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @YNROCFOREVER: TWO GREATEST NATIONS PREVAIL https://t.co/zcqQgLLVio"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095974536584024064"
+          ]
+        },
+        "author_id": "1781126879300161536",
+        "conversation_id": "2095974545882546330",
+        "created_at": "2026-09-04T20:37:27.000Z",
+        "display_text_range": [
+          0,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T21:37:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095974545882546330"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zcqQgLLVio",
+              "end": 52,
+              "expanded_url": "https://x.com/YNROCFOREVER/status/2095974545882546330/photo/1",
+              "media_key": "3_2095974536584024064",
+              "start": 29,
+              "url": "https://t.co/zcqQgLLVio"
+            },
+            {
+              "display_url": "x.com/pan01758581134…",
+              "end": 76,
+              "expanded_url": "https://twitter.com/pan017585811348/status/2095756909156479446",
+              "start": 53,
+              "url": "https://t.co/pxe2auf2O6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095974545882546330",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2095974536584024064"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 1886,
+          "like_count": 86,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095756909156479446",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "TWO GREATEST NATIONS PREVAIL https://t.co/zcqQgLLVio https://t.co/pxe2auf2O6"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "中国人🇨🇳/♂/08.11.3/友跨(暂不翻车)\n政治立场未知/聊天请走下方TG链接\n魔裁(まのさば)/CS2/三角洲/Galgame/IT \n好基友@lockloveovo\n高三党/广东中山在居\nCN/EN/JP\n里推@Wesley10033",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 75,
+                "username": "lockloveovo"
+              },
+              {
+                "end": 122,
+                "start": 110,
+                "username": "Wesley10033"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://t.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/HjVzyPDIuK"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "is_identity_verified": true,
+        "location": "People's Republic of China",
+        "most_recent_tweet_id": "2096093531337060534",
+        "name": "Wesley",
+        "pinned_tweet_id": "2083033063257420070",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1880979169297022976/1785740152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1553,
+          "following_count": 1800,
+          "like_count": 23866,
+          "listed_count": 2,
+          "media_count": 496,
+          "tweet_count": 3685
+        },
+        "url": "https://t.co/HjVzyPDIuK",
+        "username": "Wesley10032",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-04-19T01:05:28.000Z",
+        "description": "Pro-Republic of China supporter",
+        "id": "1781126879300161536",
+        "is_identity_verified": false,
+        "location": "Occupied areas of the ROC",
+        "most_recent_tweet_id": "2096058554637508679",
+        "name": "Yan-Patriot",
+        "pinned_tweet_id": "2091278343538676012",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1781126879300161536/1774942340",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064539648295043072/I36rH1Rg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 312,
+          "following_count": 942,
+          "like_count": 11471,
+          "listed_count": 4,
+          "media_count": 134,
+          "tweet_count": 4590
+        },
+        "url": "",
+        "username": "YNROCFOREVER",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

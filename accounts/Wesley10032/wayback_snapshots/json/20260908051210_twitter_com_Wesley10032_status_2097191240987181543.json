@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880979169297022976",
+    "conversation_id": "2097177559020585199",
+    "created_at": "2026-09-08T05:12:10.000Z",
+    "display_text_range": [
+      14,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T06:12:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097191240987181543"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1689906518446182400",
+          "start": 0,
+          "username": "KiriyoruYuki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097191240987181543",
+    "in_reply_to_user_id": "1689906518446182400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097190605877321771",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KiriyoruYuki 我没翻车😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880979169297022976",
+        "conversation_id": "2097177559020585199",
+        "created_at": "2026-09-08T05:12:10.000Z",
+        "display_text_range": [
+          14,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T06:12:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097191240987181543"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1689906518446182400",
+              "start": 0,
+              "username": "KiriyoruYuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097191240987181543",
+        "in_reply_to_user_id": "1689906518446182400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097190605877321771",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KiriyoruYuki 我没翻车😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1689906518446182400",
+        "conversation_id": "2097177559020585199",
+        "created_at": "2026-09-08T05:09:39.000Z",
+        "display_text_range": [
+          13,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T06:09:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097190605877321771"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1880979169297022976",
+              "start": 0,
+              "username": "Wesley10032"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097190605877321771",
+        "in_reply_to_user_id": "1880979169297022976",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097177559020585199",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wesley10032 🤔\n1"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "description": "中国人🇨🇳/♂/08.11.3\n政治立场未知/聊天请走下方TG链接\n魔裁(まのさば)/CS2/三角洲/Galgame/IT \n好基友@lockloveovo\n高三党/广东中山在居\nCN/EN/JP\n里推@Wesley10033",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 66,
+                "username": "lockloveovo"
+              },
+              {
+                "end": 113,
+                "start": 101,
+                "username": "Wesley10033"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://t.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/HjVzyPDIuK"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "is_identity_verified": true,
+        "location": "中华人民共和国 / P.R.C.",
+        "most_recent_tweet_id": "2097191240987181543",
+        "name": "Wesley",
+        "pinned_tweet_id": "2083033063257420070",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1880979169297022976/1785740152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1609,
+          "following_count": 1840,
+          "like_count": 25896,
+          "listed_count": 2,
+          "media_count": 518,
+          "tweet_count": 3914
+        },
+        "url": "https://t.co/HjVzyPDIuK",
+        "username": "Wesley10032",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-08-11T07:48:33.000Z",
+        "description": "一个无聊的普通人罢了｜互fo欢迎～如果没回请直接私信\n07｜男(存疑)｜防爆装置@KiriyoruYuki002\n喜欢现代刀具｜动漫轻小说｜永恒轮回＆NFS22&MC等\n❗️No politics ｜🏳️‍🌈泛性恋｜日本語勉強中\n匿名信箱https://t.co/8og6S9soVb",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 40,
+                "username": "KiriyoruYuki002"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/kiriyoruyuki",
+                "end": 142,
+                "expanded_url": "https://ngl.link/kiriyoruyuki",
+                "start": 119,
+                "url": "https://t.co/8og6S9soVb"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/KiriyoruYuki",
+                "end": 23,
+                "expanded_url": "http://t.me/KiriyoruYuki",
+                "start": 0,
+                "url": "https://t.co/RnF1R1Npho"
+              }
+            ]
+          }
+        },
+        "id": "1689906518446182400",
+        "is_identity_verified": false,
+        "location": "Lumia Island",
+        "most_recent_tweet_id": "2097190605877321771",
+        "name": "霧夜 ユキ",
+        "pinned_tweet_id": "2096266683862462680",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1689906518446182400/1787450981",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083227485802815488/ioOTPdeG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 301,
+          "like_count": 1434,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 499
+        },
+        "url": "https://t.co/RnF1R1Npho",
+        "username": "KiriyoruYuki",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

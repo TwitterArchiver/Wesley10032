@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880979169297022976",
+    "conversation_id": "2097617425537876330",
+    "created_at": "2026-09-09T09:26:02.000Z",
+    "display_text_range": [
+      11,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-09T10:26:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097617517678309729"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1884257206696124416",
+          "start": 0,
+          "username": "lyou93523"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097617517678309729",
+    "in_reply_to_user_id": "1884257206696124416",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097617425537876330",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lyou93523 主要是胖"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880979169297022976",
+        "conversation_id": "2097617425537876330",
+        "created_at": "2026-09-09T09:26:02.000Z",
+        "display_text_range": [
+          11,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T10:26:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097617517678309729"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1884257206696124416",
+              "start": 0,
+              "username": "lyou93523"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097617517678309729",
+        "in_reply_to_user_id": "1884257206696124416",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097617425537876330",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lyou93523 主要是胖"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1884257206696124416",
+        "conversation_id": "2097617425537876330",
+        "created_at": "2026-09-09T09:25:40.000Z",
+        "display_text_range": [
+          0,
+          74
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T10:25:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097617425537876330"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Wesley10032/st…",
+              "end": 98,
+              "expanded_url": "https://twitter.com/Wesley10032/status/2097615356487668074",
+              "start": 75,
+              "url": "https://t.co/SygquVOnsq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097617425537876330",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097615356487668074",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "相貌好像衣服装好些，脸洗干净，日常自信些，应该就可以有很大提升了🧐（我就是这样的都有女生暗恋……（不过不想谈被我甩了\n身材的话……🧐好好吃饭喵😡没了 https://t.co/SygquVOnsq"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "description": "中国人🇨🇳/♂/08.11.3\n政治立场未知/聊天请走下方TG链接\n魔裁(まのさば)/CS2/三角洲/Galgame/IT \n好基友@lockloveovo\n高三党/广东中山在居\nCN/EN/JP\n里推@Wesley10033",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 66,
+                "username": "lockloveovo"
+              },
+              {
+                "end": 113,
+                "start": 101,
+                "username": "Wesley10033"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://t.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/HjVzyPDIuK"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "is_identity_verified": true,
+        "location": "中华人民共和国 / P.R.C.",
+        "most_recent_tweet_id": "2097617517678309729",
+        "name": "Wesley",
+        "pinned_tweet_id": "2083033063257420070",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1880979169297022976/1785740152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1631,
+          "following_count": 1844,
+          "like_count": 26578,
+          "listed_count": 2,
+          "media_count": 527,
+          "tweet_count": 3987
+        },
+        "url": "https://t.co/HjVzyPDIuK",
+        "username": "Wesley10032",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-01-28T15:08:48.000Z",
+        "description": "高中生｜vibe coding｜Linux | intp\n搞機｜硬體 DIY｜數位科技\n二次元｜劇情向遊戲\n極度內向玩轻度HiFi（不魔怔）\n不聊政治與 NSFW|\n术力口|miku初音未来|同类互fo喵~\n小号@qaQ1150419",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 106,
+                "username": "qaQ1150419"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "miku-kumi.github.io",
+                "end": 23,
+                "expanded_url": "https://miku-kumi.github.io/",
+                "start": 0,
+                "url": "https://t.co/uktCd8UGZY"
+              }
+            ]
+          }
+        },
+        "id": "1884257206696124416",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097617425537876330",
+        "name": "mikuumi",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076959122340433921/gTs5H3xh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 59,
+          "like_count": 1219,
+          "listed_count": 0,
+          "media_count": 246,
+          "tweet_count": 897
+        },
+        "url": "https://t.co/uktCd8UGZY",
+        "username": "lyou93523",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

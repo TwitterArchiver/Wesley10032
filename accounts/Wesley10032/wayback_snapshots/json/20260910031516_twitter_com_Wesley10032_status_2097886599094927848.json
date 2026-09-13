@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2097886574306639873"
+      ]
+    },
+    "author_id": "1880979169297022976",
+    "conversation_id": "2097886599094927848",
+    "created_at": "2026-09-10T03:15:16.000Z",
+    "display_text_range": [
+      0,
+      5
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T04:15:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2097886599094927848"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/v9drhRpr0r",
+          "end": 29,
+          "expanded_url": "https://x.com/Wesley10032/status/2097886599094927848/photo/1",
+          "media_key": "3_2097886574306639873",
+          "start": 6,
+          "url": "https://t.co/v9drhRpr0r"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097886599094927848",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2097886574306639873"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "跑路了兄弟 https://t.co/v9drhRpr0r"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4000,
+        "media_key": "3_2097886574306639873",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR0wuWibwAE-AM4.jpg",
+        "width": 3000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097886574306639873"
+          ]
+        },
+        "author_id": "1880979169297022976",
+        "conversation_id": "2097886599094927848",
+        "created_at": "2026-09-10T03:15:16.000Z",
+        "display_text_range": [
+          0,
+          5
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T04:15:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097886599094927848"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/v9drhRpr0r",
+              "end": 29,
+              "expanded_url": "https://x.com/Wesley10032/status/2097886599094927848/photo/1",
+              "media_key": "3_2097886574306639873",
+              "start": 6,
+              "url": "https://t.co/v9drhRpr0r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097886599094927848",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2097886574306639873"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "跑路了兄弟 https://t.co/v9drhRpr0r"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "description": "中国人🇨🇳/♂/08.11.3\n政治立场未知/聊天请走下方TG链接\n魔裁(まのさば)/CS2/三角洲/Galgame/IT \n好基友@lockloveovo\n高三党/广东中山在居\nCN/EN/JP\n里推@Wesley10033",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 66,
+                "username": "lockloveovo"
+              },
+              {
+                "end": 113,
+                "start": 101,
+                "username": "Wesley10033"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://t.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/HjVzyPDIuK"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "is_identity_verified": true,
+        "location": "中华人民共和国 / P.R.C.",
+        "most_recent_tweet_id": "2097886599094927848",
+        "name": "Wesley",
+        "pinned_tweet_id": "2083033063257420070",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1880979169297022976/1785740152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1647,
+          "following_count": 1857,
+          "like_count": 26891,
+          "listed_count": 2,
+          "media_count": 531,
+          "tweet_count": 4010
+        },
+        "url": "https://t.co/HjVzyPDIuK",
+        "username": "Wesley10032",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

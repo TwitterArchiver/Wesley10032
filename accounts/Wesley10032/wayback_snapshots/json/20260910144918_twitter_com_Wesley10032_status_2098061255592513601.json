@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880979169297022976",
+    "conversation_id": "2098057166355616029",
+    "created_at": "2026-09-10T14:49:18.000Z",
+    "display_text_range": [
+      10,
+      53
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T15:49:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098061255592513601"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2064548987160633344",
+          "start": 0,
+          "username": "Kotaaedf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098061255592513601",
+    "in_reply_to_user_id": "2064548987160633344",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098060676858270169",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kotaaedf Thank you🥺my Japanese level is so poor now🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880979169297022976",
+        "conversation_id": "2098057166355616029",
+        "created_at": "2026-09-10T14:49:18.000Z",
+        "display_text_range": [
+          10,
+          53
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T15:49:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098061255592513601"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2064548987160633344",
+              "start": 0,
+              "username": "Kotaaedf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098061255592513601",
+        "in_reply_to_user_id": "2064548987160633344",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098060676858270169",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kotaaedf Thank you🥺my Japanese level is so poor now🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2064548987160633344",
+        "conversation_id": "2098057166355616029",
+        "created_at": "2026-09-10T14:47:00.000Z",
+        "display_text_range": [
+          13,
+          59
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T15:47:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098060676858270169"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1880979169297022976",
+              "start": 0,
+              "username": "Wesley10032"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098060676858270169",
+        "in_reply_to_user_id": "1880979169297022976",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098057166355616029",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wesley10032 I’m so happy that you’re learning our language"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "description": "中国人🇨🇳/♂/08.11.3\n政治立场未知/聊天请走下方TG链接\n魔裁(まのさば)/CS2/三角洲/Galgame/IT \n好基友@lockloveovo\n高三党/广东中山在居\nCN/EN/JP\n里推@Wesley10033\nBluesky备用号:@wesley10032.bsky.social",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 66,
+                "username": "lockloveovo"
+              },
+              {
+                "end": 113,
+                "start": 101,
+                "username": "Wesley10033"
+              },
+              {
+                "end": 137,
+                "start": 125,
+                "username": "wesley10032"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://t.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/HjVzyPDIuK"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "is_identity_verified": true,
+        "location": "中华人民共和国 / P.R.C.",
+        "most_recent_tweet_id": "2098061255592513601",
+        "name": "Wesley",
+        "pinned_tweet_id": "2083033063257420070",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1880979169297022976/1785740152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1659,
+          "following_count": 1870,
+          "like_count": 27315,
+          "listed_count": 2,
+          "media_count": 537,
+          "tweet_count": 4070
+        },
+        "url": "https://t.co/HjVzyPDIuK",
+        "username": "Wesley10032",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-10T03:24:11.000Z",
+        "description": "18さい",
+        "id": "2064548987160633344",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098060676858270169",
+        "name": "kota",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2064548987160633344/1781766414",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065605361533591552/O2aSHTQ2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 120,
+          "like_count": 969,
+          "listed_count": 1,
+          "media_count": 15,
+          "tweet_count": 410
+        },
+        "url": "",
+        "username": "Kotaaedf",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

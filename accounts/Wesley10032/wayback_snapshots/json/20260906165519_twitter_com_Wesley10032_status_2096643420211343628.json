@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880979169297022976",
+    "conversation_id": "2096599140793032731",
+    "created_at": "2026-09-06T16:55:19.000Z",
+    "display_text_range": [
+      15,
+      25
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T17:55:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096643420211343628"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1251856729358266369",
+          "start": 0,
+          "username": "jigokuojosama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096643420211343628",
+    "in_reply_to_user_id": "1251856729358266369",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096631918561497323",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jigokuojosama 这位还是个老资历喵🥲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880979169297022976",
+        "conversation_id": "2096599140793032731",
+        "created_at": "2026-09-06T16:55:19.000Z",
+        "display_text_range": [
+          15,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T17:55:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096643420211343628"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1251856729358266369",
+              "start": 0,
+              "username": "jigokuojosama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096643420211343628",
+        "in_reply_to_user_id": "1251856729358266369",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096631918561497323",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jigokuojosama 这位还是个老资历喵🥲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1251856729358266369",
+        "conversation_id": "2096599140793032731",
+        "created_at": "2026-09-06T16:09:37.000Z",
+        "display_text_range": [
+          13,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T17:09:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096631918561497323"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1880979169297022976",
+              "start": 0,
+              "username": "Wesley10032"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096631918561497323",
+        "in_reply_to_user_id": "1880979169297022976",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096599140793032731",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wesley10032 那个魔骨好像就是中山的吧"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "description": "中国人🇨🇳/♂/08.11.3\n政治立场未知/聊天请走下方TG链接\n魔裁(まのさば)/CS2/三角洲/Galgame/IT \n好基友@lockloveovo\n高三党/广东中山在居\nCN/EN/JP\n里推@Wesley10033",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 66,
+                "username": "lockloveovo"
+              },
+              {
+                "end": 113,
+                "start": 101,
+                "username": "Wesley10033"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://t.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/HjVzyPDIuK"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "is_identity_verified": true,
+        "location": "中华人民共和国 / P.R.C.",
+        "most_recent_tweet_id": "2096643420211343628",
+        "name": "Wesley",
+        "pinned_tweet_id": "2083033063257420070",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1880979169297022976/1785740152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1591,
+          "following_count": 1828,
+          "like_count": 25192,
+          "listed_count": 2,
+          "media_count": 510,
+          "tweet_count": 3837
+        },
+        "url": "https://t.co/HjVzyPDIuK",
+        "username": "Wesley10032",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-04-19T12:55:03.000Z",
+        "description": "不潔/拝金/神待ち少女/ゲームガール/芸術が好き/自分の心を追求するすべての人を愛して",
+        "id": "1251856729358266369",
+        "is_identity_verified": false,
+        "location": "黄泉の国",
+        "most_recent_tweet_id": "2096640871131455661",
+        "name": "黄泉姫🌸⛩️",
+        "pinned_tweet_id": "1897292775378579464",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1251856729358266369/1694795798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798185038552670208/ekyUMXMA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 961,
+          "following_count": 1591,
+          "like_count": 45450,
+          "listed_count": 2,
+          "media_count": 528,
+          "tweet_count": 28755
+        },
+        "url": "",
+        "username": "jigokuojosama",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
