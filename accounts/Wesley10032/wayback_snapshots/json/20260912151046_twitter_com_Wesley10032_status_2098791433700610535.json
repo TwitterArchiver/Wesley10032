@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1880979169297022976",
+    "conversation_id": "2098791433700610535",
+    "created_at": "2026-09-12T15:10:46.000Z",
+    "display_text_range": [
+      0,
+      28
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T16:10:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2098791433700610535"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/MomohaReina/st…",
+          "end": 52,
+          "expanded_url": "https://twitter.com/MomohaReina/status/2098765028061290948",
+          "start": 29,
+          "url": "https://t.co/IRbhKertCH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098791433700610535",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098765028061290948",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "怎么你们都在江浙沪面基，就我一个人在家里阴暗角落里蹲着😭 https://t.co/IRbhKertCH"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880979169297022976",
+        "conversation_id": "2098791433700610535",
+        "created_at": "2026-09-12T15:10:46.000Z",
+        "display_text_range": [
+          0,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T16:10:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098791433700610535"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/MomohaReina/st…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/MomohaReina/status/2098765028061290948",
+              "start": 29,
+              "url": "https://t.co/IRbhKertCH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098791433700610535",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098765028061290948",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "怎么你们都在江浙沪面基，就我一个人在家里阴暗角落里蹲着😭 https://t.co/IRbhKertCH"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1559906722588000256",
+        "conversation_id": "2098765028061290948",
+        "created_at": "2026-09-12T13:25:50.000Z",
+        "display_text_range": [
+          0,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T14:25:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098765028061290948"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2098765028061290948",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1134,
+          "like_count": 22,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "怎么你们都在江浙沪面基，就我一个人在家里阴暗角落里蹲着😭"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "description": "中国人🇨🇳/♂/08.11.3/轻度抑郁?\n政治立场未知/聊天请走下方TG链接\n魔裁(まのさば)/CS2/三角洲/Galgame/IT \n好基友@lockloveovo\n高三党/广东中山在居\nCN/EN/JP\n里推@Wesley10033\nBluesky备用号:@wesley10032.bsky.social",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 72,
+                "username": "lockloveovo"
+              },
+              {
+                "end": 119,
+                "start": 107,
+                "username": "Wesley10033"
+              },
+              {
+                "end": 143,
+                "start": 131,
+                "username": "wesley10032"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://t.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/HjVzyPDIuK"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "is_identity_verified": true,
+        "location": "中华人民共和国 / P.R.C.",
+        "most_recent_tweet_id": "2098791433700610535",
+        "name": "Wesley",
+        "pinned_tweet_id": "2083033063257420070",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1880979169297022976/1785740152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1672,
+          "following_count": 1885,
+          "like_count": 28467,
+          "listed_count": 2,
+          "media_count": 544,
+          "tweet_count": 4208
+        },
+        "url": "https://t.co/HjVzyPDIuK",
+        "username": "Wesley10032",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-08-17T14:15:28.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友\n音游吃 | 术术人 | VPS梦女 | 社恐 | 帕罗西汀重度依赖 \n前世: @MomoseReina | 逃生舱: @NanaseReina | 🐱: @45_206MHz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 57,
+                "username": "MomoseReina"
+              },
+              {
+                "end": 89,
+                "start": 77,
+                "username": "NanaseReina"
+              },
+              {
+                "end": 105,
+                "start": 95,
+                "username": "45_206MHz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/xQ2YiQsnk5"
+              }
+            ]
+          }
+        },
+        "id": "1559906722588000256",
+        "is_identity_verified": false,
+        "location": "舞萌国",
+        "most_recent_tweet_id": "2098781296264929775",
+        "name": "桃羽玲奈",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1559906722588000256/1788430559",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095455487026429952/0FTdCKQ9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2196,
+          "following_count": 635,
+          "like_count": 5195,
+          "listed_count": 10,
+          "media_count": 371,
+          "tweet_count": 4092
+        },
+        "url": "https://t.co/xQ2YiQsnk5",
+        "username": "MomohaReina",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
